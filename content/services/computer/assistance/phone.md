@@ -14,5 +14,4 @@ categories = []
 image = ""
 caption = ""
 +++
-
 If you have a question about my services please contact me at 707-536-1527

@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile-scottrlarson.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "slarson@scottrlarson.com"
+  email = "services/computer/assistance"
   address = ""
   office_hours = "Monday 10:00am to 4:00pm by appointment"
   phone = "707-536-1527"
@@ -204,7 +204,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:slarson@scottrlarson.com"
+    link = "/services/computer/assistance/request"
 
   [[params.social]]
     icon = "twitter"

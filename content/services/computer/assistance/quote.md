@@ -1,5 +1,5 @@
 +++
-title = "By Quote"
+title = "Quote"
 date = 2017-12-19T16:34:54-08:00
 draft = false
 

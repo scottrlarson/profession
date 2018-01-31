@@ -1,5 +1,5 @@
 +++
-title = "By Phone"
+title = "Phone"
 date = 2017-12-19T16:34:54-08:00
 draft = false
 
@@ -11,7 +11,9 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "services/cs-phone.png"
 caption = ""
+
 +++
-If you have a question about my services please contact me at 707-536-1527
+
+If you have a question about my services please contact me at 707-536-1527.

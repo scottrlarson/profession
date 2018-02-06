@@ -1,6 +1,6 @@
 +++
 # Custom widget.
-widget = "custom"
+widget = "Computer Services"
 active = true
 date = 2018-01-25T16:27:45-08:00
 

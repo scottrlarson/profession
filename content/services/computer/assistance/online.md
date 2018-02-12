@@ -21,7 +21,7 @@ caption = ""
 
 <!--more-->
 
-<p><b>Please inquire about protecting your data before I start the work. I am not responsible for any kind of data loss.  If you don't have one already, having a backup strategy is important before you request help so that none of your important data is lost in the event of a device failure or accident.</b></p>
+<p><b>Please inquire about protecting your data before I handle an issues you are having. I am not responsible for any kind of data loss or hardware damage.  If you don't have one already, having a backup strategy is important before you request help so that none of your important data is lost in the event of a device failure or accident.</b></p>
 
 <p>Types of issues that can be repaired as long as your device boots and is able to get on-line:</p>
 <ul>

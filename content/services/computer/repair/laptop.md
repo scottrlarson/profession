@@ -15,6 +15,7 @@ image = "services/cs-laptop-repair.png"
 caption = ""
 
 +++
+When you are having a problem with your laptop's hardware or software that requires a repair to fix the issue, I offer good prices, expert handling of your issue, with a quick turn around time usually between 24 and 48 hours depending on my availability.
 
 <div class="product-body">
 <p><strong><em>If you are not sure what the problem is with your device please request a <a href="diagnostic">diagnostic</a>. My diagnostic service allows for proper testing to occur so that complications prior to a repair are minimized.</em></strong></p>
@@ -29,13 +30,4 @@ caption = ""
 </ul>
 </div>
 
-<table class="price-service-range">
-	<tr>
-		<td>Service Range Min:</td> 
-		<td>$95.00</td>
-	</tr>
-	<tr>
-		<td>Service Range Max:</td>
-		<td>$255.00</td>
-	</tr>
-</table>
+{{% service-range item-min="$95.00" item-max="$255.00" %}}

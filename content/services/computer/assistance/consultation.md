@@ -16,8 +16,7 @@ caption = ""
 
 +++
 
-Did your computer just crash , shut down or won't start up on you unexpectedly? Don't wait for it to get worse! Drop your hardware at my shop and get a free initial diagnostic now!
-
+I offer one on one consultations to advise or offer solutions to technical challenges either in my office or at your location. I sit down with you, record information about your problem and can offer a analysis/resolution or a cost estimate if the situation calls for further work or equipment. This information can be handed to you in print format or emailed to you electronically.
 <!--more-->
 
 <ul>

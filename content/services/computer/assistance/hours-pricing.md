@@ -20,7 +20,6 @@ I offer services in technology by appointment. Usually by on-call or
 in-shop service on devices that are 5 years old or newer, I can fix
 certain problems remotely if there is reliable Internet access to the
 device location.  My phone hours are 9am to 7pm Monday though Friday and sometimes on the weekends if I don't have other engagements. My In-Shop Hours can vary depending on my work load, but I am usually in the office to handle by appointment service calls Monday, Wednesday, and Friday 10am to 5pm. I can also handle At-Location Service Requests by appointment.
-
 <!--more-->
 
 Call me at (707-536-1527), text me at (707-416-5811),

@@ -1,0 +1,3 @@
+{{% service-price item="" %}}
+{{% service-range item-min="" item-max="" %}}
+{{.Get "item" }}

@@ -15,9 +15,8 @@ image = "services/cs-performance-tuning.png"
 caption = ""
 
 +++
-<p>Is your computer running slow or not the way you expected it to operate? Are you having problems with security? Find out how you can increase the performance of your current computer without having to spend more than you need on a new one! <a href="/services/computer/assistance/phone">Call</a> or <a href="/services/computer/assistance/request">schedule an appointment</a> on-line to Drop your hardware by my shop and get a free system check-up today.</p>
+<p>Is your computer running slow or not the way you expected it to operate? Are you having problems with security? Find out how you can increase the performance of your current computer without having to spend more than you need on a new one! <a href="/services/computer/assistance/phone">Call</a> or <a href="/services/computer/assistance/request">schedule an appointment</a> on-line to Drop your hardware by my shop and get a free system check-up today. </p>
 
-<!--more-->
 
 <p><strong><strong>Scott Larson offers a comprehensive checkup of your computer when you just want to make sure your computer is running normally.</strong></strong></p>
 <p><strong>System Operation Analysis Includes</strong></p>

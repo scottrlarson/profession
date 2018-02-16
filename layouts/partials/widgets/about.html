@@ -74,16 +74,14 @@
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
-            <i class="fa-li fa fa-user"></i>
+            <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="type">{{ .type }}</p>
               <p class="institution">{{ .institution }}</p>
             </div>
           </li>
           {{ end }}
         </ul>
-		<p class="more"><a href="more">...more</a></p>
       </div>
       {{ end }}
 

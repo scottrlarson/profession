@@ -1,3 +1,14 @@
 {{% service-price item="" %}}
 {{% service-range item-min="" item-max="" %}}
 {{.Get "item" }}
+
+<table class="price-service-range">
+	<tr>
+		<td>Service Range Min:</td> 
+		<td>$95.00</td>
+	</tr>
+	<tr>
+		<td>Service Range Max:</td>
+		<td>$255.00</td>
+	</tr>
+</table>

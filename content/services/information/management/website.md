@@ -1,6 +1,6 @@
 +++
-title = "Quote"
-date = 2017-12-19T16:34:54-08:00
+title = "Website"
+date = 2018-02-16T15:10:58-08:00
 draft = false
 
 # Tags and categories
@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "services/"
 caption = ""
 
 +++

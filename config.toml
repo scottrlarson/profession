@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "dark"
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
@@ -47,10 +47,12 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile-scottrlarson.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "services/computer/assistance"
+  contact_form = ""
   address = ""
-  office_hours = "Monday 10:00am to 4:00pm by appointment"
+  office_hours = "Monday Wednesday Friday: 10:00am to 4:00pm by appointment"
+  phone_hours = "Monday-Friday 9am to 7pm"
   phone = "707-536-1527"
+  mobile = "707-416-5811"
   skype = ""
   telegram = ""
 
@@ -351,6 +353,12 @@ defaultContentLanguageInSubdir = false
   url = "/services/data/cloud"  
 
 [[menu.main]]
+  name = "Security"
+  url = "/services/information/security"
+  parent = "inf"
+  weight = 1
+  
+[[menu.main]]
   name = "Scoops"
   url = "resources/scoops"
   parent = "rec"
@@ -385,7 +393,7 @@ defaultContentLanguageInSubdir = false
   url = "resources/documents"
   parent = "rec"
   weight = 5
-  
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"

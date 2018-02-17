@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = "services/cs-home-office-computer-setup.png"
 caption = ""
 
 +++
@@ -20,7 +20,4 @@ caption = ""
 <li>This fee is for the initial Installation, some or multiple installations take more time per hour.</li>
 </ul>
 
-<div class="service-price-table">
-  <div class="price-data-label">Per Hour</div>
-  <div class="price-data-item">$125.00</div>
-</div>
+{{% service-rate item="$125" %}}

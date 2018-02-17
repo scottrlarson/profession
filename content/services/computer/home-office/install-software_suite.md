@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = "services/cs-software-install-package.png"
 caption = ""
 
 +++
@@ -20,7 +20,4 @@ caption = ""
 <li>If your program requires data to be transferred from one location to another that is an additional cost of $20.00 per 125 gigabytes or less.</span></li>
 </ul>
 
-<div class="service-price-table">
-  <div class="price-data-label">Per Item</div>
-  <div class="price-data-item">$10.00</div>
-</div>
+{{% service-custom label="Per Item" item="$10" %}}

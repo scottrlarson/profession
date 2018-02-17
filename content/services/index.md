@@ -14,3 +14,7 @@ image = ""
 caption = ""
 
 +++
+- [Computer Consulting](computer)
+- [Data Recovery](data)
+- [Content Development](content)
+- [Information Technology](information)

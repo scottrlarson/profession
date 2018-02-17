@@ -1,6 +1,6 @@
 +++
-title = "Quote"
-date = 2017-12-19T16:34:54-08:00
+title = "Information Services"
+date = 2018-02-16T15:24:05-08:00
 draft = false
 
 # Tags and categories

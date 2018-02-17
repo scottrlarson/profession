@@ -14,6 +14,7 @@ categories = []
 image = ""
 caption = ""
 
+
 +++
 
 I offer services in technology by appointment. Usually by on-call or

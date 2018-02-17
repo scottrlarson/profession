@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = "services/cs-desktop-gaming.png"
 caption = ""
 
 +++
@@ -22,7 +22,7 @@ caption = ""
 <p>I am able to advise, spec-out, custom build and provide support services for gaming platforms of all levels. From the average, to hardcore, or even whole gaming rooms I provide the skills and knowledge to make hardware and software work for the games you want to play with minimal hassle and downtime.</p>
 
 Payment.Options.Data: At-Location Payment on Delivery, In-Shop Pickup
+{{ index .Site.Data.payment-options.ALPD.name }}
+{{ index .Site.Data.payment-options.ISP.name }}
 
-<div class="quote-panel">
-  <p><a href="">Call</a> or <a href="">Request</a> Quote</p>
-</div>
+{{% service-quote %}}

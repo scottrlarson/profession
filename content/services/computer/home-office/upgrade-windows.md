@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = "services/cs-windows-update.png"
 caption = ""
 
 +++
@@ -38,7 +38,4 @@ caption = ""
 
 
 
-<div class="service-price-table">
-  <div class="price-data-label"></div>
-  <div class="price-data-item">$125.00</div>
-</div>
+{{% service-price item="$125" %}}

@@ -1,5 +1,6 @@
 {{% service-price item="" %}}
 {{% service-range item-min="" item-max="" %}}
+{{% service-custom label="" item="" %}}
 {{.Get "item" }}
 
 <table class="price-service-range">

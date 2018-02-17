@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = "services/cs-custom-system-design.png"
 caption = ""
 
 +++
@@ -28,7 +28,7 @@ caption = ""
 <p>Please choose your Profession below for detailed costs and information:</p>
 
 Payment.Options.Data: At-Location Payment on Delivery, In-Shop Pickup
+{{ index .Site.Data.payment-options.ALPD.name }}
+{{ index .Site.Data.payment-options.ISP.name }}
 
-<div class="quote-panel">
-  <p><a href="">Call</a> or <a href="">Request</a> Quote</p>
-</div>
+{{% service-quote %}}

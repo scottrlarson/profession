@@ -4,6 +4,8 @@ ul.ul-edu li .description p.type {
 
 img {max-width:100%; height:auto;}
 
+.fa-li {color: orange;}
+
 .article-banner {
 	display: block;
     margin-left: auto;

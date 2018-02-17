@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = "services/cs-training.png"
 caption = ""
 
 +++
@@ -22,7 +22,4 @@ caption = ""
 <li>This price is for one hour of Training, some training session requires more time. Call for more information.</li>
 </ul>
 
-<div class="service-price-table">
-  <div class="price-data-label">Per Hour</div>
-  <div class="price-data-item">$50.00</div>
-</div>
+{{% service-rate item="$50" %}}

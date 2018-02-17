@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = "services/cs-custom-system-design.png"
 caption = ""
 
 +++
@@ -21,8 +21,6 @@ caption = ""
 </ul>
 
 Price.Adjustments.Data: Laptop Disassembly/Reassembly
+{{ index .Site.Data.price-adjustments.LDA.name }}
 
-<div class="service-price-table">
-  <div class="price-data-label">Per Item</div>
-  <div class="price-data-item">$35.00</div>
-</div>
+{{% service-custom label="Per Item" item="$35" %}}

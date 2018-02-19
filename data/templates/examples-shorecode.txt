@@ -1,4 +1,5 @@
 {{% service-price item="" %}}
+{{% service-rate item="" %}}
 {{% service-range item-min="" item-max="" %}}
 {{% service-custom label="" item="" %}}
 {{.Get "item" }}

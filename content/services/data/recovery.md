@@ -16,7 +16,7 @@ caption = ""
 
 +++
 
-If you accidentally deleted / wiped data by user error I can usually recover that data. I offer a recovery guarantee you only pay if I can recover the data you need. 
+If you accidentally deleted / wiped data by user error or your disk failed / crashed I can usually recover that data. I offer a recovery guarantee you only pay if I can recover the data you need. 
 
 ## Supported Storage Devices
 

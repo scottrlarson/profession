@@ -40,3 +40,26 @@ img {max-width:100%; height:auto;}
 	background-color: LightGray;
   text-align: left;
 }
+
+
+.contact-info-table {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 100%;
+	padding: 5px;
+}
+
+.contact-info-label {
+	padding: 10px;
+	background-color: Orange;
+	text-align: center;
+}
+
+.contact-info-item {
+	padding: 10px;
+	background-color: LightGray;
+	text-align: center;
+}
+

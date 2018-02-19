@@ -15,7 +15,7 @@ image = "services/cs-phone.png"
 caption = ""
 
 +++
-
+{{% contact-info %}}
 I handle requests for computer assistance by phone 9am to 7pm Monday though Friday and sometimes on the weekends if I don't have other engagements. I offer a fist time free 20 minute consultation on any challenge you are having, after that I charge $1.00 a minute up to a max of 3 hours. There are some issues that are better handled in person or by remote. If you have a question about my services please contact me at 707-536-1527.
 <!--more-->
 

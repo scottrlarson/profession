@@ -19,5 +19,7 @@ caption = ""
 
 {{ index .Site.Data.service-location.ERIS.name }}
 
+<div>Short Description of {{.Site.Data.service-location.ERIS}}: <p>{{ index .Site.Data.service-location "name" | markdownify }}</p></div>
+
 {{% service-custom label="Recycle Item" item="Free" %}}
 {{% service-custom label="Data Wiping Per Device" item="$20" %}}

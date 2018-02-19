@@ -1,2 +1,4 @@
-"ATPD": {"name": "At-Location Payment on Delivery"}
-"ISP": {"name": "In-Shop Pickup"}
+{
+	"ATPD": {"name": "At-Location Payment on Delivery"},
+	"ISP": {"name": "In-Shop Pickup"}
+}

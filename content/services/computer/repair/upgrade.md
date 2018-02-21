@@ -16,7 +16,7 @@ caption = ""
 
 +++
 
-<p>Is your system not performing like it used to? Do you think you might need a new computer while hoping there's a cheaper solution? I can pinpoint the exact cause of the performance problem, recommend replacement parts, and install them for you in within 24 to 48 hrs.</p>
+Is your system not performing like it used to? Do you think you might need a new computer while hoping there's a cheaper solution? I can pinpoint the exact cause of the performance problem, recommend replacement parts, and install them for you in within 24 to 48 hrs depending on my availability.<!--more-->
 
 <p>I can also install and upgrade <a href="install-software_package">single applications</a> and <a href="install-software_suite">applications suites</a>.</p>
 

@@ -16,23 +16,21 @@ caption = ""
 
 +++
 
-<p>Desktops and laptops can suffer from shutdowns, boot failures, Blue Screen errors, and system crashes related to blocked ventilation or mis-configured hardware. Protect your computer from damage.<a title="hardware dust, debris cleaning configuration tuning" href="services/hardware-care"><br></a></p>
+Desktops and laptops can suffer from shutdowns, boot failures, errors, and system crashes related to blocked ventilation, aging of parts that protect the hardware from thermal damage, or mis-configured hardware. Having your device properly maintained on a regular basis improves the life of the hardware and can solve system failures that are happening as a result of heat or system mis-configurations by the device manufacturer.<!--more-->
 
-<!--more-->
-
-<p>If you ever have heard of term planned obsolescence? Did you know that Computer Manufacturers create Design flaws that decrease the life of your device so you have to purchase a new one a year or two later? Here's how:</p>
+<p>Have you ever heard of term planned obsolescence? Did you know that device manufacturer's create design flaws that decrease the life of your device resulting in premature failures that result in frequent purchases of new devices? Here's how:</p>
 <ul>
-<li>Ventilation ports that allow the heat to dissipate from the hardware get clogged with dust, dirt, hair, and other particles. This causes the device to over-heat and shutdown, decreasing the life of the computer.</li>
-<li>Heat-sinks that distribute the flow of heat from hardware components have mounts that are made out of plastic and break over time causing the heat-sink to fall off.</li>
-<li>Thermal paste that distributes the heat between the Processor and the heat sink is low quality becomes brittle over a short time. This process doesn't allow the hardware to remain at its optimum cooling temperature causing overheating.</li>
-<li>Setting the processor's clock at speeds that the internal cooling systems have a hard time handling. Over time this excessive overheating causes the hardware to fail if the device is not serviced regularly.</li>
+<li>Ventilation ports that allow the heat to dissipate from the hardware get clogged with dust, dirt, hair, and other particles. This causes the device to over-heat and shutdown, decreasing the life of the device.</li>
+<li>Parts that distribute the flow of heat from hardware components have mountings that are sometimes made out of plastic. Plastic mounts that need to hold components in place or provide contact with heat dissipation parts break over time causing the part to fail to perform its function.</li>
+<li>Thermal paste that distributes the heat between the processor and the heat dissipation part can be made of low quality components and become brittle over a short time. Failure in the thermal paste performing its job causes overheating and results in permanent hardware failure.</li>
+<li>Setting the processor's clock at speed that the internal cooling systems have a hard time handling. Over time this excessive overheating causes the hardware to fail if the device is not serviced regularly.</li>
 </ul>
 
-<p><b>If your computer is getting to hot to the touch or you find its shutting down after a short period of use, your computer could need some proper hardware care or a design flaw analysis and resolution.</b></p>
+<p><b>If your device is getting to hot to the touch or you find its shutting down after a short period of use (between 3 minutes and a few hours), your device could need some proper hardware care or a design flaw analysis and resolution.</b></p>
 
 <p>Excessive overheating for long periods of time can:</p>
 <ul>
-<li>Shorten the life of your computer's or laptop's circuitry, causing instability that results in expensive hardware replacements.</li>
+<li>Shorten the life of your device's or laptop's circuitry, causing instability that results in expensive hardware replacements.</li>
 <li>Your laptop battery's life can be shortened significantly or your battery can even exploded due to heat caused by over charging.</li>
 </ul>
 <p>&nbsp;</p>

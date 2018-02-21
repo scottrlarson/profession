@@ -15,7 +15,8 @@ image = "services/cs-software-install-package.png"
 caption = ""
 
 +++
-<p>I can install and configure a wide variety of software packages ranging from office applications to professional products.</p>
+I can install and configure a wide variety of software packages ranging from office applications to professional products.<!--more-->
+
 <ul>
 <li>If your program requires data to be transferred from one location to another that is an additional cost of $20.00 per 125 gigabytes or less.</span></li>
 </ul>

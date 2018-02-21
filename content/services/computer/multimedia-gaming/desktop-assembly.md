@@ -15,6 +15,6 @@ image = "services/cs-desktop-assembly.png"
 caption = ""
 
 +++
-<p>If you've already purchased parts for a custom PC, I can assemble the parts and configure the machine for operation. I have over 20 years of experience dealing with the most complicated issues that may come up during a hardware setup. All hardware will be stress tested for failures. The operating system installation and assembly have a full work guarantee on the normal operation of the machine after assembly.</p>
-<!--more-->
+If you've already purchased parts for a custom PC, I can assemble the parts and configure the machine for operation. I have over 20 years of experience dealing with the most complicated issues that may come up during a hardware setup. All hardware will be stress tested for failures. The operating system installation and assembly have a full work guarantee on the normal operation of the machine after assembly.<!--more-->
+
 {{% desktop-assembly %}}

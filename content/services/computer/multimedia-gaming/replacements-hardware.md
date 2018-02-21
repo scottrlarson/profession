@@ -15,7 +15,8 @@ image = "services/cs-custom-system-design.png"
 caption = ""
 
 +++
-<p>If you want a piece of hardware replaced, like a hard drive or video card and you don't want to do it yourself, Scott Larson can install it for you.</p>
+If you want a piece of hardware replaced, like a hard drive or video card and you don't want to do it yourself, I offer affordable rates and a work guarantee for replacing your current hardware.<!--more-->
+
 <ul>
 <li>This fee is per hardware item.</li>
 </ul>

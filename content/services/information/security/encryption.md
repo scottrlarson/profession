@@ -1,5 +1,5 @@
 +++
-title = "Encryption"
+title = "Data Encryption"
 date = 2018-02-16T15:12:00-08:00
 draft = false
 

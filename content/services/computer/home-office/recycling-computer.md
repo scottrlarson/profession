@@ -17,6 +17,7 @@ caption = ""
 +++
 I offer recycling services if you have out of date equipment that you need to destroy. I also offer secure data wiping and a return certificate of the service completion $20 per device. <!--more-->
 
+
 {{% servicedataeris %}}
 
 {{% service-custom label="Recycle Item" item="Free" %}}

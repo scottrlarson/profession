@@ -15,3 +15,6 @@ image = "services/"
 caption = ""
 
 +++
+If you have a small home or business network and need setup, maintenance or trouble-shooting with a router, switch or modem I can provide you with a comprehensive analysis/quote on what you need to maintain a healthy network. I also can help you with WiFi setup, and maintenance. If you need good WiFi coverage, are having trouble with interference or speeds I also offer a WiFi Site Survey Service where I can map out your coverage and show you where the weak points are, I also can tell you what kinds of phsycial problems might be involved in poor signal strength or poor WiFi performance.<!--more-->
+
+{{% service-quote %}} 

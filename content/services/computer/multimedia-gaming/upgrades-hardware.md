@@ -15,7 +15,7 @@ image = "services/cs-system-upgrade.png"
 caption = ""
 
 +++
-You might need a newer video card or more memory. I offer affordable rates for upgrading your current hardware.<!--more-->
+You might need a newer video card or more memory. I offer affordable rates and a work guarantee for upgrading your current hardware.<!--more-->
 
 <ul>
 <li>This fee is per hardware item.</li>

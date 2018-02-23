@@ -1,6 +1,6 @@
 +++
-title = "Data Encryption"
-date = 2018-02-16T15:12:00-08:00
+title = "Scoops"
+date = 2018-02-22T18:16:33-08:00
 draft = false
 
 # Tags and categories
@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = ""
 caption = ""
 
 +++

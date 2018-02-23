@@ -356,8 +356,14 @@ defaultContentLanguageInSubdir = false
   name = "Security"
   url = "/services/information/security"
   parent = "inf"
+  weight = 2
+
+[[menu.main]]
+  name = "Management"
+  url = "/services/information/management"
+  parent = "inf"
   weight = 1
-  
+    
 [[menu.main]]
   name = "Scoops"
   url = "resources/scoops"

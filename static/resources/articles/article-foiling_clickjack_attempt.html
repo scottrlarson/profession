@@ -1,0 +1,48 @@
+<!---
+  title = ""
+  date = 2015-04-14T00:00:00-08:00
+  draft = false
+  published = false
+
+  # Tags and categories
+  # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+  tags = []
+  categories = ["#Security", "#HelpfulTips"]
+  for =["Computer users that want to protect themselves against malware."]
+
+  # Featured image
+  # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+  [header]
+  image = ""
+  caption = ""
+
+  --->
+
+<h2>Foiling a Clickjack Attempt</h2>
+
+<h3>Customer Clickjacked by Bank Email</h3>
+<p>A Customer became distraught after he opened a PDF attachment that had a well crafted title making it appear to come from his bank. When the PDF opened it executed a piece of code that took control of his computer. When it was all over the only thing left on his desktop was a ransom note demanding thousands of dollars in exchange for his livelihood. Fortunately in this situation the customer had very little data to lose, in some cases it can <a href="http://www.npr.org/blogs/alltechconsidered/2014/12/08/366849122/ransomware-when-hackers-lock-your-files-to-pay-or-not-to-pay">destroy a person's life or result in the closing of a small business</a>.</p>
+<p>.</p>
+<h3>How to Protect Yourself Against a Ransom</h3>
+<p>Its not always easy to spot maliciously crafted emails, but here are three tips that can help you decide something is afoot. Think of this process as being a detective and you are looking for clues to confirm or deny your suspicions.</p>
+<h4>1.What name and email address is the email being sent from?</h4>
+<p><img src="http://www.scottlarsonconsulting.com/sites/default/files/images/marketing/clickjacking/clickjacking-notice.png" alt="ClickJack Warning Notice Screenshot"></p>
+<p>Look at the authenticity of the SENDER email (Who is it coming from?) Does it look like its actually coming from the provider? For instance if the email is addressed from your internet service provider, The name of the Sender might say Sonic, but the email address itself might say: <strong>aspagues@sonic.net. </strong>. I only get emails from support@sonic.net so clearly there is a discrepancy here. If the email does not have a familiar name in it its probably not from your ISP.</p>
+<h4>2. Is the recipient email address directed to you or a catch all?</h4>
+<p><img src="http://www.scottlarsonconsulting.com/sites/default/files/images/marketing/clickjacking/clickjacking-unauthorized-login.png" alt="Clickjack Unauthorized Login Notice Screenshot"></p>
+<p>Does the recipient email say something like: <strong>To &lt;mail.sonic.net dhddjk@gmail.com&gt;</strong>? If its not addressed directly to you that could be evidence that its not legitimate.</p>
+<h4>3. Does the attachment or any links in the email contain information that reveals it's true intentions?</h4>
+<p><img src="http://www.scottlarsonconsulting.com/sites/default/files/images/marketing/clickjacking/blog-email-fedex_thumb1.jpg" alt="Fed Ex Email Attachment Clickjack Screenshot"></p>
+<p>If you received an email that contacts a PDF attachment?</p>
+<ul>
+<li>
+<p>First off does this establishment have any business sending you attachments in the first place?</p>
+</li>
+<li>
+<p>When you hover over a link in an email that is asking you to perform an action match up with the provider's domain name?</p>
+</li>
+</ul>
+<p><img src="http://www.scottlarsonconsulting.com/sites/default/files/images/marketing/clickjacking/clickjacking-link-hover.png" alt="Clickjack link location Screenshot"></p>
+<p>Most reputable establishments will not send you attachments unless you have specifically requested them to do so, and if the hover link doesn't match the domain name of the business that's clear evidence of a forgery.</p>
+<p>But these methods are not full proof so you will also want to get a <a href="http://www.scottlarsonconsulting.com/disaster-recovery-solutions-small-and-medium-size-businesses">disaster recovery solution</a> in place in case something happens that is beyond your control.</p>
+<p>Contact Scott at 707-536-1527 for a free consultation if you have any questions about these techniques or questions about disaster recovery.</p>

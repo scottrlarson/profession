@@ -1,13 +1,24 @@
-Scooter\'s Windows 10 Preview -The Good, The Bad, & The Ugly
-------------------------------------------------------------
++++
+title = "Scooter's Windows 10 Preview -The Good, The Bad, & The Ugly"
+date = 2015-07-17T00:00:00-08:00
+published = true
 
-::: {.win10container}
-::: {.win10header}
-[![Scooter\'s Windows 10 Preview Header
-Image](http://www.scottlarsonconsulting.com/sites/default/files/images/windows10preview/ScootersWindows10PreviewHeaderGraphic.png){.win10headerimg}](http://www.scottlarsonconsulting.com/sites/default/files/images/windows10preview/ScootersWindows10PreviewHeaderGraphic.png)
-:::
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+categories = ["Preview"]
+for =["Computer users that are considering upgrading to Windows 10."]
 
-::: {.win10content}
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "scoops/windows10preview/ScootersWindows10PreviewHeaderGraphic.png"
+caption = "Scooter's Windows 10 Preview Header Image"
+
+
++++
+
+
 ### The Showdown
 
 If you haven\'t already received the free upgrade notification on your
@@ -22,9 +33,9 @@ introduction of the touch based tablet interface that was designed to
 combine both the mobile and desktop graphic interface into one
 integrated experience.
 
-In my humble experience the Winows 8 tablet design didn\'t really work
+In my humble experience the Windows 8 tablet design didn\'t really work
 particularly well on PC and Laptop screens. PC\'s and Laptops now
-include a touch screen, but I dont think touch screens work that well in
+include a touch screen, but I don't think touch screens work that well in
 heavy work load environments. Desktops are primarily for productivity,
 you can get more done with a mouse and keyboard than you can on touch
 screen.
@@ -429,11 +440,6 @@ or subscribe to my [Scooter Scoop
 Newsletter](http://www.scottlarsonconsulting.com/newsletter/scooter-scoop)
 to save time and money with expert advice along with recent news. Stay
 up to date on the latest**
-:::
 
-::: {.footer}
- 
-:::
-:::
 
  

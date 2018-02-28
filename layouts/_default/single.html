@@ -7,7 +7,7 @@
 
   <div class="article-container">
     <div class="article-inner">
-      <img src="" alt="{{ printf "/img/%s"}}"><h1 itemprop="name">{{ .Title }}</h1>
+      <h1 itemprop="name">{{ .Title }}</h1>
 
       {{ partial "article_metadata" (dict "content" . "is_list" 0) }}
 

@@ -245,6 +245,18 @@ defaultContentLanguageInSubdir = false
   url = "/services/content/"
 
 [[menu.main]]
+  name = "Development"
+  url = "/services/content/development"
+  parent = "con"
+  weight =  2
+
+[[menu.main]]
+  name = "Publishing"
+  url = "/services/content/publishing"
+  parent = "con"
+  weight =  3 
+  
+[[menu.main]]
   name = "Data"
   identifier = "dat"
   weight = 4
@@ -258,14 +270,57 @@ defaultContentLanguageInSubdir = false
   
 [[menu.main]]
   name = "Resources"
-  identifier = "rec"
+  identifier = "res"
   weight = 6
   url = "resources"  
 
 [[menu.main]]
-  name = "707-536-1527"
-  weight = 7
-  url = "/services/computer/assistance/phone" 
+  name = "Scoops"
+  url = "/resources/scoops"
+  parent = "res"
+  weight = 1
+  
+[[menu.main]]
+  name = "Newsletters"
+  url = "/resources/newsletters"
+  parent = "res"
+  weight = 2
+
+[[menu.main]]
+  name = "Projects"
+  url = "/resources/projects"
+  parent = "res"
+  weight = 3  
+  
+[[menu.main]]
+  name = "Publications"
+  url = "resources/publications"
+  parent = "res"
+  weight = 4
+
+  [[menu.main]]
+  name = "Recommendations"
+  url = "/resources/recommendations"
+  parent = "res"
+  weight = 5
+
+[[menu.main]]
+  name = "Technical Terms"
+  url = "/resources/terms"
+  parent = "res"
+  weight = 6
+
+[[menu.main]]
+  name = "Documents"
+  url = "/resources/documents"
+  parent = "res"
+  weight = 7  
+
+[[menu.main]]
+  name = "Terms & Conditions"
+  url = "/resources/terms"
+  parent = "res"
+  weight = 8 
   
 [[menu.main]]
   name = "Assistance"
@@ -297,12 +352,6 @@ defaultContentLanguageInSubdir = false
   parent = "dat"
   weight = 1
   url = "/services/data/recovery"
-
-[[menu.main]]
-  name = ""
-  parent = "dat"
-  weight = 2
-  url = "/services/data/"  
   
 [[menu.main]]
   name = "Application Inventory"
@@ -364,41 +413,6 @@ defaultContentLanguageInSubdir = false
   parent = "inf"
   weight = 1
     
-[[menu.main]]
-  name = "Scoops"
-  url = "resources/scoops"
-  parent = "rec"
-  weight = 1
-  
-[[menu.main]]
-  name = "Newsletters"
-  url = "resources/newsletters"
-  parent = "rec"
-  weight = 2
-
-[[menu.main]]
-  name = "Publications"
-  url = "resources/"
-  parent = "rec"
-  weight = 3
-
-  [[menu.main]]
-  name = "Recommendations"
-  url = "resources/recommendations"
-  parent = "rec"
-  weight = 4
-
-[[menu.main]]
-  name = "Technical Terms"
-  url = "resources/terms"
-  parent = "rec"
-  weight = 5
-
-[[menu.main]]
-  name = "Documents"
-  url = "resources/documents"
-  parent = "rec"
-  weight = 5
 
 # Taxonomies.
 [taxonomies]

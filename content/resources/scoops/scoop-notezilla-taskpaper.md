@@ -1,12 +1,12 @@
 +++
 title = "Why I replaced Notezilla with Taskpaper"
 date = 2017-11-26T12:11:00-08:00
-draft = true
+draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["cross-platform", "software", "organization", "productivity"]
-categories = [comparisons]
+categories = ["Comparisons"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

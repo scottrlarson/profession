@@ -92,3 +92,24 @@ img {max-width:100%; height:auto;}
 	display: inline-block;
 	vertical-align: middle;
 }
+
+#imgCompareContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 100%;
+	padding: 5px;
+}
+
+.imgCompareLeft {
+	Width: 50%;
+}
+
+.imgCompareRight {
+	Width: 50%;
+}
+
+.imgCompare {
+	
+}

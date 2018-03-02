@@ -6,7 +6,7 @@ draft = false
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["developer", "mobile", "app"]
-categories = [letter]
+categories = ["letter"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -15,6 +15,7 @@ image = ""
 caption = ""
 
 +++
+
 When I update apps on my mobile devices I am seeing a really terrible trend, developers taking up space in their update notes begging people to review their app. I need to set the record straight before this gets out of control.
 
 If your app is worth giving a review, I will go out of my way to do that. But when you ask people for reviews there is a sense of wanting to compel us to leave a review when the innovation isn't really there in your app. This results in really low quality reviews. Do something that makes you say, "You know what? This app/update is awesome, it deserves a review". Customers of your app will feel the same way and go out of their way to leave a review without you having to say anything.

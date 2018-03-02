@@ -1,7 +1,7 @@
 +++
 title = "Scooter's Windows 10 Preview -The Good, The Bad, & The Ugly"
 date = 2015-07-17T00:00:00-08:00
-published = true
+published = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

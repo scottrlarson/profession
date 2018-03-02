@@ -6,12 +6,12 @@ draft = false
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Windows 10", "Performance",]
-categories = [Alert]
+categories = ["Alert"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "error-win10-update.jpg"
+image = "scoops/error-win10-update/error-win10-update.jpg"
 caption = "Windows 10 Update (1709) Error Screenshot"
 
 +++
@@ -32,8 +32,8 @@ Scheduling update restarts will enable the device to wake from sleep, install up
 
 Click on the Start menu, open the Settings app, and select Update &amp; security &gt; Windows Update. As you can see on the screen above there's already an option to select a restart time to finish installing an update.
 
-![Settings: Update &amp; Security Screenshot](images/img_2160.png)
-![Settings: Update &amp; Security Screenshot: Windows Update Screenshot ](images/img_2159.png)
+![Settings: Update &amp; Security Screenshot](img/scoops/error-win10-update/img_2160.png)
+![Settings: Update &amp; Security Screenshot: Windows Update Screenshot ](img/scoops/error-win10-update/img_2159.png)
 
 ## Conclusion
 

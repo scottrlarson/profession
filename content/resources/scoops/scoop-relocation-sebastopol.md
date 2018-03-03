@@ -15,7 +15,4 @@ image = ""
 caption = ""
 
 +++
-# Relocated to Sebastopol, Still Servicing Santa Rosa Community
-Dear Customers, due to the out of control price gouging in rent prices. I am no longer living at Santa Rosa. But I still provide technical service to the community at Santa Rosa twice a week (by appointment only, no walk-ins available) at Share Exchange Business Office located at 533 5th Street. You can schedule an appointment by calling me at 707-536-1527, texting me on my cell at 707-416-5811, or <a href="/contact/">contacting me</a> from the website.
-
-If you are renting please consider not going along with the perceivable out of control rent increases for the good of the community. Thank you.
+Dear customers, due to the out of control price gouging in rent prices I am no longer living at Santa Rosa, I have relocated to Sebastopol. I still service the Santa Rosa community by appointment at my new office: Share Exchange, located at 533 5th Street. If you happen to be in the area and want to drop by, see if I am in first. Or you can schedule an appointment by calling me at 707-536-1527, texting me on my cell at 707-416-5811, or <a href="/contact/">contacting me</a> from the website.

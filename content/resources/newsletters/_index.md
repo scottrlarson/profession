@@ -1,6 +1,6 @@
 +++
-title = "Comparisons"
-date = 2018-03-02T10:45:53-08:00
+title = "Newsletters"
+date = 2018-03-02T19:02:10-08:00
 draft = false
 
 # Tags and categories
@@ -15,4 +15,4 @@ image = ""
 caption = ""
 
 +++
-This is a test of the category comparisons.
+No newsletters as of yet.

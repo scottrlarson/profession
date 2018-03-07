@@ -17,4 +17,4 @@ caption = ""
 +++
 I can transfer flat files and some settings from one location to another or from one device to another.
 
-Service Fee: $50.00 per 250 Gigs of data
+{{% service-custom label="per 250 Gigs of data" item="$50.00" %}}

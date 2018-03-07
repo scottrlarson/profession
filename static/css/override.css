@@ -64,6 +64,68 @@ img {max-width:100%; height:auto;}
 }
 
 
+.quote-panel-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: stretch;
+	flex-wrap: wrap;
+	border: 1px solid black;
+	margin-left: auto;
+	width: auto;
+	max-width: 300px;
+}
+
+.quote-panel-label {
+	flex: 2 0 0;
+	max-width: 200px;
+	padding: 10px;
+	background-color: Orange;
+	text-align: center;
+}
+
+.quote-panel-item {
+	width: 100%;
+	flex: 1 0 0;
+	max-width: 100px;
+	font-size: 125%;
+	font-weight: bold;
+	background-color: DarkGrey;
+	text-align: center;
+	color: orange;
+}
+
+.quote-panel-button {
+	width: auto;
+	background-color: white;
+}
+
+
+.quote-panel-button , .quote-panel-button:visited, .quote-panel-button:hover {
+	margin: 2px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.quote-panel-button:link  {
+	background-color: white;
+	text-decoration: none;
+}
+
+.quote-panel-button:visited {
+	background-color: white;
+	text-decoration: none;
+}
+
+.quote-panel-button:hover  {
+	background-color: grey;
+	text-decoration: none;
+}
+
+.quote-panel-button a:hover  {
+	text-decoration: none;
+}
+
 .contact-info-table {
 	font-size: 125%;
 	display: flex;
@@ -74,19 +136,26 @@ img {max-width:100%; height:auto;}
 	padding: 5px;
 }
 
+.contact-info-group {
+	margin: 5px;
+	border: 1px solid orange;
+	border-radius: 10px;
+	
+}
+	
 .contact-info-label {
 	font-family: impact;
-	padding: 5px;
-	margin: 5px;
+	line-height: normal;
+	margin: 5px 5px 0px 5px;
+	padding: 0px 5px;
 	color: Orange;
 	text-align: center;
-	border: 1px solid orange;
-	 border-radius: 10px;
 }
 
 .contact-info-item {
-	padding: 5px;
-	margin: 5px;
+	line-height: normal;
+	margin: 0px 5px 5px 5px;
+	padding: 0px 5px;
 	color: LightGray;
 	text-align: center;
 }

@@ -17,4 +17,4 @@ caption = ""
 +++
 If you are unable to access your device or data I can help you gain access to data or equipment you own or have power of attorney over.
 
-Service Fee: $100.00
+{{% service-price item="$100.00" %}}

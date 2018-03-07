@@ -17,4 +17,4 @@ caption = ""
 +++
 Storage devices usually have a limited life span due to wear and tear. A disaster recovery solution allows to backup and restore your system, programs and personal data in the event of a hardware loss or disaster.
 
-Service Fee: [By Quote](/services/computer/assistance/quote/)
+{{% service-quote %}}

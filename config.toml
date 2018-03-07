@@ -305,8 +305,8 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
-  name = "Technical Terms"
-  url = "/resources/terms"
+  name = "Technical Glossary"
+  url = "/resources/glossary"
   parent = "res"
   weight = 6
 

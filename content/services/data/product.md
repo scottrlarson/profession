@@ -17,4 +17,4 @@ caption = ""
 +++
 If you lose your product physical media that contained your product key I can extract that information from the system.
 
-Service Fee: $50.00
+{{% service-price item="$50.00" %}}

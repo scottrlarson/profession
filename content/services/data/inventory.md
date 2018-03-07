@@ -17,4 +17,4 @@ caption = ""
 +++
 If you are migrating from one device or one platform to another it might be good to have an inventory done on the device for software that needs to be transfered. That way when you are ready to switch to a new device, you have a list of software that needs to be transfered.
 
-Service Fee: $50.00
+{{% service-price item="$50.00" %}}

@@ -1,6 +1,6 @@
 +++
-title = "E-Mail Transfer"
-date = 2018-02-06T13:45:10-08:00
+title = "Documents"
+date = 2018-03-07T11:25:55-08:00
 draft = false
 
 # Tags and categories
@@ -11,10 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = ""
 caption = ""
 
 +++
-If you are having trouble moving your mail from one service to another I have special tools and expertise in transferring POP and IMAP mail from one storage location to another.
-
-{{% service-quote %}}

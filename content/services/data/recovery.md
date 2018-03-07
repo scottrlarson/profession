@@ -24,4 +24,4 @@ If you accidentally deleted / wiped data by user error or your disk failed / cra
 - Solid State Storage
 - Flash Memory Storage
 
-Service Fee: $250.00
+{{% service-price item="$250.00" %}}

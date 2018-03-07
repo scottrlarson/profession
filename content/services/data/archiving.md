@@ -17,4 +17,4 @@ caption = ""
 +++
 If you need to have data stored long term, there are methods that will protect your data from wear. I can help you develop a strategy for maintaining a good copy of that data so that you dont lose important information due to wear or device end of life situations.
 
-Service Fee: [By Quote](/services/computer/assistance/quote/)
+{{% service-quote %}}

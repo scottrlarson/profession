@@ -1,3 +1,43 @@
+body {
+	margin-top: initial;
+}
+
+.navbar-fixed-bottom, .navbar-fixed-top {
+	position: initial;
+}
+
+
+.navbar-brand, .navbar-nav li a {
+	line-height: 25px;
+}
+
+
+
+.breadcrumb {
+	margin: 20px 0px 5px 0px;
+	padding: 5px 10px;
+	background-color: inherit; 
+	text-align: right;
+	background-color: #282A36;
+}
+
+.navbar-nav .breadcrumb .navbar-right {
+	margin: 0px;
+	padding: 0px;
+	max-height: initial;
+	height: initial;
+}
+
+.breadcrumb li a {
+	font-size: 80%; 
+}
+
+.article-container {
+    max-width: 760px;
+    padding: 10px 20px 0px;
+    margin: 0px auto;
+}
+
 ul.ul-edu li .description p.type {
   font-size: 0.8rem;
 }
@@ -10,6 +50,8 @@ img {max-width:100%; height:auto;}
 
 .fa-li {color: orange;}
 
+.article {
+}
 .article-header-caption {
 	position: initial;
 	display: block;
@@ -22,6 +64,10 @@ img {max-width:100%; height:auto;}
 
 .article-header {
 	position: initial;
+}
+
+.article-header img {
+	max-width: 250px;
 }
 
 .article-banner {

@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Software and Hardware Investigative Problem-solving",
-    "Natural/Common Law",
+    "Universal Cosmetic Spiritual Law",
     "Objective Truth and Gnosis"
   ]
 
@@ -46,4 +46,6 @@ weight = 5
 
 I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in late nineties. In early 2000 I moved on to Systems Administration for small networks. I got tired with the corporate world and start providing [services](/services/) to the public in Santa Rosa as a independent IT service man. Today I still provide IT services to the public in Santa Rosa, California while I work on writing and research projects that will help decentralize governance in the future.
 
-Along the way during 9/11 I became concerned with the power de facto centralized governments wield against it's own people and started working on a [proposal](../resources/activism/proposals/proposal-commonwealths.html) that will free us from the tyrannical trickle down decisions at the top of these institutions.  The psychopaths working behind the scenes and their political puppets use the main stream media and other political venues to disguise these decisions as beneficial actions for the good of humanity, when really all of these decisions just cause more centralization of power at the top. Consider [divesting](../resources/activism/articles/article-divestment.html) from these institutions and working with others directly in your community at a grassroots level to bring real and lasting change.
+Along the way of providing technical services to the public, I noticed great suffering happening on a spiritual level between myself and the world. I realized I could no longer sit by and watch my world be destroyed by inaction. Today I work to bring my world into alignment of spiritual truth though my on personal activism. 
+
+Spiritual Activism is the coming together of spirituality, and activism. It is not about religion, it is not about any form of dogma, it is activism that comes from the heart, not just the head, activism that is compassionate, positive, kind, fierce and transformative. Being a spiritual activist means taking our part in creating change, with a spirit of positivity, compassion, love and a balance of interdependence and self determination. Nothing could be more inspiring and more rewarding than being the change we want to see in the world, within and without.

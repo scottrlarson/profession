@@ -1,6 +1,6 @@
 +++
-title = "Information Services"
-date = 2018-02-16T15:24:05-08:00
+title = "Resources"
+date = 2018-03-08T14:00:39-08:00
 draft = false
 
 # Tags and categories

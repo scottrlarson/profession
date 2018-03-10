@@ -1,5 +1,5 @@
 +++
-title = "Scott Larson"
+title = "About"
 date = 2017-06-22T14:17:11-08:00
 draft = false
 
@@ -15,12 +15,8 @@ image = ""
 caption = ""
 
 +++
-
-707-536-1527  
-slarson@scottrlarson.com  
-
 ## Objective
-To provide Information Technology assistance to the public.
+To provide information technology assistance to the public.
 
 ## Professional Work History
 2009 - 2017 Scott Larson Computer Repair & Data Recovery - Owner/Operator - Technical Solutions Provider
@@ -56,22 +52,6 @@ equipment.
 - Security: IPCop, All Antivirus solitions, Linux (ipchains), Sonicwall Firewalls, Mason, Snort, Nessus
 -  Computer Hardware: x86, x64 PC , Macintosh, Sun workstations
 
-## Professional Project History
-
-### IWeb to Wordpress Site Conversion
-
-Erica Shane - 2007
-
-Customer wanted to export site to another platform due to Apple's IWeb service being discontinued. Used Wordpress Import/Export HTML Tool to migrate most of the content. Hand migrated template theme, Reconstituted some 100 pages with some hand coding to make sure the content blended in with the theme.
-
-
-
-### Diagnose & Repair: HTML Website Loading Stuck Issue
-
-Tantra.com - 2001
-
-Legacy HTML image caching code caused site to stop loading on certain modern web browsers - tracked down from client side using web load tools and reported problem to developer's at tantra.com. tantra.com developer's removed legacy code that was causing the issue.
-
 
 ## Scott Larson's Service Center Capabilities
 
@@ -83,9 +63,7 @@ Legacy HTML image caching code caused site to stop loading on certain modern web
     Commands, Exceptions, Floating Point Unit, Interrupts, Operations,
     Prime Number Genera- tion, Registers - Stress test
 -   **Memory** - Extended memory - Protected Mode Testing - Large Memory
-    Configurations: 96gigs and up - Multi testing algorithms that
-    implement research done in conjunction with the University of
-    Nevada, Reno (view here): http://tinyurl.com/pcdmemory
+    Configurations: 96gigs and up
 -   **Storage** -Supported controllers: PATA, SATA, SCSI, SAS -
     Supported devices: Hard Drives, Solid State Drives, SCSI Drives, USB
     Drives, Card Readers, Floppy Drives, Zip Drives, NVMe Drives -

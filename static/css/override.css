@@ -32,6 +32,10 @@ body {
 	font-size: 80%; 
 }
 
+.home-section  {
+	padding: 25px 0px;
+}
+
 .article-container {
     max-width: 760px;
     padding: 10px 20px 0px;

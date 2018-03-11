@@ -1,7 +1,11 @@
 +++
+# Hours & Pricing widget.
+widget = "hours-pricing"
+active = true
+date = "2016-04-20T00:00:00"
+
 title = "Hours & Pricing"
-date = 2017-12-19T16:34:54-08:00
-draft = false
+subtitle = ""
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -14,7 +18,9 @@ categories = []
 image = ""
 caption = ""
 
-
+# Automatically link office hours?
+autolink = true
+weight = 3
 +++
 
 I offer services in technology by appointment. Usually by on-call or
@@ -22,10 +28,6 @@ in-shop service on devices that are 5 years old or newer, I can fix
 certain problems remotely if there is reliable Internet access to the
 device location.  My phone hours are 9am to 7pm Monday though Friday and sometimes on the weekends if I don't have other engagements. My In-Shop Hours can vary depending on my work load, but I am usually in the office to handle by appointment service calls Monday, Wednesday, and Friday 10am to 5pm. I can also handle At-Location Service Requests by appointment.
 <!--more-->
-
-Call me at (707-536-1527), text me at (707-416-5811),
-or contact me by on-line [request](/services/computer/assistance/request) or inquire about a [quote](/services/computer/assistance/quote) from the
-website to schedule an appointment, or to ask a question.
 
 ### Hours
 

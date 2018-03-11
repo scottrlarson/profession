@@ -14,6 +14,7 @@ categories = []
 image = ""
 caption = ""
 
+weight = 4
 +++
 ## Objective
 To provide information technology assistance to the public.

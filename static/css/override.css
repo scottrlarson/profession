@@ -2,6 +2,29 @@ body {
 	margin-top: initial;
 }
 
+input {
+	color: black;
+}
+
+button, html input[type="button"] {
+	background-color: orange;
+	border-radius: 5px;
+}
+
+.form-label {
+	display: inline-block;
+	text-align: right;
+}
+
+.form-input {
+	display: inline-block;
+	text-align: left;
+}
+
+.form-button-container {
+		text-align: right;
+}
+
 .navbar-fixed-bottom, .navbar-fixed-top {
 	position: initial;
 }

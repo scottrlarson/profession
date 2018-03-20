@@ -208,7 +208,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "/services/computer/assistance/request"
+    link = "#contact"
 
   [[params.social]]
     icon = "twitter"

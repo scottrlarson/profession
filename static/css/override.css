@@ -1,5 +1,6 @@
 body {
 	margin-top: initial;
+	line-height: initial;
 }
 
 input {
@@ -11,18 +12,61 @@ button, html input[type="button"] {
 	border-radius: 5px;
 }
 
+input, select, textarea{
+  width: 100%;
+  max-width: 100%;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+  cursor: pointer;
+  float: right;
+}
+
+label {
+  padding: 6px 6px 6px 0;
+  display: inline-block;
+}
+
+
+.form-container {
+
+	width: 100%;
+}
+
+.form-component {
+	width: 100%;
+	content: "";
+	display: table;
+	clear: both;
+}
+
 .form-label {
-	display: inline-block;
-	text-align: right;
+	float: left;
+	width: 20%;
+	max-width: initial;
+	margin: 0px 5px 0px 5px;
 }
 
 .form-input {
-	display: inline-block;
-	text-align: left;
+	float: left;
+	width: 70%;
+	max-width: initial;
+	color: black;
+	margin: 0px 5px 0px 5px;
 }
 
 .form-button-container {
 		text-align: right;
+}
+
+@media screen and (max-width: 600px) {
+  .form-label, .form-input, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
 }
 
 .navbar-fixed-bottom, .navbar-fixed-top {

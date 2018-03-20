@@ -41,7 +41,6 @@ weight = 1
   year = 2018
 
 +++
-
 # Biography
 
 I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in late nineties. In early 2000 I moved on to Systems Administration for small networks. I got tired with the corporate world and start providing services to the public in Santa Rosa as a independent IT service man. Today I still provide IT services to the public in Santa Rosa, California. You can [contact](#contact) me if you have questions or want to setup a consultation.

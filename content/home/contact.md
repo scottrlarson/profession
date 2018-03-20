@@ -13,3 +13,5 @@ weight = 2
 # Automatically link email and phone?
 autolink = true
 +++
+
+{{% contact-form %}}

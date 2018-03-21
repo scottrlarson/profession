@@ -53,8 +53,7 @@ defaultContentLanguageInSubdir = false
   city-state = "Santa Rosa, California"
   office_hours = "Monday-Friday: 10:00am to 4:00pm by appointment"
   phone_hours = "Monday-Friday: 9am to 7pm"
-  location_hours = "Monday though Friday 10am to 7pm,
-Weekends upon request and subject to my time constraints."
+  location_hours = "Monday though Friday 10am to 7pm, Weekends upon request and subject to my time constraints."
   phone = "707-536-1527"
   mobile = "707-416-5811"
   skype = ""

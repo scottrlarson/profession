@@ -314,6 +314,17 @@ img {max-width:100%; height:auto;}
 	
 }
 
+
+/* icon styles */
+
+#contact.home-section .fa-li {
+}
+
+.fa-ul > li {
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+
 /*************************************************
  *  Biography
  **************************************************/

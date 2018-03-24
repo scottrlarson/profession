@@ -19,26 +19,26 @@ weight = 1
 [[education.courses]]
   course = "Computer Setup"
   type = "Office Hardware & Network"
-  institution = "Self-Learned"
-  year = 2018
+  method = "Self-Learned"
+  year = "2004-2018"
 
 [[education.courses]]
   course = "Computer Hardware"
   type = "Analysis and Replacement"
-  institution = "Self-Learned"
-  year = 2018
+  method = "Self-Learned"
+  year = "1995-2018"
 
 [[education.courses]]
   course = "Software and Operating Systems"
   type = "Custom Setup and Troubleshooting"
-  institution = "Self-Learned"
-  year = 2018
+  method = "Self-Learned"
+  year = "2004-2018"
 
 [[education.courses]]
   course = "Data & Network Security"
   type = "Data Integrity, Recovery, and Protection"
-  institution = "Self-Learned"
-  year = 2018
+  method = "Self-Learned"
+  year = "2008-2018"
 
 +++
 # Biography

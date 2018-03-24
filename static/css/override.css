@@ -313,3 +313,21 @@ img {max-width:100%; height:auto;}
 .imgCompare {
 	
 }
+
+/*************************************************
+ *  Biography
+ **************************************************/
+
+ul.ul-edu li .description p.method {
+  font-size: 0.75rem;
+  color: rgba(0,0,0,0.6);
+}
+
+
+/*************************************************
+ *  Dark themed components
+ **************************************************/
+ 
+.dark ul.ul-edu li .description p.method {
+  color: rgba(255, 255, 255, 0.6);
+}

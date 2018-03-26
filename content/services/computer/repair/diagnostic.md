@@ -24,13 +24,4 @@ caption = ""
 <li class="service-list-items">Half-off all diagnostic work when repairs are authorized.</li>
 <li class="service-list-items">This fee is per device.</li>
 </ul>
-<table class="price-service-range">
-	<tr>
-		<td class="data-label">Service Range Min:</td>
-		<td class="data-item">$85.00</td>
-	</tr>
-	<tr>
-		<td class="data-label">Service Range Max:</td>
-		<td class="data-item">$125.00</td>
-	</tr>
-</table>
+{{% service-range item-min="$85.00" item-max="$125" %}}

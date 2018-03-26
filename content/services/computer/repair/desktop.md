@@ -20,7 +20,6 @@ caption = ""
 <p><strong><em>If you are not sure what the problem is with your device please request a <a href="diagnostic">diagnostic</a>. My diagnostic service allows for proper testing to occur so that complications prior to a repair are minimized.</em></strong></p>
 
 <ul>
-<li>This Service amount is for an initial repair, Some repairs take longer depending on the complexity of the problem.</li>
 <li>If you are requesting this repair service as part of a previous Diagnostic service, you will receive half-off of the diagnostic service fee as a credit upon completion of repairs.</li>
 <li>This Fee is per device. If you need more than one device repaired please order more than one Repair Service.</li>
 <li>This fee does not include the costs of replacement parts.</li>
@@ -29,13 +28,4 @@ caption = ""
 </ul>
 </div>
 
-<table class="price-service-range">
-	<tr>
-		<td>Service Range Min:</td> 
-		<td>$95.00</td>
-	</tr>
-	<tr>
-		<td>Service Range Max:</td>
-		<td>$255.00</td>
-	</tr>
-</table>
+{{% service-range item-min="$95" item-max="$255" %}}

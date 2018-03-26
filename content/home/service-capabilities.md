@@ -9,7 +9,7 @@ title = "Service Center Capabilities"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 1000
+weight = 10000
 +++
 
 -   **Systems:** Intel & AMD PC's, Apple Macs

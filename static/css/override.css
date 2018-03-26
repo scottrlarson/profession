@@ -315,6 +315,12 @@ img {max-width:100%; height:auto;}
 }
 
 
+/* accessibility */
+
+.access {
+	display: none;
+}
+
 /* icon styles */
 
 #contact.home-section .fa-li {
@@ -322,7 +328,7 @@ img {max-width:100%; height:auto;}
 
 .fa-ul > li {
 	padding-top: 0.5rem;
-	padding-bottom: 0.5rem;
+	margin-bottom: 0.5rem;
 }
 
 /*************************************************

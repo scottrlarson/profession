@@ -43,7 +43,7 @@ weight = 1
 +++
 # Biography
 
-I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in late nineties. In early 2000 I moved on to Systems Administration for small networks. I got tired with the corporate world and start providing services to the public in Santa Rosa as a independent IT service man. Today I still provide IT services to the public of Santa Rosa, California. You can [contact](#contact) me if you have questions or want to setup a consultation.
+I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in late nineties. In early 2000 I moved on to Systems Administration for small networks. I got tired with the corporate world and start providing services to the public in Santa Rosa as a independent IT service man. Today I still provide IT services to the public of Santa Rosa, California and surrounding areas. You can [contact](#contact) me if you have questions or want to setup a consultation.
 
 Along the way of providing technical services to the public, I noticed great suffering happening on a spiritual level between myself and the world. I realized I could no longer sit by and watch my world be destroyed by inaction. Today I work to bring my world into alignment of spiritual truth though my own personal activism.
 

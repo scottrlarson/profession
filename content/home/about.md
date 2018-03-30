@@ -41,10 +41,29 @@ weight = 1
   year = "2008-2018"
 
 +++
-# Biography
 
-I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in late nineties. In early 2000 I moved on to Systems Administration for small networks. I got tired with the corporate world and start providing services to the public in Santa Rosa as a independent IT service man. Today I still provide IT services to the public of Santa Rosa, California and surrounding areas. You can [contact](#contact) me if you have questions or want to setup a consultation.
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Professional Background</a>
+      </h2>
+    </div>
+    <div id="collapse1" class="panel-collapse collapse in">
+      <div class="panel-body"><p>I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in late nineties. In early 2000 I moved on to Systems Administration for small networks. I got tired with the corporate world and start providing services to the public of Santa Rosa as a independent IT service man. Today I still provide IT services to the public of Santa Rosa, California and surrounding areas. You can <a href="#contact">contact</a> me if you have questions or want to setup a consultation.</p></div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Spiritual Activism</a>
+      </h2>
+    </div>
+    <div id="collapse2" class="panel-collapse collapse">
+      <div class="panel-body"><p>Along the way of providing technical services to the public, I noticed great suffering happening on a spiritual level between myself and the world. I realized I could no longer sit by and watch my world be destroyed by inaction. Today I work to bring my world into alignment of spiritual truth though my own personal activism.</p>
 
-Along the way of providing technical services to the public, I noticed great suffering happening on a spiritual level between myself and the world. I realized I could no longer sit by and watch my world be destroyed by inaction. Today I work to bring my world into alignment of spiritual truth though my own personal activism.
-
-Spiritual Activism is the coming together of spirituality and activism. It is not about religion, it is not about any form of dogma, it is activism that comes from the heart, not just the head, activism that is compassionate, positive, kind, fierce and transformative. Being a spiritual activist means taking responsibility for my part in creating the change I want to see in the world. Living in a spirit of positivity, compassion, and love with a balance of independence and self determination. Nothing could be more inspiring and more rewarding than being the change we want to see in the world, within and without.
+      <p>Spiritual Activism is the coming together of spirituality and activism. It is not about religion, it is not about any form of dogma, it is activism that comes from the heart, not just the head, activism that is compassionate, positive, kind, fierce and transformative. Being a spiritual activist means taking responsibility for my part in creating the change I want to see in the world. Living in a spirit of positivity, compassion, and love with a balance of independence and self determination. Nothing could be more inspiring and more rewarding than being the change we want to see in the world, within and without.</p>
+</div>
+    </div>
+  </div>
+</div>

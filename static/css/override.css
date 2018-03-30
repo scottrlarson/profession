@@ -3,6 +3,10 @@ body {
 	line-height: initial;
 }
 
+.portrait-title h1 {
+	color: white;
+}
+
 input {
 	color: black;
 }
@@ -83,7 +87,7 @@ label {
 .breadcrumb {
 	margin: 20px 0px 5px 0px;
 	padding: 5px 10px;
-	background-color: inherit; 
+	background-color: inherit;
 	text-align: right;
 	background-color: #282A36;
 }
@@ -96,7 +100,7 @@ label {
 }
 
 .breadcrumb li a {
-	font-size: 80%; 
+	font-size: 80%;
 }
 
 .home-section  {
@@ -257,9 +261,9 @@ img {max-width:100%; height:auto;}
 	margin: 5px;
 	border: 1px solid orange;
 	border-radius: 10px;
-	
+
 }
-	
+
 .contact-info-label {
 	font-family: impact;
 	line-height: normal;
@@ -311,7 +315,7 @@ img {max-width:100%; height:auto;}
 }
 
 .imgCompare {
-	
+
 }
 
 
@@ -344,7 +348,32 @@ ul.ul-edu li .description p.method {
 /*************************************************
  *  Dark themed components
  **************************************************/
- 
+
 .dark ul.ul-edu li .description p.method {
   color: rgba(255, 255, 255, 0.6);
+}
+
+/* Panel Styling */
+
+.panel-group .panel-heading + .panel-collapse > .panel-body {
+	border-top: 0px;
+	background-color: #141622;
+}
+
+.panel-default > .panel-heading{
+	background-color: #282A36;
+	border: 1px solid black;
+}
+
+.panel-title {
+	font-size: 1.75rem;
+}
+
+.panel-body {
+
+}
+
+.panel-default {
+	border: 0px;
+
 }

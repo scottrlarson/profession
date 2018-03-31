@@ -15,6 +15,11 @@ image = ""
 caption = ""
 
 +++
+## Right to Refuse to be Regulated
+
+If you would like to hire me for a job, or if an arrangement that benefits both parties is agreed upon or in the works I reserve the right not to subject myself to background checks, licenses to do business, be employed by another, or any process that subjects me to any authority other than my own.
+
+When you request a service from me by yourself or as part of any organization it is by contract with your authorization or recurring engagement with me to have a service performed. Please note that any arrangement between us is two party. You [Customer] and I [Service Man]. My status is an individual who provides a service, not an employee. As such if I provide a service for you that results in an exchange of property [My services for currency] I do not have any contracts in place to exchange property with 3rd parties [government or otherwise]. If my services require you to report tax information to a 3rd party that reporting does not include me, my property, or the results of any property exchanged for services rendered. If you have questions about this arrangement please contact me. 
 
 ## Right to Refuse or Halt Service and Change My Mind
 

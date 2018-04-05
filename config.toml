@@ -53,7 +53,7 @@ defaultContentLanguageInSubdir = false
   city-state = "Santa Rosa, California"
   office_hours = "Monday-Friday: 10:00am to 4:00pm by appointment"
   phone_hours = "Monday-Friday: 9am to 7pm"
-  location_hours = "Monday though Friday 10am to 7pm, Weekends upon request and subject to my time constraints."
+  location_hours = "Monday-Friday 10am to 7pm, Weekends upon request and subject to my time constraints."
   phone = "707-536-1527"
   mobile = "707-416-5811"
   skype = ""
@@ -281,49 +281,56 @@ defaultContentLanguageInSubdir = false
   name = "Scoops"
   url = "/resources/scoops"
   parent = "res"
-  weight = 1
+  weight = 100
   
 [[menu.main]]
   name = "Newsletters"
   url = "/resources/newsletters"
   parent = "res"
-  weight = 2
+  weight = 200
 
+[[menu.main]]
+  name = "Deals"
+  url = "/resources/deals"
+  parent = "res"
+  weight = 250  
+  
+  
 [[menu.main]]
   name = "Projects"
   url = "/resources/projects"
   parent = "res"
-  weight = 3  
+  weight = 300  
   
 [[menu.main]]
   name = "Publications"
   url = "resources/publications"
   parent = "res"
-  weight = 4
+  weight = 400
 
   [[menu.main]]
   name = "Recommendations"
   url = "/resources/recommendations"
   parent = "res"
-  weight = 5
+  weight = 500
 
 [[menu.main]]
   name = "Technical Glossary"
   url = "/resources/glossary"
   parent = "res"
-  weight = 6
+  weight = 600
 
 [[menu.main]]
   name = "Documents"
   url = "/resources/documents"
   parent = "res"
-  weight = 7  
+  weight = 700  
 
 [[menu.main]]
   name = "Terms & Conditions"
   url = "/resources/terms"
   parent = "res"
-  weight = 8 
+  weight = 800 
   
 [[menu.main]]
   name = "Assistance"

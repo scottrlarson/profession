@@ -1,6 +1,6 @@
 +++
-title = "Quote"
-date = 2017-12-19T16:34:54-08:00
+title = "Deals"
+date = 2018-04-04T09:16:57-07:00
 draft = false
 
 # Tags and categories
@@ -15,4 +15,3 @@ image = ""
 caption = ""
 
 +++
-{{% contact-form %}}

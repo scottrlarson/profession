@@ -82,14 +82,19 @@ label {
 	line-height: 25px;
 }
 
+.breadcrumb-container {
 
+}
 
 .breadcrumb {
 	margin: 20px 0px 5px 0px;
 	padding: 5px 10px;
-	background-color: inherit;
-	text-align: right;
 	background-color: #282A36;
+	text-align: right;
+}
+
+.navbar-collapse {
+
 }
 
 .navbar-nav .breadcrumb .navbar-right {

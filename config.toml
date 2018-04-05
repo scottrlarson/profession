@@ -231,11 +231,6 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
-  url = "#about"
-  weight = 1
-
-[[menu.main]]
   name = "Computer"
   identifier = "com"
   weight = 2
@@ -257,32 +252,32 @@ defaultContentLanguageInSubdir = false
   name = "Publishing"
   url = "/services/content/publishing"
   parent = "con"
-  weight =  3 
-  
+  weight =  3
+
 [[menu.main]]
   name = "Data"
   identifier = "dat"
   weight = 4
-  url = "/services/data/"  
+  url = "/services/data/"
 
 [[menu.main]]
   name = "Information"
   identifier = "inf"
   weight = 5
-  url = "/services/information/"  
-  
+  url = "/services/information/"
+
 [[menu.main]]
   name = "Resources"
   identifier = "res"
   weight = 6
-  url = "resources"  
+  url = "resources"
 
 [[menu.main]]
   name = "Scoops"
   url = "/resources/scoops"
   parent = "res"
   weight = 100
-  
+
 [[menu.main]]
   name = "Newsletters"
   url = "/resources/newsletters"
@@ -293,15 +288,15 @@ defaultContentLanguageInSubdir = false
   name = "Deals"
   url = "/resources/deals"
   parent = "res"
-  weight = 250  
-  
-  
+  weight = 250
+
+
 [[menu.main]]
   name = "Projects"
   url = "/resources/projects"
   parent = "res"
-  weight = 300  
-  
+  weight = 300
+
 [[menu.main]]
   name = "Publications"
   url = "resources/publications"
@@ -324,14 +319,14 @@ defaultContentLanguageInSubdir = false
   name = "Documents"
   url = "/resources/documents"
   parent = "res"
-  weight = 700  
+  weight = 700
 
 [[menu.main]]
   name = "Terms & Conditions"
   url = "/resources/terms"
   parent = "res"
-  weight = 800 
-  
+  weight = 800
+
 [[menu.main]]
   name = "Assistance"
   parent = "com"
@@ -343,14 +338,14 @@ defaultContentLanguageInSubdir = false
   parent = "com"
   weight = 2
   url = "/services/computer/repair"
-  
+
 [[menu.main]]
   name = "Home & Office"
   parent = "com"
   weight = 3
   url = "/services/computer/home-office"
 
-  
+
 [[menu.main]]
   name = "Multimedia & Gaming"
   parent = "com"
@@ -362,54 +357,54 @@ defaultContentLanguageInSubdir = false
   parent = "dat"
   weight = 1
   url = "/services/data/recovery"
-  
+
 [[menu.main]]
   name = "Application Inventory"
   parent = "dat"
   weight = 3
-  url = "/services/data/inventory"  
+  url = "/services/data/inventory"
 
 [[menu.main]]
   name = "Archiving"
   parent = "dat"
   weight = 4
-  url = "/services/data/archiving"  
+  url = "/services/data/archiving"
 
 [[menu.main]]
   name = "Disaster Recovery"
   parent = "dat"
   weight = 5
-  url = "/services/data/disaster"  
+  url = "/services/data/disaster"
 
 [[menu.main]]
   name = "E-Mail Transfer"
   parent = "dat"
   weight = 6
-  url = "/services/data/email"  
+  url = "/services/data/email"
 
 [[menu.main]]
   name = "File/Folder & Settings Transfer"
   parent = "dat"
   weight = 7
-  url = "/services/data/file-folder"  
+  url = "/services/data/file-folder"
 
 [[menu.main]]
   name = "Password Recovery"
   parent = "dat"
   weight = 8
-  url = "/services/data/password"  
+  url = "/services/data/password"
 
 [[menu.main]]
   name = "Product Key Recovery"
   parent = "dat"
   weight = 9
-  url = "/services/data/product"  
+  url = "/services/data/product"
 
 [[menu.main]]
   name = "Cloud Backup Setup Service"
   parent = "dat"
   weight = 10
-  url = "/services/data/cloud"  
+  url = "/services/data/cloud"
 
 [[menu.main]]
   name = "Security"
@@ -422,7 +417,7 @@ defaultContentLanguageInSubdir = false
   url = "/services/information/management"
   parent = "inf"
   weight = 1
-    
+
 
 # Taxonomies.
 [taxonomies]

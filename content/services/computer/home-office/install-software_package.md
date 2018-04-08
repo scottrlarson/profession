@@ -17,8 +17,10 @@ caption = ""
 +++
 I can install and configure a wide variety of software packages ranging from office applications to professional products.<!--more-->
 
+## Additional Charges
+
 <ul>
-<li>If your program requires data to be transferred from one location to another that is an additional cost of $20.00 per 125 gigabytes or less.</span></li>
+<li>If personal data associated with your software or application to be transferred from one location to another that is an additional cost of $20.00 per 125 gigabytes or less.</span></li>
 </ul>
 
 {{% service-custom label="Per Item" item="$5" %}}

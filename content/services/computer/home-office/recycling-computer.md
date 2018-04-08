@@ -15,10 +15,7 @@ image = "services/cs-system-recycle.png"
 caption = ""
 
 +++
-I offer recycling services if you have out of date equipment that you need to destroy. I also offer secure data wiping and a return certificate of the service completion $20 per device. <!--more-->
-
-
-{{% servicedataeris %}}
+If you have out of date equipment that you need destroyed, I offer in-shop recycling of your equipment. Just schedule an appointment to drop it off and I will take it off your hands. I also offer secure data wiping and a return certificate of the service completion. <!--more-->
 
 {{% service-custom label="Recycle Item" item="Free" %}}
 {{% service-custom label="Data Wiping Per Device" item="$20" %}}

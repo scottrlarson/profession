@@ -42,9 +42,14 @@ label {
 
 .form-component {
 	width: 100%;
+	margin: 10px 0px 10px 0px;
 	content: "";
 	display: table;
 	clear: both;
+}
+
+.form-select {
+
 }
 
 .form-label {
@@ -52,6 +57,9 @@ label {
 	width: 20%;
 	max-width: initial;
 	margin: 0px 5px 0px 5px;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-weight: normal;
+	font-size: 75%;
 }
 
 .form-input {

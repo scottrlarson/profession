@@ -11,10 +11,10 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = "services/cs-virus-malware-cleanup.png"
 caption = ""
 
 +++
-If your device became infected by malware, I offer services clean-up services that can resolve most infection related issues involving drive by attacks, trojans, adware, virus, rootkits, fake security solutions and more.
+If your device became infected by malware, I offer clean-up services that can resolve most infection related issues involving drive by attacks, trojans, adware, virus, rootkits, fake security solutions and more.
 
 {{% service-price item="$150" %}}

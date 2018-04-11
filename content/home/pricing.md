@@ -15,10 +15,11 @@ weight = 500
 
 **At-Your-Location Consultations**
 
+I offer discounts for Senior Citizens and Non-profits for all my services upon request.
+
 -   Short Notice: $150.00 Per Hour(1hr Min)
 -   3 day to 1 week notice: $125.00 Per Hour(1hr Min)
 -   1 week or more notice: $100.00 Per Hour(1hr Min)
--   Discounts for Senior Citizens upon request.
 
 **Off hours **
 

@@ -316,6 +316,12 @@ defaultContentLanguageInSubdir = false
   weight = 600
 
 [[menu.main]]
+  name = "Forms"
+  url = "/resources/forms"
+  parent = "res"
+  weight = 650
+
+[[menu.main]]
   name = "Documents"
   url = "/resources/documents"
   parent = "res"

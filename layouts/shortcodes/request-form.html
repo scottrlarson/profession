@@ -1,21 +1,50 @@
+<p>Once I receive the request I will contact you via phone or email which ever you prefer to verify the details. Please allow up to 3 hours on weekdays and sometimes up to 24 hours if I am busy unless its before opening or close to closing time. If you send your request on a weekend  or a holiday I might not be able to respond until the beginning of the working week. If I am on vacation you should receive a automated response letting you know when I will be back. If you do not hear from me given the above limitations give me a <a href="/#contact">call</a>.</p>
+
 <div class="form-container">
 	<form name="contact" method="POST" netlify>
 		<div class="form-component">
 		  <div class="form-label"><label>Your Name</label></div>
 		  <div class="form-input"><input type="text" name="name"></div>
 		</div>
+
 		<div class="form-component">
 			<div class="form-label"><label>Service Address</label></div>
-			<div class="form-input"><textarea name="body"></textarea></div>
+			<div class="form-input">
+				<textarea name="service-address"></textarea>
+				<div class="form-desc">If you need service performed at your location Ill need your service address, I also use it for billing purposes if I ever need to send you a bill of service.</div>
+			</div>
 		</div>
+
 		<div class="form-component">
 			<div class="form-label"><label>Your Email</label></div>
-			<div class="form-input"><input type="email" name="email"></div>
+			<div class="form-input">
+				<input type="email" name="email">
+				<div class="form-desc">Please specify an email address you actually check frequently.</div>
+			</div>
 		</div>
+
 		<div class="form-component">
-			<div class="form-label"><label>Body</label></div>
-			<div class="form-input"><textarea name="body"></textarea></div>
+			<div class="form-label"><label>Mailing List</label></div>
+			<div class="form-input">
+				<input type="radio" name="mailing-list" value="Yes"><div class="form-option">Yes</div>
+				<input type="radio" name="mailing-list" value="No"><div class="form-option">No</div>
+				<div class="form-desc">I send out periodic (quarterly) emails with the latest info on security and features that you need to look out for in the tech world. You can remove yourself at any time.</div>
+			</div>
 		</div>
+
+		<div class="form-component">
+			<div class="form-label"><label>Contact Phone</label></div>
+			<div class="form-input">
+				<input type="tel" name="contact-phone">
+				<div class="form-desc">Please specify a number where you can be reached.</div>
+			</div>
+		</div>
+
+		<div class="form-component">
+			<div class="form-label"><label>Request Details</label></div>
+			<div class="form-input"><textarea name="request-details"></textarea></div>
+		</div>
+
 		<div class="form-component">
 			<div class="form-button-container"><button type="submit">Send Request</button></div>
 		</div>

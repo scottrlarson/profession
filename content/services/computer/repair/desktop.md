@@ -30,4 +30,4 @@ caption = ""
 
 {{% service-range item-min="$50" item-max="$300" %}}
 
-- Billed in half hour increments.
+- Billed in 1/2 hour increments.

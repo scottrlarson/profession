@@ -24,11 +24,11 @@ weight = 500
 
 ### Normal Service Hours
 
-- Please add $50 to each hour if the service will be performed at a business.
 -   Short Notice: $150.00 Per Hour(1hr Min)
 -   3 day to 1 week notice: $125.00 Per Hour(1hr Min)
 -   1 week or more notice: $100.00 Per Hour(1hr Min)
 - Please add $50 to each hour if the service will be performed at a business.
+-   Remote Support: $1.25 per min (3 hr maximum)
 
 ### Off hours
 

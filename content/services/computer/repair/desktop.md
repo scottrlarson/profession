@@ -28,4 +28,6 @@ caption = ""
 </ul>
 </div>
 
-{{% service-range item-min="$95" item-max="$255" %}}
+{{% service-range item-min="$50" item-max="$300" %}}
+
+- Billed in half hour increments.

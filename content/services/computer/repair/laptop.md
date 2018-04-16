@@ -29,4 +29,6 @@ When you are having a problem with your laptop's hardware or software that requi
 </ul>
 </div>
 
-{{% service-range item-min="$95.00" item-max="$255.00" %}}
+{{% service-range item-min="$50.00" item-max="$300.00" %}}
+
+- Billed in half hour increments.

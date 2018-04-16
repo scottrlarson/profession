@@ -82,10 +82,14 @@ label {
 
 .form-option {
 	color: white;
+	width: auto;
+	display: inline-block;
+	margin-right: 10px;
 }
 
 input[type="checkbox"], input[type="radio"] {
 	display: inline-block;
+	width: auto;
 }
 
 @media screen and (max-width: 600px) {

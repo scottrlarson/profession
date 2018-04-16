@@ -20,6 +20,7 @@ I offer discounts for Senior Citizens and Non-profits for all my services upon r
 -   Short Notice: $150.00 Per Hour(1hr Min)
 -   3 day to 1 week notice: $125.00 Per Hour(1hr Min)
 -   1 week or more notice: $100.00 Per Hour(1hr Min)
+- Please add $50 to each hour if the service will be performed at a business.
 
 **Off hours **
 
@@ -29,6 +30,7 @@ I offer discounts for Senior Citizens and Non-profits for all my services upon r
 **Weekends**
 
 -   At-Location Consultations: $150.00 Per Hour(1hr Min)
+- Please add $50 to each hour if the service will be performed at a business.
 -   Remote Support: $1.50 per min (3 hr maximum)
 
 **Office Diag/Repair Rates:**

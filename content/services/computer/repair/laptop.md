@@ -31,4 +31,5 @@ When you are having a problem with your laptop's hardware or software that requi
 
 {{% service-range item-min="$50.00" item-max="$300.00" %}}
 
-- Billed in half hour increments.
+- Billed in 1/2 hour increments
+- Hardware replacement/repairs are billed in 1 hour increments.

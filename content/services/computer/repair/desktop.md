@@ -17,7 +17,9 @@ caption = ""
 +++
 
 <div class="product-body">
-<p><strong><em>If you are not sure what the problem is with your device please request a <a href="diagnostic">diagnostic</a>. My diagnostic service allows for proper testing to occur so that complications prior to a repair are minimized.</em></strong></p>
+<p><strong><em>If you are not sure what the problem is with your device please request a <a href="/services/computer/repair/diagnostic/">diagnostic</a>. My diagnostic service allows for proper testing to occur so that complications prior to a repair are minimized.</em></strong></p>
+
+<p>With over twenty years of hardware and software experience, I provide quick and comprehensive repair solutions to the most common and obscure computer problems. Don't let computer problems frustrate you and effect your productivity, <a href="/services/computer/assistance/phone/">Call</a> me or <a href="/#contact">schedule an appointment</a>.</p>
 
 <ul>
 <li>If you are requesting this repair service as part of a previous Diagnostic service, you will receive half-off of the diagnostic service fee as a credit upon completion of repairs.</li>

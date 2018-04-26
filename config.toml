@@ -303,7 +303,14 @@ defaultContentLanguageInSubdir = false
   parent = "res"
   weight = 400
 
-  [[menu.main]]
+[[menu.main]]
+  name = "Presentations"
+  url = "resources/presentations"
+  parent = "res"
+  weight = 450
+
+
+[[menu.main]]
   name = "Recommendations"
   url = "/resources/recommendations"
   parent = "res"

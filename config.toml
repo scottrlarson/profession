@@ -284,6 +284,13 @@ defaultContentLanguageInSubdir = false
   parent = "res"
   weight = 200
 
+
+[[menu.main]]
+  name = "Events"
+  url = "/resources/events"
+  parent = "res"
+  weight = 225
+
 [[menu.main]]
   name = "Deals"
   url = "/resources/deals"

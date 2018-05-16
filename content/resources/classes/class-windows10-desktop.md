@@ -1,5 +1,5 @@
 +++
-title = "Windows 10"
+title = "Windows 10 Desktop"
 date = 2018-04-18T09:52:23-07:00
 draft = false
 
@@ -15,6 +15,6 @@ image = ""
 caption = ""
 
 +++
-## Lifebuoy Class: Windows 10 basics
+## Lifebuoy Class: Windows 10 Desktop Lifebuoy Class: Basics
 The lifebuoy of Windows 10. Learn how to navigate the windows 10 desktop. Understand the workings of the different areas of your desktop.
-[Windows10lifebuoy-basic.pdf](https://www.dropbox.com/s/1812elryqplvk5o/Windows10lifebuoy-basic.pdf?dl=0) - Via Dropbox
+[Windows10lifebuoy-basic.pdf](https://www.dropbox.com/s/vaoezh0cvg6zbw1/Windows10lifebuoy-basic-notes.pdf?dl=0) - Via Dropbox

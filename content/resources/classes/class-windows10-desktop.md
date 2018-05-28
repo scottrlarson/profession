@@ -15,6 +15,6 @@ image = ""
 caption = ""
 
 +++
-## Lifebuoy Class: Windows 10 Desktop Lifebuoy Class: Basics
+## Windows 10 Lifebuoy Class: Desktop Basics
 The lifebuoy of Windows 10. Learn how to navigate the windows 10 desktop. Understand the workings of the different areas of your desktop.
-[Windows10lifebuoy-basic.pdf](https://www.dropbox.com/s/vaoezh0cvg6zbw1/Windows10lifebuoy-basic-notes.pdf?dl=0) - Via Dropbox
+[Windows10lifebuoy-basic-notes.pdf](https://www.dropbox.com/s/9slyv1y2owymk88/Windows10lifebuoy-basic-notes.pdf?dl=0) - Via Dropbox

@@ -284,6 +284,12 @@ defaultContentLanguageInSubdir = false
   parent = "res"
   weight = 200
 
+[[menu.main]]
+  name = "Classes"
+  url = "/resources/classes"
+  parent = "res"
+  weight = 215
+
 
 [[menu.main]]
   name = "Events"

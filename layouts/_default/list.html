@@ -6,9 +6,11 @@
 
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
+
 {{ partial "header_image.html" . }}
 
 <div class="universal-wrapper">
+
   {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
 
   {{ with .Content }}
@@ -25,7 +27,6 @@
       {{ else if .Truncated }}
       {{ printf "%s" .Summary | markdownify }}
       {{ end }}
-	  <a href="{{ .Permalink }}">...more</a>
     </div>
   </div>
   {{ end }}

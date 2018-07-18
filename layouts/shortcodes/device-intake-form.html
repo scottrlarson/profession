@@ -1,0 +1,49 @@
+<div class="form-container">
+	<form name="contact" method="POST" netlify>
+		<div class="form-component">
+		  <div class="form-label"><label>Your Name</label></div>
+		  <div class="form-input"><input type="text" name="name" required></div>
+		</div>
+		<div class="form-component">
+			<div class="form-label"><label>Your Email</label></div>
+			<div class="form-input"><input type="email" name="email" required></div>
+		</div>
+		<div class="form-component">
+			<div class="form-label"><label>Your Contact Number</label></div>
+			<div class="form-input"><input type="tel" name="contact-phone" required></div>
+		</div>
+		<div class="form-component">
+			<div class="form-label"><label>Billing Address</label></div>
+			<div class="form-input"><textarea name="billing-address" required></textarea></div>
+		</div>
+		<div class="form-component form-select">
+			<div class="form-label"><label>Device Manufacturer</label></div>
+			<div class="form-input"><select name="device-manufacturer" required></div>
+				<option value=""></option>
+				<option value="Apple">Apple</option>
+				<option value="HP">HP</option>
+				<option value="Compaq">Compaq</option>
+		   	<option value="Gateway">Gateway</option>
+		   	<option value="Dell">Dell</option>
+			 	<option value="Toshiba">Toshiba</option>
+			 	<option value="Lenovo">Lenovo</option>
+			 	<option value="Asus">Asus</option>
+			 	<option value="WD">Western Digital (WD)</option>
+			 	<option value="Seagate">Seagate</option>
+			 	<option value="Custom">Custom</option>
+			 	<option value="Other">Other</option>
+		 </select>
+		</div>
+		<div class="form-component">
+			<div class="form-label"><label>Device Model Number</label></div>
+			<div class="form-input"><input type="text" name="device-model-number" required></div>
+		</div>
+		<div class="form-component">
+			<div class="form-label"><label>Comments</label></div>
+			<div class="form-input"><textarea name="body"></textarea></div>
+		</div>
+		<div class="form-component">
+			<div class="form-button-container"><button type="submit">Send Request</button></div>
+		</div>
+	</form>
+</div>

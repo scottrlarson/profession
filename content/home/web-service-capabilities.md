@@ -38,15 +38,17 @@ Other times, web developers are handed a pre-existing website that is old and ha
 
 ### Remote Management, Maintenance, Backup, Security, Migration and Support.
 
-**Hourly**
+**Hourly**  
+
 - $50.00 Per Hour(1hr Min) | Short notice  
 - $35.00 Per Hour(1hr Min) | 3 day to 1 week notice   
 - $25.00 Per Hour(1hr Min) | 1 week or more notice  
 - $15.00 Per Hour(5hr Min) | Project Based
 - $01.00 Per Min(3 hr maximum) Per Day | Support Remote/Phone  
 
-**Package**
-- $150.00 Per Year - Per Device (Economy)
+**Package**  
+
+- $150.00 Per Year - Per Device (Economy)  
 	- Perform required maintenance - Yearly (Free)
 	- Resolutions (Per Hour)
 - $150.00 Per Quarter - Up to 4 Devices (2nd Class)
@@ -59,12 +61,14 @@ Other times, web developers are handed a pre-existing website that is old and ha
 
 ### At-Location Consultations
 
-**Hourly**
+**Hourly**  
+
 - IT Setup, Troubleshooting and Repair - $150.00 Hr (1Hr Min)
 - Advise - $100.00 Hr (1Hr Min)
 - Training - $50.00 | With Documentation $150.00 (2Hr Min)
 
-**Package**
+**Package**  
+
 - $300.00 Per Year - Per Device (Economy)
 	- 1 Visit
 	- 1 Support Phone/Remote (1 Hour)

@@ -51,13 +51,11 @@
         </li>
 
         {{ else }}
-        
-        {{/* Set target for link. */}}
-        {{ $.Scratch.Set "target" "" }}
-        {{ if gt (len .URL) 4 }}
-          {{ if eq "http" (slicestr .URL 0 4) }}
-            {{ $.Scratch.Set "target" " target=\"_blank\" rel=\"noopener\"" }}
-          {{ end }}
+
+        {{ if eq "http" (slicestr .URL 0 4) }}
+          {{ $.Scratch.Set "target" " target=\"_blank\" rel=\"noopener\"" }}
+        {{ else }}
+          {{ $.Scratch.Set "target" "" }}
         {{ end }}
 
         <li class="nav-item">

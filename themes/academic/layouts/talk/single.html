@@ -107,11 +107,9 @@
   </div>
 </div>
 
-{{ if .Site.Params.section_pager }}
-<div class="article-container article-widget">
+<div class="container">
   {{ partial "section_pager.html" . }}
 </div>
-{{ end }}
 
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}

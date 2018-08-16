@@ -14,15 +14,6 @@
 - id: minute_read
   translation: min de lectura
 
-- id: previous
-  translation: Anterior
-
-- id: next
-  translation: Siguiente
-
-- id: figure
-  translation: "Figura %d:"
-
 # Buttons
 
 - id: btn_preprint
@@ -32,7 +23,7 @@
   translation: PDF
 
 - id: btn_cite
-  translation: Citar
+  translation: Citación
 
 - id: btn_slides
   translation: Diapositivas
@@ -64,7 +55,7 @@
 # About widget
 
 - id: interests
-  translation: Intereses
+  translation: Interés
 
 - id: education
   translation: Educación
@@ -77,7 +68,7 @@
 # Posts widget
 
 - id: continue_reading
-  translation: CONTINUAR LEYENDO
+  translation: CONTINÚA LEYENDO
 
 - id: more_posts
   translation: Más posts
@@ -116,7 +107,7 @@
 # Filtering
 
 - id: filter_by_type
-  translation: Filtrar por tipo
+  translation: Filtro por tipo
 
 - id: filter_all
   translation: Todo
@@ -135,7 +126,7 @@
   translation: Publicaciones
 
 - id: talks
-  translation: Conferencias
+  translation: Charlas
 
 - id: projects
   translation: Proyectos
@@ -143,18 +134,7 @@
 # Error 404
 
 - id: page_not_found
-  translation: Página no encontrada
+  translation: Page no encontrada
 
 - id: 404_recommendations
-  translation: ¿Buscabas una de éstas?
-
-# Cookie consent
-
-- id: cookie_message
-  translation: Este sitio web utiliza cookies para garantizarle una mejor experiencia.
-
-- id: cookie_dismiss
-  translation: Entendido!
-
-- id: cookie_learn
-  translation: Más información
+  translation: Tal vez buscaba una de estas?

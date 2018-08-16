@@ -273,6 +273,12 @@ defaultContentLanguageInSubdir = false
   url = "resources"
 
 [[menu.main]]
+  name = "Guides"
+  url = "/resources/guides"
+  parent = "res"
+  weight = 100
+
+[[menu.main]]
   name = "Scoops"
   url = "/resources/scoops"
   parent = "res"

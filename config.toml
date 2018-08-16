@@ -276,7 +276,7 @@ defaultContentLanguageInSubdir = false
   name = "Guides"
   url = "/resources/guides"
   parent = "res"
-  weight = 100
+  weight = 50
 
 [[menu.main]]
   name = "Scoops"

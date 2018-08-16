@@ -1,5 +1,5 @@
 +++
-title = "Removing Duplicate Phones from your PC."
+title = "Removing Duplicate Photos from your PC."
 date = 2018-08-16T09:32:03-07:00
 draft = false
 

@@ -21,7 +21,7 @@ This guide shows you how to scan and remove duplicate photos using the PC applic
 Launch DupeGuru from the desktop icon. Select the application mode for the appropriate files you are going to be scanning for: Standard, Music, or Pictures.
 
 Since this guide is going to be for Pictures choose that mode.
-![dupeGuru Application Mode Screenshot](http://scottrlarson.com/img/guides/dupeGuru/dg-application-mode.png)
+![dupeGuru Application Mode Screenshot](http://scottrlarson.com/img/guides/dupeGuru/dupeGuru-path-selected.png)
 
 Tap on the plus icon to choose the folders to scan for duplicates.
 ![dupeGuru Add Path Screenshot](http://scottrlarson.com/img/guides/dupeGuru/dg-add.png)

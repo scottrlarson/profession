@@ -23,10 +23,9 @@ I provide the following services by contract in this area:
 ## At-Location Consultations
 - IT Setup, Troubleshooting and Repair
 
-## My IT Administration History
-From 2000 - 2006 I worked for a company called Sonic.com in Novato. Back then Sonic.com was a Multimedia authoring software company that made software products for audio and video professionals. I came in as their systems administrator. At that time I already had lots of experience with the inner workings with computers, but that was the first time I started to learn about handling technology on a service level. Where I was a liaison between the company and vendors of various Internet services like mail and websites. But I also maintained the companies internal servers and services. I gained a lot of experience with how mail servers and website servers communicate on the back end to the point where I could trouble-shoot and resolve most communication problems related to why websites were not display content correctly, or why email not being delivered.
+From 2000 - 2006 I worked for a company called Sonic.com in Novato. Back then Sonic.com was a Multimedia authoring software company that made software products for audio and video professionals. I came in as their systems administrator. At that time I already had lots of experience with the inner workings with computers, but that was the first time I started to learn about handling technology on a service level. Where I was a liaison between the company and vendors of various Internet services like mail and websites. But I also maintained the companies internal servers and services. I gained a lot of experience with how mail servers and website servers communicate on the back end to the point where I could trouble-shoot and resolve most communication problems related to why websites were not display content correctly, or why email was not being delivered.
 
-My business revolves around maintaining website and mail related services for companies, but I mostly handle special cases where the IT staff neither has the time or the knowhow to handle website, email or DNS communication issues.  Sometimes the hosting vendor or a web developer can handle it, sometimes it requires someone with expertise in communication protocols.
+My business revolves around maintaining and managing desktops, websites, and mail related services for companies, but I mostly handle special cases where the IT staff neither has the time or the knowhow to handle these issues.  Sometimes a vendor, a general IT person or a web developer can handle it, sometimes it requires someone with expertise in specific areas of technology. I have extensive experience with communication protocols and computer hardware/software.
 
 An example of this was a customer of mine called me and explained that their web designer was having trouble with getting their website contact form to talk to their hosting provider's mail server. The hosting provider in this case was Godaddy. Godaddy doesn't actually support this issue because from their point of view the customers mail service is working and the contact form script in question was having the problem.
 
@@ -38,7 +37,7 @@ Other times, web developers are handed a pre-existing website that is old and ha
 
 ### Remote Management, Maintenance, Backup, Security, Migration and Support.
 
-**Hourly**  
+**Hourly**
 
 - $50.00 Per Hour(1hr Min) | Short notice  
 - $35.00 Per Hour(1hr Min) | 3 day to 1 week notice   
@@ -46,9 +45,9 @@ Other times, web developers are handed a pre-existing website that is old and ha
 - $15.00 Per Hour(5hr Min) | Project Based
 - $01.00 Per Min(3 hr maximum) Per Day | Support Remote/Phone  
 
-**Package**  
+**Package**
 
-- $150.00 Per Year - Per Device (Economy)  
+- $150.00 Per Year - Per Device (Economy)
 	- Perform required maintenance - Yearly (Free)
 	- Resolutions (Per Hour)
 - $150.00 Per Quarter - Up to 4 Devices (2nd Class)
@@ -57,24 +56,3 @@ Other times, web developers are handed a pre-existing website that is old and ha
 - $150.00 Per Month - Up to 4 Devices (1st Class)
 	- Perform required maintenance - Monthly (Free)
 	- Resolutions (Free)
-
-
-### At-Location Consultations
-
-**Hourly**  
-
-- IT Setup, Troubleshooting and Repair - $150.00 Hr (1Hr Min)
-- Advise - $100.00 Hr (1Hr Min)
-- Training - $50.00 | With Documentation $150.00 (2Hr Min)
-
-**Package**  
-
-- $300.00 Per Year - Per Device (Economy)
-	- 1 Visit
-	- 1 Support Phone/Remote (1 Hour)
-- $300.00 Per Quarter - Up to 4 Devices (2nd Class)
-	- 1 Visit
-	- 1 Support Phone/Remote (1 Hour)
-- $300.00 Per Month - Up to 4 Devices (1st Class)
-	- 1 Visit
-	- 1 Support Phone/Remote (1 Hour)

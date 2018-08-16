@@ -16,7 +16,7 @@ caption = ""
 
 +++
 
-This guide shows you how to scan and remove duplicate photos using the PC application "[dupeGuru](https://www.hardcoded.net/dupeguru/)".
+This guide shows you how to scan and remove duplicate photos using the PC application "[dupeGuru](https://dupeguru.voltaicideas.net/)".
 
 Launch DupeGuru from the desktop icon. Select the application mode for the appropriate files you are going to be scanning for: Standard, Music, or Pictures.
 

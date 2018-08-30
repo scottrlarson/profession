@@ -450,6 +450,10 @@ defaultContentLanguageInSubdir = false
   parent = "inf"
   weight = 1
 
+[[menu.main]]
+  name = "Packages"
+  url = "/packages"
+  weight = 7
 
 # Taxonomies.
 [taxonomies]

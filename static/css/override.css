@@ -408,3 +408,5 @@ ul.ul-edu li .description p.method {
 	border: 0px;
 
 }
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {max-height: none;} 

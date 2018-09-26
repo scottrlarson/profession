@@ -17,7 +17,7 @@ caption = ""
 
 Maintaining batter life can somewhat be a moving target. Lithium Ion batteries are used in most electronics since 2013. Unfortunately, little has changed with its technology.
 
-Storing these batteries does not preserve their life expectancy. Slowly over time the batter loses its life expectancy. Below is a chart on the average loss based on the temperature that the battery is stored in:
+Storing these batteries does not preserve their life expectancy. Slowly over time the battery loses its life expectancy. Below is a chart on the average loss based on the temperature that the battery is stored in:
 
 <table border="1" cellspacing="0" cellpadding="2" width="365">
 <tbody>

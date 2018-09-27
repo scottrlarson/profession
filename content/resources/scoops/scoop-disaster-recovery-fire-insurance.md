@@ -20,7 +20,7 @@ caption = ""
 ## The Problem.
 A day after the Northern California firestorm in 2017 a customer called me: "Scott, our house burnt down to the ground, our computers are gone, can you get us up and running with new computers, and restore our data from Carbonite?"
 
-Even though it was the day after having escaped to the coast with my family at first I was dazed by the disaster, I didn't fully realize myself how people would be effected by this catastrophe. That day I was able to order two new dell laptops, install Carbonite, and restore the customer’s data. The customer was up and running in about a week.
+Even though it was the day after having escaped to the coast with my family at first I was dazed by the disaster, I didn't fully realize myself how people would be effected by this catastrophe. That day I was able to order two new laptops from dell's online store, install Carbonite, and restore the customer’s data. The customer was up and running in about a week.
 
 Having a cloud or rotating storage device backup system. is important. Fire damage is a real threat in California moving forward. Consider having some kind of backup strategy for a disaster like this so you don't lose important data. Ask your self the following question: What can I afford to lose if a disaster like this strikes again?
 

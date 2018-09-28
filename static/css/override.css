@@ -203,6 +203,19 @@ img {max-width:100%; height:auto;}
 	padding: 10px;
 	background-color: Orange;
 	text-align: center;
+	white-space: no-wrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+.price-adjustment-label {
+	flex: 2 0 0;
+	padding: 10px;
+	background-color: DarkGrey;
+	text-align: center;
+	white-space: no-wrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
 }
 
 .price-data-item {
@@ -409,4 +422,4 @@ ul.ul-edu li .description p.method {
 
 }
 
-.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {max-height: none;} 
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {max-height: none;}

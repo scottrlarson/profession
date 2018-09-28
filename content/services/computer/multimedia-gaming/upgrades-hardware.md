@@ -17,12 +17,5 @@ caption = ""
 +++
 You might need a newer video card or more memory. I offer affordable rates and a work guarantee for upgrading your current hardware.<!--more-->
 
-<ul>
-<li>This fee is per hardware item.</li>
-</ul>
-
-Price.Adjustments.Data: Laptop Disassembly/Reassembly
-{{ index .Site.Data.price-adjustments.LDA.name }}
-
-
+{{% service-adjustment label="Laptop Disassembly/Reassembly" item="$50" %}}
 {{% service-custom label="Per Item" item="$35" %}}

@@ -17,11 +17,5 @@ caption = ""
 +++
 If you want a piece of hardware replaced, like a hard drive or video card and you don't want to do it yourself, I offer affordable rates and a work guarantee for replacing your current hardware.<!--more-->
 
-<ul>
-<li>This fee is per hardware item.</li>
-</ul>
-
-Price.Adjustments.Data: Laptop Disassembly/Reassembly
-{{ index .Site.Data.price-adjustments.LDA.name }}
-
+{{% service-adjustment label="Laptop Disassembly/Reassembly" item="$50" %}}
 {{% service-custom label="Per Item" item="$35" %}}

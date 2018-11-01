@@ -13,6 +13,7 @@ weight = 10100
 +++
 
 ## Technical Focus
+Repair and Diagnosis of the following hardware:
 
 -   **Systems:** Intel & AMD PC's, Apple Macs
 -   **CPU'S:** Intel & AMD
@@ -45,6 +46,12 @@ weight = 10100
 -   **Misc** - Keyboards - Mice - Laptop, All-in-one Batteries -
     Hibernation - Standby - USB Ports - FireWire Ports - Printing -
     Power Adapters - Power Connectors
+
+Repair and Diagnosis of the following software:
+
+- **Operating Systems** - Microsoft Windows, Apple MacOS, and Linux.
+- **Software Applications** - Microsoft Office, Web Browsers: Chrome, Firefox, and Internet Explorer, Desktop Publishing, Photo and Video Publishing.
+
 
 ## My Service Center Rates
 

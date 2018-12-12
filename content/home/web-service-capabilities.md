@@ -47,12 +47,12 @@ Other times, web developers are handed a pre-existing website that is old and ha
 
 **Package**
 
-- $150.00 Per Year - Per Device (Economy)
+- $400.00 Per Year - Per Device (Economy)
 	- Perform required maintenance - Yearly (Free)
 	- Resolutions (Per Hour)
-- $150.00 Per Quarter - Up to 4 Devices (2nd Class)
+- $400.00 Per Quarter - Up to 4 Devices (2nd Class)
 	- Perform required maintenance - Quarterly (Free)
 	- Resolutions (Free)
-- $150.00 Per Month - Up to 4 Devices (1st Class)
+- $400.00 Per Month - Up to 4 Devices (1st Class)
 	- Perform required maintenance - Monthly (Free)
 	- Resolutions (Free)

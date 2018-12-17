@@ -56,3 +56,24 @@ Other times, web developers are handed a pre-existing website that is old and ha
 - $400.00 Per Month - Up to 4 Devices (1st Class)
 	- Perform required maintenance - Monthly (Free)
 	- Resolutions (Free)
+
+**List of services performed on a monthly basis**
+
+General Management:
+- Notify and/or Charge customers $300 for system maintenance.
+- Backup system
+- Audit system and recommend new hardware upgrades (if needed)
+- Add new services as needed.
+- Update Emsisoft Definitions/Software/Firmware.
+- Clean system of dust
+- Check for errors in logs.
+- Update Windows & Drivers
+
+Backup Management:
+- Check for any problems in backup schedules.
+- Check that all software is operating, there might be more than one backup solution installed. (cloud, local,smart.)
+
+Security Management:
+- Add new end points (if any).
+- Check for threats.
+- Make non-interfering adjustments to security features.

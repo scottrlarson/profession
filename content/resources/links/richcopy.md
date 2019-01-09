@@ -13,5 +13,6 @@ categories = ["utilities", "software"]
 [header]
 image = ""
 caption = ""
-A good [article](http://www.tpcqpc.com/richcopy-microsofts-multi-threaded-file-copy-utility/) on a Windows copy utilities for IT professionals.
 +++
+
+A good [article](http://www.tpcqpc.com/richcopy-microsofts-multi-threaded-file-copy-utility/) on a Windows copy utilities for IT professionals.

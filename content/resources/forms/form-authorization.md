@@ -17,4 +17,4 @@ caption = ""
 +++
 This form is required if you plan on requesting that I perform a initial analysis or full diagnostic on your device.
 
-[srl-authorization-form.pdf](https://www.dropbox.com/s/iio0eoskv7qsnjz/srl-autorization-form_distributed.pdf?dl=0)
+[srl-autorization-form-static_distributed.pdf](https://www.dropbox.com/s/st1vnfasjpdz1xt/srl-autorization-form-static_distributed.pdf?dl=0)

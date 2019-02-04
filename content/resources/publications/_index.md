@@ -16,5 +16,3 @@ list_format = 3
 image = ""
 caption = ""
 +++
-
-No publications as of yet.

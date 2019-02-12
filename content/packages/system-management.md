@@ -15,33 +15,37 @@ image = ""
 caption = ""
 
 +++
-I provide monitoring and maintenance service on the reliable operation of your data backups by installing and maintaining a robust backup and disaster recovery solution in the home, small business and/or cloud. This way you do not have to worry about the maintenance yourself. Many people believe that once a backup solution is purchased, nothing else needs to be done but to make sure the backups are happening. If the backup solution is not maintained (Software updated/upgraded, scheduled backups monitored) problems can crop up and many times you wont even know it until its too late.
+I provide monitoring and maintenance service on the reliable operation of your device by installing and maintaining a robust security, maintenance, and disaster recovery solution in the home, in a small business and/or cloud. This way you do not have to worry about device maintenance yourself. Just like a car, over time, and use, a technological device requires maintenance. If the device is not maintained (Updating Software, and monitoring security and backups) problems can crop up, and many times you wont even know it until it's too late.
 
-I had one customer that thought his special accounting data was being backed up by Carbonite, but due to the way in which the application accessed the data, it prevented the Carbonite from accessing and backing up the data while the application was running. Since the application was open most of the time, the data was not being backed up. I point out these situations by inventorying your applications and spotting potential problems.
+I had one customer that thought his special accounting data was being backed up by Carbonite, but due to the way in which the application accessed the data, it prevented the Carbonite from accessing, and backing up the data while the application was running. Since the application was open most of the time, the data was not being backed up. The customer had to rebuild that particular data set from scratch.
 
-If you have these special cases I can sit down with you, find out whats most important to backup and provide solutions that aim to prevent catastrophic loss of critical data. I also monitor this solution on a monthly basis, update the backup software when necessary, tweak backup schedules to run at opportune times, recommend replacement hardware to improve backup functionality and possibly alert you, or trigger a backup when your storage device reports a pending failure.
+If needed, I take an inventory of your applications and data sets to look for potential problems and come up with a custom action plan that meets your specific needs.
 
-But even if you have simple needs don't let the backup of your data slip though the cracks of a computer upgrade.
+If you have special cases that needs this kind of attention, I can sit down with you, and find out whats most important to maintain. I provide solutions that aim to prevent catastrophic loss of critical data. I do this by  monitoring your device's performance, reliability, and security on a monthly basis, update software when necessary, tweak scan and backup schedules to run at opportune times, recommend replacement hardware. This allows me to possibly alert you of a pending failure, or possibly trigger a backup before a loss occurs.
 
-If you have a current backup system in place this solution would replace your current one.
+But even if you have simple needs, don't let the maintenance of your current device slip though the cracks of a upgrade.
+
+If you have a current security or backup solution this service would be a replacement.
 
 ## Costs
-$500.00 Yearly averages out to $41.600 Monthly. This fee includes:
+$500.00 Yearly averages out to $41.600 Monthly. This fee includes (Per Device):
 
 - Macrium Reflect: Disaster Recovery Solution \*\*\*\*
-- Carbonite Cloud Backup Service
+- Carbonite Cloud Backup Service (If needed)
 - Security Software and Protection
 - Hard Disk Sentinel: Monitor's storage devices reliability.
 - Management Service fee (Yearly)
 
-$150.00 Reliable USB storage device: Lacie Rugged Portable HDD 2TB
+$150.00 Reliable USB storage device: Lacie Rugged Portable HDD 2TB (Per Device)
+or
+$700.00 NAS(Network Attached Storage) device for local (in-home) network backup's of all your devices, or network access to your files (Requires a network site survey $400.00)
 
 ## What you get yearly
 
 **My Personalized Management services (Health Monitoring of: Backup, Security, and System Maintenance)**
 
 - Disaster Recovery Backup and Management of your device (Windows operation settings, Programs, and Personal) data using Macrium Backup Software to maintain a copy of your device in case of a system crash, or hardware loss.
-- Cloud Backup and Management of your personal data using Carbonite's cloud storage service.
+- Cloud Backup and Management of your personal data using Carbonite's cloud storage service.(If needed)
 - Hardware Reliability Monitoring Service that helps to prevent hardware disasters before they strike.
 - Security Management of your device: Maintenance of security software and  features that help to protect your device from threats.
 

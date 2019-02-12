@@ -49,7 +49,7 @@ $700.00 NAS(Network Attached Storage) device for local (in-home) network backup'
 - Hardware Reliability Monitoring Service that helps to prevent hardware disasters before they strike.
 - Security Management of your device: Maintenance of security software and  features that help to protect your device from threats.
 
-# Terms
+## Terms
 - Security Management: Install and Maintain a security solution. I remotely manage and customize security settings that help prevent threats from causing system downtime.(Please note that I cannot protect your device from certain personal use habits that aims to circumvents the device's ability to protect you from threats. Contact me if you have questions)
 - Hardware Reliability Monitoring Service: Get a possible alert of storage hardware catastrophes before they happen. In most cases a backup can be triggered in the event of a panic situation before the storage device completely fails protecting your most recent data. \*
 - Local, Network or Cloud backup solutions can run concurrently to give you the widest possible backup redundancy. \*\*

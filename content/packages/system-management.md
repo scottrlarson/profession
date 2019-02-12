@@ -1,5 +1,5 @@
 +++
-title = "Backup Management Services"
+title = "System Management Services"
 date = 2018-08-30T13:28:18-07:00
 draft = false
 
@@ -26,21 +26,33 @@ But even if you have simple needs don't let the backup of your data slip though 
 If you have a current backup system in place this solution would replace your current one.
 
 ## Costs
-$220.00 Yearly averages out to $12.50 Monthly
-Includes:
-- my Management services
-- Macrium Backup Software (upgraded and updated on a yearly basis.
+$500.00 Yearly averages out to $41.600 Monthly. This fee includes:
+
+- Macrium Reflect: Disaster Recovery Solution \*\*\*\*
+- Carbonite Cloud Backup Service
+- Security Software and Protection
+- Hard Disk Sentinel: Monitor's storage devices reliability.
+- Management Service fee (Yearly)
+
+$150.00 Reliable USB storage device: Lacie Rugged Portable HDD 2TB
 
 ## What you get yearly
-- Monitoring of Storage Hardware: Get a possible alert of storage hardware catastrophes before they happen. In most cases a backup can be triggered in the event of a panic situation before the storage device completely fails protecting your most recent data. \*
+
+**My Personalized Management services (Health Monitoring of: Backup, Security, and System Maintenance)**
+
+- Disaster Recovery Backup and Management of your device (Windows operation settings, Programs, and Personal) data using Macrium Backup Software to maintain a copy of your device in case of a system crash, or hardware loss.
+- Cloud Backup and Management of your personal data using Carbonite's cloud storage service.
+- Hardware Reliability Monitoring Service that helps to prevent hardware disasters before they strike.
+- Security Management of your device: Maintenance of security software and  features that help to protect your device from threats.
+
+# Terms
+- Security Management: Install and Maintain a security solution. I remotely manage and customize security settings that help prevent threats from causing system downtime.(Please note that I cannot protect your device from certain personal use habits that aims to circumvents the device's ability to protect you from threats. Contact me if you have questions)
+- Hardware Reliability Monitoring Service: Get a possible alert of storage hardware catastrophes before they happen. In most cases a backup can be triggered in the event of a panic situation before the storage device completely fails protecting your most recent data. \*
 - Local, Network or Cloud backup solutions can run concurrently to give you the widest possible backup redundancy. \*\*
-- The disaster recovery software and free upgrades. \*\*\*
-- My disaster recovery management and maintenance of Macrium backup software and its backup jobs on a monthly basis yearly. Macrium backup software is used by many reputable companies like Ford, Acer and Disney to protect data from failures. \*\*\*\*
+- Disaster Recovery Backup and Management: My disaster recovery management and maintenance of Macrium backup software and its backup jobs on a monthly basis yearly. Macrium backup software is used by many reputable companies like Ford, Acer and Disney to protect data from failures. \*\*\*\*
 - 1 Free Recovery in the event of a catastrophic failure of a storage device or data loss. \*\*\*\*\*
+- Cloud Backup and Management: Install, Setup and Maintenance of Carbonite's cloud backup service. I Install, setup backup jobs and monitor their reliability.
 
-## What the service doesn't include
-
-- Storage device: A external storage device may need to be purchased. The cost will depend on your storage requirements. For local storage, if its a single end point a storage device can run between $100 and $300. If you require more features and wider area of access via network or WiFi a site survey needs to be performed to determine what the best solution is for your needs. I can give you a free estimate on site.
 
 \* S.M.A.R.T. (Self-Monitoring, Analysis and Reporting Technology; often written as SMART) is a monitoring system included in computer hard disk drives (HDDs), solid-state drives (SSDs), and eMMC drives. Its primary function is to detect and report various indicators of drive reliability with the intent of anticipating imminent hardware failures. When S.M.A.R.T. data indicates a possible imminent drive failure, software running on the host system may notify the user so preventative action can be taken to prevent data loss, the failing drive can be replaced and data integrity maintained. Please note that this is not a full proof method to detect and resolve hardware failures before they happen. It can help to prevent data loss, but there is no guarantee that it will.
 

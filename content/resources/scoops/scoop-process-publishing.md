@@ -1,9 +1,9 @@
----
++++
 title = "Ebook Publishing Process"
 author = "Scott Larson"
 date = 2019/2/11
 Draft = false
----
++++
 
 I am a author, publisher, and ebook conversion specialist. I got my start developing websites about 5 years after the internet was in fruition. During the beginning of 2019, my first book "[Most Improved](http://www.scottrlarson.com/resources/publications/publication-most-improved/)" was authored, and published in digital form. I then converted the digital format to a print version so my audience can experience both formats. I can do the same for you. 
 

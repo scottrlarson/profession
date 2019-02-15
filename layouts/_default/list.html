@@ -10,6 +10,7 @@
 {{ partial "header_image.html" . }}
 
 <div class="universal-wrapper">
+
   {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
 
   {{ with .Content }}
@@ -25,8 +26,7 @@
       {{ printf "%s" .Params.summary | markdownify }}
       {{ else if .Truncated }}
       {{ printf "%s" .Summary | markdownify }}
-      {{ end }}	 
-	  <a href="{{ .Permalink }}">...more</a>
+      {{ end }}
     </div>
   </div>
   {{ end }}

@@ -1,0 +1,3 @@
+In-Shop
+At-Location Pickup
+At-Location Consultation

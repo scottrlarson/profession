@@ -15,4 +15,3 @@ image = ""
 caption = ""
 
 +++
-No newsletters as of yet.

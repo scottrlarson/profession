@@ -1,6 +1,6 @@
 +++
-title = "Test"
-date = 2018-02-21T18:15:46-08:00
+title = "Service Packages"
+date = 2018-08-30T13:29:39-07:00
 draft = false
 
 # Tags and categories
@@ -15,5 +15,3 @@ image = ""
 caption = ""
 
 +++
-
-{{% request-form %}}

@@ -20,9 +20,9 @@ weight = 1000
 To provide information technology assistance to the public.
 
 ## Professional Work History
-2009 - 2017 Scott Larson Computer Repair & Data Recovery - Owner/Operator - Technical Solutions Provider
+2009 - 2018 Independent IT Service to the public - Owner/Operator - Technical Solutions Provider
 
-Serviced the Santa Rosa community in the following ways:
+Servicing the Santa Rosa community and the surrounding areas in the following ways:
 
 - Setup new PC's and Mac's
 - Migrated data from old devices to new devices.
@@ -48,7 +48,7 @@ Serviced the Santa Rosa community in the following ways:
 -  HTML, CSS, Javascript, Scripting.
 -  Applications: Apache, IIS, MS Office.
 -  Network Hardware: Routers, switches, hubs, cable modem equipment, Wifi
-equipment. 
+equipment.
 - Network Protocols: TCP/IP, FTP, SSH, Telnet.
 - Security: IPCop, All Antivirus solitions, Linux (ipchains), Sonicwall Firewalls, Mason, Snort, Nessus
 -  Computer Hardware: x86, x64 PC , Macintosh, Sun workstations

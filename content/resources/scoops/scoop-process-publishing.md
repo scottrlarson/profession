@@ -1,6 +1,5 @@
 +++
 title = "Ebook Publishing Process"
-author = "Scott Larson"
 date = 2019/2/11
 Draft = false
 +++

@@ -9,7 +9,7 @@ title = "What sets me apart from most IT professionals"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 100
+weight = 15
 +++
 - I have a wide range of expertise.
 - I care about the customer's needs like my own.

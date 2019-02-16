@@ -37,9 +37,9 @@ $500.00 Yearly averages out to $41.600 Monthly. This fee includes (Per System):
 - Hard Disk Sentinel: Monitor's storage systems reliability.
 - Management Service fee (Yearly)
 
-$150.00 Reliable USB storage system: Lacie Rugged Portable HDD 2TB (Per System)
-or
-$700.00 NAS(Network Attached Storage) system for local (in-home) network backup's of all your systems, or network access to your files (Requires a network site survey $400.00)
+$150.00 Reliable USB storage system: Lacie Rugged Portable HDD 2TB (Per System) (If required)
+or  
+$700.00 NAS(Network Attached Storage) system for local (in-home) network backup's of all your systems, or network access to your files (Requires a network site survey $400.00) (If needed)
 
 ## What you get yearly
 

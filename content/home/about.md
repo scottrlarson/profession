@@ -62,8 +62,18 @@ weight = 1
     <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body"><p>Along the way of providing technical services to the public, I noticed great suffering happening on a spiritual level between myself and the world. I realized I could no longer sit by and watch my world be destroyed by inaction. Today I work to bring my world into alignment of spiritual truth though my own personal activism.</p>
 
-      <p>Spiritual Activism is the coming together of spirituality and activism. It is not about religion, it is not about any form of dogma, it is activism that comes from the heart, not just the head, activism that is compassionate, positive, kind, fierce and transformative. Being a spiritual activist means taking responsibility for my part in creating the change I want to see in the world. Living in a spirit of positivity, compassion, and love with a balance of independence and self determination. Nothing could be more inspiring and more rewarding than being the change we want to see in the world, within and without.</p>
-</div>
+      <p>Spiritual Activism is the coming together of spirituality and activism. It is not about religion, it is not about any form of dogma, it is activism that comes from the heart, not just the head, activism that is compassionate, positive, kind, fierce and transformative. Being a spiritual activist means taking responsibility for my part in creating the change I want to see in the world. Living in a spirit of positivity, compassion, and love with a balance of independence and self determination. Nothing could be more inspiring and more rewarding than being the change we want to see in the world, within and without.</p></div>
     </div>
   </div>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Authoring Background</a>
+      </h2>
+    </div>
+    <div id="collapse3" class="panel-collapse collapse">
+      <div class="panel-body"><p>In 2019 I suffered a Cerebral Hemorrhage. I wrote a <a href="#publication-most-improved">book</a> about the experience of overcoming depression. In the book a write about how mental/emotional strife, or peace, and the reasons behind it plays a direct role in shaping life.</p></div>
+    </div>
+  </div>
+
 </div>

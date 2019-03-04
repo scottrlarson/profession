@@ -24,21 +24,21 @@ weight = 500
 
 ### Normal Service Hours
 
--   Short Notice: $150.00 Per Hour(1hr Min)
--   3 day to 1 week notice: $125.00 Per Hour(1hr Min)
--   1 week or more notice: $100.00 Per Hour(1hr Min)
+-   Short Notice: $175.00 Per Hour(1hr Min)
+-   3 day to 1 week notice: $150.00 Per Hour(1hr Min)
+-   1 week or more notice: $125.00 Per Hour(1hr Min)
 - Please add $50 to each hour if the service will be performed at a business.
 -   Remote Support: $1.25 per min (3 hr maximum)
 
 ### Off hours
 
--   At-Location Consultations: $200.00 Per Hour(1hr Min)
+-   At-Location Consultations: $225.00 Per Hour(1hr Min)
 - Please add $50 to each hour if the service will be performed at a business.
 -   Remote Support: $1.75 per min (3 hr maximum)
 
 ### Weekends
 
--   At-Location Consultations: $150.00 Per Hour(1hr Min)
+-   At-Location Consultations: $175.00 Per Hour(1hr Min)
 - Please add $50 to each hour if the service will be performed at a business.
 -   Remote Support: $1.50 per min (3 hr maximum)
 

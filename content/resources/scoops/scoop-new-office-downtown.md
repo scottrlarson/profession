@@ -14,6 +14,8 @@ categories = []
 image = ""
 caption = ""
 +++
+Update: The pictures below are out of date, but I am right next door in the "Upton" building. As 2019 3/1/2019 I am now at 555 5th Street Suite 230-A. Pictures will go up when I am finished furnishing my new office.
+
 ![Photo of my new office building downtown on 5th Street near Santa Rosa Plaza](/img/scoops/new-office-downtown/office-outside-med-small.jpg)
 ![Photo of my new office room](/img/scoops/new-office-downtown/office-room-int-med-small.jpg)
 ![Photo of my new Operations Station](/img/scoops/new-office-downtown/office-operations-int-close-small.jpg)

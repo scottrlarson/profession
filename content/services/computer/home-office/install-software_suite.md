@@ -23,4 +23,4 @@ I can install and configure a wide variety of software suites ranging from offic
 <li>If your program requires data to be transferred from one location to another that is an additional cost of $20.00 per 125 gigabytes or less.</span></li>
 </ul>
 
-{{% service-custom label="Per Item" item="$10" %}}
+{{% service-custom label="Per Item" item="$20" %}}

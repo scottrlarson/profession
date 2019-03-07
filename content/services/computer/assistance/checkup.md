@@ -15,14 +15,19 @@ image = "services/cs-performance-tuning.png"
 caption = ""
 
 +++
-<p>Is your computer running slow or not the way you expected it to operate? Are you having problems with security? Find out how you can increase the performance of your current computer without having to spend more than you need on a new one! <a href="/services/computer/assistance/phone">Call</a> or <a href="/services/computer/assistance/request">schedule an appointment</a> on-line to Drop your hardware by my shop and get a free system check-up today. </p>
+Is your 5 year or newer device running slow, or not the way you expected it to operate? Are you having problems with security? Find out how you can increase your performance without having to replace it. <a href="/services/computer/assistance/phone">Call</a> or <a href="/services/computer/assistance/request">schedule an appointment</a> to drop-off your device to get a free 20 minute evaluation today! </p>
 
+{{% service-custom label="20min Evaluation" item="Free" %}}
 
-<p><strong><strong>Scott Larson offers a comprehensive checkup of your computer when you just want to make sure your computer is running normally.</strong></strong></p>
-<p><strong>System Operation Analysis Includes</strong></p>
+When you just want to make sure your computer is running normally, I offer a more comprehensive check-up of your device.
+
+My comprehensive check-up includes:
+
 <ul>
-<li class="list">An Operating System Operational Analysis<br>(Includes scanning programs, drivers, and services for potential problems)</li>
-<li class="list">System scans for out-of-date critical software.</li>
-<li class="list">System scans for performance problems.</li>
-<li class="list">A Final report by paper or Email Detailing the issues and solutions.</li>
+<li class="list">Analyzing out-of-date, or corrupted drivers, firmware and services.</li>
+<li class="list">Analyzing out-of-date, or corrupted critical software and applications.</li>
+<li class="list">Analyzing hardware and software performance problems.</li>
+<li class="list">A check-up report detailing issues found, and recommended resolutions.</li>
 </ul>
+
+{{% service-custom label="Comprehensive Check-up" item="$75" %}}

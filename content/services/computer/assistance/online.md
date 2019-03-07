@@ -21,9 +21,9 @@ caption = ""
 If you have a question or problem with your device, and your Internet connection is still working, I can service your device over the Internet. I can speak with you over the phone while I am looking at the problem and give you a cost analysis.
 <!--more-->
 
-<p><b>Please inquire about protecting your data before I handle an issues you are having. I am not responsible for any kind of data loss or hardware damage.  If you don't have one already, having a backup strategy is important before you request help so that none of your important data is lost in the event of a device failure or accident.</b></p>
+<p><b>Please inquire about your current data backup state before I handle any issues you are having. I am not responsible for data loss (of any kind), or hardware damage that results due to a servicing.  Having a [backup strategy](/resources/scoops/scoop-disaster-recovery-fire-insurance/) is important.</b></p>
 
-<p>Types of issues that can be repaired as long as your device boots and is able to get on-line:</p>
+<p>I can only evaluate and repair these types of issues:</p>
 <ul>
 <li>Software Application Crashing Issues</li>
 <li>Software Application Setup and Configuration</li>
@@ -43,3 +43,5 @@ If you have a question or problem with your device, and your Internet connection
 	<li>Desktop</li>
 	<li>Laptop</li>
 </ul>
+
+{{% service-remote-rates %}}

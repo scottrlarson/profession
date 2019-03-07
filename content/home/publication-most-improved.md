@@ -1,7 +1,7 @@
 +++
 # Custom widget.
 widget = "custom"
-active = true
+active = false
 date = 2019-02-04T13:40:53-08:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -9,7 +9,7 @@ title = "Most Improved"
 subtitle = "A story of transformation from selfishness to selflessness."
 
 # Order that this section will appear in.
-weight = 17
+weight = 27
 +++
 I authored a book on life and existence, if you want to find out more about my personal thoughts and feelings read on.
 

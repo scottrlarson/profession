@@ -285,9 +285,8 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Newsletters"
-  url = "/resources/newsletters"
-  parent = "res"
-  weight = 200
+  url = "/newsletters"
+  weight = 55
 
 [[menu.main]]
   name = "Classes"

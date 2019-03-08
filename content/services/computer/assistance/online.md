@@ -21,7 +21,7 @@ caption = ""
 If you have a question or problem with your device, and your Internet connection is still working, I can service your device over the Internet. I can speak with you over the phone while I am looking at the problem and give you a cost analysis.
 <!--more-->
 
-<p><b>Please inquire about your current data backup state before I handle any issues you are having. I am not responsible for data loss (of any kind), or hardware damage that results due to a servicing.  Having a [backup strategy](/resources/scoops/scoop-disaster-recovery-fire-insurance/) is important.</b></p>
+<p><b>Please inquire about your current data backup state before I handle any issues you are having. I am not responsible for data loss (of any kind), or hardware damage that results due to a servicing.  Having a [backup strategy](/updates/update-disaster-recovery-fire-insurance/) is important.</b></p>
 
 <p>I can only evaluate and repair these types of issues:</p>
 <ul>

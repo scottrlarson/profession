@@ -12,7 +12,7 @@ for =["Computer users that are considering upgrading to Windows 10."]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "scoops/windows10preview/ScootersWindows10PreviewHeaderGraphic.png"
+image = "updates/windows10preview/ScootersWindows10PreviewHeaderGraphic.png"
 caption = "Scooter's Windows 10 Preview Header Image"
 
 

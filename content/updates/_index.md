@@ -1,5 +1,5 @@
 +++
-title = "Scoops"
+title = "Updates"
 date = 2018-02-22T18:16:33-08:00
 draft = false
 
@@ -15,3 +15,4 @@ image = ""
 caption = ""
 
 +++
+Updates on my endeavors.

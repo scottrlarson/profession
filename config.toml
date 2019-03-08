@@ -233,43 +233,48 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Computer"
   identifier = "com"
-  weight = 2
+  weight = 10
   url = "/services/computer/"
 
 [[menu.main]]
   name = "Content"
   identifier = "con"
-  weight = 3
+  weight = 20
   url = "/services/content/"
 
 [[menu.main]]
   name = "Development"
   url = "/services/content/development"
   parent = "con"
-  weight =  2
+  weight =  10
 
 [[menu.main]]
   name = "Publishing"
   url = "/services/content/publishing"
   parent = "con"
-  weight =  3
+  weight =  20
 
 [[menu.main]]
   name = "Data"
   identifier = "dat"
-  weight = 4
+  weight = 30
   url = "/services/data/"
 
 [[menu.main]]
   name = "Information"
   identifier = "inf"
-  weight = 5
+  weight = 40
   url = "/services/information/"
+
+  [[menu.main]]
+    name = "Updates"
+    url = "/updates"
+    weight = 50
 
 [[menu.main]]
   name = "Resources"
   identifier = "res"
-  weight = 6
+  weight = 60
   url = "resources"
 
 [[menu.main]]
@@ -277,12 +282,6 @@ defaultContentLanguageInSubdir = false
   url = "/resources/guides"
   parent = "res"
   weight = 60
-
-[[menu.main]]
-  name = "Scoops"
-  url = "/resources/scoops"
-  parent = "res"
-  weight = 100
 
 [[menu.main]]
   name = "Newsletters"
@@ -453,7 +452,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Packages"
   url = "/packages"
-  weight = 7
+  weight = 45
 
 # Taxonomies.
 [taxonomies]

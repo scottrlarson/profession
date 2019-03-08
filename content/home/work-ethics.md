@@ -17,5 +17,5 @@ weight = 15
 - I have good record keeping.
 - I do very well at keeping the customer in the loop during in-progress projects and services with follow-ups.
 - I stay abreast of most of the [latest technologies](resources/recommendations/).
-- I write [articles](resources/scoops/) about my experiences in the field.
+- I write [articles](updates/) about my experiences in the field.
 - I'm good at communicating technical subjects in a simple to understand way.

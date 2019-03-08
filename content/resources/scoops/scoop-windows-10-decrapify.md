@@ -20,3 +20,5 @@ Due to the privacy invasions that Microsoft has implemented in Windows 10, and t
 - I disable all Telemetry and Data Collection services.
 - I uninstall all Microsoft Windows 10 apps, except the basic, or useful ones that would prevent the normal operation of the device: Mail, Microsoft Store, Calculator, Sticky, Windows.photos, Soundrecorder, MSpaint, Screensketch.
 - I Install new default applications to make use of: Photos(Fast Stone Image Viewer), Internet Browsing(Mozilla Firefox and Google Chrome), Email(Mozilla Thunderbird) Videos(VLC), and Media Creation(Burn Aware).
+
+I do this to give my customers a good experience with their device by decluttering the operation of Windows 10. This improves the performance and user experience.

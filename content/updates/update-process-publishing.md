@@ -16,7 +16,7 @@ caption = ""
 
 +++
 
-I am a author, publisher, and ebook conversion specialist. I got my start developing websites about 5 years after the internet was in fruition. During the beginning of 2019, my first book "[Most Improved](http://www.scottrlarson.com/resources/publications/publication-most-improved/)" was authored, and published in digital form. I then converted the digital format to a print version so my audience can experience both formats. I can do the same for you. 
+I am a author, publisher, and ebook conversion specialist. I got my start developing websites about 5 years after the internet was in fruition. During the beginning of 2019, my first book "[Most Improved](http://www.scottrlarson.com/publications/publication-most-improved/)" was authored, and published in digital form. I then converted the digital format to a print version so my audience can experience both formats. I can do the same for you. 
 
 If you are looking to convert your manuscript to a ebook, or you are just thinking about finding another way to format your documents so you can easily get them to you customers in a way they can read them, on any device, with out a major hassle, then this document is for you.
 
@@ -31,7 +31,7 @@ The size and length of the document will determine the method of conversion.
 If the content is one file with a few pages that does not have much formatting, I.E (Quotes, Footnotes, and to many different size headings) Then saving the word document as a standalone html file, and using a [simple conversion tool](https://www.nchsoftware.com/documentconvert/index.html) might work for you.
 
 ## Hiring a Print Book Conversion Specialist
-Converting, a longer document is a slightly longer [conversion process](http://www.scottrlarson.com/resources/projects/ebooks/world-sakharov/) and usually requires a [html, or ebook conversion specialist](http://www.scottrlarson.com/services/content/publishing/ebook/).  There is usually a need to reformat the document from a print-only, to a responsive digital format, I.E (Creating a table of contents that works with dynamic nature of screen size changes of different mobile devices, Stripping out unnecessary print-only related data, reformatting quotes, footnotes, images and other content to display correctly in a ebook format, depending on the display size of the device it's being read on.)
+Converting, a longer document is a slightly longer [conversion process](http://www.scottrlarson.com/projects/ebooks/world-sakharov/) and usually requires a [html, or ebook conversion specialist](http://www.scottrlarson.com/services/content/publishing/ebook/).  There is usually a need to reformat the document from a print-only, to a responsive digital format, I.E (Creating a table of contents that works with dynamic nature of screen size changes of different mobile devices, Stripping out unnecessary print-only related data, reformatting quotes, footnotes, images and other content to display correctly in a ebook format, depending on the display size of the device it's being read on.)
 
 ## Pricing
 Payment plans are available (3 payments: Before the work starts, during the conversion process and upon the final conversion.)

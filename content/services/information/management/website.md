@@ -15,6 +15,6 @@ image = "services/"
 caption = ""
 
 +++
-If you are having an issue with your website, or want to talk with me about a web service that you want for your personal or business use I specialize in providing, trouble-shooting and maintaining back-end web services for professionals and small business use. See my previous projects involving web site migrations, and [web site troubleshooting](/resources/projects/network/tantra.com/) if you are interested in some of my history involving my technical expertise.<!--more-->
+If you are having an issue with your website, or want to talk with me about a web service that you want for your personal or business use I specialize in providing, trouble-shooting and maintaining back-end web services for professionals and small business use. See my previous projects involving web site migrations, and [web site troubleshooting](/projects/network/tantra.com/) if you are interested in some of my history involving my technical expertise.<!--more-->
 
 {{% service-quote %}}

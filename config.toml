@@ -266,96 +266,81 @@ defaultContentLanguageInSubdir = false
   weight = 40
   url = "/services/information/"
 
-  [[menu.main]]
-    name = "Updates"
-    url = "/updates"
-    weight = 50
+[[menu.main]]
+  name = "More"
+  identifier = "more"
+  weight = 50
+  url = "/more"
 
 [[menu.main]]
-  name = "Resources"
-  identifier = "res"
-  weight = 60
-  url = "resources"
+  name = "Updates"
+  url = "/updates"
+  parent = "more"
 
 [[menu.main]]
   name = "Guides"
-  url = "/resources/guides"
-  parent = "res"
-  weight = 60
+  url = "/guides"
+  parent = "more"
 
 [[menu.main]]
   name = "Newsletters"
   url = "/newsletters"
-  weight = 55
+  parent = "more"
 
 [[menu.main]]
   name = "Classes"
-  url = "/resources/classes"
-  parent = "res"
-  weight = 215
-
+  url = "/classes"
+  parent = "more"
 
 [[menu.main]]
   name = "Events"
-  url = "/resources/events"
-  parent = "res"
-  weight = 225
+  url = "/events"
+  parent = "more"
 
 [[menu.main]]
   name = "Deals"
-  url = "/resources/deals"
-  parent = "res"
-  weight = 250
-
+  url = "/deals"
+  parent = "more"
 
 [[menu.main]]
   name = "Projects"
-  url = "/resources/projects"
-  parent = "res"
-  weight = 300
+  url = "projects"
+  parent = "more"
 
 [[menu.main]]
   name = "Publications"
-  url = "resources/publications"
-  parent = "res"
-  weight = 400
+  url = "publications"
+  parent = "more"
 
 [[menu.main]]
   name = "Presentations"
-  url = "resources/presentations"
-  parent = "res"
-  weight = 450
-
+  url = "presentations"
+  parent = "more"
 
 [[menu.main]]
   name = "Recommendations"
-  url = "/resources/recommendations"
-  parent = "res"
-  weight = 500
+  url = "/recommendations"
+  parent = "more"
 
 [[menu.main]]
   name = "Technical Glossary"
-  url = "/resources/glossary"
-  parent = "res"
-  weight = 600
+  url = "/glossary"
+  parent = "more"
 
 [[menu.main]]
   name = "Forms"
-  url = "/resources/forms"
-  parent = "res"
-  weight = 650
+  url = "/forms"
+  parent = "more"
 
 [[menu.main]]
   name = "Documents"
-  url = "/resources/documents"
-  parent = "res"
-  weight = 700
+  url = "/documents"
+  parent = "more"
 
 [[menu.main]]
   name = "Terms & Conditions"
-  url = "/resources/terms"
-  parent = "res"
-  weight = 800
+  url = "/terms"
+  parent = "more"
 
 [[menu.main]]
   name = "Assistance"
@@ -451,7 +436,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Packages"
   url = "/packages"
-  weight = 45
+  parent = "more"
 
 # Taxonomies.
 [taxonomies]

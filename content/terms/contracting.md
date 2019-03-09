@@ -15,4 +15,4 @@ image = ""
 caption = ""
 
 +++
-<p>When you request a service from me by yourself or as part of any organization it is by contract with you by your authorization or recurring engagement with me to have a service performed. Please note that any arrangement between us is two party. You [Customer] and I [Service Man]. My status is an individual who provides a service, not an employee. As such if I provide a service for you that results in an exchange of property (My services for any payment method you use to compensate me) it does not include making payments to 3rd parties.</p
+When you request a service from me by yourself or as part of any organization, it is by contract with you (as a individual) by your authorization, or recurring engagement with me to have a service performed. Please note that any arrangement between us is two party. You [Customer] and I [Service Man]. My status is a individual who provides a service, not an employee. As such if I provide a service for you that results in an exchange of property (My services for any payment method you use to compensate me) it does not include exchanging property between a 3rd party.

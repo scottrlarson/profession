@@ -231,6 +231,7 @@ img {max-width:100%; height:auto;}
 
 
 .quote-panel-container {
+	margin: 25px;
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-end;

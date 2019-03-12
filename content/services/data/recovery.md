@@ -16,9 +16,9 @@ caption = ""
 
 +++
 
-It's very likely that I can recover data from your damaged device, or your data loss. The chances of recovery depend on a number of factors: If you own a Hard Disk Drive, or Solid State Storage device. The state of the damage on the device, or if you data was deleted, or wiped.  Its important that you stop using your device immediately after you notice the loss, or failure, as further use could prevent a full recovery. I will need to perform a free analysis on your device, covering the possibility of recovering your data, and my fees for recovery.
+It's very likely that I can recover data from your damaged device, or your data loss. The chances of recovery depend on a number of factors: If you own a Hard Disk Drive, or Solid State Storage device. The state of the damage on the device, or if you data was deleted, or wiped.  Its important that you stop using your device immediately after you notice your loss, or failure, as further use could prevent a full recovery. I will need to perform a free analysis on your device, covering the possibility of recovering your data, and my fees for recovery.
 
-- Data Recovery Turn-Around times vary from 1 day to 3 weeks depending on my time constraints, and the state of your device. If physical damage exists on your device, the particular damage may significantly slow your device's recovery time.
+- Data Recovery turn-Around times vary from 1 day to 3 weeks depending on my time constraints, and the state of your device. If physical damage exists on your device, the particular damage may significantly slow your device's recovery time.
 - I offer a recovery guarantee. You only pay if I can recover data you actually need.
 
 
@@ -29,10 +29,12 @@ It's very likely that I can recover data from your damaged device, or your data 
 - Solid State Storage
 - Flash Memory Storage
 
-Functioning Device (device is able to be accessed by a computer, or powers on):
+Data Recovery Rates for a Functioning Device (device is able to be accessed by a computer, or powers on) \*:
 {{% service-range item-min="$300" item-max="$600" %}}
 
-Non-Functioning Device (Device does not detect, or power on):
+Data Recovery Rates for a Non-Functioning Device (Device does not detect, or power on) \*:
 {{% service-range item-min="$800" item-max="$3000" %}}
 
 {{% service-quote %}}
+
+<p style="font-size: small;">* Please note these recovery rate categories do not cover all damage cases. A free analysis is the only sure fire way to determine a recovery service cost.</p>

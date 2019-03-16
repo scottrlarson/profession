@@ -221,6 +221,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/scottrlarson"
 
+[[params.social]]
+  icon = "amazon"
+  icon_pack = "fa"
+  link = "https://amazon.com/author/scottrlarson"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

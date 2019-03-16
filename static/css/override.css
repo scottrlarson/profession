@@ -34,7 +34,6 @@ label {
   display: inline-block;
 }
 
-
 .form-container {
 
 	width: 100%;
@@ -391,6 +390,7 @@ ul.ul-edu li .description p.method {
   color: rgba(0,0,0,0.6);
 }
 
+ul.ul-edu li .description p.type {font-size: 0.60rem;}
 
 /*************************************************
  *  Dark themed components

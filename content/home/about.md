@@ -18,27 +18,46 @@ weight = 1
 # List your qualifications.
 [[education.courses]]
   course = "Computer Setup"
-  type = "Office Hardware & Network"
+  type = "Office Hardware + Network setup."
   method = "Self-Learned"
   year = "2004-2018"
 
 [[education.courses]]
   course = "Computer Hardware"
-  type = "Analysis and Replacement"
+  type = "Analysis + Repairs + Replacement."
   method = "Self-Learned"
   year = "1995-2018"
 
 [[education.courses]]
   course = "Software and Operating Systems"
-  type = "Custom Setup and Troubleshooting"
+  type = "Setup + Configuration + Troubleshooting."
   method = "Self-Learned"
   year = "2004-2018"
 
 [[education.courses]]
   course = "Data & Network Security"
-  type = "Data Integrity, Recovery, and Protection"
+  type = "Data Integrity + Recovery + Protection."
   method = "Self-Learned"
   year = "2008-2018"
+
+[[education.courses]]
+  course = "Videography"
+  type = "Handling Cameras + Editing Footage."
+  method = "Santa Rosa Junior Collage"
+  year = "2000-2002"
+
+[[education.courses]]
+  course = "Screen Writing"
+  type = "Writing + Editing"
+  method = "Santa Rosa Junior Collage"
+  year = "2000-2002"
+
+[[education.courses]]
+  course = "Content Development"
+  type = "Web + Ebook"
+  method = "Self-Learned"
+  year = "2008-2019"
+
 
 +++
 

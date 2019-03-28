@@ -15,19 +15,27 @@ Check my [hours](#contact) for availability.
 
 **I offer discounts for Senior Citizens, Non-profits, Non-business Residential, and Homeless customers for all my services upon request. [Call, Text or Visit](#contact) my office for more info.**
 
-**I only accept cash or check and it's always before I leave the location. Unless I draw up a proposal or quote for an on-going project.**
+**I accept cash, check or credit card via paypal (A 3% convenience fee will be applied) and it's always before I leave the location. Unless I draw up a proposal or quote for an on-going project.**
+
+
 
 **I only provide services to small operations with 10 or less employees.**
 
 ## At-Your-Location Consultations
 
-### Scheduled Visit Rates Per Hour (1hr minimum)
+### Scheduled Visit Repair/Resolution Rates Per Hour (1hr minimum)
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
 | $175.00   | $150.00   | $125.00   | $200.00     | $225.00     | Half-Rate   |
 
-### Scheduled Remote/Phone Support (30min minimum) (3hr maximum per day)
+### Scheduled Visit Training or File/Folder Organization Rates Per Hour (1hr minimum)
+
+| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
+| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
+| $100.00   | $75.00   | $50.00   | $125.00     | $150.00     | Half-Rate   |
+
+### Scheduled Repair/Resolution Remote/Phone Support (30min minimum) (3hr maximum per day)
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |

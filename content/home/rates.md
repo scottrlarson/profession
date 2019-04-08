@@ -13,9 +13,11 @@ weight = 16
 +++
 Check my [hours](#contact) for availability.
 
+## Payment Terms
+
 **I offer discounts for Senior Citizens, Non-profits, Non-business Residential, and Homeless customers for all my services upon request. [Call, Text or Visit](#contact) my office for more info.**
 
-**I accept cash, check or credit card via paypal (A 3% convenience fee will be applied) and it's always before I leave the location. Unless I draw up a proposal or quote for an on-going project.**
+**I accept cash, check, or credit card via paypal (A 3% convenience fee will be applied to paypal requests for money). Fees are due before the device is released, or before I leave the location. Unless I draw up a proposal, or quote for an on-going project. Please be prepared to pay me for my time after work requested is complete. Not having the proper payment method, or amount may halt any work in progress, prevent me from starting any work, or prevent you from picking up your device.**
 
 
 

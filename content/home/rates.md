@@ -22,18 +22,22 @@ Check my [hours](#contact) for availability.
 
 
 **I only provide services to small operations with 10 or less employees.**
-## In-Shop Priority Repair Service (Per Hour) (3hr Max)
+
+## In-Shop Service
+
+### Priority Diagnosis/Analysis Service (Range) (Half-off when a repair service is authorized on the same device.
+
+| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
+| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
+| $85-$150   | $72-$127   | $60-$105   | $98-$170     | $110-$190     | Free   |
+
+### Priority Repair Service (Per Hour) (3hr Max)
+
+**Most devices require a diagnostic/analysis before any repairs can be performed.**
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
 | $125.00   | $100.00   | $75.00   | $150.00     | $175.00     | Free   |
-
-## In-Shop Priority Diagnosis/Analysis Service (Per Hour) (3hr Max) (Half-off when a repair service is authorized on the same device.)
-
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
-| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $85.00   | $72.50   | $60.00   | $97.50     | $110.00     | Free   |
-
 
 ## At-Your-Location Consultations
 
@@ -55,6 +59,6 @@ Check my [hours](#contact) for availability.
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
 | $60.00    | $50.00    | $40.00    | $65.00      | $75.00      | Half-Rate   |
 
-## In-shop Diag/Repair Rates:
+## Project Based Fees
 
 - Please see my list of services at the top of my website.

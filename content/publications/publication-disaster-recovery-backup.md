@@ -31,14 +31,14 @@ Disraeli
 
 ### Quick tips to help you recover from a disaster
 
--   Most devices have whats called the \"Recovery or Installation
-    Media\" on the internal hard disk. You will need a copy of that
+-   Most devices have whats called the "Recovery or Installation
+    Media" on the internal hard disk. You will need a copy of that
     recovery or installation media if the storage component of your
     device fails. Usually a tool is installed on your device by the
     manufacturer of that device to make a physical copy of that media.
     To find out how to access that tool do a search on your device or on
-    google for your device\'s manufacturer\'s name like \"dell\" or
-    \"hp\" plus the words \"recovery\" and \"media\"
+    google for your device's manufacturer's name like "dell" or
+    "hp" plus the words "recovery" and "media"
 -   Make a list specific applications that might need to be reinstalled
     and reconfigured to return to normal business.
 -   If you have a current backup now have you tested it to make sure you
@@ -72,11 +72,11 @@ service for 1 year. Having a yearly management & maintenance service
 contract frees you from having to maintain the solution yourself when it
 stops working or when it needs to be updated.
 
-I have a confession to make. I didn\'t tell you the whole story about
-the customer that had that Windows update failure. I didn\'t mention
+I have a confession to make. I didn't tell you the whole story about
+the customer that had that Windows update failure. I didn't mention
 that this customer requested more information from me about this very
 solution prior to the disasters. When I sent this customer a quote on my
-disaster recovery solution this customer didn\'t think the solution was
+disaster recovery solution this customer didn't think the solution was
 worth the cost. I do my very best to keep costs to a minimum, but do you
 really want to find yourself in a situation where you have to pay
 someone for a lengthy repair when you can have a secure disaster
@@ -88,50 +88,14 @@ like an insurance policy staying secure costs, regularly. If you want to
 have control over your data you need to have a budget for this area of
 your life.
 
-### Particulars
-
-#### Costs
-
-**Labor**
-
--   \$150.00 - Per Device (Local Disaster Recovery Service Setup)
--   \$300.00 - Per 1-4 Devices (Network Disaster Recovery Service Setup)
-
-**Hardware/Software**
-
--   \$150.00 - \$300.00 - External Hard Drive
--   \$400.00 - \$1000.00 - Network Attached Storage Device
--   \$100.00 - Disaster Recovery Software
-
-#### Other Costs
-
-#### Turn-Around Time
-
-**Local Disaster Recovery Service Setup**
-
--   1/2 Hour - Per Device
-
-**Network Disaster Recovery Service Setup**
-
--   1/2 Hour - Per Device
--   3 Hours - Network Attached Storage Device (Assemble of the NAS,
-    configuring services for the proper network and cloud storage
-    capabilities.
-
-#### 3 Year Guarantee on Hardware
-
-If the Storage device within a 3 year time line, I will replace the unit
-and/or the drives free of charge.
-
-### Contact me for a quote
+{{% disaster-recovery-rates %}}
 
 I will devise a plan that meets your expectations and provides you with
 a safe recovery environment in the event of damage or loss to you most
 important data.
 
-You can email me at inquries\@scottrlarson.com, visit my website and
-fill out the [contact form](http://www.scottrlarson.com/#contact), text
-me at 707-416-5811, or call me at 707-536-1527
+{{% service-quote %}}
+
 
 ------------------------------------------------------------------------
 
@@ -164,7 +128,7 @@ Map](http://www.scottrlarson.com/img/articles/disaster-recovery/External-Disaste
 Network Disaster Recovery Service
 
 A network disaster recovery solution is very similar to a local disaster
-recovery solution except that it backs up your device\' data by
+recovery solution except that it backs up your device' data by
 transferring your system state and all data to a network attached
 storage device (An appliance device containing storage devices connected
 to a network). Devices that are connected to your home network will see
@@ -193,6 +157,6 @@ to that hardware may be required to meet the minimum speed requirements
 of a backup completing successfully in a reasonable amount of time. In
 the case of a network disaster recovery service I need to spend some
 additional time performing a network site survey of your home network
-environment to make sure it\'s up to speed with any solution I put into
+environment to make sure it's up to speed with any solution I put into
 place. Site surveys typically cost \$250.00 flat rate for a 4 users
 network.

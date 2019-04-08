@@ -198,6 +198,18 @@ img {max-width:100%; height:auto;}
 
 }
 
+.service-price-table-long {
+	margin: 25px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: stretch;
+	flex-wrap: wrap;
+	border: 1px solid black;
+	margin-left: auto;
+	width: auto;
+}
+
 .price-data-label {
 	flex: 2 0 0;
 	padding: 10px;

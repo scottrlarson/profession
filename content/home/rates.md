@@ -20,6 +20,12 @@ Check my [hours](#contact) for availability.
 
 
 **I only provide services to small operations with 10 or less employees.**
+## In-Shop Priority Service
+
+| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
+| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
+| $125.00   | $100.00   | $75.00   | $150.00     | $175.00     | Free   |
+
 
 ## At-Your-Location Consultations
 

@@ -19,4 +19,4 @@ If you have out of date equipment that you need destroyed, I offer in-shop recyc
 
 {{% service-custom label="Recycle Item" item="Free" %}}
 {{% service-custom label="Data Wiping Per Device (1-4 Devices)" item="$20" %}}
-{{% service-custom label="Data Wiping Per Device(5-10)" item="$10" %}}
+{{% service-custom label="Data Wiping Per Device(5-10 Devices)" item="$10" %}}

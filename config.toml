@@ -322,6 +322,11 @@ defaultContentLanguageInSubdir = false
   parent = "more"
 
 [[menu.main]]
+  name = "Links"
+  url = "/links"
+  parent = "more"
+
+[[menu.main]]
   name = "Recommendations"
   url = "/recommendations"
   parent = "more"

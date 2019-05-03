@@ -25,7 +25,7 @@ Check my [hours](#contact) for availability.
 
 ## In-Shop Service
 
-### Priority Diagnosis/Analysis Service (Range) (Half-off when a repair service is authorized on the same device.
+### Priority and Regular Diagnosis/Analysis Service (Range) (Half-off when a repair service is authorized on the same device.
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
@@ -41,19 +41,19 @@ Check my [hours](#contact) for availability.
 
 ## At-Your-Location Consultations
 
-### Scheduled Visit Repair/Resolution Rates Per Hour (1hr minimum)
+### Priority and Regular Scheduled Visit Repair/Resolution Rates Per Hour (1hr minimum)
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
 | $175.00   | $150.00   | $125.00   | $200.00     | $225.00     | Half-Rate   |
 
-### Scheduled Visit Training or File/Folder Organization Rates Per Hour (1hr minimum)
+### Priority and Regular Scheduled Visit Training or File/Folder Organization Rates Per Hour (1hr minimum)
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
 | $100.00   | $75.00   | $50.00   | $125.00     | $150.00     | Half-Rate   |
 
-### Scheduled Repair/Resolution Remote/Phone Support (30min minimum) (3hr maximum per day)
+### Priority and Regular Scheduled Repair/Resolution Remote/Phone Support (30min minimum) (3hr maximum per day)
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |

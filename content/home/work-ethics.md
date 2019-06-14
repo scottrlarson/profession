@@ -16,6 +16,6 @@ weight = 15
 - I'm independent.
 - I have good record keeping.
 - I do very well at keeping the customer in the loop during in-progress projects and services with follow-ups.
-- I stay abreast of most of the [latest technologies](resources/recommendations/).
+- I stay abreast of most of the [latest technologies](/recommendations/).
 - I write [articles](updates/) about my experiences in the field.
 - I'm good at communicating technical subjects in a simple to understand way.

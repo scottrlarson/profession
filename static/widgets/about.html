@@ -17,6 +17,8 @@ test
       <div class="portrait-title">
         <h2 itemprop="name">{{ $.Site.Params.name }}</h2>
         {{ with $.Site.Params.role }}<h3 itemprop="jobTitle">{{ . }}</h3>{{ end }}
+        {{/* Life Mission */}}
+        {{ with $.Site.Params.mission }}<h3 itemprop="mission">{{ . }}</h3>{{ end }}
 
         {{/* Support legacy `organization` option. */}}
         {{ if $.Site.Params.organization }}

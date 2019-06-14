@@ -18,6 +18,9 @@
         <h1 itemprop="name">{{ $.Site.Params.name }}</h1>
         {{ with $.Site.Params.role }}<h3 itemprop="jobTitle">{{ . }}</h3>{{ end }}
 
+        {{/* Life Mission */}}
+        {{ with $.Site.Params.mission }}<h3 itemprop="mission">{{ . }}</h3>{{ end }}
+
         {{/* Support legacy `organization` option. */}}
         {{ if $.Site.Params.organization }}
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">

@@ -37,14 +37,6 @@ Other times, web developers are handed a pre-existing website that is old and ha
 
 ### Remote Management, Maintenance, Backup, Security, Migration and Support.
 
-**Hourly**
-*package subscribers*
-- $50.00 Per Hour(1hr Min) | Short notice  
-- $35.00 Per Hour(1hr Min) | 3 day to 1 week notice   
-- $25.00 Per Hour(1hr Min) | 1 week or more notice  
-- $15.00 Per Hour(5hr Min) | Project Based
-- $01.00 Per Min(3 hr maximum) Per Day | Support Remote/Phone  
-
 **Package**
 
 - $400.00 Per Year - Per Device (Economy)
@@ -77,3 +69,12 @@ Security Management:
 - Add new end points (if any).
 - Check for threats.
 - Make non-interfering adjustments to security features.
+
+**Discount Rates for At-Location/In-Shop Consultations and Repairs**
+*package subscribers*
+
+- $50.00 Per Hour(1hr Min) | Short notice  
+- $35.00 Per Hour(1hr Min) | 3 day to 1 week notice   
+- $25.00 Per Hour(1hr Min) | 1 week or more notice  
+- $15.00 Per Hour(5hr Min) | Project Based
+- $01.00 Per Min(3 hr maximum) Per Day | Support Remote/Phone  

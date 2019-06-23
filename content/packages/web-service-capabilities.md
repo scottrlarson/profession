@@ -63,7 +63,7 @@ General Management:
 
 Backup Management:
 - Check for any problems in backup schedules.
-- Check that all software is operating, there might be more than one backup solution installed. (cloud, local,smart.)
+- Check that all software is operating.
 
 Security Management:
 - Add new end points (if any).

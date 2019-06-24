@@ -61,7 +61,7 @@ weight = 1
 
 +++
 
-<div class="alert-container">Are you being effected by the Northern California fires? If you are a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. Fire victims receive 50% off, use the FIRE50 code when contacting me.</div>
+<div class="alert-container">Are you being effected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRE25 code when contacting me.</div>
 
 <div class="panel-group" id="accordion">
   <div class="panel panel-default">

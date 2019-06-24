@@ -31,7 +31,7 @@ Check my [hours](#contact) for availability.
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $100-$175   | $85-$150   | $60-$105   | $98-$170     | $110-$190     | Free   |
+| $103-$178   | $87-$153   | $63-$108   | $101-$173     | $113-$193     | Free   |
 
 ### Repair Service Per Hour (3hr Max) Turn-Around Rates
 
@@ -39,7 +39,7 @@ Check my [hours](#contact) for availability.
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $125.00   | $100.00   | $75.00   | $150.00     | $175.00     | Free   |
+| $128.00   | $103.00   | $78.00   | $153.00     | $178.00     | Free   |
 
 ## At-Your-Location Consultations
 
@@ -47,19 +47,19 @@ Check my [hours](#contact) for availability.
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $175.00   | $150.00   | $125.00   | $200.00     | $225.00     | Half-Rate   |
+| $178.00   | $153.00   | $128.00   | $203.00     | $228.00     | Half-Rate   |
 
 ### Scheduled Visit Training, or File/Folder Organization Rates Per Hour (1hr minimum)
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $100.00   | $75.00   | $50.00   | $125.00     | $150.00     | Half-Rate   |
+| $103.00   | $78.00   | $53.00   | $128.00     | $153.00     | Half-Rate   |
 
 ### Scheduled Repair/Resolution Remote/Phone Support (30min minimum) (3hr maximum per day)
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $75.00    | $60.00    | $50.00    | $85.00      | $95.00      | Half-Rate   |
+| $78.00    | $63.00    | $53.00    | $88.00      | $98.00      | Half-Rate   |
 
 ## Project Based Fees
 

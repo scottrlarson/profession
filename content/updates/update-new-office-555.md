@@ -15,6 +15,7 @@ image = ""
 caption = ""
 
 +++
+
 I moved my office on 3/1/2019 to a new and improve location. 555 5th Street Suite 230-a. I'm still downtown a block away from the Santa Rosa Plaza.
 
 This new location has a bigger space to operate. As of 1/1/2019 my rates have changed as well. Check my [rates](/#rates) page for more information. With this new location I offer faster and a quicker turn-around time.

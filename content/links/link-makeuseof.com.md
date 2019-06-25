@@ -1,11 +1,12 @@
 +++
-title = "Scooter's Important Links"
-date = 2018-12-20T14:48:18-08:00
+title = "Make Use Of"
+date = 2019-06-25T13:34:58-07:00
+weight = 4
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Scooter's Top 5 Sites"]
 categories = []
 
 # Featured image
@@ -15,3 +16,4 @@ image = ""
 caption = ""
 
 +++
+- \#4 - [Make Use Of](https://www.makeuseof.com/)

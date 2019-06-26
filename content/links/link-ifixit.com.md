@@ -19,3 +19,5 @@ caption = ""
 - \#3 - [IFixit](https://www.ifixit.com/)
 
 iFixit is a wiki-based site that teaches people how to fix almost anything. Anyone can create a repair manual for a device, and anyone can also edit the existing set of manuals to improve them. Our site empowers individuals to share their technical knowledge with the rest of the world.
+
+I use the ifixit site for disassembly reference for laptops. But I also purchase parts from the site I cannot find anywhere else. I support

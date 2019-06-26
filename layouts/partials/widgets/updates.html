@@ -1,6 +1,6 @@
 {{ $ := .root }}
 {{ $page := .page }}
-{{ $posts_len := len (where (where $.Site.RegularPages "Type" "post") ".Params.notonhomepage" nil) }}
+{{ $posts_len := len (where (where $.Site.RegularPages "Type" "updates") ".Params.notonhomepage" nil) }}
 
 <!-- Blog Posts widget -->
 <div class="row">
@@ -23,7 +23,7 @@
     {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
 
     {{ if gt (len $page.Params.tags_include) 0 }}
-      {{ $posts := where (where (where $.Site.RegularPages "Type" "post") ".Params.tags" "intersect" $page.Params.tags_include) ".Params.notonhomepage" nil }}
+      {{ $posts := where (where (where $.Site.RegularPages "Type" "updates") ".Params.tags" "intersect" $page.Params.tags_include) ".Params.notonhomepage" nil }}
 
       {{ $.Scratch.Add "show_post" "1" }}
       {{ range $post := first $page.Params.count $posts }}

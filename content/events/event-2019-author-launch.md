@@ -18,7 +18,7 @@ caption = ""
 
 ![2019 Redwood Writers Author Launch Logo](/img/updates/2019-author-launch/AuthorLaunchLogo2019-small.png)
 
-Scott the Computer Repair & Data Recovery Troubleshooter is launching his new book "Most Improved" A book on recovering from depression and finding new
+Scott the Computer Repair & Data Recovery Troubleshooter is launching his new book ["Most Improved"](http://www.scottrlarson.com/publications/publication-most-improved/) A book on recovering from depression and finding new
 purpose.
 
 COME CELEBRATE!

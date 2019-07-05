@@ -22,7 +22,7 @@ Scott the Computer Repair & Data Recovery Troubleshooter is launching his new bo
 
 COME CELEBRATE!
 Join the Redwood Writers Presenting member books published in 2018-2019
-
+[Redwood Writers Author Launch 2019 Event Page](https://redwoodwriters.org/author-launch-2019/)
 Sunday, July 14, 2-4:30 PM
 Flamingo Hotel, 2777 Fourth St. Santa Rosa
 

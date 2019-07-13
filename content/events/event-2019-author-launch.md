@@ -1,5 +1,5 @@
 +++
-title = "Scott Launch's His New Book Most Improved at the Redwood Writers 2019 Author Launch"
+title = 'Scott Officially Launches His New Book "Most Improved" at the Redwood Writers 2019 Author Launch'
 date = 2019-06-24T07:53:50-07:00
 draft = false
 

@@ -20,12 +20,6 @@ caption = ""
 
 Scott the Computer Repair & Data Recovery Troubleshooter is launching his new book ["Most Improved"](/publications/publication-most-improved/) A book on recovering from depression and finding new purpose.
 
-COME CELEBRATE!
-Join the Redwood Writers Presenting member books published in 2018-2019
+Are you a aspiring writer, a writer yourself, or are you interested in checking out new books written by local authors? Join us at this Redwood Writers Group event, open to the public at the Flamingo Hotel on 2777 Fourth St. Santa Rosa, July 14, 2-4:30 PM.  At this event, 18 authors will read five-minute excerpts from their new books. All books will be available for purchase.
+
 [Redwood Writers Author Launch 2019 Event Page](https://redwoodwriters.org/author-launch-2019/)
-Sunday, July 14, 2-4:30 PM
-Flamingo Hotel, 2777 Fourth St. Santa Rosa
-
-18 authors will read five-minute excerpts from their new books. All books will be available for purchase. Enjoy cake and drinks.
-
-This is a free event for members and is open to the general public.

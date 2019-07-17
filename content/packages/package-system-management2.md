@@ -1,6 +1,5 @@
 +++
 description = "Desc."
-draft = true
 id = "system-management-package"
 image = ""
 name = "System Management Package"

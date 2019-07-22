@@ -33,7 +33,7 @@ Check my [hours](#contact) for availability.
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
 | $103-$178   | $87-$153   | $63-$108   | $101-$173     | $113-$193     | Free   |
 
-### Repair Service Per Hour (3hr Max) Turn-Around Rates
+### Repair Service Per Hour Turn-Around Rates
 
 **Most devices require a diagnostic/analysis before any repairs can be performed.**
 

@@ -23,6 +23,9 @@ This new location has a bigger space to operate. As of 1/1/2019 my rates have ch
 I am one of two people that operates so close to downtown Santa Rosa. I am one of the most experienced in techs this field for this area. I am very responsive, I keep excellent records, and provide secure and safe location to drop off your device.
 
 ![Entrance to Building - Office Upstairs](/img/updates/555-office/555-exterior-front-door-building-sign-web.jpg)
+![Lobby](/img/updates/555-office/555-lobby.jpg)
+![2nd Floor Elevator](/img/updates/555-office/555-2ndfloor-elevator.jpg)
+![Office Hallway](/img/updates/555-office/555-office-hallway.jpg)
 ![My Business Operations Station](/img/updates/555-office/555-operations-station-web.jpg)
 ![My Data Recovery Station](/img/updates/555-office/555-recovery-station-web.jpg)
 ![Performing an Hardware Inspection](/img/updates/555-office/555-custom-computer-diag-web.jpg)

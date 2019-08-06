@@ -15,7 +15,8 @@ image = ""
 caption = ""
 
 +++
-
+![Brochure Side 1](/img/packages/system-management/srl-broshure-system-mangement-services1.png)
+![Brochure Side 2](/img/packages/system-management/srl-broshure-system-mangement-services2.png)
 I provide monitoring and maintenance service on the reliable operation of your system by installing and maintaining a robust security, maintenance, and disaster recovery solution in the home, in a small business and/or cloud. This way you do not have to worry about system maintenance yourself. Just like a car, over time, and use, a technological system requires maintenance. If the system is not maintained (Updating Software, and monitoring security and backups) problems can crop up, and many times you wont even know it until it's too late.
 
 I had one customer that thought his special accounting data was being backed up by Carbonite, but due to the way in which the application accessed the data, it prevented the Carbonite from accessing, and backing up the data while the application was running. Since the application was open most of the time, the data was not being backed up. The customer had to rebuild that particular data set from scratch.

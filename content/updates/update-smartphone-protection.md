@@ -1,7 +1,7 @@
 +++
-title = "Protecting Your Smartphone From Attacks"
+title = "Protecting Your Smartphone From Being Hacked"
 date = 2019-08-07T11:21:57-07:00
-draft = true
+draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -9,23 +9,28 @@ tags = []
 categories = []
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "cs-article-protecting-smartphone-hacked.png"`.
 [header]
 image = ""
 caption = ""
 
 +++
-Smartphones are like the life line between you and your services. These little communicators are being used as part of an effort by online services to verify you are you. Unfortuantley, if that little device becomes compromised, its very difficult to undo the damage. Personal details about you, like your name, address, and phone number are like children, they become attached to your identity for a long long time. If a shady character gains access to your mobile account and smartphone, they can gain access to other areas of your life as well.
+![Protecting your smartphone from being hacked photo](/img/updates/smartphone-protection/cs-article-protecting-smartphone-hacked.png)
 
-When your bank asks you for your mobile phone number, to send you a text message with a cryptic code to view your dollars, who's to say that this text message is really going to be delivered to you? If this pilferer has a reason to do you in, your mobile account information can be the gateway this pillager needs to forward those text messages to a Smartphone they own instead. Then,  this plunderer can login as you, go though that well known "Forgot Password" recovery process and send a text message (with your bank account login info) to this counterfeit Smartphone. One way this theft is perpetrated on you is though what's called a "Sim Card Swap". (No, this is not related to your Sim Game Character) If this looser can find out certain details about you, then it's possible to contact your mobile provider and get them to transfer your mobile account to a phone this marauder owns. There are security methods carriers are suppose to follow to confirm your who's who, but a smart swindler can find ways around that security.
 
-I spoke to a person that lost her phone for a few hours. Later on, it turned up, but something strange started happening. Some bastard was posting suspect messages to her Facebook account, as her. It turned out that the likely culprit was another party in a court case she was party to. This good-for-nothing was attempting to get the court to question her character by making discrediting remarks through her online presence.
+Smartphones are like the life line between you and your services. These little communicators are being used as part of an effort by online services to verify you are you. Unfortuantley, if that little device becomes compromised, it's very difficult to undo the damage. Personal details about you, like your name, address, and phone number are like children, they become attached to your identity for a long, long time. If a shady character gains access to your mobile account and smartphone, they can gain access to other areas of your life as well.
+
+When your bank asks you for your mobile phone number, to send you a text message with a cryptic code to view your dollars online, who's to say that this text message is really going to be delivered to you? If this pilferer has a reason to do you in, your mobile account information can be the gateway this pillager needs to forward those text messages to a Smartphone they own instead. Then,  this plunderer can login as you, go though that well known "Forgot Password" recovery process and send a text message (with your bank account login info) to this counterfeit Smartphone. One way this theft is perpetrated on you is though what's called a "Sim Card Swap". (No, this is not related to your Sim Game Character) If this looser can find out certain details about you, then it's possible to contact your mobile provider and get them to transfer your mobile account to a phone this marauder owns. There are security methods carriers are suppose to follow to confirm your who's who, but a smart swindler can find ways around that security.
+
+I spoke to a person over the phone that wanted to know what to do, she lost her phone for a few hours. Later on, it turned up, but something strange started happening. Someone was posting suspect messages to her Facebook account, as her. It turned out that the likely culprit was another party in a court case she was party to. I bet an interested party was attempting to get the court to question her character by making discrediting remarks through her online presence. She hand already handled her problem though, by purchasing a new phone and sim card. She also discontinued using the email account the hacker gained access to, but since the attacker had access to her account, and she could not verify her own identity any more (because she forgot the security questions), she lost access to her email. Write down those answers to your security questions. Its a real pain to try and convince an email provider to gain access to your account after its be compromised if you forgot the security questions.
 
 After [AT&T lost a $24 million lawsuit](https://www.coindesk.com/att-fails-to-win-dismissal-in-24-million-crypto-sim-swap-lawsuit), many in the online services industry started to question the use of the text messaging as the  identity police.
 
+![Google's Titian Security Keys](/img/updates/smartphone-protection/titan-security-keys.webp)
+
 Two new technologies to police identities of online accounts were release early this year to combat theses kinds of attacks under the umbrella of what's called 2-factor authentication: A Smartphone app and a USB/Bluetooth security key. The Smartphone app works by installing a authenticator app on your smart-phone. [Google Authenticator App](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en), or [Microsoft's Authenticator](https://www.microsoft.com/en-us/account/authenticator) are two from well known sources. There is also an [open source](/updates/update-why-open-source-matters-freedom) app [FreeOTP](https://freeotp.github.io/). USB/Bluetooth Security keys are similar to using a key to lock your physical property. It adds a physical layer of protection to your on-line sign-in's. It works by plugging in a flash drive looking device into the USB port of your desktop or laptop. Or pressing a button on a blue-tooth connected security key to authenticate via a mobile device.
 
-In my mind both of these technologies compliment each other, so you do not get locked out of your account if your forget one of the two. Not all Security Key packages offer the same choices, so it's a good idea to [look at the options](https://www.theverge.com/2019/2/22/18235173/the-best-hardware-security-keys-yubico-titan-key-u2f) each package provides to be sure the Key you purchase is going to work with your particular setup. If you need help deciding, I can help you evaluate your options with a [free 20 minute consultation](/#contact).
+In my mind both of these technologies are twins in terms of how they protect your identity, so you do not get locked out of your account if your forget one of the two. Not all Security Key packages offer the same choices, so it's a good idea to [look at the options](https://www.theverge.com/2019/2/22/18235173/the-best-hardware-security-keys-yubico-titan-key-u2f) each package provides to be sure the Key you purchase is going to work with your particular setup. If you need help deciding, I can help you evaluate your options with a [free 20 minute consultation](/#contact).
 
 Think of having a secure way to access your accounts as an insurance policy. You might never get attacked, but if you do, having a way to confirm your identity (other than a single password, that can be very easy to compromise) is a smart idea. As we put more and more of our life on-line, protecting your identity is going to increasingly become an issue.
 

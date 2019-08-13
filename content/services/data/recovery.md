@@ -18,7 +18,7 @@ caption = ""
 
 It's very likely that I can recover data from your damaged device, or your data loss. The chances of recovery depend on a number of factors: If you own a Hard Disk Drive, or Solid State Storage device. The state of the damage on the device, or if you data was deleted, or wiped.  Its important that you stop using your device immediately after you notice your loss, or failure, as further use could prevent a full recovery. I will need to perform a free analysis on your device, covering the possibility of recovering your data, and my fees for recovery.
 
-- Data Recovery turn-Around times vary from 1 day to 3 weeks depending on my time constraints, and the state of your device. If physical damage exists on your device, the particular damage may significantly slow your device's recovery time.
+- Data Recovery turn-Around times and costs can vary. Turn-around times can take between 1 day to 3 weeks depending on my time constraints, and the state of your device. If physical damage exists on your device, the particular damage may significantly slow your device's recovery time. Check below for price ranges.
 - I offer a recovery guarantee. You only pay if I can recover data you actually need.
 
 

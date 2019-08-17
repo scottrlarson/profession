@@ -15,7 +15,7 @@ image = "services/cs-desktop-gaming.png"
 caption = ""
 
 +++
-## Local Custom Gaming Computer Design For Hardcore and Average Gamers.
+## Local Custom Gaming Computer Design For Hardcore and Average Gaming Use.
 ![Photo of Custom Gaming Rig](/img/services/cs-gaming-rig.jpg)
 
 With over 20 years of hardware experience, my custom PC gaming rigs provide you with the right hardware specifications for the games you want to play. I provide a service that offers the best performance/stability that a gaming system can offer.  To keep your system running smoothly you get a 100% guarantee on the operation of the hardware with my well known one-on-one personal support to maintain your state-of-the-art tech.

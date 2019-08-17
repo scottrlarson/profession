@@ -15,5 +15,5 @@ image = ""
 caption = ""
 
 +++
-If you were ever wondering how a desktop computer is built, or you need to understand how to build your own this is a good reference video to get you started
+If you were ever wondering how a desktop computer is built, or you need to understand how to build your own, this is a good reference video from newegg.com to get you started. On a side note, and this is not a plug, newegg.com is a great place to purchase hardware. They have good return policies and prices.
 https://www.youtube.com/watch?v=lPIXAtNGGCw

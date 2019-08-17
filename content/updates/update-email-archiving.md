@@ -15,9 +15,9 @@ image = ""
 caption = ""
 
 +++
-You might think that when you are read and responding to your email it is actually is stored on your device that you are using. In the last 5 years or so email is actually stored on the email hosting providers servers. Unless you are using a POP mail account, when you read or respond to your email you are actually reading a responding to a remote copy of this email.
+You might think that when you are reading and responding to your email, it is actually is stored on your device. In the last 5 years or so IMAP and clong services changed all of that. Email is actually stored on the email hosting provider servers. Unless you are using a old POP mail account, when you read or respond to your email, you are actually reading or responding to a remote copy of this email.
 
-This usually isn't a problem until you lose access to that data, or you delete an email and are unable to retrieve it. Most email providers offer some form of backup to your email account. But from my experience its never a good idea to solely rely on a service provider to maintain backups to you most important data.
+This usually isn't a problem until you lose access to email account, or you delete an email and are unable to retrieve it. Most email providers offer some form of backup to your email account. But from my experience, it's never a good idea to solely rely on a service provider to maintain backups to you most important data.
 
 This is why I recommend you perform some form of email archiving yourself. I use a tool called [MailStore](https://www.mailstore.com/en/products/) Home edition. The Home Edition supports archiving up to 3 email accounts. The program downloads your email from the servers and stores it on your storage device. It also has a great searching feature when you need to go back and look for that lost email or attachment. When you make a habit of archiving your email at regular intervals you have some security if for some reason the email provider runs into problems where your mail becomes lost in some way.
 

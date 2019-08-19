@@ -56,9 +56,9 @@ Don't Jailbreak you smartphone, or let a friend convince that you need some rogu
 
   <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-      <div class="panel-heading">
+      <div style="border: none; padding-left:0; padding-top: 0;" class="panel-heading">
         <h3 class="">
-          <a data-toggle="collapse" data-parent="#accordion" name="other-tips" href="#collapse1">6. Other Smartphone protection tips</a>
+          6. Other Smartphone protection <a data-toggle="collapse" data-parent="#accordion" name="other-tips" href="#collapse1">tips</a>
         </h2>
       </div>
       <div id="collapse1" class="panel-collapse collapse">

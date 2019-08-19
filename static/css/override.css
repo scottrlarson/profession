@@ -424,6 +424,12 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 	border: 1px solid black;
 }
 
+.list-panel {
+}
+
+.panel-default > .list-panel-heading{
+}
+
 .panel-title {
 	font-size: 1.75rem;
 }

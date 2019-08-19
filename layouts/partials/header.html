@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en-us" }}">
 <head>
-
+  <!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -55,6 +56,7 @@
   {{ end }}
   {{/* We cannot use SRI with Google Fonts because the CSS is dynamically generated according to the user agent */}}
   {{ with ($scr.Get "google_fonts") }}
+  
   <link rel="stylesheet" href="{{ printf "//fonts.googleapis.com/css?family=%s" . }}">
   {{ end }}
   <link rel="stylesheet" href="{{ "styles.css" | relURL }}">

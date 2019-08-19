@@ -1,0 +1,8 @@
+{{- with .Get 0 -}}
+  {{- $url := index $.Site.Data.terms . -}}
+  {{- if $url -}}
+{{- $url -}}
+  {{- else -}}
+{{- errorf "No link for key %s" . -}}
+  {{- end -}}
+{{- end -}}

@@ -39,8 +39,10 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Scott Larson"
-  role = "IT Troubleshooter & Data Recovery Provider"
+  role = "The Troubleshooter"
+  connectorand = "&"
   mission = "Spiritual Activist"
+  servicecategory = "Computer Repair & Data Recovery Provider"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.

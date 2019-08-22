@@ -17,7 +17,14 @@
       <div class="portrait-title">
         <h1 itemprop="name">{{ $.Site.Params.name }}</h1>
         {{ with $.Site.Params.role }}<h3 itemprop="jobTitle">{{ . }}</h3>{{ end }}
+        
+        {{/* Service Category */}}
+        {{ with $.Site.Params.servicecategory }}<span itemprop="service-category">{{ . }}</span>{{ end }}
+        
+        {{/* & */}}
+        {{ with $.Site.Params.connectorand }}<h3 itemprop="connectorand">{{ . }}</h3>{{ end }}
 
+        
         {{/* Life Mission */}}
         {{ with $.Site.Params.mission }}<h3 itemprop="mission">{{ . }}</h3>{{ end }}
 

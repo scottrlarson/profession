@@ -24,3 +24,5 @@ fields:
   - type: text
     name: caption
     label: caption
+pages:
+- content/updates/my-trip-though-armstrong-woods.md

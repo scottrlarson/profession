@@ -41,6 +41,13 @@ Check my [hours](#contact) for availability.
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
 | $128.00   | $103.00   | $78.00   | $153.00     | $178.00     | Free   |
 
+### In-Office Consultations
+
+| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
+| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
+| $128.00   | $103.00   | $78.00   | $153.00     | $178.00     | Free   |
+
+
 ## At-Your-Location Consultations
 
 ### Scheduled Visit Repair/Resolution Rates Per Hour (1hr minimum)
@@ -63,4 +70,5 @@ Check my [hours](#contact) for availability.
 
 ## Project Based Fees
 
-- Please see my list of services at the top of my website.
+- If you have a question about a specific service package, please see my list of services at the top of my website.
+- In-office research fees are $40.00 an hour. Used in situations where you need a report, or recommedation delivered to you on a product, or concept idea. I offer free 30 minutes of research time for customers that have already purchased a diagnostic, or repair service, if the requested research will be related to the device I am servicing. There are no additions to this fee unless you require face to face contact, or have followup questions that exceed more than 10 minutes per service.

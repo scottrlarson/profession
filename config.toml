@@ -30,6 +30,16 @@ defaultContentLanguageInSubdir = false
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
+
+  description = '''
+  I am a technical professional, spiritual activist, and author. This is my professional and personal website where you can learn more about my work as a professional and indvidual.
+  '''
+  author = "Scott Larson"
+  currency = "USD"
+  snipcart_test_api_key = ""
+  snipcart_live_api_key = ""
+  cloudinary_base_url = "https://res.cloudinary.com/scottrlarson"
+  
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
   color_theme = "dark"
@@ -462,15 +472,3 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
-
-# Site Params
-# -------------
-[params]
-description = '''
-I am a technical professional, spiritual activist, and author. This is my professional and personal website where you can learn more about my work as a professional and indvidual.
-'''
-author = "Scott Larson"
-currency = "USD"
-snipcart_test_api_key = ""
-snipcart_live_api_key = ""
-cloudinary_base_url = "https://res.cloudinary.com/scottrlarson"

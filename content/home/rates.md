@@ -68,6 +68,24 @@ Check my [hours](#contact) for availability.
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
 | $78.00    | $63.00    | $53.00    | $88.00      | $98.00      | Half-Rate   |
 
+### Basic Retainer At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
+
+| 4x Phone/Remote  | 1x At-Location   |  |  |  |  |
+| :-------: | :-------: | --- | --- | --- | --- |
+| $200.00    | $100.00    |  |  |  |  |
+
+### Intermidiate Retainer At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
+
+| 8x Phone/Remote  | 2x At-Location   |  |  |  |  |
+| :-------: | :-------: | --- | --- | --- | --- |
+| $400.00    | $200.00    |  |  |  |  |
+
+### Basic Retainer At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
+
+| 12x Phone/Remote  | 3x At-Location   |  |  |  |  |
+| :-------: | :-------: | --- | --- | --- | --- |
+| $600.00    | $300.00    |  |  |  |  |
+
 ## Project Based Fees
 
 - If you have a question about a specific service package, please see my list of services at the top of my website.

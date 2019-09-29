@@ -63,7 +63,7 @@ Long ago I did a small study of my last name. The origin of the name "Larson" co
 A real life starts with being patient like these tress, kind like the wind, and understanding like the elderly men I met on the path. I grieve for something lost on the path of life, but the discovery of what is true and vital to my wellbeing brings me closer to that piece of myself that was lost long ago.
 
 ## Author's Note
-This piece would not have been possible without the help of the [Mankind Project](http://mkp.org) in my life. After "The Event" I was led to the ![New Warrior Training Adventure](https://mankindproject.org/new-warrior-training-adventure/) where I discovered my calling.  The Mankind Project is a organization that helps men become ethical creators of life in this modern age of decadence.
+This piece would not have been possible without the help of the [Mankind Project](http://mkp.org) in my life. After "The Event" I was led to the [New Warrior Training Adventure](https://mankindproject.org/new-warrior-training-adventure/) where I discovered my calling.  The Mankind Project is a organization that helps men become ethical creators of life in this modern age of decadence.
 
 You can read about [my initiation](http://www.scottrlarson.com/testimonials/testimonial-mkp/) into manhood with the help of the Mankind Project.
 

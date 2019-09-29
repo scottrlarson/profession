@@ -295,6 +295,11 @@ defaultContentLanguageInSubdir = false
   parent = "more"
 
 [[menu.main]]
+  name = "Travelogues"
+  url = "/travelogues"
+  parent = "more"
+  
+[[menu.main]]
   name = "Guides"
   url = "/guides"
   parent = "more"

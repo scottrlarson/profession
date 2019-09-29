@@ -1,5 +1,5 @@
 +++
-title = "_Index"
+title = "Travelogues"
 date = 2019-09-29T09:25:18-07:00
 draft = false
 
@@ -15,3 +15,4 @@ image = ""
 caption = ""
 
 +++
+My jounies into the unknown...

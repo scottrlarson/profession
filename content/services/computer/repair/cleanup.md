@@ -1,6 +1,6 @@
 +++
 title = "Malware Cleanup"
-date = 2017-07-10T10:57:35-07:00
+date = 2019-10-18T10:57:35-07:00
 draft = false
 
 # Tags and categories

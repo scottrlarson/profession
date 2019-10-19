@@ -1,6 +1,6 @@
 +++
 title = "Laptop"
-date = 2018-01-30T16:26:43-08:00
+date = 2019-10-18T16:26:43-08:00
 draft = false
 
 # Tags and categories

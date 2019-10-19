@@ -1,6 +1,6 @@
 +++
 title = "Maintenance (Hardware)"
-date = 2018-01-30T15:48:51-08:00
+date = 2019-10-18T15:48:51-08:00
 draft = false
 
 # Tags and categories

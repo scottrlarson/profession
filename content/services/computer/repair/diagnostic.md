@@ -24,4 +24,4 @@ caption = ""
 <li class="service-list-items">Half-off all diagnostic work when repairs are authorized.</li>
 <li class="service-list-items">This fee is per device.</li>
 </ul>
-{{% service-range item-min="$85" item-max="$125" %}}
+{{% service-range item-min="$95" item-max="$150" %}}

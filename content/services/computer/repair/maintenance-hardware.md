@@ -41,9 +41,8 @@ Desktops and laptops can suffer from shutdowns, boot failures, errors, and syste
 <li>Apply high quality thermal solutions that keep the hardware free of overheating over a much longer period of time.</li>
 <li>Return the Processor settings to a normal state of operation to prevent heat damage.</li>
 </ul>
-<h3>I offer a free check-up to determine the cause of your issue. If I cant fix your problem you don't pay.</h3>
 
 <div class="service-price-table">
   <div class="price-data-label">Service Price:</div>
-  <div class="price-data-item">$100</div>
+  <div class="price-data-item">$112</div>
 </div>

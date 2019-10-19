@@ -31,7 +31,7 @@ caption = ""
 </ul>
 </div>
 
-{{% service-range item-min="$50.00" item-max="$300.00" %}}
+{{% service-range item-min="$112.00" item-max="$368.00" %}}
 
 - Billed in 1/2 hour increments
 - Hardware replacement/repairs are billed in 1 hour increments.

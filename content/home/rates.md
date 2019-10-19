@@ -52,21 +52,21 @@ Check my [hours](#contact) for availability.
 
 ### Scheduled Visit Repair/Resolution Rates Per Hour (1hr minimum)
 
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
-| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $178.00   | $153.00   | $128.00   | $203.00     | $228.00     | Half-Rate   |
+| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   |
+| :-------: | :-------: | :-------: | :---------: | :---------: |
+| $178.00   | $153.00   | $128.00   | $203.00     | $228.00     |
 
 ### Scheduled Visit Training, or File/Folder Organization Rates Per Hour (1hr minimum)
 
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
-| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $103.00   | $78.00   | $53.00   | $128.00     | $153.00     | Half-Rate   |
+| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   |
+| :-------: | :-------: | :-------: | :---------: | :---------: |
+| $103.00   | $78.00   | $53.00   | $128.00     | $153.00     |
 
 ### Scheduled Repair/Resolution Remote/Phone Support (30min minimum) (3hr maximum per day)
 
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
-| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $78.00    | $63.00    | $53.00    | $88.00      | $98.00      | Half-Rate   |
+| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   |
+| :-------: | :-------: | :-------: | :---------: | :---------: |
+| $78.00    | $63.00    | $53.00    | $88.00      | $98.00      |
 
 ### Basic Retainer At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
 

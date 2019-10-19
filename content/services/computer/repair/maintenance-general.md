@@ -27,5 +27,5 @@ caption = ""
 
 <div class="service-price-table">
   <div class="price-data-label">Service Price</div>
-  <div class="price-data-item">$115.00</div>
+  <div class="price-data-item">$128.00</div>
 </div>

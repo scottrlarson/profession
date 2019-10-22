@@ -18,4 +18,4 @@ caption = ""
 You could spend hours, or even days talking on the phone with support representatives about how to configure your devices to talk to each other. Or you could call me. I have over 20 years of computer setup knowledge in this industry. If I don't know the answer, I know where to look to get answers it quickly. I know how to install all types of new consumer and small business hardware, software or applications in the home or small business. 
 
 
-{{% service-rates %}}
+{{% service-rates-at-location %}}

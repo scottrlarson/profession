@@ -27,4 +27,4 @@ I provide the following:
 <li>I allot 20mins of my time for each recommendation to respond to after-purchase questions about the recommendation, or the device when the question is related to the recommendation specifics. (Subject to my time constraints.)</li>
 </ul>
 
-{{% service-rates %}}{{% service-custom label="Recommendation" item="$60" %}}
+{{% service-rates %}}{{% service-custom label="Recommendation" item="$75" %}}

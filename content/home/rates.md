@@ -39,13 +39,13 @@ Check my [hours](#contact) for availability.
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $128.00   | $103.00   | $78.00   | $153.00     | $178.00     | Free   |
+| $158.00   | $123.00   | $103.00   | $173.00     | $203.00     | Free   |
 
 ### In-Office Consultations
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $128.00   | $103.00   | $78.00   | $153.00     | $178.00     | Free   |
+| $158.00   | $123.00   | $103.00   | $173.00     | $203.00     | Free   |
 
 
 ## At-Your-Location Consultations

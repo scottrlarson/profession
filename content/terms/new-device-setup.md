@@ -22,11 +22,11 @@ This might include removing or replacing (also by your request): security softwa
 
 At all times the device will be remain functional, but you might have an expectation about the device that I deliberately changed. If you have a required need for a default application that would have existed with another device provider please let me know so that we can talk about that requirement.
 
-If you request a removal of an application, you will be liable for any ramification of that request. For instance: If you request that a default security package be removed due to the fact that you prefer to install your own and you forget to perform that operation, and that inaction cause some kind of harm to you, another party, or to any property; You, and you alone are responsible.
+If you request a removal of an application, you will be liable for any ramification of that request. For instance: If you request that a default security package be removed due to the fact that you prefer to install your own and you forget to perform that operation, and that inaction causes some kind of harm to you, another party, or to any property; You, and you alone are responsible.
 
 ## My Windows 10 Restore/Reset Service Includes Decrapifing
 
-Due to the privacy invasions that Microsoft has implemented in Windows 10, and the unnecessary software that comes bundled with it, when I install or reinstall Windows 10 on any machine that enters this office, I remove and disable certain unnecessary and unwanted functions.(Please note that I do not guarantee any performance on any of these adjustments.):
+Due to the privacy invasions that Microsoft has implemented in Windows 10, and the unnecessary software that comes bundled with it, when I install, or reinstall Windows 10 on any machine that enters this office, I remove and disable certain unnecessary and unwanted functions.(Please note that I do not guarantee any performance on any of these adjustments.):
 
 - I disable all Telemetry and Data Collection services.
 - I uninstall all Microsoft Windows 10 apps, except the basic, or useful ones that would prevent the normal operation of the device: Mail, Microsoft Store, Calculator, Sticky, Windows.photos, Soundrecorder, MSpaint, Screensketch.

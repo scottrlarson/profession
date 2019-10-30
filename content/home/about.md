@@ -61,7 +61,7 @@ weight = 1
 
 +++
 
-<div class="alert-container"><p>On Sunday 10/27,19 at 4am my family was evacuated from Sebastopol. To avoid further evacuations, if the fire started spreading south, we evacuated to Pacific Grove for a few days to figure out what we are going to do.  My estimated return to the office is likely Friday 11/2/19. I will update this alert with changes as they come up. There will probably be a day lag time due to my moving from one location to another..</p> 
+<div class="alert-container"><p>On Sunday 10/27,19 at 4am my family was evacuated from Sebastopol. To avoid further evacuations, if the fire started spreading south, we evacuated to Pacific Grove for a few days to figure out what we are going to do.  My estimated return to the office is likely Friday 11/2/19. I will update this alert with changes as they come up. There will probably be a day lag time due to my moving from one location to another.</p> 
 
 <p>I will still be answering questions and providing remote services. You can still reach me via phone, text or email but I will not be able to provide in-shop or at-location based services until I am able to return to my home.</p>
 </div>

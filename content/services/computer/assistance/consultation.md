@@ -27,4 +27,4 @@ I provide the following:
 <li>Or a quick recommendation on a replacement device.</li>
 </ul>
 
-{{% service-rates %}}
+{{% service-rates-at-location %}}

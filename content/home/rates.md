@@ -19,11 +19,11 @@ Check my [hours](#contact) for availability.
 
 **I offer discounts for Senior Citizens, Non-profits, Non-business Residential, and Homeless customers for all my services upon request. [Call, Text or Visit](#contact) my office for more info.**
 
-**I accept cash, check, or credit card via paypal (A 3% convenience fee will be applied to paypal requests for money). Payments are due before the device is released, or before I leave the service location. The exception is if I have an on-going relationship with you as the business owner to provide a service, or I draw up a proposal/quote for an on-going project. In this case the max time for payments is two weeks. Please be prepared to pay me for my time after the requested work requested is complete. Not having the proper payment method, or amount may halt any work in progress, prevent me from starting any work, or prevent you from picking up your device. Payments that are late incur a $0.50 charge per day.**
+**I accept cash, check, or credit card via paypal using the mobile app, or online website.Payments are due before the device is released, or before I leave the service location. The exception is if I have an on-going relationship with you as the business owner to provide a service, or I draw up a proposal/quote for an on-going project. In this case the max time for payments is two weeks. Please be prepared to pay me for my time after the work requested is complete. Not having the proper payment method, or amount may halt any work in progress, prevent me from starting any work, or prevent you from picking up your device. Payments that are late incur a $0.50 charge per day.**
 
 
 
-**I only provide services to small operations with 10 or less employees.**
+**I only provide services directly to individuals/people, and individuals/people who operate small operations with 10 or less employees.**
 
 ## In-Shop Service
 

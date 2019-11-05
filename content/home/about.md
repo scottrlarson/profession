@@ -60,6 +60,9 @@ weight = 1
 
 
 +++
+
+<div class="alert-container">Tuesday 11/05/19: I am out sick today from the office. I will still be answering calls, text messages, and emails. If you need to bring your device to me, or have a question that requires a in-person consultation, please contact me to schedule an appointment to drop by for later this week, or early next week.</div>
+
 <div class="alert-container">Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRE25 code when contacting me.</div>
 
 <div class="panel-group" id="accordion">

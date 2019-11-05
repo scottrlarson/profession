@@ -62,7 +62,7 @@ Check my [hours](#contact) for availability.
 | :-------: | :-------: | :-------: | :---------: | :---------: |
 | $103.00   | $78.00   | $53.00   | $128.00     | $153.00     |
 
-### Scheduled Repair/Resolution Remote/Phone Support (30min minimum) (3hr maximum per day)
+### Scheduled Repair/Resolution Remote/Phone Support Rates Per Hour (30min minimum) (3hr maximum per day)
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   |
 | :-------: | :-------: | :-------: | :---------: | :---------: |
@@ -80,7 +80,7 @@ Check my [hours](#contact) for availability.
 | :-------: | :-------: | --- | --- | --- | --- |
 | $400.00    | $200.00    |  |  |  |  |
 
-### Basic Retainer At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
+### Advanced Retainer At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
 
 | 12x Phone/Remote  | 3x At-Location   |  |  |  |  |
 | :-------: | :-------: | --- | --- | --- | --- |

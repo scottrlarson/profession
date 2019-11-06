@@ -60,8 +60,7 @@ weight = 1
 
 
 +++
-
-<div class="alert-container">Tuesday 11/05/19: I am out sick today from the office. I will still be answering calls, text messages, and emails. If you need to bring your device to me, or have a question that requires a in-person consultation, please contact me to schedule an appointment to drop by for later this week, or early next week.</div>
+<div class="alert-container">Please note that I will be closed from 12/30/19 to 1/5/2020 for the holidays. Please contact me and let me know what day you would like your device serviced after 1/6/2020. I will return your message when I return to the office on 1/6/2020. Have a happy and peaceful new year!!!</div>
 
 <div class="alert-container">Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRE25 code when contacting me.</div>
 

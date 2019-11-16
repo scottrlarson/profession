@@ -74,13 +74,13 @@ Check my [hours](#contact) for availability.
 | :-------: | :-------: | --- | --- | --- | --- |
 | $200.00    | $100.00    |  |  |  |  |
 
-### Intermidiate Retainer At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
+### Intermediate Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
 
 | 8x Phone/Remote  | 2x At-Location   |  |  |  |  |
 | :-------: | :-------: | --- | --- | --- | --- |
 | $400.00    | $200.00    |  |  |  |  |
 
-### Advanced Retainer At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
+### Advanced Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
 
 | 12x Phone/Remote  | 3x At-Location   |  |  |  |  |
 | :-------: | :-------: | --- | --- | --- | --- |

@@ -50,6 +50,12 @@ Check my [hours](#contact) for availability.
 
 ## At-Your-Location Consultations
 
+### Pick-up/Drop-Off Service (Within 5miles of Downtown SR) Some services require work to be performed in my office.
+
+| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   |
+| :-------: | :-------: | :-------: | :---------: | :---------: |
+| $103.00   | $51.00   | $27.00   | $127.00     | $156.00     |
+
 ### Scheduled Visit Repair/Resolution Rates Per Hour (1hr minimum)
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   |

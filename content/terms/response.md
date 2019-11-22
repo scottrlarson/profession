@@ -15,4 +15,4 @@ image = ""
 caption = ""
 
 +++
-<p>I will respond to communications within 3hrs or less unless its nearing the end of the day, I am on a emergency appointment where I cannot get away, I am on vacation, or it is on the weekend. If any of these situations occur I will respond to any and all communications on the next business day, when I return from vacation, or after the holiday. </p>
+<p>Unless my work schedule is nearing the end of the day, I will respond to communications within three hours, or less. There are a few exceptions to this time frame: If I am on a emergency appointment where I cannot get away, I am on vacation, I am out sick, or it is during off hours I will then respond to any and all communications on the next business day, when I return from vacation/sick leave, or after the holiday. My home page should have a post with a status update on my availability if something happens that prevents me from operating inside of my normal working hours. </p>

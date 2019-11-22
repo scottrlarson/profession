@@ -27,7 +27,7 @@ Check my [hours](#contact) for availability.
 
 ## In-Shop Service
 
-### Diagnosis/Analysis Service Turn-Around Range Rates (Half-off when a repair service is authorized on the same device.
+### Diagnosis/Analysis Service Turn-Around Range Rates (25% when a repair service is authorized on the same device.
 
 | Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
 | :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |

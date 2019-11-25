@@ -16,7 +16,7 @@ caption = ""
 
 +++
 {{% contact-info %}}
-I handle requests for computer assistance by phone 9am to 7pm Monday though Friday and sometimes on the weekends if I don't have other engagements. I offer a fist time free 20 minute consultation on any challenge you are having, after that I charge $1.00 a minute up to a max of 3 hours. There are some issues that are better handled in person or by remote. If you have a question about my services please contact me at 707-536-1527.
+Check my [hours](/#contact) for availability. I offer a free 20 minute evaluation on your issue. Check my [Repairs](/services/computer/repair/), [Home-Office](/services/computer/home-office/), and [Multimedia/Gaming](/services/computer/multimedia-gaming/) sections for more information about my project based services. You can also view my [rates](/#rates) for ongoing diagnostics and repairs. If you have a question about my services please [contact](/#contact) me
 <!--more-->
 
-Please inquire about protecting your data before I handle an issues you are having. I am not responsible for any kind of data loss or hardware damage.  If you don't have one already, having a backup strategy is important before you request help so that none of your important data is lost in the event of a device failure or accident.
+Please do inquire about protecting your data before requesting a servicing. I am not responsible, nor liable, for any kind of data loss, or hardware damage due to wear and tear.  Before you request a servicing, back-up your data. If you don't have a backup strategy already, [contact](/#contact) me so I can help you formulate a plan.

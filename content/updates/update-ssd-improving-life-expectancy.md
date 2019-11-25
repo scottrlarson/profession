@@ -15,6 +15,7 @@ image = ""
 caption = ""
 
 +++
+![SSD Life Expectancy Photo](/img/updates/ssd-life-expectancy/ssd-protect-670x335.jpg)
 A SSD is a Solid State Drive. SSD's are part of most newer computers, laptops and mobile devices. A storage device stores your personal information every time you save, copy, or transfer a file to your device.
 
 SSD's use non-moving parts like memory technology. A hard disk drive uses moving parts to store information.

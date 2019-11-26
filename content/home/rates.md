@@ -15,7 +15,7 @@ Check my [hours](#contact) for availability.
 
 ## Payment Terms
 
-**Rates/Prices are determined by the immediacy, or the day/time a service is requested. Services that are scheduled in advance are cheaper than services that are needed right away. Excluding off-hours, weekends and holidays.**
+**Ongoing service rates are determined by the immediacy, or the day/time a service is requested. Services that require a faster turn-around time are higher than services that can wait. If you require a specific service, check my project based services in the main menu of my website.**
 
 **I offer discounts for Senior Citizens, Non-profits, Non-business Residential, and Homeless customers for all my services upon request. [Call, Text or Visit](#contact) my office for more info.**
 

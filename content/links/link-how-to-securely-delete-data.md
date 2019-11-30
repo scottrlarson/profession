@@ -5,7 +5,7 @@ draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Identity Theft", "Security"]
 categories = []
 
 # Featured image
@@ -19,6 +19,6 @@ caption = ""
 
 This is a good guide that explains how to securely delete data from a Mac, but it also references a PC. These instructions might be beyond the capabilities for the average computer user, but it's still good to know what is involved in securely deleting data.
 
-Remember that when you get rid of an old computer, you have no idea what information is left behind about you. Data theft is a real problem because you can be targeted in such a way as to never really know how to combat it if you do not what information is released into the world.
+When you get rid of an old computer that has data on it, that has not been securely deleted, that data can be mined by people that have an interest in stealing your assets, or impersonating you to hide criminal behavior. Its very difficult, and/or time consuming dealing with identify theft if you do not know how your information is being used without your consent. Think be for you throw away a device that might have information about you that you do not want to fall into the wrong hands.
 
 The best bet is to hirer me, I can [securely delete sensitive data](/services/information/security/data/) before you recycle or give away your legacy device.

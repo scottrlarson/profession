@@ -15,6 +15,7 @@ image = "services/cs-windows-update.png"
 caption = ""
 
 +++
+## Windows Version Upgrade
 <p>Upgrade to the latest version of Windows brings an improved and stellar desktop experience.</p>
 <p>This service includes:</p>
 <ul>
@@ -38,4 +39,4 @@ caption = ""
 
 
 
-{{% service-price item="$125" %}}
+{{% service-price item="$150" %}}

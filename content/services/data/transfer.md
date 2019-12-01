@@ -1,5 +1,5 @@
 +++
-title = "E-Mail Transfer"
+title = "Data Transfer"
 date = 2018-02-06T13:45:10-08:00
 draft = false
 
@@ -15,6 +15,14 @@ image = "services/"
 caption = ""
 
 +++
+
+## System
+In most cases, I can transfer operating systems, Settings, and applications to another device.
+
+## Files
+I can transfer files and folders from one device to another.
+
+## Email
 If you are having trouble moving your mail from one service to another I have special tools and expertise in transferring POP and IMAP mail from one storage location to another.
 
 {{% service-quote %}}

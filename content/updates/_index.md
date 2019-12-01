@@ -15,4 +15,4 @@ image = ""
 caption = ""
 
 +++
-Updates on my endeavors.
+Latest news on my, in-the-field, technology research and recommendations.

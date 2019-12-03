@@ -18,6 +18,7 @@ caption = ""
 
 <p>When your device experiences trouble I can provide a professional report on the extent of the problem. Diagnostics are done before any <a href="../repair">repairs</a> are completed to analyze the scope of the problem and provide a cost/benefit analysis.</p>
 <ul>
+<li class="service-list-items">When any repair is authorized on behalf of a diagnostic report, I give you a 25% discount on the diagnostic fee.</li>
 <li class="service-list-items">I deliver cutting edge results to any hardware or software related problem with over twenty years of hardware experience while using the latest hardware diagnostic tools.</li>
 <li class="service-list-items">A full diagnostic service can take twenty four to forty eight non-billable hours to complete. Sometimes a bit longer if I am backed up with work.</li>
 <li class="service-list-items">In some cases, comprehensive diagnostics on obscure problems can take longer, up to one or sometimes two non-billable weeks. Contact me about getting a loaner device in these situations.</li>

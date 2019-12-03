@@ -269,13 +269,7 @@ defaultContentLanguageInSubdir = false
   name = "Pursuits Material"
   identifier = "PMM"
   weight = 40
-  url = "/material/pursuit"  
-
-[[menu.main]]
-  name = "Documents"
-  identifier = "DMM"
-  weight = 50
-  url = "/documents"  
+  url = "/material/pursuit"
 
 [[menu.main]]
   name = "Content Development"
@@ -354,11 +348,6 @@ defaultContentLanguageInSubdir = false
   name = "Technical Glossary"
   url = "/glossary"
   parent = "EMM"
-
-[[menu.main]]
-  name = "Forms"
-  url = "/forms"
-  parent = "DMM"
 
 [[menu.main]]
   name = "Computer Assistance"

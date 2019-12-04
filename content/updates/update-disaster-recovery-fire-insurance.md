@@ -1,5 +1,5 @@
 +++
-title = "Disaster Recovery Backup, Your Fire Insurance."
+title = "What's your disaster recovery plan?."
 date = 2018-09-08T15:35:09-07:00
 draft = false
 
@@ -16,20 +16,28 @@ caption = ""
 
 +++
 
+![What's your plan b backup plan?](/img/updates/disaster-recovery-plan/planb.jpg)
 
 ## The Problem.
-A day after the Northern California firestorm in 2017 a customer called me: "Scott, our house burnt down to the ground, our computers are gone, can you get us up and running with new computers, and restore our data from Carbonite?"
+A customer called me the day after the firestorm in the 2017 Northern California fires, "Scott, our house was destroyed in the fire and our computers are gone. Can you get us up and running with new laptops, and restore our data?"
 
-Even though it was the day after having escaped to the coast with my family at first I was dazed by the disaster, I didn't fully realize myself how people would be effected by this catastrophe. That day I was able to order two new laptops from dell's online store, install Carbonite, and restore the customer’s data. The customer was up and running in about a week.
+ It was the day after returning from the coast with my family. That day I was able to order two new laptops from dell's online store, install Carbonite, and restore data that the customer was backing up to the cloud. Due to the time it takes to transfer data from the cloud, the customer was up and running in about a week.
 
-Having a cloud or rotating storage device backup system. is important. Fire damage is a real threat in California moving forward. Consider having some kind of backup strategy for a disaster like this so you don't lose important data. Ask your self the following question: What can I afford to lose if a disaster like this strikes again?
+Off-site backup protects you from disasters, plain and simple. There are multiple ways you can do it, the two most popular are cloud backup and local storage backup. Local storage backup requires that you rotate between two storage devices. One stored in another location. 
 
-In 1989 my home was involved in a fire and I lost everything. I had some backups but they were in the house when it happened. I had to start all over it was tough but doable.
+![Please Help, Lost Data](/img/updates/disaster-recovery-plan/lost-data.jpg)
 
-Think about where you can store your data. If the information is private you might want to avoid the cloud, unless a encryption solution is involved. Having data stored on drives is good but what happens if the storage devices are in the location when the disaster strikes? Plan on keeping backups of your most important data on separate media that can be stored at another family/friends house, or even a safety deposit box.
+When I was in my teens, and just getting into technology, my home was involved in a fire, and I lost everything. I had some backups but they were in the house when it happened. I did think that I would ever need to worry about a loss like that, I was more worried about data corruption.
+
+Ask your self the following question:
+> What can I afford to lose if a disaster like this strikes?
+
+If the answer is: "I cant afford to lose anything!"", or "there are a few things that, if lost, I might regret it." then you should start thinking about how you want to handle preserving your digital information.
+
+Break it down into the following categories: [storage device](https://en.wikipedia.org/wiki/Data_storage), location, and [maintenance](https://en.wikipedia.org/wiki/Backup_software). If the information is private you might want to avoid the cloud, unless  the backup software, or cloud backup service offers an encryption solution. Having data stored on a local storage device is good, but what happens if the storage devices are in the location when the disaster strikes? Plan on keeping backups of your most important data on separate media that can be stored at another family/friends house, or even a safety deposit box.
 
 ## The Resolution
-I offer a various [disaster recovery backup solutions](../../publications/publication-disaster-recovery-backup/) that can be tailored to your needs. From just cloud backup of your most important files to real-time backup of your entire business or personal operations. Having a consistent backup of just your data or even your programs and operating system saves you a ton of time when a disaster hits. Most of all there is real security in being prepared. I just makes you feel secure in your day to day operations knowing that you can have a solution that you can rely on.
+I offer a various [disaster recovery backup solutions](../../publications/publication-disaster-recovery-backup/) that can be tailored to your needs. From just cloud backup of your most important files, to real-time backup of your entire small business, or personal operations. Having a consistent backup of just your data, or even your programs and operating system saves you a ton of time when a disaster hits. Most of all there is real security in being prepared.
 
 ## Conclusion
-[Contact me](/#contact) for a free consultation. I can sit down with you, or talk to you over the phone about a solution that will fit your needs. Don’t wait, you dont know what you may lose, until its gone.
+[Contact me](/#contact) for a free consultation. I can sit down with you, or talk to you over the phone about a solution that will fit your needs.

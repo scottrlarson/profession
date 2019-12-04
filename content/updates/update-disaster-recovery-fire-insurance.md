@@ -1,5 +1,5 @@
 +++
-title = "What's your disaster recovery plan?."
+title = "What's your disaster recovery plan?"
 date = 2018-09-08T15:35:09-07:00
 draft = false
 

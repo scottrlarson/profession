@@ -15,3 +15,4 @@ image = ""
 caption = ""
 
 +++
+<!-- {{% newsletter-dir %}} -->

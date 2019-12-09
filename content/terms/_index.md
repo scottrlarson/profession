@@ -1,5 +1,5 @@
 +++
-title = "Terms & Conditions"
+title = "Terms of Service"
 date = 2018-02-27T14:11:07-08:00
 draft = false
 

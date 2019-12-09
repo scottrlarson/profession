@@ -365,7 +365,7 @@ defaultContentLanguageInSubdir = false
   parent = "more"
 
 [[menu.main]]
-  name = "Terms & Conditions"
+  name = "Terms of Service"
   url = "/terms"
   parent = "more"
 

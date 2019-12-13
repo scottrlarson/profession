@@ -13,7 +13,7 @@ categories = []
 [header]
 image = ""
 caption = ""
-
+weight = 1
 +++
 <p>I will not be liable, nor responsible for data loss of any kind regardless of the reason. Please back up your data or talk to me about a backup strategy before having any work done.</p>
 

@@ -15,6 +15,9 @@ image = ""
 caption = ""
 
 +++
+
+![Choppy Video Playback Photo](/img/updates/smooth-video-playback/smooth-video-playback.jpg)
+
 Playing video online or off smoothly has some minimum hardware requirements if you want to avoid hassles:
 
 1. Processor: 2.4 Ghz Dual Core Processor.

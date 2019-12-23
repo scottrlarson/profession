@@ -15,6 +15,9 @@ image = ""
 caption = ""
 
 +++
+
+![Backing Up Your Digital Life Photo](/img/publications/digital-life/srl-digital-life-backup.png)
+
 *Learn why solely backing up your data isn't always enough to recover from a disaster.*
 
 In this update, you will learn about:
@@ -28,6 +31,8 @@ When you purchase an automobile, you usually take it for a test drive. This is d
 
 Separating backup from disaster recovery, understanding key terms, and evaluating technologies and storage options can help you develop an effective plan for avoiding the consequences of downtime.
 
+![Types of disasters photo](/img/publications/digital-life/disaster-types.jpg)
+
 ## What is disaster recovery backup, and why should I care?
 
 **Backup** is the process of making an extra copy (or multiple copies) of data. You might need to restore data from a backup if you accidentally delete a file, or folder; or a file, or folder becomes corrupted. 
@@ -39,6 +44,7 @@ In either scenario, data can then be stored onto a local, network, or cloud base
 
 > “I am prepared for the worst, but hope for the best.” - Benjamin Disraeli
 
+![Backup storage options photo](/img/publications/digital-life/storage-options.jpg)
 
 ## What are the strengths and weaknesses of different storage options and locations
 A backup and a disaster recovery backup are similar in that they both need a location to store a copy of the data that is needed for a restoral.
@@ -50,6 +56,8 @@ In a **Cloud Storage** scenario, data is stored outside the home, or small offic
 A **Local Storage** device would be an Internal, or External storage device that is connected directly to the device requiring a backup, using a USB or SATA data cable. The benefit of using a Local Storage device is speed, convenience and ease of use. The drawback from this convenience and ease of use is that moving the storage devices around, unplugging them often in situations that require it, like bringing a laptop with you on the go may eventually cause damage to, or cause a connection problem with the storage device and the computer. In many cases, when a connection problem shows up, the backup software cannot do its job, and you might not even know it until it's too late.
 
 In most cases, drawbacks of each technology cannot be avoided. It’s best to choose two or more storage options that work best for your needs and make redundancy your friend. If one storage device, or location fails, have another, and another. Three storage locations are optimal.
+
+![planning to recovery your digital life](/img/publications/digital-life/disaster-recovery-choice.jpg)
 
 ## How a little planning can drive a successful disaster recovery
 ### Identifying the best technologies for achieving your backup and disaster recovery goals for home and small businesses

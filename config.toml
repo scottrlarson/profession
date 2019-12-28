@@ -52,7 +52,7 @@ defaultContentLanguageInSubdir = false
   role = "The Troubleshooter"
   connectorand = "&"
   mission = "Spiritual Activist"
-  servicecategory = "Computer Repair & Data Recovery Provider"
+  servicecategory = "A Computer Repair & Data Recovery Service Provider"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.

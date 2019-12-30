@@ -492,3 +492,10 @@ ul.ul-edu li .description p.method {
 			padding: 25px;
 			margin: 0px 25px 100px 25px;
 		}
+    
+    /* Menu Styling */
+.mega-nav {
+  display: flex; !important;
+  position: relative; !important;
+}
+

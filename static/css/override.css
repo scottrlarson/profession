@@ -495,7 +495,8 @@ ul.ul-edu li .description p.method {
     
     /* Menu Styling */
 .mega-nav {
-  display: flex; !important;
+/* Below is the styling I want to apply to allow the megamenu to expand horizontically, but it looks like display attrubites are not work with the dropdown toggling hiding */
+/*  display: flex; !important; */
   position: relative; !important;
 }
 

@@ -25,6 +25,7 @@ If you accidentally deleted / wiped data by user error or your disk failed / cra
 - Solid State Storage
 - Flash Memory Storage
 
+{{% service-custom label="Per Item" item="$35" %}}
 {{% service-price item="$250.00" %}}
 
 ## Password/System Recovery
@@ -36,6 +37,6 @@ You must own the equipment, or have power of attorney to act on the owners behal
 {{% service-price item="$100.00" %}}
 
 ## Product Key Recovery
-If you lose your product physical media that contained your product key I can extract that information from the system.
+If you lose a product's product key, there is chance that I can extract that information from the system.
 
 {{% service-price item="$50.00" %}}

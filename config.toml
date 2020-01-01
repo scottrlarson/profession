@@ -30,6 +30,16 @@ defaultContentLanguageInSubdir = false
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
+
+  description = '''
+  I am a technical professional, spiritual activist, and author. This is my professional and personal website where you can learn more about my work as a professional and indvidual.
+  '''
+  author = "Scott Larson"
+  currency = "USD"
+  snipcart_test_api_key = ""
+  snipcart_live_api_key = ""
+  cloudinary_base_url = "https://res.cloudinary.com/scottrlarson"
+  
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
   color_theme = "dark"
@@ -39,7 +49,10 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Scott Larson"
-  role = "Information Technologist and Spiritual Activist"
+  role = "The Troubleshooter"
+  connectorand = "&"
+  mission = "Spiritual Activist"
+  servicecategory = "Computer Repair & Data Recovery Provider"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -48,12 +61,12 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile-scottrlarson.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   contact_form = ""
-  address = "Share Space 533 5th Street Santa Rosa, California (Our office is a shared space, and as such the front door is locked. Please call or ring door bell to be received.)"
-  street = "Share Space 533 5th Street"
+  address = "555 5th Street Suite 230-A Santa Rosa, California"
+  street = "555 5th Street Suite 230-A"
   city-state = "Santa Rosa, California"
-  office_hours = "Monday-Saturday: 8am to 6pm"
-  phone_hours = "Monday-Friday: 9am to 7pm"
-  location_hours = "Monday-Friday 9am to 6pm, Weekends upon request and subject to my time constraints."
+  office_hours = "Office Hours: Monday-Friday: 8am to 5pm | Saturday: 10am to 4pm"
+  phone_hours = "Phone Hours: Monday-Friday: 9am to 7pm"
+  location_hours = "At-Location Hours: Monday-Friday 9am to 6pm, Weekends upon request and subject to my time constraints."
   phone = "707-536-1527"
   mobile = "707-416-5811"
   skype = ""
@@ -146,7 +159,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = ["override.css", "megamenu.css"]
+  custom_css = ["override.css"]
   custom_js  = []
 
   # Publication types.
@@ -221,6 +234,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/scottrlarson"
 
+[[params.social]]
+  icon = "amazon"
+  icon_pack = "fa"
+  link = "https://amazon.com/author/scottrlarson"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -231,229 +248,183 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 [[menu.main]]
-  name = "Computer"
-  identifier = "com"
-  weight = 2
-  url = "/services/computer/"
+  name = "Computer Services"
+  identifier = "CSM"
+  weight = 10
+  url = "/services/computer"
 
 [[menu.main]]
-  name = "Content"
-  identifier = "con"
-  weight = 3
-  url = "/services/content/"
+  name = "Information Services"
+  identifier = "ISM"
+  weight = 20
+  url = "/services/information"
 
 [[menu.main]]
-  name = "Development"
+  name = "Educational Material"
+  identifier = "EMM"
+  weight = 30
+  url = "/material/education"
+  
+[[menu.main]]
+  name = "Pursuits Material"
+  identifier = "PMM"
+  weight = 40
+  url = "/material/pursuit"
+
+[[menu.main]]
+  name = "Content Development"
   url = "/services/content/development"
-  parent = "con"
-  weight =  2
+  parent = "ISM"
+  weight =  10
 
 [[menu.main]]
   name = "Publishing"
   url = "/services/content/publishing"
-  parent = "con"
-  weight =  3
+  parent = "ISM"
+  weight =  20
 
 [[menu.main]]
-  name = "Data"
-  identifier = "dat"
-  weight = 4
-  url = "/services/data/"
+  name = "Latest Updates on Technology"
+  url = "/updates"
+  parent = "EMM"
+  weight =  1
 
 [[menu.main]]
-  name = "Information"
-  identifier = "inf"
-  weight = 5
-  url = "/services/information/"
-
-[[menu.main]]
-  name = "Resources"
-  identifier = "res"
-  weight = 6
-  url = "resources"
-
+  name = "Travelogues"
+  url = "/travelogues"
+  parent = "PMM"
+  
 [[menu.main]]
   name = "Guides"
-  url = "/resources/guides"
-  parent = "res"
-  weight = 60
-
-[[menu.main]]
-  name = "Scoops"
-  url = "/resources/scoops"
-  parent = "res"
-  weight = 100
+  url = "/guides"
+  parent = "EMM"
 
 [[menu.main]]
   name = "Newsletters"
-  url = "/resources/newsletters"
-  parent = "res"
-  weight = 200
+  url = "/newsletters"
+  parent = "EMM"
 
 [[menu.main]]
   name = "Classes"
-  url = "/resources/classes"
-  parent = "res"
-  weight = 215
-
+  url = "/classes"
+  parent = "EMM"
 
 [[menu.main]]
   name = "Events"
-  url = "/resources/events"
-  parent = "res"
-  weight = 225
+  url = "/events"
+  parent = "EMM"
 
 [[menu.main]]
-  name = "Deals"
-  url = "/resources/deals"
-  parent = "res"
-  weight = 250
-
+  name = " Service Deals"
+  url = "/deals"
+  parent = "CSM"
 
 [[menu.main]]
   name = "Projects"
-  url = "/resources/projects"
-  parent = "res"
-  weight = 300
+  url = "projects"
+  parent = "EMM"
 
 [[menu.main]]
   name = "Publications"
-  url = "resources/publications"
-  parent = "res"
-  weight = 400
+  url = "publications"
+  parent = "EMM"
 
 [[menu.main]]
   name = "Presentations"
-  url = "resources/presentations"
-  parent = "res"
-  weight = 450
+  url = "presentations"
+  parent = "EMM"
 
+[[menu.main]]
+  name = "Links"
+  url = "/links"
+  parent = "EMM"
 
 [[menu.main]]
   name = "Recommendations"
-  url = "/resources/recommendations"
-  parent = "res"
-  weight = 500
+  url = "/recommendations"
+  parent = "EMM"
 
 [[menu.main]]
   name = "Technical Glossary"
-  url = "/resources/glossary"
-  parent = "res"
-  weight = 600
+  url = "/glossary"
+  parent = "EMM"
 
 [[menu.main]]
-  name = "Forms"
-  url = "/resources/forms"
-  parent = "res"
-  weight = 650
-
-[[menu.main]]
-  name = "Documents"
-  url = "/resources/documents"
-  parent = "res"
-  weight = 700
-
-[[menu.main]]
-  name = "Terms & Conditions"
-  url = "/resources/terms"
-  parent = "res"
-  weight = 800
-
-[[menu.main]]
-  name = "Assistance"
-  parent = "com"
-  weight = 1
+  name = "Computer Assistance"
+  parent = "CSM"
+  weight = 10
   url = "/services/computer/assistance"
 
 [[menu.main]]
-  name = "Repair"
-  parent = "com"
-  weight = 2
+  name = "Computer Repair"
+  parent = "CSM"
+  weight = 20
   url = "/services/computer/repair"
 
 [[menu.main]]
-  name = "Home & Office"
-  parent = "com"
-  weight = 3
+  name = "Home & Office Consultations"
+  parent = "CSM"
+  weight = 105
   url = "/services/computer/home-office"
-
 
 [[menu.main]]
   name = "Multimedia & Gaming"
-  parent = "com"
-  weight = 4
+  parent = "CSM"
+  weight = 107
   url = "/services/computer/multimedia-gaming"
 
 [[menu.main]]
-  name = "Recovery"
-  parent = "dat"
-  weight = 1
+  name = "Data Recovery"
+  parent = "CSM"
+  weight = 70
   url = "/services/data/recovery"
 
 [[menu.main]]
-  name = "Application Inventory"
-  parent = "dat"
-  weight = 3
-  url = "/services/data/inventory"
-
-[[menu.main]]
-  name = "Archiving"
-  parent = "dat"
-  weight = 4
+  name = "Data Archiving"
+  parent = "CSM"
+  weight = 85
   url = "/services/data/archiving"
 
 [[menu.main]]
-  name = "Disaster Recovery"
-  parent = "dat"
-  weight = 5
-  url = "/services/data/disaster"
-
-[[menu.main]]
-  name = "E-Mail Transfer"
-  parent = "dat"
-  weight = 6
-  url = "/services/data/email"
-
-[[menu.main]]
-  name = "File/Folder & Settings Transfer"
-  parent = "dat"
-  weight = 7
-  url = "/services/data/file-folder"
+  name = "Data Transfers"
+  parent = "CSM"
+  weight = 65
+  url = "/services/data/transfers"
 
 [[menu.main]]
   name = "Password Recovery"
-  parent = "dat"
-  weight = 8
+  parent = "CSM"
+  weight = 90
   url = "/services/data/password"
 
 [[menu.main]]
   name = "Product Key Recovery"
-  parent = "dat"
-  weight = 9
+  parent = "CSM"
+  weight = 100
   url = "/services/data/product"
 
 [[menu.main]]
-  name = "Cloud Backup Setup Service"
-  parent = "dat"
-  weight = 10
-  url = "/services/data/cloud"
+  name = "Backup Solutions"
+  parent = "CSM"
+  weight = 5
+  url = "/services/data/backup"
 
 [[menu.main]]
   name = "Security"
   url = "/services/information/security"
-  parent = "inf"
+  parent = "ISM"
   weight = 2
 
 [[menu.main]]
   name = "Management"
   url = "/services/information/management"
-  parent = "inf"
+  parent = "ISM"
   weight = 1
 
 [[menu.main]]
-  name = "Packages"
+  name = "Service Packages"
   url = "/packages"
-  weight = 7
+  parent = "CSM"
 
 # Taxonomies.
 [taxonomies]

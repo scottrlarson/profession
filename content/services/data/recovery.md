@@ -15,13 +15,27 @@ image = "services/ds-recovery.png"
 caption = ""
 
 +++
+## Data recovery
 
 If you accidentally deleted / wiped data by user error or your disk failed / crashed I can usually recover that data. I offer a recovery guarantee you only pay if I can recover the data you need. 
 
-## Supported Storage Devices
+### Supported Storage Devices
 
 - Hard Disk Drive
 - Solid State Storage
 - Flash Memory Storage
 
 {{% service-price item="$250.00" %}}
+
+## Password/System Recovery
+
+If you are unable to access your device, or data, I can help you gain access the to data, or equipment. 
+
+You must own the equipment, or have power of attorney to act on the owners behalf. I will need documentation confirming that you purchased the equipment, or a document stating that you have authority to act on behalf of the owner to allow me to service the equipment. 
+
+{{% service-price item="$100.00" %}}
+
+## Product Key Recovery
+If you lose your product physical media that contained your product key I can extract that information from the system.
+
+{{% service-price item="$50.00" %}}

@@ -1,11 +1,11 @@
 +++
 title = "Desktop"
-date = 2018-01-30T16:25:54-08:00
+date = 2019-10-18T16:25:54-08:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Troubleshooting"]
 categories = []
 
 # Featured image
@@ -33,6 +33,6 @@ caption = ""
 </ul>
 </div>
 
-{{% service-range item-min="$50" item-max="$300" %}}
+{{% service-range item-min="$112" item-max="$368" %}}
 
 - Billed in 1/2 hour increments.

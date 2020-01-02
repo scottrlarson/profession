@@ -1,11 +1,11 @@
 +++
 title = "Maintenance (Hardware)"
-date = 2018-01-30T15:48:51-08:00
+date = 2019-10-18T15:48:51-08:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Troubleshooting"]
 categories = []
 
 # Featured image
@@ -41,9 +41,8 @@ Desktops and laptops can suffer from shutdowns, boot failures, errors, and syste
 <li>Apply high quality thermal solutions that keep the hardware free of overheating over a much longer period of time.</li>
 <li>Return the Processor settings to a normal state of operation to prevent heat damage.</li>
 </ul>
-<h3>I offer a free check-up to determine the cause of your issue. If I cant fix your problem you don't pay.</h3>
 
 <div class="service-price-table">
   <div class="price-data-label">Service Price:</div>
-  <div class="price-data-item">$100</div>
+  <div class="price-data-item">$112</div>
 </div>

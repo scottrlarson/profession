@@ -34,7 +34,6 @@ label {
   display: inline-block;
 }
 
-
 .form-container {
 
 	width: 100%;
@@ -156,6 +155,22 @@ img {max-width:100%; height:auto;}
 
 .fa-li {color: orange;}
 
+#profile .portrait-title [itemprop="service-category"] {
+	font-size: small;
+}
+
+#profile .portrait-title [itemprop="connectorand"] {
+  margin: 10px 0 0 0;
+}
+
+#profile .portrait-title [itemprop="mission"] {
+  margin: 10px 0 0 0;
+}
+
+#profile .portrait-title [itemprop="jobTitle"] {
+	margin: 0;
+}
+
 .article {
 }
 .article-header-caption {
@@ -186,6 +201,7 @@ img {max-width:100%; height:auto;}
 }
 
 .service-price-table {
+	margin: 25px;
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-end;
@@ -196,6 +212,18 @@ img {max-width:100%; height:auto;}
 	width: auto;
 	max-width: 300px;
 
+}
+
+.service-price-table-long {
+	margin: 25px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: stretch;
+	flex-wrap: wrap;
+	border: 1px solid black;
+	margin-left: auto;
+	width: auto;
 }
 
 .price-data-label {
@@ -230,6 +258,7 @@ img {max-width:100%; height:auto;}
 
 
 .quote-panel-container {
+	margin: 25px;
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-end;
@@ -252,7 +281,7 @@ img {max-width:100%; height:auto;}
 .quote-panel-item {
 	width: 100%;
 	flex: 1 0 0;
-	max-width: 100px;
+	max-width: 225px;
 	font-size: 125%;
 	font-weight: bold;
 	background-color: DarkGrey;
@@ -261,6 +290,7 @@ img {max-width:100%; height:auto;}
 }
 
 .quote-panel-button {
+	padding: 5px;
 	width: auto;
 	background-color: white;
 }
@@ -388,6 +418,7 @@ ul.ul-edu li .description p.method {
   color: rgba(0,0,0,0.6);
 }
 
+ul.ul-edu li .description p.type {font-size: 0.60rem;}
 
 /*************************************************
  *  Dark themed components
@@ -492,6 +523,7 @@ ul.ul-edu li .description p.method {
 			padding: 25px;
 			margin: 0px 25px 100px 25px;
 		}
+<<<<<<< HEAD
     
     /* Menu Styling */
 .mega-nav {
@@ -500,3 +532,18 @@ ul.ul-edu li .description p.method {
   position: relative; !important;
 }
 
+=======
+
+.contact2-field {display: hidden;}
+
+.alert-container {
+	font-size: 80%;
+	color: black;
+	padding: 25px;
+	margin-bottom: 25px;
+	background-color: orange;
+	border-radius: 5px;
+}
+
+.alert-container a {color: white;}
+>>>>>>> master

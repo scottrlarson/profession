@@ -1,6 +1,6 @@
 +++
 title = "Desktop Assembly"
-date = 2018-02-05T14:55:42-08:00
+date = 2019-10-19T14:55:42-08:00
 draft = false
 
 # Tags and categories
@@ -15,6 +15,6 @@ image = "services/cs-desktop-assembly.png"
 caption = ""
 
 +++
-If you've already purchased parts for a custom PC, I can assemble the parts and configure the machine for operation. I have over 20 years of experience dealing with the most complicated issues that may come up during a hardware setup. All hardware will be stress tested for failures. The operating system installation and assembly have a full work guarantee on the normal operation of the machine after assembly.<!--more-->
+If you've already purchased parts for a custom PC, I can assemble the parts and configure the machine for operation. I have over 20 years of experience dealing with the most complicated issues that may come up during a hardware setup. All hardware will be stress tested for failures. The operating system installation and assembly have a full work guarantee on the proper installation and testing of the hardware/software after assembly.<!--more-->
 
 {{% desktop-assembly %}}

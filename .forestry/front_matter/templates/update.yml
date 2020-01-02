@@ -1,0 +1,28 @@
+---
+label: Update
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: text
+    name: image
+    label: image
+  - type: text
+    name: caption
+    label: caption
+pages:
+- content/updates/my-trip-though-armstrong-woods.md

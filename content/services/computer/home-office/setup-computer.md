@@ -15,10 +15,7 @@ image = "services/cs-home-office-computer-setup.png"
 caption = ""
 
 +++
-<p>If you need help installing a new piece of equipment like a scanner or if you have a new program that you would like help installing, Scott Larson offers friendly support with all types of installations. He sits down with you, listens to your needs and walks you through the setup. Even if you don't want to know or care about how it works Scott Larson can still help you get the best out of your computer.</p>
-<ul>
-<li>This fee is for the initial Installation, some or multiple installations take more time per hour.</li>
-</ul>
+You could spend hours, or even days talking on the phone with support representatives about how to configure your devices to talk to each other. Or you could call me. I have over 20 years of computer setup knowledge in this industry. If I don't know the answer, I know where to look to get answers it quickly. I know how to install all types of new consumer and small business hardware, software or applications in the home or small business. 
 
 
-{{% service-rate item="$125" %}}
+{{% service-rates-at-location %}}

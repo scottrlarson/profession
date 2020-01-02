@@ -1,11 +1,11 @@
 +++
 title = "Maintenance (General)"
-date = 2018-01-30T15:48:04-08:00
+date = 2019-10-18T15:48:04-08:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Troubleshooting"]
 categories = []
 
 # Featured image
@@ -27,5 +27,5 @@ caption = ""
 
 <div class="service-price-table">
   <div class="price-data-label">Service Price</div>
-  <div class="price-data-item">$115.00</div>
+  <div class="price-data-item">$128.00</div>
 </div>

@@ -1,0 +1,36 @@
+---
+label: product
+hide_body: true
+fields:
+- name: id
+  type: text
+  config:
+    required: false
+  label: id
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
+- name: price
+  type: text
+  config:
+    required: false
+  label: price
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
+- name: product_url
+  type: text
+  config:
+    required: false
+  label: product_url
+pages:
+- content/packages/package-system-management2.md

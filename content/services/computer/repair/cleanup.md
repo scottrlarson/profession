@@ -1,6 +1,6 @@
 +++
 title = "Malware Cleanup"
-date = 2017-07-10T10:57:35-07:00
+date = 2019-10-18T10:57:35-07:00
 draft = false
 
 # Tags and categories
@@ -17,4 +17,4 @@ caption = ""
 +++
 If your device became infected by malware, I offer clean-up services that can resolve most infection related issues involving drive by attacks, trojans, adware, virus, rootkits, fake security solutions and more.
 
-{{% service-price item="$150" %}}
+{{% service-price item="$164" %}}

@@ -52,7 +52,11 @@ defaultContentLanguageInSubdir = false
   role = "The Troubleshooter"
   connectorand = "&"
   mission = "Spiritual Activist"
+<<<<<<< HEAD
   servicecategory = "Computer Repair & Data Recovery Provider"
+=======
+  servicecategory = "A Computer Repair & Data Recovery Service Provider"
+>>>>>>> master
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -248,6 +252,7 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 [[menu.main]]
+<<<<<<< HEAD
   name = "Computer Services"
   identifier = "CSM"
   weight = 10
@@ -270,16 +275,33 @@ defaultContentLanguageInSubdir = false
   identifier = "PMM"
   weight = 40
   url = "/material/pursuit"
+=======
+  name = "Computer"
+  identifier = "com"
+  weight = 10
+  url = "/services/computer/"
+
+[[menu.main]]
+  name = "Content"
+  identifier = "con"
+  weight = 20
+  url = "/services/content/"
+>>>>>>> master
 
 [[menu.main]]
   name = "Content Development"
   url = "/services/content/development"
+<<<<<<< HEAD
   parent = "ISM"
+=======
+  parent = "con"
+>>>>>>> master
   weight =  10
 
 [[menu.main]]
   name = "Publishing"
   url = "/services/content/publishing"
+<<<<<<< HEAD
   parent = "ISM"
   weight =  20
 
@@ -298,61 +320,159 @@ defaultContentLanguageInSubdir = false
   name = "Guides"
   url = "/guides"
   parent = "EMM"
+=======
+  parent = "con"
+  weight =  20
+
+[[menu.main]]
+  name = "Data"
+  identifier = "dat"
+  weight = 30
+  url = "/services/data/"
+
+[[menu.main]]
+  name = "Information"
+  identifier = "inf"
+  weight = 40
+  url = "/services/information/"
+
+[[menu.main]]
+  name = "More"
+  identifier = "more"
+  weight = 50
+  url = "/more"
+
+[[menu.main]]
+  name = "Updates"
+  url = "/updates"
+  parent = "more"
+
+[[menu.main]]
+  name = "Travelogues"
+  url = "/travelogues"
+  parent = "more"
+  
+[[menu.main]]
+  name = "Guides"
+  url = "/guides"
+  parent = "more"
+>>>>>>> master
 
 [[menu.main]]
   name = "Newsletters"
   url = "/newsletters"
+<<<<<<< HEAD
   parent = "EMM"
+=======
+  parent = "more"
+>>>>>>> master
 
 [[menu.main]]
   name = "Classes"
   url = "/classes"
+<<<<<<< HEAD
   parent = "EMM"
+=======
+  parent = "more"
+>>>>>>> master
 
 [[menu.main]]
   name = "Events"
   url = "/events"
+<<<<<<< HEAD
   parent = "EMM"
 
 [[menu.main]]
   name = " Service Deals"
   url = "/deals"
   parent = "CSM"
+=======
+  parent = "more"
+
+[[menu.main]]
+  name = "Deals"
+  url = "/deals"
+  parent = "more"
+>>>>>>> master
 
 [[menu.main]]
   name = "Projects"
   url = "projects"
+<<<<<<< HEAD
   parent = "EMM"
+=======
+  parent = "more"
+>>>>>>> master
 
 [[menu.main]]
   name = "Publications"
   url = "publications"
+<<<<<<< HEAD
   parent = "EMM"
+=======
+  parent = "more"
+>>>>>>> master
 
 [[menu.main]]
   name = "Presentations"
   url = "presentations"
+<<<<<<< HEAD
   parent = "EMM"
+=======
+  parent = "more"
+>>>>>>> master
 
 [[menu.main]]
   name = "Links"
   url = "/links"
+<<<<<<< HEAD
   parent = "EMM"
+=======
+  parent = "more"
+>>>>>>> master
 
 [[menu.main]]
   name = "Recommendations"
   url = "/recommendations"
+<<<<<<< HEAD
   parent = "EMM"
+=======
+  parent = "more"
+>>>>>>> master
 
 [[menu.main]]
   name = "Technical Glossary"
   url = "/glossary"
+<<<<<<< HEAD
   parent = "EMM"
 
 [[menu.main]]
   name = "Computer Assistance"
   parent = "CSM"
   weight = 10
+=======
+  parent = "more"
+
+[[menu.main]]
+  name = "Forms"
+  url = "/forms"
+  parent = "more"
+
+[[menu.main]]
+  name = "Documents"
+  url = "/documents"
+  parent = "more"
+
+[[menu.main]]
+  name = "Terms of Service"
+  url = "/terms"
+  parent = "more"
+
+[[menu.main]]
+  name = "Assistance"
+  parent = "com"
+  weight = 1
+>>>>>>> master
   url = "/services/computer/assistance"
 
 [[menu.main]]
@@ -424,7 +544,11 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Service Packages"
   url = "/packages"
+<<<<<<< HEAD
   parent = "CSM"
+=======
+  parent = "more"
+>>>>>>> master
 
 # Taxonomies.
 [taxonomies]

@@ -19,7 +19,7 @@
 .navbar-default .navbar-toggle:hover {
   background-color: transparent;
 }
-
+ 
 nav#navbar-main li {
   font-size: {{ .Get "font_size_small" }}px;
 }

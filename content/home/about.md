@@ -18,29 +18,51 @@ weight = 1
 # List your qualifications.
 [[education.courses]]
   course = "Computer Setup"
-  type = "Office Hardware & Network"
+  type = "Office Hardware + Network setup."
   method = "Self-Learned"
   year = "2004-2018"
 
 [[education.courses]]
   course = "Computer Hardware"
-  type = "Analysis and Replacement"
+  type = "Analysis + Repairs + Replacement."
   method = "Self-Learned"
   year = "1995-2018"
 
 [[education.courses]]
   course = "Software and Operating Systems"
-  type = "Custom Setup and Troubleshooting"
+  type = "Setup + Configuration + Troubleshooting."
   method = "Self-Learned"
   year = "2004-2018"
 
 [[education.courses]]
   course = "Data & Network Security"
-  type = "Data Integrity, Recovery, and Protection"
+  type = "Data Integrity + Recovery + Protection."
   method = "Self-Learned"
   year = "2008-2018"
 
+[[education.courses]]
+  course = "Videography"
+  type = "Handling Cameras + Editing Footage."
+  method = "Santa Rosa Junior Collage"
+  year = "2000-2002"
+
+[[education.courses]]
+  course = "Screen Writing"
+  type = "Writing + Editing"
+  method = "Santa Rosa Junior Collage"
+  year = "2000-2002"
+
+[[education.courses]]
+  course = "Content Development"
+  type = "Web + Ebook"
+  method = "Self-Learned"
+  year = "2008-2019"
+
+
 +++
+<div class="alert-container">Please note that I will be closed from 12/30/19 to 1/5/2020 for the holidays. Please contact me and let me know what day you would like your device serviced after 1/6/2020. I will return your message when I return to the office on 1/6/2020. Have a happy and peaceful new year!!!</div>
+
+<div class="alert-container">Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRE25 code when paying and I will take 25% off your bill of service.</div>
 
 <div class="panel-group" id="accordion">
   <div class="panel panel-default">
@@ -62,8 +84,18 @@ weight = 1
     <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body"><p>Along the way of providing technical services to the public, I noticed great suffering happening on a spiritual level between myself and the world. I realized I could no longer sit by and watch my world be destroyed by inaction. Today I work to bring my world into alignment of spiritual truth though my own personal activism.</p>
 
-      <p>Spiritual Activism is the coming together of spirituality and activism. It is not about religion, it is not about any form of dogma, it is activism that comes from the heart, not just the head, activism that is compassionate, positive, kind, fierce and transformative. Being a spiritual activist means taking responsibility for my part in creating the change I want to see in the world. Living in a spirit of positivity, compassion, and love with a balance of independence and self determination. Nothing could be more inspiring and more rewarding than being the change we want to see in the world, within and without.</p>
-</div>
+      <p>Spiritual Activism is the coming together of spirituality and activism. It is not about religion, it is not about any form of dogma, it is activism that comes from the heart, not just the head, activism that is compassionate, positive, kind, fierce and transformative. Being a spiritual activist means taking responsibility for my part in creating the change I want to see in the world. Living in a spirit of positivity, compassion, and love with a balance of independence and self determination. Nothing could be more inspiring and more rewarding than being the change we want to see in the world, within and without.</p></div>
     </div>
   </div>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Authoring Background</a>
+      </h2>
+    </div>
+    <div id="collapse3" class="panel-collapse collapse">
+      <div class="panel-body"><p>In 2019 I suffered a Cerebral Hemorrhage. I wrote a <a href="/publications/publication-most-improved/">book</a> about the experience of overcoming depression. In the book a write about how mental/emotional strife, or peace, and the reasons behind it plays a direct role in shaping life.</p></div>
+    </div>
+  </div>
+
 </div>

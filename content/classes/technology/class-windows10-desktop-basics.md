@@ -1,8 +1,8 @@
 +++
-title = "Windows 10 Desktop"
+title = "Windows 10 Desktop Basics"
 date = 2018-04-18T09:52:23-07:00
 draft = false
-
+aliases = ["/classes/class-windows10-desktop", "/classes/class-windows10-desktop-basics"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []

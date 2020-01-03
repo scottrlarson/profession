@@ -1,18 +1,19 @@
 +++
-title = "RichCopy – Microsoft’s Multi-Threaded File Copy Utility"
-date = 2018-12-20T14:49:14-08:00
+title = "Make Use Of"
+date = 2019-06-25T13:34:58-07:00
+weight = 4
 draft = false
-
+aliases = ["/links/link-makeuseof.com"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = ["Utilities", "Software"]
+tags = ["Scooter's Top 5 Sites"]
+categories = []
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
 caption = ""
-+++
 
-A good [article](http://www.tpcqpc.com/richcopy-microsofts-multi-threaded-file-copy-utility/) on a Windows copy utilities for IT professionals.
++++
+- \#4 - [Make Use Of](https://www.makeuseof.com/)

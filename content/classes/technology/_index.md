@@ -1,6 +1,6 @@
 +++
-title = "Driver Utilities"
-date = 2019-01-31T16:30:14-08:00
+title = "Classes on Technology"
+date = 2020-01-02T14:10:08-08:00
 draft = false
 
 # Tags and categories
@@ -15,6 +15,3 @@ image = ""
 caption = ""
 
 +++
-These tools are for professionals that know what they are doing, use with care.
-
-[DDU - Driver Display Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)

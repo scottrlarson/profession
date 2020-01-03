@@ -1,6 +1,6 @@
 +++
-title = "Presentations"
-date = 2018-04-18T09:51:55-07:00
+title = "Authoring Events"
+date = 2020-01-02T14:00:36-08:00
 draft = false
 
 # Tags and categories

@@ -3,7 +3,7 @@ title = "Bleeping Computer"
 date = 2019-06-25T13:01:07-07:00
 weight = 1
 draft = false
-
+aliases = ["/links/link-bleepingcomputer.com"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Scooter's Top 5 Sites"]

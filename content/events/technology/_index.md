@@ -1,6 +1,6 @@
 +++
-title = "20% off Full Service Diagnostic for April 2018"
-date = 2018-04-04T09:08:08-07:00
+title = "Technology Events"
+date = 2020-01-02T14:00:47-08:00
 draft = false
 
 # Tags and categories
@@ -15,8 +15,3 @@ image = ""
 caption = ""
 
 +++
-Good though 4/4/2018 to 5/4/2018
-Good for one diagnostic per customer, per device.
-Specify the code "DIAG20OFF180405" when you visit, or call about this service.
-
-{{% service-appointment %}}

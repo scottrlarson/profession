@@ -1,12 +1,11 @@
 +++
-title = "Make Use Of"
-date = 2019-06-25T13:34:58-07:00
-weight = 4
+title = "Driver Utilities"
+date = 2019-01-31T16:30:14-08:00
 draft = false
-
+aliases = ["/links/link-driver-utilities"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Scooter's Top 5 Sites"]
+tags = []
 categories = []
 
 # Featured image
@@ -16,4 +15,6 @@ image = ""
 caption = ""
 
 +++
-- \#4 - [Make Use Of](https://www.makeuseof.com/)
+These tools are for professionals that know what they are doing, use with care.
+
+[DDU - Driver Display Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)

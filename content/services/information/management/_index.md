@@ -1,5 +1,5 @@
 +++
-title = "Information Management"
+title = "Information Services Management"
 date = 2018-02-22T16:52:34-08:00
 draft = false
 

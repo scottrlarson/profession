@@ -15,3 +15,5 @@ image = ""
 caption = ""
 
 +++
+
+{{< newsletterindex path="/static/newsletters" pathURL="/newsletters" >}}

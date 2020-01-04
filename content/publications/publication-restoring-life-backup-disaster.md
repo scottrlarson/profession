@@ -35,8 +35,10 @@ Knowing the difference between backup and disaster recovery, understanding key t
 ## <a name="disaster-recovery-backup-what">What is disaster recovery backup, and why should I care?</a> <a href="#list-disaster-recovery-backup-what"><i class='far fa-arrow-alt-circle-up'></i></a>
 
 **Backup** is the process of making an extra copy (or multiple copies) of data. You might need to restore data from a backup if you accidentally delete a file, or folder, or when a file, or folder becomes corrupted. 
+
 **Disaster Recovery** is having all tools in place to recover from a loss of data. Do you just need to recover one file, a set of files, or your entire computer? If your entire computer needs to be recovered, will you lose anything recently saved? How do you perform a full recovery of your computer? Knowing the answers to these questions is essential to your recovery plan.
-**Disaster Recovery Backup**, on the other hand, refers to the plan and processes for quickly reestablishing access to your data after a catastrophe from a backup location whether is, Cloud, Local or Network storage. If your computer, or applications fail catastrophically, become lost, or stolen, your <a href="#terms-operating-env">operating environment</a> can be restored to a previous working condition, minimizing downtime.
+
+**Disaster Recovery Backup**, on the other hand, refers to the plan and processes for quickly reestablishing access to your data after a catastrophe. If your computer, or applications fail catastrophically, become lost, or stolen, your <a href="#terms-operating-env">operating environment</a> can be restored to a previous working condition, minimizing downtime.
 
 
 > “I am prepared for the worst, but hope for the best.” - Benjamin Disraeli

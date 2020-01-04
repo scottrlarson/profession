@@ -20,25 +20,25 @@ weight = 1
   course = "Computer Setup"
   type = "Office Hardware + Network setup."
   method = "Self-Learned"
-  year = "2004-2018"
+  year = "2004-2020"
 
 [[education.courses]]
   course = "Computer Hardware"
   type = "Analysis + Repairs + Replacement."
   method = "Self-Learned"
-  year = "1995-2018"
+  year = "1995-2020"
 
 [[education.courses]]
   course = "Software and Operating Systems"
   type = "Setup + Configuration + Troubleshooting."
   method = "Self-Learned"
-  year = "2004-2018"
+  year = "2004-2020"
 
 [[education.courses]]
   course = "Data & Network Security"
   type = "Data Integrity + Recovery + Protection."
   method = "Self-Learned"
-  year = "2008-2018"
+  year = "2008-2020"
 
 [[education.courses]]
   course = "Videography"
@@ -56,7 +56,7 @@ weight = 1
   course = "Content Development"
   type = "Web + Ebook"
   method = "Self-Learned"
-  year = "2008-2019"
+  year = "2008-2020"
 
 
 +++

@@ -96,8 +96,3 @@ Check my [hours](#contact) for availability.
 
 - If you have a question about a specific service, please see my menu of services at the top of my website.
 - In-office research fees are $40.00 an hour. Used in situations where you need a report, or recommendation delivered to you on a product, or concept idea. I offer free 30 minutes of research time for customers that have already purchased a diagnostic, or repair service, if the requested research will be related to the device I am servicing. There are no additions to this fee unless you require face to face contact, or have follow-up questions that exceed more than 10 minutes per service.
-
-
-## Package Based fees
-
-- I offer Backup, Security, and maintenance management service packages. See the "More" Menu at the top of my website for more information. 

@@ -31,7 +31,7 @@ Disraeli
 
 ### Quick tips to help you recover from a disaster
 
--   Most devices have whats called the "Recovery or Installation
+-   Most devices have what's called the "Recovery or Installation
     Media" on the internal hard disk. You will need a copy of that
     recovery or installation media if the storage component of your
     device fails. Usually a tool is installed on your device by the

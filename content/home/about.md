@@ -60,6 +60,7 @@ weight = 1
 
 
 +++
+[Terms & Conditions](/terms)
 <div class="alert-container">Please note that I will be closed from 12/30/19 to 1/5/2020 for the holidays. Please contact me and let me know what day you would like your device serviced after 1/6/2020. I will return your message when I return to the office on 1/6/2020. Have a happy and peaceful new year!!!</div>
 
 <div class="alert-container">Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRE25 code when paying and I will take 25% off your bill of service.</div>
@@ -94,7 +95,9 @@ weight = 1
       </h2>
     </div>
     <div id="collapse3" class="panel-collapse collapse">
-      <div class="panel-body"><p>In 2019 I suffered a Cerebral Hemorrhage. I wrote a <a href="/publications/publication-most-improved/">book</a> about the experience of overcoming depression. In the book a write about how mental/emotional strife, or peace, and the reasons behind it plays a direct role in shaping life.</p></div>
+      <div class="panel-body"><p>In 2019 I suffered a Cerebral Hemorrhage. I wrote a <a href="/publications/publication-most-improved/">book</a> about the experience of overcoming depression. In the book a write about how mental/emotional strife, or peace, and the reasons behind it plays a direct role in shaping life.</p>
+      <p>Check out my writing <a href="/events/authoring">events</a>, <a href="/projects">projects</a>, <a href="/publications">publications</a>, and <a href="/travelogues">travelogues</a>.</p>
+      </div>
     </div>
   </div>
 

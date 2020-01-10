@@ -1,5 +1,5 @@
 +++
-title = "System Management"
+title = "Total System Management"
 date = 2018-08-30T13:28:18-07:00
 draft = false
 
@@ -17,39 +17,42 @@ caption = ""
 +++
 ![Brochure Side 1](/img/packages/system-management/srl-broshure-system-mangement-services1.png)
 ![Brochure Side 2](/img/packages/system-management/srl-broshure-system-mangement-services2.png)
-I provide monitoring and maintenance service on the reliable operation of your system by installing and maintaining a robust security, maintenance, and disaster recovery solution in the home, in a small business and/or cloud. This way you do not have to worry about system maintenance yourself. Just like a car, over time, and use, a technological system requires maintenance. If the system is not maintained (Updating Software, and monitoring security and backups) problems can crop up, and many times you wont even know it until it's too late.
+I provide home and small office management services for security, backup and maintenance of your computer, or computers. Service include monitoring and maintenance of the reliable operation of your computers by maintaining robust security, maintenance, and disaster recovery solutions. This service frees you from having to maintain these important areas yourself. Just like a car, over time, and use, computers require regular maintenance and fresh look at these important areas of your digital life. If your computer is not maintained (Updating Software, and monitoring security and backups) problems can crop up, and many times you wont even know it until it's too late.
 
 I had one customer that thought his special accounting data was being backed up by Carbonite, but due to the way in which the application accessed the data, it prevented the Carbonite from accessing, and backing up the data while the application was running. Since the application was open most of the time, the data was not being backed up. The customer had to rebuild that particular data set from scratch.
 
 If needed, I take an inventory of your applications and data sets to look for potential problems and come up with a custom action plan that meets your specific needs.
 
-If you have special cases that needs this kind of attention, I can sit down with you, and find out whats most important to maintain. I provide solutions that aim to prevent catastrophic loss of critical data. I do this by  monitoring your system's performance, reliability, and security on a monthly basis, update software when necessary, tweak scan and backup schedules to run at opportune times, recommend replacement hardware. This allows me to possibly alert you of a pending failure, or possibly trigger a backup before a loss occurs.
+If you have special cases that needs this kind of attention, I can sit down with you, and find out what's most important to maintain. I provide solutions that aim to prevent catastrophic loss of critical data. I do this by  monitoring your system's performance, reliability, and security on a monthly basis, update software when necessary, tweak scan and backup schedules to run at opportune times, recommend replacement hardware. This allows me to possibly alert you of a pending failure, or possibly trigger a backup before a loss occurs.
 
 But even if you have simple needs, don't let the maintenance of your current system slip though the cracks of a upgrade.
 
 If you have a current security or backup solution this service would be a replacement.
 
 ## Costs
-$500.00 Yearly averages out to $41.600 Monthly. This fee includes (Per System):
+
+The System management service is $500.00 a year, which averages out to $40.00 Monthly, or $150 a year, which averages out to $12.50 monthly for a just one area of focus in either area: Security, Backup, or Maintenance. This fee (Per System) includes:
 
 - Macrium Reflect: Disaster Recovery Solution \*\*\*\*
-- Carbonite Cloud Backup Service (If needed)
-- Security Software and Protection
-- Hard Disk Sentinel: Monitor's storage systems reliability.
-- Management Service fee (Yearly)
+- Carbonite Cloud Backup Service (If needed) (Included with the backup management package)
+- Security Software and Protection (Included with the security management package)
+- Monitor's storage systems reliability. (Included with the maintenance management package)
+- Management Service (My service where I regularly monitor and maintain the package or packages)
 
-$150.00 Reliable USB storage system: Lacie Rugged Portable HDD 2TB (Per System) (If required)
-or  
-$700.00 NAS(Network Attached Storage) system for local (in-home) network backup's of all your systems, or network access to your files (Requires a network site survey $400.00) (If needed)
+## Backup Hardware Requirement Costs
+Depending on your needs, you might need a:
+- $150.00 Reliable USB storage system: Lacie Rugged Portable HDD 2TB (Per System) (If required)
+- or -     
+- $700.00 NAS(Network Attached Storage) system for local (in-home) network backup's of all your systems, or network access to your files (Requires a network site survey $400.00) (If needed)
 
-## What you get yearly
+## What you get yearly for total system management
 
 **My Personalized Management services (Health Monitoring of: Backup, Security, and System Maintenance)**
 
-- Disaster Recovery Backup and Management of your system (Windows operation settings, Programs, and Personal) data using Macrium Backup Software to maintain a copy of your system in case of a system crash, or hardware loss.
-- Cloud Backup and Management of your personal data using Carbonite's cloud storage service.(If needed)
-- Hardware Reliability Monitoring Service that helps to prevent hardware disasters before they strike.
-- Security Management of your system: Maintenance of security software and  features that help to protect your system from threats.
+- **Disaster Recovery** (Included with the backup management package) Backup and Management of your system (Windows operation settings, Programs, and Personal) data using Macrium Backup Software to maintain a copy of your system in case of a system crash, or hardware loss.
+- **Cloud Backup** (Included with the backup management package) and Management of your personal data using Carbonite's cloud storage service.(If needed)
+- **Hardware Reliability** (Included with the maintenance management package) Monitoring Service that helps to prevent hardware disasters before they strike.
+- **Security Management** (Included with the security management package) of your system: Maintenance of security software and  features that help to protect your system from threats.
 
 ## Terms
 - Security Management: Install and Maintain a security solution. I remotely manage and customize security settings that help prevent threats from causing system downtime.(Please note that I cannot protect your system from certain personal use habits that aims to circumvents the system's ability to protect you from threats. Contact me if you have questions)

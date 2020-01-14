@@ -22,7 +22,7 @@ weight = 20
 To provide information technology assistance to the public.
 
 ## Professional Work History
-2009 - 2018 Independent IT Service to the public - Owner/Operator - Technical Solutions Provider
+2009 - 2020 Independent IT Service to the public - Owner/Operator - Technical Solutions Provider
 
 Servicing the Santa Rosa community and the surrounding areas in the following ways:
 

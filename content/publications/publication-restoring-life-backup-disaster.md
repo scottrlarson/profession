@@ -11,12 +11,10 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "publications/digital-life/disaster-types.jpg"
 caption = ""
 
 +++
-
-![Backing Up Your Digital Life Photo](/img/publications/digital-life/srl-digital-life-backup.png)
 
 *Learn why solely backing up your data isn't always enough to recover from a disaster.*
 
@@ -28,9 +26,6 @@ In this update, you will learn about:
 - <a href="#terms" name="#list-terms">Understanding technology terms</a>
 
 Knowing the difference between backup and disaster recovery, understanding key technology terms, and evaluating software along with storage options can help you develop an effective plan for avoiding the consequences of data loss and downtime after a catastrophe strikes.
-
-
-![Types of disasters photo](/img/publications/digital-life/disaster-types.jpg)
 
 ## <a name="disaster-recovery-backup-what">What is disaster recovery backup, and why should I care?</a> <a href="#list-disaster-recovery-backup-what"><i class='far fa-arrow-alt-circle-up'></i></a>
 

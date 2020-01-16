@@ -13,7 +13,7 @@ categories = []
 [header]
 image = "updates/windows7-retire/RetiredSmall.jpg"
 caption = ""
-
+description = "Upgrading to Windows 10 on a PC that had Windows7 might not be the best idea."
 +++
 Many technology firms will recommend upgrading Windows 7 to Windows 10. Truth be told, in most cases, the hardware in that older computer is not recent enough to support an upgrade like this. It can be done, but you may find, in a short amount of time, that the computer operates slower than it ever had. Don't bother wasting time an money on a upgrade that is just going to be worthless in a few months time. 
 

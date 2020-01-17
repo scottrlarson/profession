@@ -11,13 +11,10 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "updates/identity-protection-services/onlineidentity.png"
 caption = ""
 
 +++
-
-![Online Identity Wordcloud Photo](/img/updates/identity-protection-services/onlineidentity.png)
-
 
 It is relatively easy from the standpoint of a thief to impersonate your online identity and assume your financial standing. Using your identity, a thief can open up a line of credit under your name and go on a shopping spree making you assume all of the responsibility until you rectify the problem. As more and more of our personal information gets warehoused online, protecting information against theft is a continuing challenge on both sides of the fence, customers and financial institutions alike. Just recently, an IRS employee stole $70,000 from the government using identities of a few taxpayers and went on a [2-year long spending spree](https://qz.com/1723855/an-irs-employee-stole-identities-went-on-spending-spree/).
 

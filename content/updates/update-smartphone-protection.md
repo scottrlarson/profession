@@ -11,13 +11,10 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "cs-article-protecting-smartphone-hacked.png"`.
 [header]
-image = ""
+image = "updates/smartphone-protection/cs-article-protecting-smartphone-hacked.png"
 caption = ""
 
 +++
-![Protecting your smartphone from being hacked photo](/img/updates/smartphone-protection/cs-article-protecting-smartphone-hacked.png)
-
-
 Smartphones are much more than simple tools to make calls and take pictures. They have become our personal assistants. Storing everything about us. On the one hand, using a smartphone for our day to day living makes life much more convenient. On the other hand, storing all that info about our life on one device that we take with us on the go, opens us up to data theft. It's nothing to be afraid of, its important for our society to be open. But its also good to be cautious.  When a unwanted stranger gets ahold of your smartphone, or is able to siphon out your credit card information to make purchases in your name, it effects the trusted systems we have come to rely on. You can do something about that, you can protect yourself, and in the process, make our technology safer to rely on.  Personal details about you, like your name, address, and phone number are like children, they become attached to your identity for a long, long time. If a shady character gains access to your mobile account or smartphone, they can gain access to other areas of your life as well.
 
 When your bank asks you for your mobile phone number, to text you a code to view your dollars online, what happens if that message gets diverted? If some pilferer has a reason to do you in, your mobile account information can be a gateway for a smash and grab. One way this theft is perpetrated on you is through what's called a "Sim Card Swap". (No, this is not related to your Sim Game Character) If this looser gains access to your smartphone, details about you become a weapon. Then it becomes possible to attack your mobile carrier, and get them to transfer your mobile account to a new owner, a smartphone account thief.

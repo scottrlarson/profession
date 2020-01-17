@@ -15,7 +15,7 @@ image = ""
 caption = ""
 
 +++
-The way data is written to SSD (Solid State Storage) is different from HDD (Hard Disk Drives). On SSD's data cannot be overwritten. Flash memory must first be erased before it can be written to. The smallest writable unit on a SSD is called a page which is typically 8 – 16 KB in size. The smallest unit that can be erased is a block which consists of several pages (8 – 16 MB in size). So to change a single byte, a page must be written to (re-programmed) and for that to happen the entire block must be erased first.
+The way data is written to SSD (Solid State Storage) technology is different from HDD technology (Hard Disk Drives). On SSD's data cannot be overwritten. Flash memory must first be erased before it can be written to. The smallest writable unit on a SSD is called a page which is typically 8 – 16 KB in size. The smallest unit that can be erased is a block which consists of several pages (8 – 16 MB in size). So to change a single byte, a page must be written to (re-programmed) and for that to happen the entire block must be erased first.
 
 ## Garbage collection
 To speed up this process up the altered byte, plus all other in use pages are written to an empty block. The original block is then scheduled to be erased during a process called ‘garbage collection’. It is the SSD itself that takes care of this entire process. During idle time on your device, the garbage collection process erases pages no longer in use so blocks can be ready to be written to when a write operation is performed.

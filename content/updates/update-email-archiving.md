@@ -11,12 +11,10 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "updates/email-archiving/email-backup-software-hosted-email-archiving-solutions.jpg"
 caption = ""
 
 +++
-
-![Email Archiving Photo](/img/updates/email-archiving/email-backup-software-hosted-email-archiving-solutions.jpg)
 
 You might think that when you are reading and responding to your email, it is actually is stored on your device. In the last 5 years or so IMAP and Cloud based email services changed all of that. Email is actually stored on the email hosting provider servers, unless you are using a old POP mail account. When you read, or respond to your email, you are actually reading/responding to a remote copy of this email that is stored at your service provider's data center.
 

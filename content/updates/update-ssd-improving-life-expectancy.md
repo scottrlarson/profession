@@ -2,7 +2,7 @@
 title = "Improving the Life Expectancy of your SSD"
 date = 2019-03-26T14:08:24-07:00
 draft = false
-
+alias = ["/updates/update-ssd-3d-NAND-tech"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -11,16 +11,39 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "/updates/ssd-life-expectancy/solid-state-drive-vs-hard-disk-drive.jpg"
 caption = ""
 
 +++
-![SSD Life Expectancy Photo](/img/updates/ssd-life-expectancy/ssd-protect-670x335.jpg)
-A SSD is a Solid State Drive. SSD's are part of most newer computers, laptops and mobile devices. A storage device stores your personal information every time you save, copy, or transfer a file to your device.
+
+SSD is a Solid State Drive. SSD's are part of most newer computers, laptops and mobile devices. A storage device stores your personal information every time you save, copy, or transfer a file to your device.
 
 SSD's use non-moving parts like memory technology. A hard disk drive uses moving parts to store information.
 
 Like Hard Disk Drives (HDD's), Solid State Storage devices (SSD's) have a life expectancy time line. A SSD is what your computer, laptop, or mobile device uses to store information on, and read from over the course of its life. The life span of the device has an endurance level. This means that a few factors will determine how well the storage device will endure over time. My experience is that, SSD's usually last between 3 and 5 years, but you can get away with more if you are an infrequent user of the device. It may take a very long time to fail. You might not even possess the device long after the storage device fails. If, and when it happens, you might have important data, or a configuration (The way your desktop and applications are setup) that would take your valuable time to re-setup, or rebuild. Having a plan for what you are going to do when your device fails prevents down time.
+
+When SSD technology first came out, I did not recommend the technology due its short life expectancy. The industry didn't really say much on the difference of endurance between SSD's and HDD's. But in my experience SSD tech with its limited amount of writes did not outlast HDD tech by a long shot and recovering data when these devices failed also proved to be more problematic than its counter part. Due to these limitations I was not recommending SSD technology to my customers that wanted to purchase devices that introduced them.
+
+The storage industry released some improvements to the technology at end of 2017 and now my stance has changed.
+
+### The Good
+
+- No physical sizes changes.
+- Manufacturer stated endurance: For light to medium use 14 to 17 years, heavy use 3.5 years. Practical tested endurance: slightly better than 5 years under normal use.
+- Smaller power requirements: %25 percent. This means that battery life should increase slightly during read and write operations.
+- Larger storage capacity: Right now manufactures have released 256 and 512 versions, but we expect to see 1TB and 2TB models by the end of the quarter of 2017.
+
+### The Bad
+
+- Price: Due to demand and manufacturing difficulties compared to 2d NAND Prices are expected to go up in 2017 and level off sometime in 2018. Update: This happened. In 2019-2020 You can purchase a 512GB SSD for around $100
+
+
+### The Ugly
+
+- SSD Data recovery is still a nightmare, making data recovery jobs more expensive. Be sure to have [a disaster recovery](/services/data/backup) solution in place before using one of these devices. When these devices fail, due to poor manufacturing quality, or wear and tear, it's a good chance that data will be difficult to recover. The price range on physical recovery of data on SSD's can be around $4000 and up.
+
+
+![SSD Life Expectancy Photo](/img/updates/ssd-life-expectancy/ssd-protect-670x335.jpg)
 
 ### Symptoms that may decrease the life of your storage device
 

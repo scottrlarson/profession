@@ -1,8 +1,8 @@
 +++
 title = "My take on the endurance changes of SSD 3d NAND Technology"
 date = 2017-12-17T23:02:52-08:00
-draft = false
-
+draft = true
+# This update text has been moved to improving life expectancy document.
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Computer", "Storage", "Devices", "Solid State"]

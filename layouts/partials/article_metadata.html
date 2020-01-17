@@ -1,7 +1,11 @@
 {{ $is_list := .is_list }}
 {{ $ := .content }}
 <div class="article-metadata">
-
+  <span class="middot-divider"></span>  
+  By<span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <span itemprop="name"><a href="/">{{ $.Site.Params.name }}</a></span>
+  </span>
+  on
   <span class="article-date">
     {{ if ne $.Params.Lastmod $.Params.Date }}
         {{ i18n "last_updated" }}

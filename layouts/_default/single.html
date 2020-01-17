@@ -2,14 +2,12 @@
 {{ partial "navbar.html" . }}
 <article class="article" itemscope itemtype="http://schema.org/Article">
 
-  {{ partial "header_image.html" . }}
   <div class="article-container">
 
     <div class="article-inner">
       <h1 itemprop="name">{{ .Title }}</h1>
-
       {{ partial "article_metadata" (dict "content" . "is_list" 0) }}
-
+  {{ partial "header_image.html" . }}
       <div class="article-style" itemprop="articleBody">
         {{ .Content }}
       </div>
@@ -17,7 +15,6 @@
       {{ partial "tags.html" . }}
     </div>
   </div>
-
 </article>
 
 {{ $related := .Site.RegularPages.Related . | first 5 }}

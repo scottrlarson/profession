@@ -1,5 +1,5 @@
 +++
-title = "My Publishing Projects"
+title = "My Book Publishing Projects"
 date = 2020-01-16T15:49:24-08:00
 draft = false
 

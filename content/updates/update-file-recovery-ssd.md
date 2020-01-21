@@ -37,10 +37,14 @@ Most modern SSD's have the TRIM command enabled to improve performance, but you 
 
 On a PC you can open a command prompt by going to the start menu and typing "cmd" right click on the command and select, "run as administrator". Once in the command line window, you can issue this command: 
 
-'''
+~~~
 fsutil behavior query disabledeletenotify
-'''
-On a mac you can check the status of the TRIM command by going to "About this Mac" in the apple menu. The clicking on the system report button and looking uner the SATA Express Parameters, you will see a field called TRIM Support. If the field shows YES then TRIM is enabled.
+~~~
+
+
+On a mac you can check the status of the TRIM command by going to "About this Mac" in the apple menu. The clicking on the system report button and looking under the SATA Express Parameters, you will see a field called TRIM Support. If the field shows YES then TRIM is enabled.
 
 ## Conclusion
-If a format or delete command completes its operation, and a TRIM command is issued it is very unlikely that the data can be recovered on a SSD. You can always have your device with my [Data Analysis/Recovery service](/services/data/recovery/). Just give me a [call](/#contact) or contact me using the [online form](/#contact).
+With TRIM enabled, if a format, or delete command did not complete it's operation, I.E you ejected the device, or shutdown the computer before the operation completed, or you lost access to the data during some kind of a file system corruption, or hardware failure is likely that the data can be recovered on a SSD. 
+
+Bring your device in to my office, and have me do a [Data Recovery Analysis](/services/data/recovery/) on the device to see if the data can be recovered. Just give me a [call](/#contact) or contact me using the [online form](/#contact) to setup an appointment.

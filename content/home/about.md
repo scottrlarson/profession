@@ -60,6 +60,10 @@ weight = 1
 
 
 +++
+<div class="alert-container"><a href="https://www.ifixit.com/Right-to-Repair/Intro"><h4 style="color: white; text-align: center; padding-top: 0px; margin-top: 0px;">We Have the Right to Repair Everything We Own</h4></a>
+  Once you’ve paid money for a product, the manufacturer shouldn’t be able to dictate how you use it—it’s yours. Ownership means you should be able to open, hack, repair, upgrade, or tie bells on it.
+Support sane <a href="https://www.fightforthefuture.org/fixcopyright/">copyright legislation</a>.</div>
+
 <div class="alert-container">Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRE25 code when paying and I will take 25% off your bill of service.</div>
 
 <div class="panel-group" id="accordion">

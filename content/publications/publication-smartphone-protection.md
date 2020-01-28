@@ -2,11 +2,11 @@
 title = "Protecting Your Smartphone From Being Hacked"
 date = 2019-08-07T11:21:57-07:00
 draft = false
-
+aliases = ["/updates/update-smartphone-protection/"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Identity Theft", "Security"]
-categories = []
+categories = [/updates/update-smartphone-protection/]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "cs-article-protecting-smartphone-hacked.png"`.
@@ -17,7 +17,7 @@ caption = ""
 +++
 Smartphones are much more than simple tools to make calls and take pictures. They have become our personal assistants. Storing everything about us. On the one hand, using a smartphone for our day to day living makes life much more convenient. On the other hand, storing all that info about our life on one device that we take with us on the go, opens us up to data theft. It's nothing to be afraid of, its important for our society to be open. But its also good to be cautious.  When a unwanted stranger gets ahold of your smartphone, or is able to siphon out your credit card information to make purchases in your name, it effects the trusted systems we have come to rely on. You can do something about that, you can protect yourself, and in the process, make our technology safer to rely on.  Personal details about you, like your name, address, and phone number are like children, they become attached to your identity for a long, long time. If a shady character gains access to your mobile account or smartphone, they can gain access to other areas of your life as well.
 
-When your bank asks you for your mobile phone number, to text you a code to view your dollars online, what happens if that message gets diverted? If some pilferer has a reason to do you in, your mobile account information can be a gateway for a smash and grab. One way this theft is perpetrated on you is through what's called a "Sim Card Swap". (No, this is not related to your Sim Game Character) If this looser gains access to your smartphone, details about you become a weapon. Then it becomes possible to attack your mobile carrier, and get them to transfer your mobile account to a new owner, a smartphone account thief.
+When your bank asks you for your mobile phone number, to text you a code to view your dollars online, what happens if that message gets diverted? If some pilferer has a reason to do you in, your mobile account information can be a gateway for a smash and grab. One way this theft is perpetrated on you is through what's called a "Sim Card Swap". (No, this is not related to your Sim Game Character) If this looser gains access to your smartphone, details about you become a weapon. Then it becomes possible to attack your mobile carrier, and get them to transfer your mobile account to a new owner, a smartphone account thief. A [Princeton study](https://www.issms2fasecure.com/assets/sim_swaps-01-10-2020.pdf) in 2020 found that all the [five major US mobile phone carriers are vulnerable to SIM-swapping tactics](https://www.engadget.com/2020/01/12/princeton-study-sim-swap/).
 
 During a assessment of a smartphone security breach, I spoke to a identity theft victim. The victim wanted to know if it was possible to gain access to a email account that was taken over by an identity thief. One night, over a period of a few hours, the victim had lost access to a smartphone. Later on, it turned up, but something strange started happening. Someone was attempting to impersonate the victim by posting messages to the victim's Facebook account. The messages were self-damaging to the victims character. It turned out that the likely culprit was another party in a court case the victim was connected to. It's a good chance the other party wanted to convince the court to question the victims character by making discrediting remarks through the vicims online presence.
 

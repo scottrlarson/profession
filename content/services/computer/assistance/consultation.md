@@ -18,7 +18,7 @@ caption = ""
 
 I offer one on one in-shop, and at-location consultations. I sit down with you, record information about your problem, and offer a analysis/resolution on the spot, or for a larger project I can provide you with a cost estimate. This information can be handed to you in print format, or emailed to you electronically.
 
-I give advise, and offer solutions to any computer related technical challenge. Check my [Availability Hours & Rates](/#rates) for more information about costs and availability.
+I give advise, and offer solutions to any computer related technical challenge. Check my [Availability Hours & Rates](/#rates) for more information about costs and my availability.
 <!--more-->
 
 I provide the following:

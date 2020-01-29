@@ -2,7 +2,7 @@
 title = "What is a Disaster Recovery Backup Solution?"
 date = 2018-09-08T15:16:49-07:00
 draft = false
-
+aliases = ["/updates/update-disaster-recovery-backup/"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []

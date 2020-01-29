@@ -1,5 +1,5 @@
 +++
-title = "Consultation (In-Office)"
+title = "Technology Consultation"
 date = 2018-01-30T12:53:52-08:00
 draft = false
 

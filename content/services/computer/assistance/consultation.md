@@ -16,15 +16,15 @@ caption = ""
 
 +++
 
-I offer one on one in-office consultations to advise, or offer solutions to any consumer, or small office related technical challenge. To see my at-location consultation/evaluation rates, see my [Availability Hours & Rates](/#rates).  I sit down with you, record information about your problem, offer a analysis/resolution, or a cost estimate. This information can be handed to you in print format or emailed to you electronically.
+I offer one on one in-shop, and at-location consultations. I sit down with you, record information about your problem, and offer a analysis/resolution on the spot, or for a larger project I can provide you with a cost estimate. This information can be handed to you in print format, or emailed to you electronically.
+
+I give advise, and offer solutions to any computer related technical challenge. Check my [Availability Hours & Rates](/#rates) for more information about costs and availability.
 <!--more-->
 
 I provide the following:
 
 <ul>
-<li>A free 20-minute initial consultation.</li>
-<li>An estimate of work involved, required parts and costs.</li>
-<li>Or a quick recommendation on a replacement device.</li>
+<li>A free 20-minute initial evaluation of your challenge.</li>
+<li>For larger projects, I provide an estimate of time, ,required parts and costs involved.</li>
 </ul>
 
-{{% service-rates-at-location %}}

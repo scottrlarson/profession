@@ -1,5 +1,5 @@
 +++
-title = "Online"
+title = "Online Repair & Resolution"
 date = 2018-01-30T12:54:09-08:00
 draft = false
 

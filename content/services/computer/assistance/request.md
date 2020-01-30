@@ -1,5 +1,5 @@
 +++
-title = "Request"
+title = "Online Help Request"
 date = 2017-12-19T16:34:54-08:00
 draft = false
 
@@ -16,4 +16,5 @@ caption = ""
 
 +++
 If you have a computer issue that you would like a help with, you can use my online form to make a request for the specifics of what the problem is, and what kind of help you need. Fill out the form and I will get back to you within 24hrs with a response.
+<!--more-->
 {{% contact-form %}}

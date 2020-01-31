@@ -2,7 +2,7 @@
 title = "Storing Device Batteries to Prolong Life Expectancy"
 date = 2018-09-06T09:52:28-07:00
 draft = false
-
+summary = "Maintaining batter life can somewhat be a moving target. Lithium Ion batteries are used in most electronics since 2013. Unfortunately, little has changed with its technology."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -17,7 +17,7 @@ caption = ""
 
 Maintaining batter life can somewhat be a moving target. Lithium Ion batteries are used in most electronics since 2013. Unfortunately, little has changed with its technology.
 
-Storing these batteries does not preserve their life expectancy. Slowly over time the battery loses its life expectancy. Below is a chart on the average loss based on the temperature that the battery is stored in:
+Slowly over time the battery loses its life expectancy. Below is a chart on the average loss based on the temperature that the battery is stored in:
 
 <table border="1" cellspacing="0" cellpadding="2" width="365">
 <tbody>

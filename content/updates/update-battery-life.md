@@ -2,7 +2,7 @@
 title = "Storing Laptop Batteries to Prolong Life Expectancy"
 date = 2018-09-06T09:52:28-07:00
 draft = false
-summary = "Maintaining battery life can be a moving target. Lithium Ion batteries are used in most electronics since 2013. Unfortunately, little has changed with its technology."
+summary = "Maintaining battery life can be a moving target. Lithium Ion batteries are used in most electronics since 2013. Unfortunately, little has changed in battery technology for computer electronics."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -15,9 +15,9 @@ image = "/updates/battery-life/battery-life.webp"
 caption = ""
 +++
 
-Maintaining battery life can be a moving target. Lithium Ion batteries are used in most electronics since 2013. Unfortunately, little has changed with its technology.
+Maintaining battery life can be a moving target. Lithium Ion batteries are used in most electronics since 2013. Unfortunately, little has changed in battery technology for computer electronics.
 
-Slowly over time the battery loses its life expectancy. Below is a chart on the average loss based on the temperature that the battery is stored in:
+Over time, between one and three years, laptop batteries lose much of their life expectancy. Below is a chart on the average loss based on the temperature that the battery is stored in:
 
 <table border="1" cellspacing="0" cellpadding="2" width="365">
 <tbody>
@@ -50,6 +50,6 @@ Slowly over time the battery loses its life expectancy. Below is a chart on the 
 </table>
 You can improve the life expectancy of the battery by storing it in a cold environment. The problem with storing batteries like these in the fridge is that condensation can cause damage to the battery over time.
 
-If you plan on storing your device battery in the fridge, let it discharge to about 40%, put it in a freezer bag, or better yet store it in a sealed container with [desiccant's](https://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=desiccant%20pack&linkCode=ur2&tag=groovyads-20&url=search-alias%3Daps) that take oxygen out of the storage unit.
+If you plan on leaving for a trip, or stop using your laptop for a extended period of time, storing your device battery in a cold environment, like the fridge can prolong its life. To do this, let it discharge to about 40%, put it in a freezer bag, or better yet store it in a sealed container with [desiccant's](https://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=desiccant%20pack&linkCode=ur2&tag=groovyads-20&url=search-alias%3Daps) that take oxygen out of the storage unit.
 
 When you are ready to use the battery when you take it out of the fridge please make sure it sits in room temperature for a length of time that removes all condensation from the outside of the battery.  

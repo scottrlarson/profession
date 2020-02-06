@@ -627,4 +627,5 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   margin-bottom: 1em;
 }
 
-.frame-element-center {margin-left: 50%; margin-right: 50%;}
+.frame-element-center {text-align: center;}
+.g-recaptcha {display: inline-block;}

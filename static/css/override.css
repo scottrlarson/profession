@@ -551,3 +551,79 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 }
 
 .alert-container a {color: white;}
+
+/* rate table styles */
+
+.divResTable{
+	display: flex;
+  flex-wrap: wrap;
+  margin: 0 0 3em 0;
+  padding: 0;
+}
+
+.divResTable--6cols > .divResTableCell  { width: 16.4%; }
+
+.divResTable--5cols > .divResTableCell  { width: 20%; }
+
+.divResTable--4cols > .divResTableCell  { width: 25%; }
+
+.divResTable--3cols > .divResTableCell  { width: 33.33%; }
+
+.divResTable--2cols > .divResTableCell  { width: 50%; }
+
+.divResTableHeading {
+	font-weight: bold;
+	display: table-header-group;
+  text-align: center;
+}
+.divResTableCell {
+  text-align: center;
+  padding: 8px;
+	box-sizing: border-box;
+  background-color: rgb(50, 52, 64);
+  flex-grow: 1;
+  width: 100%;  // Default to full width
+  padding: 0.8em 1.2em;
+  overflow: hidden; // Or flex might break
+  list-style: none;
+  border: solid @bw white;
+  background: fade(slategrey,20%);
+  > h1, > h2, > h3, > h4, > h5, > h6 { margin: 0; }
+}
+.divResTableHeading {
+  background-color: initial;
+  border-bottom: 2px solid #ddd;
+	display: table-header-group;
+	font-weight: bold;
+  
+}
+.divResTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divResTableBody {
+	display: table-row-group;
+}
+
+@media all and (max-width: 500px) {
+  .divResTable--collapse {
+    display: block;
+  }
+  .divResTable--collapse > .divResTableCell {
+    width: 100% !important;
+  }
+  .divResTable--collapse > .divResTableCell--foot {
+    margin-bottom: 1em;
+  }
+}
+.no-flexbox .Rtable {
+  display: block;
+}
+.no-flexbox .Rtable > .Rtable-cell {
+  width: 100%;
+}
+.no-flexbox .Rtable > .Rtable-cell--foot {
+  margin-bottom: 1em;
+}
+

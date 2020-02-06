@@ -29,68 +29,148 @@ Check my [hours](#contact) for availability.
 
 ### Diagnosis/Analysis Service Turn-Around Range Rates (25% when a repair service is authorized on the same device.
 
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
-| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $103-$178   | $87-$153   | $63-$108   | $101-$173     | $113-$193     | Free   |
+<div class="divResTable divResTable--6cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell" style="order: 2;">$103-$178</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell" style="order: 2;">$87-$153</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
+  <div class="divResTableCell" style="order: 2;">$63-$108</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
+  <div class="divResTableCell" style="order: 2;">$101-$173</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
+  <div class="divResTableCell" style="order: 2;">$113-$193</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Evaluations</div>
+  <div class="divResTableCell" style="order: 2;">Free</div>
+</div>
+
 
 ### Repair Service Per Hour Turn-Around Rates
 
 **Most devices require a diagnostic/analysis before any repairs can be performed.**
 
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
-| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $158.00   | $123.00   | $103.00   | $173.00     | $203.00     | Free   |
+<div class="divResTable divResTable--6cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell" style="order: 2;">$158.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell" style="order: 2;">$123.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
+  <div class="divResTableCell" style="order: 2;">$103.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
+  <div class="divResTableCell" style="order: 2;">$173.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
+  <div class="divResTableCell" style="order: 2;">$203.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Evaluations</div>
+  <div class="divResTableCell" style="order: 2;">Free</div>
+</div>
 
 ### In-Office Consultations
 
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   | Evaluations |
-| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: |
-| $158.00   | $123.00   | $103.00   | $173.00     | $203.00     | Free   |
-
+<div class="divResTable divResTable--6cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell" style="order: 2;">$158.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell" style="order: 2;">$123.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
+  <div class="divResTableCell" style="order: 2;">$103.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
+  <div class="divResTableCell" style="order: 2;">$173.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
+  <div class="divResTableCell" style="order: 2;">$203.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Evaluations</div>
+  <div class="divResTableCell" style="order: 2;">Free</div>
+</div>
 
 ## At-Your-Location Consultations
 
 ### Pick-up/Drop-Off Service (Within 5miles of Downtown SR) Some services require work to be performed in my office.
 
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   |
-| :-------: | :-------: | :-------: | :---------: | :---------: |
-| $103.00   | $51.00   | $27.00   | $127.00     | $156.00     |
+
+<div class="divResTable divResTable--5cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell" style="order: 2;">$103.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell" style="order: 2;">$51.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
+  <div class="divResTableCell" style="order: 2;">$27.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
+  <div class="divResTableCell" style="order: 2;">$127.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
+  <div class="divResTableCell" style="order: 2;">$156.00</div>
+</div>
 
 ### Scheduled Visit Repair/Resolution Rates Per Hour (1hr minimum)
 
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   |
-| :-------: | :-------: | :-------: | :---------: | :---------: |
-| $178.00   | $153.00   | $128.00   | $203.00     | $228.00     |
+
+<div class="divResTable divResTable--5cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell" style="order: 2;">$178.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell" style="order: 2;">$153.00 </div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
+  <div class="divResTableCell" style="order: 2;">$128.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
+  <div class="divResTableCell" style="order: 2;">$203.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
+  <div class="divResTableCell" style="order: 2;">$228.00</div>
+</div>
 
 ### Scheduled Visit Training, or File/Folder Organization Rates Per Hour (1hr minimum)
 
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   |
-| :-------: | :-------: | :-------: | :---------: | :---------: |
-| $103.00   | $78.00   | $53.00   | $128.00     | $153.00     |
+<div class="divResTable divResTable--5cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell" style="order: 2;">$103.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell" style="order: 2;">$78.00 </div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
+  <div class="divResTableCell" style="order: 2;">$53.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
+  <div class="divResTableCell" style="order: 2;">$128.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
+  <div class="divResTableCell" style="order: 2;">$153.00</div>
+</div>
 
 ### Scheduled Repair/Resolution Remote/Phone Support Rates Per Hour (30min minimum) (3hr maximum per day)
 
-| Same Day  | 3-7 day   | 1 week+   | Weekend     | Off Hours   |
-| :-------: | :-------: | :-------: | :---------: | :---------: |
-| $78.00    | $63.00    | $53.00    | $88.00      | $98.00      |
+<div class="divResTable divResTable--5cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell" style="order: 2;">$63.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell" style="order: 2;">$78.00 </div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
+  <div class="divResTableCell" style="order: 2;">$53.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
+  <div class="divResTableCell" style="order: 2;">$88.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
+  <div class="divResTableCell" style="order: 2;">$98.00</div>
+</div>
 
-### Basic Retainer At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
+### Basic Retainer At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
 
-| 4x Phone/Remote  | 1x At-Location   |  |  |  |  |
-| :-------: | :-------: | --- | --- | --- | --- |
-| $200.00    | $100.00    |  |  |  |  |
+<div class="divResTable divResTable--2cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">4x Phone/Remote</div>
+  <div class="divResTableCell" style="order: 2;">$200.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1x At-Location</div>
+  <div class="divResTableCell" style="order: 2;">$100.00</div>
+</div>
 
-### Intermediate Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
+### Intermediate Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
 
-| 8x Phone/Remote  | 2x At-Location   |  |  |  |  |
-| :-------: | :-------: | --- | --- | --- | --- |
-| $400.00    | $200.00    |  |  |  |  |
+<div class="divResTable divResTable--2cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">8x Phone/Remote</div>
+  <div class="divResTableCell" style="order: 2;">$400.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">2x At-Location</div>
+  <div class="divResTableCell" style="order: 2;">$200.00</div>
+</div>
 
-### Advanced Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quaterly) (No Weekends or Off-Hours)
+### Advanced Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
 
-| 12x Phone/Remote  | 3x At-Location   |  |  |  |  |
-| :-------: | :-------: | --- | --- | --- | --- |
-| $600.00    | $300.00    |  |  |  |  |
+<div class="divResTable divResTable--2cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">12x Phone/Remote</div>
+  <div class="divResTableCell" style="order: 2;">$600.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3x At-Location</div>
+  <div class="divResTableCell" style="order: 2;">$300.00</div>
+</div>
 
 ## Project Based Fees
 

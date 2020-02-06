@@ -25,5 +25,5 @@ Taskpaper allows:
 <ul>
 	<li>It uses a flat file structure</li>
 	<li>In has built in features that allow you to set tasks based on tags.</li>
-	<li>You can use dropbox to handle the task files.</li>
+	<li>You can use Dropbox to handle the task files.</li>
 </ul>

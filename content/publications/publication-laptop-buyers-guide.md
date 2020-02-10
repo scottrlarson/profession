@@ -107,7 +107,7 @@ While the screen size and resolution are the primary features that manufacturers
 
 #### TN and IPS  
 
-There are two major technologies used in LCD panels for laptops: **TN** and [**IPS**](). TN display technology is the most common, as they are the least expensive and also tend to offer faster refresh rates.  TN display technology has narrow viewing angles and colors. I also notice that these displays are not as bright.  TN panels offer less overall color, but this typically only matters for graphics designers. (Color  refers to the [color gamut](https://www.lifewire.com/lcd-monitors-and-color-gamuts-833038), or the total number of colors that the screen can display.)
+There are two major technologies used in LCD panels for laptops: **TN** and **IPS**. TN display technology is the most common, as they are the least expensive and also tend to offer faster refresh rates.  TN display technology has narrow viewing angles and colors. I also notice that these displays are not as bright.  TN panels offer less overall color, but this typically only matters for graphics designers. (Color  refers to the [color gamut](https://www.lifewire.com/lcd-monitors-and-color-gamuts-833038), or the total number of colors that the screen can display.)
 
 
 

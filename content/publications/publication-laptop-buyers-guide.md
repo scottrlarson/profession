@@ -107,7 +107,7 @@ While the screen size and resolution are the primary features that manufacturers
 
 #### TN and IPS  
 
-There are two major technologies used in LCD panels for laptops: **TN** and **IPS**. TN display technology is the most common, as they are the least expensive and also tend to offer faster refresh rates.  TN display technology has narrow viewing angles and colors. I also notice that these displays are not as bright.  TN panels offer less overall color, but this typically only matters for graphics designers. (Color  refers to the [color gamut](https://www.lifewire.com/lcd-monitors-and-color-gamuts-833038), or the total number of colors that the screen can display.)
+There are two major technologies used in LCD panels for laptops: **TN** and **IPS**. TN display technology is the most common, as they are the least expensive and also tend to offer **faster refresh rates**.  TN display technology has narrow viewing angles and colors. I also notice that these displays are not as bright.  TN panels offer less overall color, but this typically only matters for graphics designers. (Color  refers to the [color gamut](https://www.lifewire.com/lcd-monitors-and-color-gamuts-833038), or the total number of colors that the screen can display.)
 
 
 
@@ -165,6 +165,8 @@ Overall these tips should help you make a more informed decision, if you want to
 - **RAM**: Random-access memory (or simply RAM) is the temporary memory or information storage location in a computer that is used to store running programs and data for the programs. Data (information) in the RAM can be read and written quickly in any order.
 
 - **Optical Drive**: A drive that can read optical disk, like a CD, DVD, or Blueray.
+
+- **Screen Refresh Rate**: How often the screen draws the information visible on the display. The faster the refresh, the better it is on your eyes.
 
 - **Screen Resolution**: The display resolution or display modes of a [digital television](https://en.wikipedia.org/wiki/Digital_television), [computer monitor](https://en.wikipedia.org/wiki/Computer_monitor) or [display device](https://en.wikipedia.org/wiki/Display_device) is the number of distinct [pixels](https://en.wikipedia.org/wiki/Pixel) in each dimension that can be displayed.
 

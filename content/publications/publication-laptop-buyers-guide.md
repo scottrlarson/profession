@@ -21,7 +21,7 @@ My goal with this article is to help you cut through the crap when shopping for 
 
 ## If at all possible, do your shopping, or at the very least, your research on-line.
 
-Better information about purchases can be found at sites like: [**Amazon**](amazon.com) or **[Newegg]()**. These sites do a better job at listing technical specifications. At the very least, use online resources to reference specs for a product you are thinking of purchasing at a brick and mortar store. 
+Better information about purchases can be found at sites like: [**Amazon**](amazon.com) or **[Newegg](newegg.com)**. These sites do a better job at listing technical specifications. At the very least, use online resources to reference specs for a product you are thinking of purchasing at a brick and mortar store. 
 
 ## Understanding the 8 basic food groups for purchasing laptops:
 

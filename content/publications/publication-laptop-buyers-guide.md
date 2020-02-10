@@ -70,7 +70,7 @@ Most devices now ship with the **Windows 10 operating system**.  As of 2020, mos
 
 ![Laptop Filing Cabinet Photo](/img/publications/laptop-buyers-guide/laptop-with-illustration-of-filing-cabinet.jpg)
 
-### The Capacity: Do you plan on have enough storage capacity for your stuff?
+### The Capacity: Do you plan on having enough storage capacity for your stuff?
 
 Storage size might be important to you. Getting an SSD is great, but if its not big enough to store your data, that might be a problem. The larger that the SSD is, the more expensive it's going to be. Some Laptops have SSD/HDD combinations to keep the cost down. THE SSD is the boot device, and the HDD is the storage device. But it makes it a bit more complicated to store information because then you have to remember to store your data on the HDD. You can also set your user folders to store information on the HDD. Generally, these combo configurations are still just as fast as a device with a ingle SSD, because most of the heavy lifting is done by the primary storage SSD and the secondary storage HDD is really just a storage option for your data, and loading it off of a HDD isnt not really a problem as long as it is all that is doing.
 

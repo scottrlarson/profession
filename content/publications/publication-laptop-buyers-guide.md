@@ -23,7 +23,7 @@ My goal with this article is to help you cut through the crap when shopping for 
 
 Better information about purchases can be found at sites like: [**Amazon**](amazon.com) or **[Newegg](newegg.com)**. These sites do a better job at listing technical specifications. At the very least, use online resources to reference specs for a product you are thinking of purchasing at a brick and mortar store. 
 
-## Understanding the 8 basic food groups for purchasing laptops:
+## Understanding the 8 basic food groups:
 
 1. **The Dimensions (Physical): Is it going to be mobile, or a homebody?**
 2. **The Weight: Are you going to be lugging around a monstrosity, or a light weight?**

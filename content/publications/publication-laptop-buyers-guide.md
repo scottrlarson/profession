@@ -1,5 +1,5 @@
 +++
-title = "Scooter's Laptop Buyers Guide"
+title = "Scooters' Laptop Buyers Guide"
 author = "Scott Larson"
 date = 2020-01-29T10:55:00-08:00
 categories = ["Guides"]

@@ -1,0 +1,5 @@
+{{ if .Params.header.image }}
+<div class="article-header">
+  <img src="{{ "/img/" | relURL }}{{ .Params.header.image }}" class="article-banner" itemprop="image">
+</div>
+{{end}}

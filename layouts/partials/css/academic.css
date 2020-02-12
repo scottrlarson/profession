@@ -534,21 +534,6 @@ article {
   color: {{ .Get "primary" }};
 }
 
-.list-container {
-  display: flex;
-}
-
-.list_thumb {
-  padding-right: 25px;
-  flex-grow: 1;
-}
-.list-thumb img {
-}
-
-.list-synopsis {
-  flex-grow: 4;
-}
-
 .article-list-item {
   margin-bottom: 40px;
 }

@@ -16,9 +16,11 @@ caption = ""
 
 +++
 
-<div class="alert-container">These are tweaks that I make to my Windows configuration that improves my productivity. Performing these kinds of changes to Windows requires a careful understanding of programming, the Windows registry, and how to protect Windows from damage by making and restoring backups. Don't perform any of these tweaks unless you know what your doing. I am not liable, nor responsible for any action you take on behalf of this information.</div>
+<div class="alert-container">These are tweaks that I make to my Windows configuration that improves my productivity.  Performing these kinds of changes to Windows requires a careful understanding of programming, the Windows registry, and how to protect Windows from damage by making and restoring backups. Don't perform any of these tweaks unless you know what your doing. I am not liable, nor responsible for any action you take on behalf of this information.</div>
 
-## File Explorer
+## File Explorer Tweaks
+
+![Scooter's File Explorer Tweaks Screenshot](/img/updates/scooters-windows-tweaks/Tweaks-Scooters-File-Explorer.png)
 
 ### 1. Disable & Remove Quick Access 
 
@@ -35,7 +37,7 @@ caption = ""
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer
 ```
 
-DWORD HubMode 1
+Add DWORD HubMode 1
 
 The .reg files below will modify the DWORD value in the registry key below.
 
@@ -48,10 +50,12 @@ HKEY_CLASSES_ROOT\CLSID\{031E4825-7B94-4dc3-B131-E946B44C8DD5}
 ```
 
 
-DWORD SortOrderIndex
+Add DWORD SortOrderIndex
 
-54 (hex) = Below This PC
-42 (hex) = Above This PC
+Use one of the below numbers to complete the DWORD Entry:
+
+54 (hex) = Below This PC  
+42 (hex) = Above This PC  
 
 ### Remove OneDrive
 
@@ -59,7 +63,7 @@ DWORD SortOrderIndex
 HKEY_CLASSES_ROOTCLSID{018D5C66-4533-4307-9B53-224DE2ED1FE6}
 ```
 
-DWORD System.IsPinnedToNameSpaceTree 1
+Add DWORD System.IsPinnedToNameSpaceTree 1
 
 ### Remove DLNA Media Servers
 

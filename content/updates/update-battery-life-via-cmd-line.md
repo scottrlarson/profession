@@ -31,4 +31,6 @@ The output for that command would look something like this:
 > 
 > Remaining 
 
-You can see the estimated battery charge remaining.
+You can see the estimated battery charge remaining. 
+
+In my next update I will show you a possible fix to this problem.

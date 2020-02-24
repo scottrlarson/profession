@@ -134,15 +134,15 @@ Check my [hours](#contact) for availability.
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
-  <div class="divResTableCell" style="order: 2;">$63.00</div>
+  <div class="divResTableCell" style="order: 2;">$98.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
   <div class="divResTableCell" style="order: 2;">$78.00 </div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
   <div class="divResTableCell" style="order: 2;">$53.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
-  <div class="divResTableCell" style="order: 2;">$88.00</div>
+  <div class="divResTableCell" style="order: 2;">$118.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
-  <div class="divResTableCell" style="order: 2;">$98.00</div>
+  <div class="divResTableCell" style="order: 2;">$141.00</div>
 </div>
 
 ### Basic Retainer At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)

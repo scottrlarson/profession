@@ -26,3 +26,7 @@ In 2017, Microsoft implemented data collection into it's Windows 10 Operating Sy
 \** I do not guarantee that these settings will remain permanently. Microsoft's [Windows feature updates](updates/update-windows-feature-updates), certain features they deem necessary, might be re-enabled during an update, which might require a future decluttering service.   
 
 {{% service-price item="$112" %}}
+
+I can also customize any windows desktop feature, by removing features that get in the way of productivity, or adding ones that improve the user experience. 
+
+{{% service-quote %}}

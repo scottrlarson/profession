@@ -29,4 +29,6 @@ In 2017, Microsoft implemented data collection into it's Windows 10 Operating Sy
 
 I can also customize any windows desktop feature, by removing features that get in the way of productivity, or adding ones that improve the user experience. 
 
+![Scooters File Explorer Modifications Screenshot](/img/highlights/Tweaks-Scooters-File-Explorer.png)
+
 {{% service-quote %}}

@@ -23,6 +23,6 @@ In 2017, Microsoft implemented data collection into it's Windows 10 Operating Sy
 - I check for applications that could potentially slow down the device, determine if those applications are necessary for the normal operation of the device, and if not, I remove them.
 
 \* I do not guarantee any performance improvements as a result of any of these adjustments, but removing apps that run at boot-time, which many Microsoft built-in apps do, usually improves performance.  
-\** I do not guarantee that these settings will remain permanently. Microsoft's ![Windows feature updates](updates/update-windows-feature-updates), certain features they deem necessary, might be re-enabled during an update, which might require a future decluttering service.   
+\** I do not guarantee that these settings will remain permanently. Microsoft's [Windows feature updates](updates/update-windows-feature-updates), certain features they deem necessary, might be re-enabled during an update, which might require a future decluttering service.   
 
 {{% service-price item="$112" %}}

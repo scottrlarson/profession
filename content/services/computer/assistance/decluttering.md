@@ -15,6 +15,9 @@ image = "services/"
 caption = ""
 
 +++
+
+![Scooter's Tweaks: Windows Decluttering Service](/img/highlights/tweaks-scooters-decluttering-service.png)
+
 In 2017, Microsoft implemented data collection into it's Windows 10 Operating System. Due to the negative effects that this practice has on customer privacy, I offer a decluttering service to remove and disable certain unnecessary and unwanted functions.* ** Here is what this service provides:
 
 - I disable all Telemetry and Data Collection services.

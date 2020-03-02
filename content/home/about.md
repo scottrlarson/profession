@@ -97,7 +97,7 @@ Support sane <a href="https://www.fightforthefuture.org/fixcopyright/">copyright
     </div>
     <div id="collapse3" class="panel-collapse collapse">
       <div class="panel-body"><p>In 2019 I suffered a Cerebral Hemorrhage. I wrote a <a href="/publications/publication-most-improved/">book</a> about the experience of overcoming depression. In the book a write about how mental/emotional strife, or peace, and the reasons behind it plays a direct role in shaping life.</p>
-      <p>Check out my writing <a href="/events/authoring">events</a>, <a href="/projects">projects</a>, <a href="/books">books</a>, and <a href="/travelogues">travelogues</a>.</p>
+      <p>Check out my writing <a href="/events/authoring">events</a>, <a href="/projects">projects</a>, <a href="/books">books</a>, and <a href="/reflections">reflections</a>.</p>
      </div>
     </div>
   </div>

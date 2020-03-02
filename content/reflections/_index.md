@@ -1,5 +1,5 @@
 +++
-title = "Travelogues"
+title = "Reflections"
 date = 2019-09-29T09:25:18-07:00
 draft = false
 

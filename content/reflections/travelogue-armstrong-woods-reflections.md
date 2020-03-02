@@ -2,11 +2,11 @@
 title = "Armstrong Woods Reflections"
 date = 2019-08-25T09:52:19-07:00
 draft = false
-
+alias = "/travelogues/travelogue-armstrong-woods-reflections"
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
+tags = ["Life", "Contemplations", "Ethics"]
+categories = ["Authoring"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

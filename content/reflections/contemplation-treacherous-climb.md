@@ -15,7 +15,7 @@ image = "reflections/treacherous-climb.jpg"
 caption = ""
 
 +++
-The sun is a friend to me. It lights up the way to myself, filling me with gratitude and wellbeing. Even when it shines in my face while I'm trying to write. I cannot become too annoyed. I know that to become annoyed is to invite a breakdown. Being a man requires calmness and patients. For myself, my world, and my life.
+The sun is a friend to me. It lights up the way to myself, filling me with gratitude and wellbeing. Even when it shines in my face while I'm trying to write. I cannot become too annoyed. I know that to become annoyed is to invite a breakdown. Being a man requires calmness and patience. For myself, my world, and my life.
 
 Every day I get up when the sun rises, and go to sleep when the sun sets. I didn't decide to do this, it just happened. There is a healing power in the activity of revolving my life around the sun. Being awake at the crack of dawn gives me a certain earthly perspective on life. When I was revolving my life around the night, my life revolved around the dark sun of unearthly tendencies. I had this need to indirectly harm myself, and others through thoughts and speech.  It wasn't until my awakening that I realized that I disconnected myself from the life of the planet. 
 

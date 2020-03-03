@@ -1,5 +1,5 @@
 +++
-title = "Should you upgrade to Windows 7, or Retire that old PC?"
+title = "Should you upgrade to Windows 10, or Retire that old PC?"
 date = 2020-01-14T09:39:28-08:00
 draft = false
 

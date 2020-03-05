@@ -106,8 +106,6 @@ nav#navbar-main li {
   background-color: {{ .Get "menu_primary" }} !important;
 }
 
-.navbar-brand, .navbar-nav li a {line-height: 0px}
-
 .navbar-default .navbar-brand {
   text-transform: uppercase;
   font-weight: bold;

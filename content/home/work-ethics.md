@@ -17,5 +17,5 @@ weight = 15
 - I keep excellent records of all my customer's service visits.
 - I excel in following up with in-progress projects and services.
 - I stay abreast of most of the [latest technologies](/recommendations/).
-- I write [articles](updates/) about my experiences in the field.
-- I'm good at communicating technical subjects in a simple to understand way.
+- I write [articles](updates/) and [publications](/publications) about my experiences in the field.
+- I communicate technical subjects in a simple to understand way.

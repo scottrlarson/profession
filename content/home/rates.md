@@ -15,13 +15,11 @@ Check my [hours](#contact) for availability.
 
 ## Payment Terms
 
-**Ongoing service rates are determined by the immediacy, or the day/time a service is requested. Services that require a faster turn-around time are higher than services that can wait. If you require a specific service, check my project based services in the main menu of my website.**
+**Ongoing service rates are determined by the immediacy, or the day/time a service is requested. Services that require a faster turn-around time are priced higher than services that can wait. I also offer flat rates, price ranges and quotes for project based services. For in-shop services, if you require a more specific out-the-door cost and want to know more about what kinds of services I offer, check the main menu of my website.**
 
 **I offer discounts for Senior Citizens, Non-profits, Non-business Residential, and Homeless customers for all my services upon request. [Call, Text or Visit](#contact) my office for more info.**
 
-**I accept cash, check, or credit card via paypal using the mobile app, or online website.Payments are due before the device is released, or before I leave the service location. The exception is if I have an on-going relationship with you as the business owner to provide a service, or I draw up a proposal/quote for an on-going project. In this case the max time for payments is two weeks. Please be prepared to pay me for my time after the work requested is complete. Not having the proper payment method, or amount may halt any work in progress, prevent me from starting any work, or prevent you from picking up your device. Payments that are late incur a $0.50 charge per day.**
-
-
+**I accept cash, check, or credit card via paypal using the mobile app, or online website. Payments are due before the device is released, or before I leave the service location. The exception is if I have an on-going relationship with you as the business owner to provide a service, or I draw up a proposal/quote for an on-going project. In this case the max payment cycle is two weeks. Please be prepared to pay me for my time after the work requested is complete. Not having the proper payment method, or amount, may halt any work in progress, prevent me from starting any work, or prevent you from picking up your device. Payments that are late incur a $0.50 charge per day and payments late over 30 days has a %20 fee of the total cost of the service (On top of the daily fee) per month.**
 
 **I only provide services directly to individuals/people, and individuals/people who operate small operations with 10 or less employees.**
 

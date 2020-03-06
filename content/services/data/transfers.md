@@ -15,6 +15,7 @@ image = "services/"
 caption = ""
 
 +++
+![Drive Replacement](/img/highlights/replacement-hard-drive.jpg)
 A data transfer is a service that involves moving, or copying data from one, or more source devices and transferring that data to a target device, or devices, such as another computer or a secondary storage device.
 
 ## Migration Audit Report

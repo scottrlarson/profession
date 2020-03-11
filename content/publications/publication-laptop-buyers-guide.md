@@ -23,6 +23,28 @@ My goal with this article is to help you cut through the crap when shopping for 
 
 Better information about purchases can be found at sites like: [**Amazon**](amazon.com) or **[Newegg](newegg.com)**. These sites do a better job at listing technical specifications. At the very least, use online resources to reference specs for a product you are thinking of purchasing at a brick and mortar store. 
 
+Update: I found this really cool [site](https://www.notebookcheck.net) that has reviews of laptops, but also offers a [buyers guide](https://www.notebookcheck.net/Laptop-Buying-Guide-Tool.13212.0.html) that allows a visitor to choose from a list of options like:
+
+- I want to play demanding games?
+- The notebook should have a high performance rating
+- The laptop should have a graphics card optimized for CAD - and professional 3D applications.
+- I want to have a big screen
+- The screen of the laptop should be of a high quality
+- The laptop screen should be non glossy
+- The notebook should be lightweight
+- The notebook should have a good mobility rating (battery - runtime, weight, size)
+- The notebook should have a low emissions rating (low heat - and noise emmitted)
+- The workmanship rating should be high
+- Include only products of the top 10 manufacturers
+- The notebook should be new on the market
+- The notebook should be cheap
+- Show only devices that were tested by Notebookcheck
+
+Then when you hit submit, you can see a list of laptops that this site reviewed that meets your criteria.
+Their buyers guide also has a matrix selection tool that filters results based on the specific hardware specifications.
+
+Review sites like this are a really good tool for finding a model that you really want.
+
 ## Understanding the 8 basic food groups:
 
 1. **The Dimensions (Physical): Is it going to be mobile, or a homebody?**

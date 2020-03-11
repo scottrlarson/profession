@@ -15,6 +15,6 @@ image = ""
 caption = ""
 
 +++
-
-[HitmanPro.Alert](https://www.hitmanpro.com/en-us/alert.aspx) is a tool that works in the background to protect your private information by encrypting private communications and minimizing ransomeware attacks and protecting vulnerable applications.
+![Attack Intercepted Screenshot](/img/recommendations/hitmanpro.alert.jpg)
+[HitmanPro.Alert](https://www.hitmanpro.com/en-us/alert.aspx) is a tool that works in the background to protect your private information by encrypting private communications and minimizing ransomeware attacks. HitmanPro.Alert also works to protect vulnerable applications from leaking information about you, and works to minimize command and control aspects of malware.
 

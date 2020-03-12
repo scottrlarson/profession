@@ -28,7 +28,7 @@ Check my [hours](#contact) for availability.
 ### Diagnosis/Analysis Service Turn-Around Range Rates
 
 <div class="divResTable divResTable--6cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
   <div class="divResTableCell" style="order: 2;">$103-$178</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
   <div class="divResTableCell" style="order: 2;">$87-$153</div>
@@ -48,7 +48,7 @@ Check my [hours](#contact) for availability.
 **Most devices require a diagnostic/analysis before any repairs can be performed.**
 
 <div class="divResTable divResTable--6cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
   <div class="divResTableCell" style="order: 2;">$158.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
   <div class="divResTableCell" style="order: 2;">$123.00</div>
@@ -65,7 +65,7 @@ Check my [hours](#contact) for availability.
 ### In-Office Consultations
 
 <div class="divResTable divResTable--6cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
   <div class="divResTableCell" style="order: 2;">$158.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
   <div class="divResTableCell" style="order: 2;">$123.00</div>
@@ -85,7 +85,7 @@ Check my [hours](#contact) for availability.
 
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
   <div class="divResTableCell" style="order: 2;">$103.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
   <div class="divResTableCell" style="order: 2;">$51.00</div>
@@ -101,7 +101,7 @@ Check my [hours](#contact) for availability.
 
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
   <div class="divResTableCell" style="order: 2;">$178.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
   <div class="divResTableCell" style="order: 2;">$153.00 </div>
@@ -116,7 +116,7 @@ Check my [hours](#contact) for availability.
 ### Scheduled Visit Training, or File/Folder Organization Rates Per Hour (1hr minimum)
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
   <div class="divResTableCell" style="order: 2;">$103.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
   <div class="divResTableCell" style="order: 2;">$78.00 </div>
@@ -131,7 +131,7 @@ Check my [hours](#contact) for availability.
 ### Scheduled Repair/Resolution Remote/Phone Support Rates Per Hour (30min minimum) (3hr maximum per day)
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Same Day</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
   <div class="divResTableCell" style="order: 2;">$98.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
   <div class="divResTableCell" style="order: 2;">$78.00 </div>

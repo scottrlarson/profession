@@ -81,23 +81,7 @@ Check my [hours](#contact) for availability.
 
 ---
 
-## At-Your-Location Consultations
-
-### Pick-up/Drop-Off Service (Within 5miles of Downtown SR) Some services require work to be performed in my office.
-
-
-<div class="divResTable divResTable--5cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
-  <div class="divResTableCell" style="order: 2;">$103.00</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
-  <div class="divResTableCell" style="order: 2;">$51.00</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
-  <div class="divResTableCell" style="order: 2;">$27.00</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
-  <div class="divResTableCell" style="order: 2;">$127.00</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
-  <div class="divResTableCell" style="order: 2;">$156.00</div>
-</div>
+## At-Your-Location Consultations by Priority Scheduling
 
 ### Scheduled Visit Repair/Resolution Rates Per Hour (1hr minimum)
 
@@ -143,6 +127,22 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">$118.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
   <div class="divResTableCell" style="order: 2;">$141.00</div>
+</div>
+
+### Pick-up/Drop-Off Service (Within 5 miles of Downtown SR) Some services require work to be performed in my office.
+
+
+<div class="divResTable divResTable--5cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
+  <div class="divResTableCell" style="order: 2;">$103.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell" style="order: 2;">$51.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
+  <div class="divResTableCell" style="order: 2;">$27.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
+  <div class="divResTableCell" style="order: 2;">$127.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
+  <div class="divResTableCell" style="order: 2;">$156.00</div>
 </div>
 
 ---

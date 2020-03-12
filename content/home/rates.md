@@ -62,7 +62,7 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">Free</div>
 </div>
 
-### In-Office Consultations
+### In-Office Consultations by Priority Scheduling
 
 <div class="divResTable divResTable--6cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>

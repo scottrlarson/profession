@@ -560,6 +560,8 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   padding: 0;
 }
 
+.divResTable--8cols > .divResTableCell  { width: 11.1%; }
+
 .divResTable--7cols > .divResTableCell  { width: 13.2%; }
 
 .divResTable--6cols > .divResTableCell  { width: 16.4%; }

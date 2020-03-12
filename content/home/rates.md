@@ -79,6 +79,8 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">Free</div>
 </div>
 
+---
+
 ## At-Your-Location Consultations
 
 ### Pick-up/Drop-Off Service (Within 5miles of Downtown SR) Some services require work to be performed in my office.
@@ -142,6 +144,11 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
   <div class="divResTableCell" style="order: 2;">$141.00</div>
 </div>
+
+---
+
+
+## Retainer Packages For Small Business (1-10 End Points)
 
 ### Basic Retainer At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
 

@@ -60,6 +60,7 @@ weight = 1
 
 
 +++
+<div class="alert-container"><h4 style="color: white; text-align: center; padding-top: 0px; margin-top: 0px;">Free pickup/drop off Service During SARS-CoV-2 Precaution</h4>Due to the SARS-CoV-2 situation, I am offering free pickup and drop off of your device, so you do not have to go out to have your computer fixed. This free service is for people that live or work 5 miles from Downtown Santa Rosa. If you live or work beyond this range, see my <a href="/#rates">rates</a> for pickup/drop-off service. I am taking every precaution at my office to minimize risk. To schedule a pickup, please call me at <a href="/#contact">707-536-1527</a> or email me using my <a href="/#contact">contact</a> form.</div>
 <div class="alert-container"><a href="https://www.ifixit.com/Right-to-Repair/Intro"><h4 style="color: white; text-align: center; padding-top: 0px; margin-top: 0px;">We Have the Right to Repair Everything We Own</h4></a>
   Once you’ve paid money for a product, the manufacturer shouldn’t be able to dictate how you use it—it’s yours. Ownership means you should be able to open, hack, repair, upgrade, or tie bells on it.
 Support sane <a href="https://www.fightforthefuture.org/fixcopyright/">copyright legislation</a>.</div>

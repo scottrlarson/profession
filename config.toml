@@ -36,8 +36,10 @@ twitter = "scottrlarson"
 [params]
 
   description = '''
-  I am a technical professional, spiritual activist, and author. This is my professional and personal website where you can learn more about my work as a professional and indvidual.
+  I am the Computer Troubleshooter. I offer computer repair and information technology services to the public of Santa Rosa, California and it's surrounding areas
   '''
+  images = ["profile-scottrlarson.png"]
+  
   author = "Scott Larson"
   currency = "USD"
   snipcart_test_api_key = ""

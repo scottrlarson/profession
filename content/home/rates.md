@@ -140,7 +140,7 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
   <div class="divResTableCell" style="order: 2;">$<s>27.00</s></div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
-  <div class="divResTableCell" style="order: 2;"<s>>$127.00</s></div>
+  <div class="divResTableCell" style="order: 2;"><s>$127.00</s></div>
   <div class="divResTableCell divResTableHeading" style="order: 1;"><s>Off Hours</s></div>
   <div class="divResTableCell" style="order: 2;"><s>$156.00</s></div>
 </div>

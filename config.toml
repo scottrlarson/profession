@@ -38,7 +38,7 @@ twitter = "scottrlarson"
   description = '''
   I am the Computer Troubleshooter. I offer computer repair and information technology services to the public of Santa Rosa, California and it's surrounding areas.
   '''
-  images = ["profile-scottrlarson.png"]
+  images = ["/img/profile-scottrlarson.png"]
   
   author = "Scott Larson"
   currency = "USD"

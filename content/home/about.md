@@ -63,7 +63,7 @@ weight = 1
   images = ["profile-scottrlarson.png"]
   
 +++
-<div class="alert-container"><h4 style="color: white; text-align: center; padding-top: 0px; margin-top: 0px;"><a href="/updates/update-covid-19">My response to the COVID-19 Precaution</a></h4>Due to my particular field, and the fact that I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am remaining in operation. I am taking every precaution necessary to prevent the spread of this virus<a href="/updates/update-covid-19">...more</a></div>
+<div class="alert-container"><h4 style="color: white; text-align: center; padding-top: 0px; margin-top: 0px;"><a href="/updates/update-covid-19">My response to the COVID-19 Crisis</a></h4>Due to my particular field, and the fact that I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am remaining in operation. I am taking every precaution necessary to prevent the spread of this virus<a href="/updates/update-covid-19">...more</a></div>
 <div class="alert-container"><a href="https://www.ifixit.com/Right-to-Repair/Intro"><h4 style="color: white; text-align: center; padding-top: 0px; margin-top: 0px;">We Have the Right to Repair Everything We Own</h4></a>
   Once you’ve paid money for a product, the manufacturer shouldn’t be able to dictate how you use it—it’s yours. Ownership means you should be able to open, hack, repair, upgrade, or tie bells on it.
 Support sane <a href="https://www.fightforthefuture.org/fixcopyright/">copyright legislation</a>.</div>

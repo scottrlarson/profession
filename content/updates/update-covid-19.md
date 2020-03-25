@@ -17,6 +17,8 @@ caption = ""
 +++
 Due to my particular field, and the fact that I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am remaining in operation. I am taking every precaution necessary to prevent the spread of this virus.
 
+Please note that if you have a working internet connection, and your device is responsive, my [Online Repair & Resolution Service](/services/computer/assistance/online) can handle many issues that you are having.
+
 For in-office servicing, I am seeing one customer at a time, by appointment. Walk-in customers who show up while I am with a customer, will be asked to phone me to make an appointment.
 
 When a customer arrives with a device that needs to be serviced, I have created the following procedures to minimizing the handling of it: 

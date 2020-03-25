@@ -114,7 +114,7 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">$153.00</div>
 </div>
 
-### Scheduled Repair/Resolution Remote/Phone Support Rates Per Hour (30min minimum) (3hr maximum per day)
+### Scheduled Online Repair & Resolution Rates Per Hour (30min minimum) (3hr maximum per day) {#OnlineRepairResolution}
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>

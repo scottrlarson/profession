@@ -19,10 +19,10 @@ caption = ""
 
 <div class="alert-container">Please inquire about your current <b>level of backup</b> if needed. Having a <a href="/updates/update-disaster-recovery-fire-insurance/">backup strategy</a> prevents data loss in the event of disaster.</div>
 
-- Have a question about a problem you are experiencing with your device? 
+- Do you have a question about a problem you are experiencing with your device? 
 - Can you surf the web? 
 
-If the is "Yes", I can service your device over the Internet. I can either fix the problem right there, or give you a follow up recommendation to solve the problem.
+If the answer is "Yes", I can service your device over the Internet by either fixing the problem right there, or give you a follow up recommendation to solve the problem.
 <!--more-->
 
-{{% service-remote-rates %}}
+{{% service-appointment %}}

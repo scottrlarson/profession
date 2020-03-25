@@ -149,23 +149,21 @@ Check my [hours](#contact) for availability.
 
 ## Service Packages For individuals & Small Business Owners
 
-### Personal Service Package
 
-<div class="divResTable divResTable--7cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Device Diagnostic Value Addition</div>
-  <div class="divResTableCell" style="order: 2;">test</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
+
+<div class="divResTable divResTable--3cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Personal Service Package</div>
+  <div class="divResTableCell" style="order: 2;">
+<ul style="text-align: left; font-size: 0.7em;">
+  <li>1x In-Shop Device Diagnostic</li>
+  <li>1x In-Shop Device Repair</li>
+</ul>
+  </div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Advanced Service Package</div>
   <div class="divResTableCell" style="order: 2;">$103-$178</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Premier Service Package</div>
   <div class="divResTableCell" style="order: 2;">$87-$153</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
-  <div class="divResTableCell" style="order: 2;">$63-$108</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
-  <div class="divResTableCell" style="order: 2;">$101-$173</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
-  <div class="divResTableCell" style="order: 2;">$113-$193</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Evaluations</div>
-  <div class="divResTableCell" style="order: 2;">Free</div>
+  
 </div>
 
 ---

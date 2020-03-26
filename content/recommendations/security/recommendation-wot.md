@@ -1,5 +1,5 @@
 +++
-title = "Web of Trust Firefox Extension"
+title = "Web of Trust"
 date = 2018-04-04T21:51:31-07:00
 draft = false
 
@@ -16,4 +16,7 @@ caption = ""
 
 +++
 
-Web of Trust is a unique community-based safe surfing tool that uses an intuitive traffic-light rating system to help Web users stay safe as they search, surf and shop online. The WOT add-on tells you which sites you can trust when using Google, Yahoo!, Bing, Wikipedia and other popular sites. Web site ratings are powered by a global community of millions of trustworthy users who have rated millions of websites based on their experiences. The free add-on works with Firefox, Google Chrome and Internet Explorer and is a free download.
+[Web of Trust](https://www.mywot.com) is a unique community-based safe surfing tool that uses an intuitive traffic-light rating system to help Web users stay safe as they search, surf and shop online. The WOT add-on tells you which sites you can trust when using Google, Yahoo!, Bing, Wikipedia and other popular sites. Web site ratings are powered by a global community of millions of trustworthy users who have rated millions of websites based on their experiences. The free add-on works with Firefox, Google Chrome and Internet Explorer and is a free download.
+
+- [Chrome Extension](https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp?hl=en)
+- [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/wot-safe-browsing-tool/)

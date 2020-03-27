@@ -12,9 +12,10 @@ categories = ["Web Browser", "Firefox", "Plugin", "Addon", "Security"]
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "/recommendations/cs-recommendation-noscript.png"
-caption = ""
+caption = "Modified NoScript Logo: [SVG](/img/recommendations/cs-recommendation-noscript.svg)"
 
 +++
+
 [NoScript](https://noscript.net/) provides essential protection for Firefox, and other Mozilla-based browsers. Most web browsers, by default, do not give you the option to customize what kind of web site content you want to be viewed in your browser. This causes major problems because sites often use 3rd party code to insert multimedia content and ads. Many of these 3rd parties can be compromised resulting in your computer becoming a victim of a security attack. 
 
 This free, open source add-on allows <strong><a href="http://en.wikipedia.org/wiki/JavaScript" rel="nofollow external">JavaScript</a>, <a href="http://en.wikipedia.org/wiki/Java" rel="nofollow external">Java</a> and <a href="http://en.wikipedia.org/wiki/Adobe_Flash" rel="nofollow external">Flash</a> and other <a href="http://hackademix.net/2009/02/07/browser-plugins-add-ons-and-security-advisers/">plugins</a></strong> to be executed only by <strong>trusted web sites of your choice</strong> (e.g. your online bank), and provides <strong>the most powerful 

@@ -173,24 +173,23 @@ img {max-width:100%; height:auto;}
 .article {
 }
 .article-header-caption {
-	position: initial;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: auto;
-  max-width: 100%;
-	text-align:left;
-  margin-left: auto;
-  margin-right: auto;
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
 }
 
+.article-header-caption a:link {color: orange;}
+.article-header-caption a:hover {text-decoration: underline;}
+
 .article-header {
-	position: initial;
+	position: relative;
 }
 
 .article-header img {
   max-width: 100%;
   height: auto;
+  text-align: center;
+  color: white;
 }
 
 .article-banner {
@@ -199,7 +198,6 @@ img {max-width:100%; height:auto;}
   margin-right: auto;
   width: auto;
   max-width:100%;
-  margin-bottom: 0px !important; 
   
   box-shadow: 1px 1px 0px #edefed, -1px -1px 0px #edefed, 1px -1px 0px #edefed, -1px 1px 0px #edefed;
   margin-top: 60px;

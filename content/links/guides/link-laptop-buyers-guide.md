@@ -2,6 +2,7 @@
 title = "Laptop Buyers Guide"
 date = 2020-03-30T09:03:09-07:00
 draft = false
+summary = "This is a really great resource for finding a laptop that meets your specifications. The site reviews laptops and then it has a search tool that allows you to filter laptops based on the recommendation points of each laptop."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -11,7 +12,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "/links/notebook-check.png"
 caption = ""
 
 +++

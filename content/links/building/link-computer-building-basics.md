@@ -3,6 +3,7 @@ title = "Computer Building Basics"
 date = 2019-01-31T16:16:37-08:00
 draft = false
 aliases = ["/links/link-computer-building-basics"]
+summary = "If you were ever wondering how a desktop computer is built, or you need to understand how to build your own, this is a good reference video from newegg.com to get you started. On a side note, and this is not a plug, newegg.com is a great place to purchase hardware. They have good return policies and prices."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []

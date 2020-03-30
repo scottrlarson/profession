@@ -4,6 +4,7 @@ date = 2019-06-25T13:01:07-07:00
 weight = 1
 draft = false
 aliases = ["/links/link-bleepingcomputer.com"]
+summary = "Bleeping Computer® is a information security and technology news publication created in 2004. Millions of visitors come to BleepingComputer.com every month to learn about the latest security threats, technology news, ways to stay protected online, and how to use their computer more efficiently. This is one of my top 5 sites that I recommend to my customers."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Scooter's Top 5 Sites"]

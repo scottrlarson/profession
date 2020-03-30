@@ -4,6 +4,7 @@ date = 2019-06-25T13:09:35-07:00
 weight = 2
 draft = false
 aliases = ["/links/link-stackexchange.com"]
+summary = "Launched in 2010, the Stack Exchange network comprises 173 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers. This is one of my top 5 sites that I recommend to my customers."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Scooter's Top 5 Sites"]

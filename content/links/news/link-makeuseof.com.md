@@ -18,5 +18,8 @@ caption = ""
 
 +++
 
-Make Use Of is a website that reviews many technologies and offers guides and solutions that make life easier. This is one of my top 5 sites that I recommend to my customers.
 - \#4 - [Make Use Of](https://www.makeuseof.com/)
+
+Make Use Of is a website that reviews many technologies and offers guides and solutions that make life easier. This is one of my top 5 sites that I recommend to my customers.
+
+Founded in 2007, MakeUseOf is an online publication that issues tips and guides on how to make the most of the internet, computer software, and mobile apps. Our mission is to help users understand and navigate modern trends in consumer technology.

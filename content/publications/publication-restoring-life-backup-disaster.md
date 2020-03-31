@@ -20,15 +20,14 @@ caption = ""
 
 In this update, you will learn about:
 
-- <a href="#disaster-recovery-backup-what" name="list-disaster-recovery-backup-what">What is disaster recovery backup, and why should I care?</a>
+- [What is disaster recovery backup, and why should I care?](#what-is-disaster-recovery-backup-and-why-should-i-care)
 - <a href="#planning-how" name="list-planning-how">How a little planning can drive a successful disaster recovery</a>
 - <a href="#waiting-disaster-why" name="list-waiting-disaster-why">Why waiting for a disaster to happen before you plan is a bad idea </a>
 - <a href="#terms" name="#list-terms">Understanding technology terms</a>
 
 Knowing the difference between backup and disaster recovery, understanding key technology terms, and evaluating software along with storage options can help you develop an effective plan for avoiding the consequences of data loss and downtime after a catastrophe strikes.
 
-## <a name="disaster-recovery-backup-what">What is disaster recovery backup, and why should I care?</a> <a href="#list-disaster-recovery-backup-what"><i class='far fa-arrow-alt-circle-up'></i></a>
-
+## What is disaster recovery backup, and why should I care?
 **Backup** is the process of making an extra copy (or multiple copies) of data. You might need to restore data from a backup if you accidentally delete a file, or folder, or when a file, or folder becomes corrupted. 
 
 **Disaster Recovery** is having all tools in place to recover from a loss of data. Do you just need to recover one file, a set of files, or your entire computer? If your entire computer needs to be recovered, will you lose anything recently saved? How do you perform a full recovery of your computer? Knowing the answers to these questions is essential to your recovery plan.

@@ -1,9 +1,8 @@
 +++
 # Custom widget.
-widget = "custom"
 active = true
 date = 2018-03-24T14:54:39-07:00
-
+aliases = ["/links/rates"]
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Rates"
 subtitle = ""

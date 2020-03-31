@@ -25,4 +25,5 @@ caption = ""
 If the answer is "Yes", I can service your device over the Internet by either fixing the problem right there, or give you a follow up recommendation to solve the problem.
 <!--more-->
 
+{{% service-remote-rates %}}
 {{% service-appointment %}}

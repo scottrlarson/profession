@@ -9,7 +9,9 @@
   <meta name="theme" content="hugo-academic">
   {{ .Hugo.Generator }}
   {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
-  {{ with .Site.Params.role }}<meta name="description" content="{{ . }}">{{ end }}
+  {{ with .Site.Params.role }}<meta name="role" content="{{ . }}">{{ end }}
+    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+  {{ with $.Site.Params.mission }}<meta name="mission" content="{{ . }}">{{ end }}
 
   {{ range .Translations }}
   <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">

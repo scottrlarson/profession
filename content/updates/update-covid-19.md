@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "updates/covid-19/Coronavirus-CDC-1600x900.jpg"
 caption = ""
 
 +++

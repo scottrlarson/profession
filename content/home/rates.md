@@ -1,5 +1,6 @@
 +++
 # Custom widget.
+widget = "custom"
 active = true
 date = 2018-03-24T14:54:39-07:00
 aliases = ["/links/rates"]
@@ -62,7 +63,7 @@ Check my [hours](#contact) for availability.
 </div>
 
 ### In-Office Consultations by Priority Scheduling
-
+Schedule an [appointment](/#contact).
 <div class="divResTable divResTable--6cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
   <div class="divResTableCell" style="order: 2;">$158.00</div>
@@ -82,8 +83,8 @@ Check my [hours](#contact) for availability.
 
 ## At-Your-Location Consultations by Priority Scheduling
 
-### Scheduled Visit Repair/Resolution Rates Per Hour (1hr minimum)
-
+### Repair/Resolution Rates Per Hour (1hr minimum)
+Schedule an [appointment](/#contact).
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
@@ -98,7 +99,8 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">$228.00</div>
 </div>
 
-### Scheduled Visit Training, or File/Folder Organization Rates Per Hour (1hr minimum)
+### Training, or File/Folder Organization Visit Rates Per Hour (1hr minimum)
+Schedule an [appointment](/#contact).
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
@@ -113,7 +115,9 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">$153.00</div>
 </div>
 
-### Scheduled Online Repair & Resolution Rates Per Hour (30min minimum) (3hr maximum per day) {#OnlineRepairResolution}
+### Online Repair & Resolution Rates Per Hour (30min minimum) (3hr maximum per day) {#OnlineRepairResolution}
+
+Schedule an [appointment](/#contact).
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
@@ -129,7 +133,7 @@ Check my [hours](#contact) for availability.
 </div>
 
 ### Pick-up/Drop-Off Service (Within 5 miles of Downtown SR) Some services require work to be performed in my office. (<span style="color: orange;">Free During SARS-CoV-2 Precaution</span>)
-
+Schedule an [appointment](/#contact).
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
@@ -147,7 +151,7 @@ Check my [hours](#contact) for availability.
 - Off-Hours Pickup/drop-off service is suspended until further notice.
 
 ### Pick-up/Drop-Off Service (Within 15 miles of Downtown SR) Some services require work to be performed in my office.
-
+Schedule an [appointment](/#contact).
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
@@ -168,7 +172,7 @@ Check my [hours](#contact) for availability.
 ## Retainer Packages For Small Business (1-10 End Points)
 
 ### Basic Retainer At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
-
+Schedule a free [evaluation](/#contact).
 <div class="divResTable divResTable--2cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">4x Phone/Remote</div>
   <div class="divResTableCell" style="order: 2;">$200.00</div>
@@ -177,7 +181,7 @@ Check my [hours](#contact) for availability.
 </div>
 
 ### Intermediate Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
-
+Schedule a free [evaluation](/#contact).
 <div class="divResTable divResTable--2cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">8x Phone/Remote</div>
   <div class="divResTableCell" style="order: 2;">$400.00</div>
@@ -186,7 +190,7 @@ Check my [hours](#contact) for availability.
 </div>
 
 ### Advanced Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
-
+Schedule a free [evaluation](/#contact).
 <div class="divResTable divResTable--2cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">12x Phone/Remote</div>
   <div class="divResTableCell" style="order: 2;">$600.00</div>

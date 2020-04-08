@@ -16,7 +16,7 @@ caption = ""
 
 +++
 
-Due to my particular field, and the fact that I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am remaining in operation. I am taking every precaution necessary to prevent the spread of this virus.
+Due to my particular field, being an essential service to the public, I am remaining in operation. I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am taking every precaution necessary to prevent the spread of this virus.
 
 <div class="alert-container">Please note that if you have a working internet connection, and your device is responsive, I can handle your issue with my <a href="/services/computer/assistance/online">Online Repair & Resolution Service</a> without a visit.</div>
 
@@ -27,7 +27,7 @@ I have created the following procedures to minimizing the handling of your devic
 3. When the servicing is complete, I wipe down the outside of the device with 70% Ethyl Rubbing Alcohol.
 
 ## Drop-off At Office Service
-You can drop off your device at my office. To maintain social distancing during this crisis I can pick up your device directly from the front entrance of my office building. Just give me call or text me:
+You can drop off your device at my office. To maintain social distancing during this crisis, I can pick up your device directly from the front entrance of my office building. Just give me call or text me:
 
 {{% contact-info %}}
 

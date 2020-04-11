@@ -154,16 +154,31 @@ Check my [hours](#contact) for availability.
 <div class="divResTable divResTable--3cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">Personal Service Package</div>
   <div class="divResTableCell" style="order: 2;">
+  <p>3-7 day turn-around</p>
 <ul style="text-align: left; font-size: 0.7em;">
   <li>1x In-Shop Device Diagnostic</li>
   <li>1x In-Shop Device Repair</li>
+  <li>1x In-Home/Office Visits (Schedule 1-2 Week in advance) </li>
 </ul>
   </div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">Advanced Service Package</div>
-  <div class="divResTableCell" style="order: 2;">$103-$178</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Premier Service Package</div>
-  <div class="divResTableCell" style="order: 2;">$87-$153</div>
-  
+  <div class="divResTableCell" style="order: 2;">
+  <p>1-2 day turn-around</p>
+  <ul style="text-align: left; font-size: 0.7em;">
+    <li>2x In-Shop Device Diagnostic</li>
+    <li>2x In-Shop Device Repair</li>
+    <li>2x In-Home/Office Visits (Schedule 1-2 Week in advance) </li>
+  </ul>
+  </div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Priority Service Package</div>
+  <div class="divResTableCell" style="order: 2;">
+  <p>1-2 day turn-around</p>
+  <ul style="text-align: left; font-size: 0.7em;">
+    <li>3x In-Shop Device Diagnostic</li>
+    <li>3x In-Shop Device Repair</li>
+    <li>3x In-Home/Office Visits (Schedule 1-2 Week in advance) </li>
+  </ul>
+  </div>
 </div>
 
 ---

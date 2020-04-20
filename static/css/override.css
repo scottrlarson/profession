@@ -152,6 +152,23 @@ img {max-width:100%; height:auto;}
 	width: 50px;
 }
 
+.content-block-wrap {
+  width: 46.50%;
+  vertical-align: top;
+}
+
+.content-block-wrap img {
+  margin: 0;
+  margin-right: 0.5em;
+  float: left;
+}
+
+.clearfix {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .fa-li {color: orange;}
 
 #profile .portrait-title [itemprop="service-category"] {

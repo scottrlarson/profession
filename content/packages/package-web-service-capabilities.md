@@ -40,15 +40,16 @@ Other times, web developers are handed a pre-existing website that is old and ha
 
 **Package**
 
-- $400.00 Per Year - Per Device (Economy)
+- $500.00 Per Year - Per Device (Economy) With a $250.00 add-on per device, up to 4.
 	- Perform required maintenance - Yearly (Free)
 	- Resolutions (Per Hour)
-- $400.00 Per Quarter - Up to 4 Devices (2nd Class)
+- $500.00 Per Quarter - Up to 4 Devices (2nd Class)
 	- Perform required maintenance - Quarterly (Free)
 	- Resolutions (Free)
-- $400.00 Per Month - Up to 4 Devices (1st Class)
+- $500.00 Per Month - Up to 4 Devices (1st Class)
 	- Perform required maintenance - Monthly (Free)
 	- Resolutions (Free)
+- $30.00 peripheral add-on (Can be added to any package)
 
 **List of services performed on a monthly basis**
 

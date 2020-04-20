@@ -1,8 +1,8 @@
 +++
 # Custom widget.
 widget = "custom"
-active = false
-draft = true
+active = true
+draft = false
 date = 2018-08-03T14:03:08-07:00
 aliases = ["/web-service-capabilities"]
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.

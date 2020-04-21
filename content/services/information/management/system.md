@@ -2,7 +2,7 @@
 title = "Total System Management"
 date = 2018-08-30T13:28:18-07:00
 draft = false
-
+aliases = ["/web-service-capabilities"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -19,13 +19,26 @@ caption = ""
 ![Brochure Side 2](/img/packages/system-management/srl-broshure-system-mangement-services2.png)
 I provide home and small office management services for security, backup and maintenance of your computer, or computers. Service include monitoring and maintenance of the reliable operation of your computers by maintaining robust security, maintenance, and disaster recovery solutions. This service frees you from having to maintain these important areas yourself. Just like a car, over time, and use, computers require regular maintenance and fresh look at these important areas of your digital life. If your computer is not maintained (Updating Software, and monitoring security and backups) problems can crop up, and many times you wont even know it until it's too late.
 
-I had one customer that thought his special accounting data was being backed up by Carbonite, but due to the way in which the application accessed the data, it prevented the Carbonite from accessing, and backing up the data while the application was running. Since the application was open most of the time, the data was not being backed up. The customer had to rebuild that particular data set from scratch.
 
-If needed, I take an inventory of your applications and data sets to look for potential problems and come up with a custom action plan that meets your specific needs.
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Specific Case Scenarios</a>
+      </h2>
+    </div>
+    <div id="collapse1" class="panel-collapse collapse">
+      <div class="panel-body"><p>I had one customer that thought his special accounting data was being backed up by Carbonite, but due to the way in which the application accessed the data, it prevented the Carbonite from accessing, and backing up the data while the application was running. Since the application was open most of the time, the data was not being backed up. The customer had to rebuild that particular data set from scratch.</p>
+      
+      <p>If needed, I take an inventory of your applications and data sets to look for potential problems and come up with a custom action plan that meets your specific needs.</p>
+      
+      <p>If you have special cases that needs attention, I can sit down with you, and find out what's most important to maintain. I provide solutions that aim to prevent catastrophic loss of critical data. I do this by  monitoring your system's performance, reliability, and security on a monthly basis, update software when necessary, tweak scan and backup schedules to run at opportune times, recommend replacement hardware. This allows me to possibly alert you of a pending failure, or possibly trigger a backup before a loss occurs.</p>
+      
+      <p>But even if you have simple needs, don't let the maintenance of your current system slip though the cracks of a upgrade.</p></div>
+    </div>
+  </div>
+</div>
 
-If you have special cases that needs this kind of attention, I can sit down with you, and find out what's most important to maintain. I provide solutions that aim to prevent catastrophic loss of critical data. I do this by  monitoring your system's performance, reliability, and security on a monthly basis, update software when necessary, tweak scan and backup schedules to run at opportune times, recommend replacement hardware. This allows me to possibly alert you of a pending failure, or possibly trigger a backup before a loss occurs.
-
-But even if you have simple needs, don't let the maintenance of your current system slip though the cracks of a upgrade.
 
 If you have a current security or backup solution this service would be a replacement.
 

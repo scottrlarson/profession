@@ -76,6 +76,8 @@ If you have a current security or backup solution this service would be a replac
 
 $500.00 per year - averaging out to $40.00 Monthly. It includes all software, upkeep and monitoring of your security, upkeep and backup.
 
+$30.00 per year peripheral add-on - provides regular upkeep and 3hrs of support for devices that attach to your computer.
+
 
 
 ## Backup Hardware Requirement Costs

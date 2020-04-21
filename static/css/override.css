@@ -614,9 +614,9 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   
 }
 .divResTableFoot {
-	background-color: #EEE;
-	display: table-footer-group;
+  text-align: center;
 	font-weight: bold;
+  align-self: flex-end;
 }
 .divResTableBody {
 	display: table-row-group;

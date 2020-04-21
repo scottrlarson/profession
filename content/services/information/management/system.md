@@ -15,8 +15,9 @@ image = ""
 caption = ""
 
 +++
-![Brochure Side 1](/img/packages/system-management/srl-broshure-system-mangement-services1.png)
-![Brochure Side 2](/img/packages/system-management/srl-broshure-system-mangement-services2.png)
+[Brochure Side 1](/img/packages/system-management/srl-broshure-system-mangement-services1.png)
+[Brochure Side 2](/img/packages/system-management/srl-broshure-system-mangement-services2.png)
+
 I provide home and small office management services for security, backup and maintenance of your computer, or computers. Service include monitoring and maintenance of the reliable operation of your computers by maintaining robust security, maintenance, and disaster recovery solutions. This service frees you from having to maintain these important areas yourself. Just like a car, over time, and use, computers require regular maintenance and fresh look at these important areas of your digital life. If your computer is not maintained (Updating Software, and monitoring security and backups) problems can crop up, and many times you wont even know it until it's too late.
 
 
@@ -44,35 +45,54 @@ If you have a current security or backup solution this service would be a replac
 
 ## What you get yearly for total system management
 
-**My Personalized Management services (Health Monitoring of: Backup, Security, and System Maintenance)**
+<div class="divResTable divResTable--3cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Security</div>
+  <div class="divResTableCell" style="order: 2;">
+  <ul style="text-align: left; font-size: 0.7em;">
+    <li>Up to date software that minimizes security threats to your computer</li>
+    <li>Management of your computer's security through threat behavior analysis.</li>
+  </ul>
+  <p>$200.00</p>
+  </div>
+    <div class="divResTableCell divResTableHeading" style="order: 1;">Upkeep</div>
+    <div class="divResTableCell" style="order: 2;">
+  <ul style="text-align: left; font-size: 0.7em;">
+    <li>Monitor's storage systems reliability *</li>
+    <li>Maintain software updates.</li>
+    <li>Problem Forecasting and Mitigation</li>
+  </ul>
+  <p>$200.00</p>
+    </div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Backup</div>
+  <div class="divResTableCell" style="order: 2;">
+  <ul style="text-align: left; font-size: 0.7em;">
+    <li>Disaster Recovery Backup ****</li>
+    <li>Carbonite Cloud Backup</li>
+    <li>Reliable upkeep of backup software and data.</li>
+  </ul>
+  <p>$200.00</p>
+  </div>
+</div>
 
-- **Disaster Recovery** (Included with the backup management package) Backup and Management of your system (Windows operation settings, Programs, and Personal) data using Macrium Backup Software to maintain a copy of your system in case of a system crash, or hardware loss.
-- **Cloud Backup** (Included with the backup management package) and Management of your personal data using Carbonite's cloud storage service.(If needed)
-- **Hardware Reliability** (Included with the maintenance management package) Monitoring Service that helps to prevent hardware disasters before they strike.
-- **Security Management** (Included with the security management package) of your system: Maintenance of security software and  features that help to protect your system from threats.
-- **Add-ons** I will provide upkeep service on any special device that need servicing on a regular basis. I will also provide 3 hours of remote troubleshooting support per year. 
+$500.00 per year - averaging out to $40.00 Monthly. It includes all software, upkeep and monitoring of your security, upkeep and backup.
 
-## Costs
-### System Management Service
-$500.00 per year - averaging out to $40.00 Monthly, or $150 a year, which averages out to $12.50 monthly for a just one area of focus in either area: Security, Backup, or Maintenance. This fee (Per System) includes:
 
-- Macrium Reflect: Disaster Recovery Solution \*\*\*\*
-- Carbonite Cloud Backup Service (If needed) (Included with the backup management package)
-- Security Software and Protection (Included with the security management package)
-- Monitor's storage systems reliability. (Included with the maintenance management package)
-- Management Service (My service where I regularly monitor and maintain the package or packages)
 
 ## Backup Hardware Requirement Costs
+
 Depending on your needs, you might need a:
-- $150.00 Reliable USB storage system: Lacie Rugged Portable HDD 2TB (Per System) (If required)
-- or -     
-- $700.00 NAS(Network Attached Storage) system for local (in-home) network backup's of all your systems, or network access to your files (Requires a network site survey $400.00) (If needed)
+
+- A reliable USB storage system: Lacie Rugged Portable HDD 2TB (If required) - $150.00 Per System
+
+\- or -     
+
+- A NAS(Network Attached Storage) for multiple computers - $700.00 (Provides local in-home/office network backup's of all your systems, or network access to your files) - Might require a network site survey $400.00
 
 ## Terms
-- Security Management: Install and Maintain a security solution. I remotely manage and customize security settings that help prevent threats from causing system downtime.(Please note that I cannot protect your system from certain personal use habits that aims to circumvents the system's ability to protect you from threats. Contact me if you have questions)
+- Security Management: Install and Maintain a security solution. I remotely manage and customize security settings that help prevent threats from causing system downtime.(Please note that I cannot protect your system from certain personal use habits that aims to circumvent the system's ability to protect you from threats. Contact me if you have questions)
 - Hardware Reliability Monitoring Service: Get a possible alert of storage hardware catastrophes before they happen. In most cases a backup can be triggered in the event of a panic situation before the storage system completely fails protecting your most recent data. \*
 - Local, Network or Cloud backup solutions can run concurrently to give you the widest possible backup redundancy. \*\*
-- Disaster Recovery Backup and Management: My disaster recovery management and maintenance of Macrium backup software and its backup jobs on a monthly basis yearly. Macrium backup software is used by many reputable companies like Ford, Acer and Disney to protect data from failures. \*\*\*\*
+- Disaster Recovery Backup and Management: Keeps a backup of your entire system data (Windows, Programs and Personal/Work). Macrium Reflect backup software is used by many reputable companies like Ford, Acer and Disney to protect data from failures. \*\*\*\*
 - 1 Free Recovery in the event of a catastrophic failure of a storage system or data loss. \*\*\*\*\*
 - Cloud Backup and Management: Install, Setup and Maintenance of Carbonite's cloud backup service. I Install, setup backup jobs and monitor their reliability.
 

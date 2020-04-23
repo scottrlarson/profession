@@ -77,9 +77,7 @@ If you receive an error message, or warning on your screen that you cannot get o
 
 ### Avoiding Call based Scams
 
-Social Engineering Scammers keep getting better. They rely on a few tricks that I mentioned in the introduction.
-
-The trick to handling inbound calls is to realize that, under most circumstances, obtaining computer support requires that you initiate the contact. When you receive an unsolicited call, claiming to be from any legitimate establishment with the intent to offer you any kind of support, hang up. It's that simple. Remember to maintain awareness of your decision-making psychology and don't put yourself into situations that cause you to make snap decisions.
+The trick to handling inbound call scams is to realize that, under most circumstances, obtaining computer support requires that you initiate the contact by your own means. When you receive an unsolicited call, claiming to be from any legitimate establishment with the intent to offer you any kind of support, hang up. It's that simple. Remember to maintain awareness of your decision-making psychology and don't put yourself into situations that cause you to make snap decisions.
 
 Do not make outbound calls from any error or warning message that appears on your screen. Remember the 3 indicators of a social engineering attack: **Urgency**, **Pressure**, and **Illusion of Authority**.
 

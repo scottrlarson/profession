@@ -2,7 +2,7 @@
 title = "How to Spot and Protect Yourself from Online Scams"
 author = "Scott Larson"
 date = 2020-04-15T11:00:00-08:00
-draft = true
+draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

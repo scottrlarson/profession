@@ -69,12 +69,11 @@ Organic search results are ones that are not commercially supported and as such 
 
 This is why it's important to know what to look out for. First. Pay attention to your search results. Ad's appear at the top of the list when you search for a term. Next to the site, there is a label "Ad". Clicking on results in this category can present a risk of being redirected to a malicious site. Instead, use the organic results by skipping over the Ad listings.
 
-If you do get yourself
-
-
 ### Avoiding Scams in Pop-up Warnings or Error Messages
 
-- Note that within the scope of normal computer use, legitimate warnings or error messages never include phone numbers. Some specific business applications, like Quickbooks, are the exception. 
+Within the scope of normal computer use, legitimate warnings or error messages never include phone numbers. Some specific business applications, like Quickbooks, are the exception. 
+
+If you receive an error message, or warning on your screen that you cannot get out of, do not interact with it in any way. Instead, you could immediately shutdown the computer by way of the power button. You can power down the computer by holding the power button down for 5-10 seconds and waiting until the screen goes black. Please note that there is a slight chance of data loss when you shutdown your computer in this fashion, but if you cannot get your computer to respond to a shutdown or restart command, or use the Task Manager to kill the task in question, it is my understanding these are the only options.
 
 ### Avoiding Call based Scams
 

@@ -124,7 +124,7 @@ When you receive an email asking you to perform an action, keep in mind the thre
 If you have already been a victim of an scam. The first thing to do is to stop the interaction with the attacker. If you have given the attacker access to your technology, shutdown the device and contact me for free evaluation. In most cases its safer to [**factory restore**](#terms) the device.
 
 ## Protect your on-line accounts
-If you have already had one or more of your accounts hacked, or you want to protect yourself in the future, read my "[Protecting Your Smartphone From Being Hacked](/publications/publication-smartphone-protection/)" which delves into advanced 2 factor authentication methods. Many online services still use the insecure smartphone text based method, which is really a liability instead of a strength. If your thinking about purchasing an identity theft protection service, read my publication "[What is Identity Theft Protection, and do you need it?](/publications/publication-id-theft-what-why/)"
+If you have already had one or more of your accounts hacked, or you want to protect yourself in the future, read my "[Protecting Your Smartphone From Being Hacked](/publications/publication-smartphone-protection)" which delves into advanced [2 factor authentication methods](/publications/publication-smartphone-protection#2-factor-authentication). Many online services still use the insecure smartphone text based method, which is really a liability instead of a strength. If your thinking about purchasing an identity theft protection service, read my publication "[What is Identity Theft Protection, and do you need it?](/publications/publication-id-theft-what-why/)"
 
 ## Conclusion
 

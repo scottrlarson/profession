@@ -1,5 +1,5 @@
 +++
-title = "How to Spot and Protect Yourself from Online Scams"
+title = "How to Spot and Protect Yourself from Scams"
 author = "Scott Larson"
 date = 2020-04-15T11:00:00-08:00
 draft = false

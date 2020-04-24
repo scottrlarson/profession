@@ -593,6 +593,9 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   text-align: center;
 }
 .divResTableCell {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
   text-align: center;
   padding: 8px;
 	box-sizing: border-box;
@@ -603,7 +606,7 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   overflow: hidden; // Or flex might break
   list-style: none;
   border: solid @bw white;
-  background: fade(slategrey,20%);
+  background: LightSlateGray;
   > h1, > h2, > h3, > h4, > h5, > h6 { margin: 0; }
 }
 .divResTableHeading {
@@ -616,7 +619,7 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 .divResTableFoot {
   text-align: center;
 	font-weight: bold;
-  align-self: flex-end;
+  margin-top: auto;
 }
 .divResTableBody {
 	display: table-row-group;

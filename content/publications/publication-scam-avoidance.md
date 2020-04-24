@@ -99,4 +99,7 @@ When you receive an email asking you to perform an action, keep in mind the thre
 ## Conclusion
 
 My goal in this publication was to attempt to make you aware of some of the common ways in which a scammer operates, but there may be other methods that are outside of its scope. When dealing with solicited requests for information, don't be afraid to err on the side of caution. It's better to be safe, then sorry.
+
+**Update - 2020/04/24**: There is a very interesting video called "[Spying on the Scammers](https://www.youtube.com/watch?time_continue=32&v=le71yVPh4uk&feature=emb_title)"  was release on Youtube in March of 2020 detailing how these scamming operations run and outlines some of the tactics the use. Understanding how these operations run will go a long way to helping you avoid them. I recommend that everyone watch this 4 part series to get familiar with these types of threats.
+
 If you have any questions about this publication, or you would like help with your computer's security, [contact](/#contact) me. I can assess your protection, and offer suggestions to improve your online safeguards.

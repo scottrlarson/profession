@@ -52,7 +52,7 @@ If you have a current security or backup solution this service would be a replac
     <li>Up to date software that minimizes security threats to your computer</li>
     <li>Management of your computer's security through threat behavior analysis.</li>
   </ul>
-  <p>$200.00</p>
+  <div class="divResTableFoot">$200.00</div>
   </div>
     <div class="divResTableCell divResTableHeading" style="order: 1;">Upkeep</div>
     <div class="divResTableCell" style="order: 2;">
@@ -61,7 +61,7 @@ If you have a current security or backup solution this service would be a replac
     <li>Maintain software updates.</li>
     <li>Problem Forecasting and Mitigation</li>
   </ul>
-  <p>$200.00</p>
+  <div class="divResTableFoot">$200.00</div>
     </div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">Backup</div>
   <div class="divResTableCell" style="order: 2;">
@@ -70,7 +70,7 @@ If you have a current security or backup solution this service would be a replac
     <li>Carbonite Cloud Backup</li>
     <li>Reliable upkeep of backup software and data.</li>
   </ul>
-  <p>$200.00</p>
+  <div class="divResTableFoot">$200.00</div>
   </div>
 </div>
 

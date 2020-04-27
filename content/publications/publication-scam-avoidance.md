@@ -20,15 +20,13 @@ With the 2020 COVID-19 crisis causing many to work from home, it's more importan
 
 In this publication, I will help you **identify threats** so that you can **avoid being deceived** by malicious calls to action, and it's important to know how to deal with an attack after your **device has been compromised**.
 
-**Update - 2020/04/24**: There is a very interesting video called "[Spying on the Scammers](https://www.youtube.com/watch?time_continue=32&v=le71yVPh4uk&feature=emb_title)"  that was release on Youtube in March of 2020 detailing how these scamming operations run and outlines some of the tactics the use. Understanding how these operations run will go a long way to helping you avoid them. I recommend that everyone watch this 4 part series to get familiar with these types of threats.
-
-
 - [The best security is awareness](#the-best-security-is-awareness)
 - [The psychology behind decision making](#the-psychology-behind-decision-making)
 - [Avoiding Scams](#avoiding-scams)
 - [Post-Scam](#post-scam)
 - [Protect your on-line accounts](#protect-your-on-line-accounts)
 - [Conclusion](#conclusion)
+- [Updates: Spying on the Scammers Video](#updates)
 - [Terms](#terms)
 
 ## The best security is awareness
@@ -131,6 +129,11 @@ If you have already had one or more of your accounts hacked, or you want to prot
 My goal in this publication was to attempt to make you aware of some of the common ways in which a scammer operates, but there may be other methods that are outside of its scope. When dealing with solicited requests for information, don't be afraid to err on the side of caution. It's better to be safe, then sorry.
 
 If you have any questions about this publication, or you would like help with your computer's security, [contact](/#contact) me. I can assess your protection, and offer suggestions to improve your online safeguards.
+
+## Updates
+- 2020/04/24**: There is a very interesting video called "[Spying on the Scammers](https://www.youtube.com/watch?v=le71yVPh4uk&feature=emb_title)"  that was release on Youtube in March of 2020 detailing how these scamming operations run and outlines some of the tactics the use. Understanding how these operations run will go a long way to helping you avoid them. I recommend that everyone watch this 4 part series to get familiar with these types of threats.
+
+{{< youtube le71yVPh4uk >}}
 
 ## Terms
 

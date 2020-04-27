@@ -26,7 +26,9 @@ I have created the following procedures to minimizing the handling of your devic
 2. Once the device is in my office, I immediately hook it up to my attached Keyboard, Video & Mouse environment. This allows me to access the device without having to physically be at the device itself. 
 3. When the servicing is complete, I wipe down the outside of the device with 70% Ethyl Rubbing Alcohol.
 
-## Drop-off At Office Service
+<div class="alert-container">Please do not order any services if you, or, in the case of a at-location appointment, anyone in your household has shortness of breath, or has signs of any flu like symptoms.</div>
+
+## Drop-off In-Office Service
 You can drop off your device at my office. To maintain social distancing during this crisis, I can pick up your device directly from the front entrance of my office building. Just give me call or text me:
 
 {{% contact-info %}}
@@ -34,5 +36,5 @@ You can drop off your device at my office. To maintain social distancing during 
 ## In-office Consultations 
 I am seeing one customer at a time, by appointment. Walk-in customers who show up while I am with a customer, will be asked to phone me to make an appointment.
 
-## Social Distancing
-When I schedule an appointment to visit your home or office, or when you visit my office for a consultation to provide a service, we agree to maintain six feet distance, and I will be using disposable Vinyl Gloves in handling equipment.
+## At-Location Appointments
+To protect our households, I will arrive wearing a mask and gloves, so please do not be alarmed. When an appointment is  scheduled to visit your home or office, or when you visit my office for a consultation to provide a service, we agree to maintain three-six feet distance and wear masks to protect each-other. In the case of a at-location appointment, at your request, I will wipe down any equipment with 70% rubbing alcohol after I have completed the service, otherwise I expect you to protect yourself by doing your own cleaning after I leave the location.

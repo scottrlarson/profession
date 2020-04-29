@@ -568,6 +568,15 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 
 .alert-container a {color: white;}
 
+.alert-container p {margin-bottom: 0px;}
+
+.alert-container h4 {
+  color: white; 
+  text-align: center; 
+  padding-top: -10px; 
+  margin-top: -10px;"
+}
+
 /* rate table styles */
 
 .divResTable{

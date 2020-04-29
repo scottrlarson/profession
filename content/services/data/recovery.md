@@ -36,7 +36,7 @@ It's very likely that I can recover data from your damaged device, or your data 
 
 {{% service-custom label="Data Recovery Analysis" item="$67.00" %}}
 
-<div class="alert-container">The initial analysis includes a damage report and a quote to recovery the data. Turn-around time from analysis to recovery can rage between 1-3 days, or 1 to 3 weeks depending on the extent of the damage. In rare cases, due to the nature of the systemic damage, certain recovery cases may take 1-3 months for research, testing and full recovery. If I cannot recover the data you need, you only pay the analysis fee.</div>
+{{< srl-alert >}}The initial analysis includes a damage report and a quote to recovery the data. Turn-around time from analysis to recovery can rage between 1-3 days, or 1 to 3 weeks depending on the extent of the damage. In rare cases, due to the nature of the systemic damage, certain recovery cases may take 1-3 months for research, testing and full recovery. If I cannot recover the data you need, you only pay the analysis fee.{{< /srl-alert >}}
 
 {{% service-range item-min="$300" item-max="$600" %}}
 Data recovery rates for a functioning device (device powers on, and is accessible via the hardware interface.)

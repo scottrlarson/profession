@@ -16,7 +16,7 @@ caption = ""
 
 +++
 
-<div class="alert-container">These are tweaks that I make to my Windows configuration that improves my productivity.  Performing these kinds of changes to Windows requires a careful understanding of programming, the Windows registry, and how to protect Windows from damage by making and restoring backups. Don't perform any of these tweaks unless you know what your doing. I am not liable, nor responsible for any action you take on behalf of this information.</div>
+{{< srl-alert >}}These are tweaks that I make to my Windows configuration that improves my productivity.  Performing these kinds of changes to Windows requires a careful understanding of programming, the Windows registry, and how to protect Windows from damage by making and restoring backups. Don't perform any of these tweaks unless you know what your doing. I am not liable, nor responsible for any action you take on behalf of this information.{{< /srl-alert >}}
 
 ## File Explorer Tweaks
 

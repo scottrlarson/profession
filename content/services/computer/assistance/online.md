@@ -17,7 +17,7 @@ caption = ""
 
 +++
 
-<div class="alert-container">Please inquire about your current <b>level of backup</b> if needed. Having a <a href="/updates/update-disaster-recovery-fire-insurance/">backup strategy</a> prevents data loss in the event of disaster.</div>
+{{< srl-alert >}}Please inquire about your current <b>level of backup</b> if needed. Having a <a href="/updates/update-disaster-recovery-fire-insurance/">backup strategy</a> prevents data loss in the event of disaster.{{< /srl-alert >}}
 
 - Do you have a question about a problem you are experiencing with your device? 
 - Can you surf the web? 

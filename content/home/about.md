@@ -11,7 +11,7 @@ weight = 1
 [interests]
   interests = [
     "Software and Hardware Investigative Problem-solving",
-    "Cosmic Spiritual Law",
+    "Cosmic Consciousness",
     "Objective Truth and Gnosis"
   ]
 
@@ -63,12 +63,15 @@ weight = 1
   images = ["profile-scottrlarson.png"]
   
 +++
-<div class="alert-container"><h4 style="color: white; text-align: center; padding-top: 0px; margin-top: 0px;"><a href="/updates/update-covid-19">My response to the COVID-19 Crisis</a></h4>Due to my particular field, being an essential service to the public, I am remaining in operation. I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am taking every precaution necessary to prevent the spread of this virus<a href="/updates/update-covid-19">...more</a></div>
-<div class="alert-container"><a href="https://www.ifixit.com/Right-to-Repair/Intro"><h4 style="color: white; text-align: center; padding-top: 0px; margin-top: 0px;">We Have the Right to Repair Everything We Own</h4></a>
-  Once you’ve paid money for a product, the manufacturer shouldn’t be able to dictate how you use it—it’s yours. Ownership means you should be able to open, hack, repair, upgrade, or tie bells on it.
-Support sane <a href="https://www.fightforthefuture.org/fixcopyright/">copyright legislation</a>.</div>
 
-<div class="alert-container">Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRECODE25 when paying and I will take 25% off your bill of service.</div>
+{{% alert title="My response to the COVID-19 Crisis" url="/updates/update-covid-19" %}}Due to my particular field, being an essential service to the public, I am remaining in operation. I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am taking every precaution necessary to prevent the spread of this virus[...more](/updates/update-covid-19){{% /alert %}}
+
+
+{{% alert title="We Have the Right to Repair Everything We Own" url="https://www.ifixit.com/Right-to-Repair/Intro" %}}
+  Once you’ve paid money for a product, the manufacturer shouldn’t be able to dictate how you use it—it’s yours. Ownership means you should be able to open, hack, repair, upgrade, or tie bells on it.
+Support sane [copyright legislation](https://www.fightforthefuture.org/fixcopyright/).{{% /alert %}}
+
+{{% srl-alert %}} Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRECODE25 when paying and I will take 25% off your bill of service.{{% /srl-alert %}}
 
 <div class="panel-group" id="accordion">
   <div class="panel panel-default">

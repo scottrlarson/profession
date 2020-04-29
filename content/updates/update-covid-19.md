@@ -18,7 +18,7 @@ caption = ""
 
 Due to my particular field, being an essential service to the public, I am remaining in operation. I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am taking every precaution necessary to prevent the spread of this virus.
 
-<div class="alert-container">Please note that if you have a working internet connection, and your device is responsive, I can handle your issue with my <a href="/services/computer/assistance/online">Online Repair & Resolution Service</a> without a visit.</div>
+{{< srl-alert >}}Please note that if you have a working internet connection, and your device is responsive, I can handle your issue with my <a href="/services/computer/assistance/online">Online Repair & Resolution Service</a> without a visit.{{< /srl-alert >}}
 
 I have created the following procedures to minimizing the handling of your device: 
 
@@ -26,7 +26,7 @@ I have created the following procedures to minimizing the handling of your devic
 2. Once the device is in my office, I immediately hook it up to my attached Keyboard, Video & Mouse environment. This allows me to access the device without having to physically be at the device itself. 
 3. When the servicing is complete, I wipe down the outside of the device with 70% Ethyl Rubbing Alcohol.
 
-<div class="alert-container">Please do not order any services if you, or, in the case of a at-location appointment, anyone in your household has shortness of breath, or has signs of any flu like symptoms.</div>
+{{< srl-alert >}}Please do not order any services if you, or, in the case of a at-location appointment, anyone in your household has shortness of breath, or has signs of any flu like symptoms.{{< /srl-alert >}}
 
 ## Drop-off In-Office Service
 You can drop off your device at my office. To maintain social distancing during this crisis, I can pick up your device directly from the front entrance of my office building. Just give me call or text me:

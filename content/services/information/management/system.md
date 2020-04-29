@@ -52,7 +52,7 @@ If you have a current security or backup solution this service would be a replac
     <li>Up to date software that minimizes security threats to your computer</li>
     <li>Management of your computer's security through threat behavior analysis.</li>
   </ul>
-  <div class="divResTableFoot">$200.00</div>
+  <div class="divResTableFoot">$225.00</div>
   </div>
     <div class="divResTableCell divResTableHeading" style="order: 1;">Upkeep</div>
     <div class="divResTableCell" style="order: 2;">
@@ -61,7 +61,7 @@ If you have a current security or backup solution this service would be a replac
     <li>Maintain software updates.</li>
     <li>Problem Forecasting and Mitigation</li>
   </ul>
-  <div class="divResTableFoot">$200.00</div>
+  <div class="divResTableFoot">$225.00</div>
     </div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">Backup</div>
   <div class="divResTableCell" style="order: 2;">
@@ -70,11 +70,11 @@ If you have a current security or backup solution this service would be a replac
     <li>Carbonite Cloud Backup</li>
     <li>Reliable upkeep of backup software and data.</li>
   </ul>
-  <div class="divResTableFoot">$200.00</div>
+  <div class="divResTableFoot">$225.00</div>
   </div>
 </div>
 
-$500.00 per year - averaging out to $40.00 Monthly. It includes all software, upkeep and monitoring of your security, upkeep and backup.
+$550.00 per year - averaging out to $40.00 Monthly. It includes all software, upkeep and monitoring of your security, upkeep and backup.
 
 $30.00 per year peripheral add-on - provides regular upkeep and 3hrs of support for devices that attach to your computer.
 

@@ -131,7 +131,7 @@ My goal in this publication was to attempt to make you aware of some of the comm
 If you have any questions about this publication, or you would like help with your computer's security, [contact](/#contact) me. I can assess your protection, and offer suggestions to improve your online safeguards.
 
 ## Updates
-- 2020/04/24**: There is a very interesting video called "[Spying on the Scammers](https://www.youtube.com/watch?v=le71yVPh4uk&feature=emb_title)"  that was release on Youtube in March of 2020 detailing how these scamming operations run and outlines some of the tactics the use. Understanding how these operations run will go a long way to helping you avoid them. I recommend that everyone watch this 4 part series to get familiar with these types of threats.
+- 2020/04/24**: There is a very interesting video called "[Spying on the Scammers](https://www.youtube.com/watch?v=le71yVPh4uk&feature=emb_title)"  that was release on Youtube in March of 2020 detailing how these scamming operations run and outlines some of they tactics the use. Understanding how these operations run will go a long way to helping you avoid them. I recommend that everyone watch this 4 part series to get familiar with these types of threats.
 
 {{< youtube le71yVPh4uk >}}
 

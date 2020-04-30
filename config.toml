@@ -21,6 +21,8 @@ defaultContentLanguageInSubdir = false
 [Social]
 twitter = "scottrlarson"
 
+[twitter]
+card = "summary_large_image"
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]

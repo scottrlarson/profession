@@ -84,7 +84,7 @@ Spiritual Activism is the coming together of spirituality and activism. It is no
 {{% /accordion %}}
 
 {{% accordion title="Authoring Background" id="authoring" %}}
-In 2019 I suffered a Cerebral Hemorrhage. I wrote a [book](/publications/publication-most-improved/) about the experience of overcoming depression. In the book a write about how mental/emotional strife, or peace, and the reasons behind it plays a direct role in shaping life.</p>
+In 2019 I suffered a Cerebral Hemorrhage. I wrote a [book](/publications/publication-most-improved/) about the experience of overcoming depression. In the book a write about how mental/emotional strife, or peace, and the reasons behind it plays a direct role in shaping life.
 
 Check out my writing [events](/events/authoring), [projects](/projects), [quotes](/quotes), [books](/books), and [reflections](/reflections).
 {{% /accordion %}}

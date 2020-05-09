@@ -98,9 +98,9 @@ If you receive an error message, or warning on your screen that you cannot get o
 
 ### Call-based Scams
 
-The trick to handling inbound call scams is to realize that, under most circumstances, obtaining computer support requires that you initiate the contact by your own means. When you receive an unsolicited call, claiming to be from any legitimate establishment with the intent to offer you any kind of support, hang up. It's that simple. Remember to maintain awareness of your decision-making psychology and don't put yourself into situations that cause you to make snap decisions.
+The trick to **handling inbound call scams** is to realize that, under most circumstances, obtaining computer support requires that you initiate the contact by your own means. When you receive an unsolicited call from an unknown agent, claiming to be from any legitimate establishment with the intent to offer you any kind of support, hang up. It's that simple. Remember to maintain awareness of your decision-making psychology and don't put yourself into situations that cause you to make snap decisions.
 
-Do not make outbound calls from any error or warning message that appears on your screen. Remember the 3 indicators of a social engineering attack: **Urgency**, **Pressure**, and **Illusion of Authority**.
+**Do not make outbound calls** from any error or warning message that appears on any of your devices. Remember the 3 indicators of a social engineering attack: **Urgency**, **Pressure**, and **Illusion of Authority**. If you need assistance, break away from the task at hand and ask a trusted person instead of blindly following a path that is laid out for you.
 
 ### Email-based Scams
 
@@ -116,6 +116,7 @@ When you receive an email asking you to perform an action, keep in mind the thre
 1. **Who** is the email sender? Are you receiving an email from Microsoft asking you about your email? Do you even have an email with Microsoft? Find out who your mail provider is. If it's not Microsoft, delete the message. If you do have an Email with Microsoft move on to the next step.
 2. **What** is the message asking me to do? Depending on the request, you can sometimes tell that the message is suspect by the way the message is crafted, or by the nature of the request. If the email states that an account you own is on hold because of a billing problem and the message requests that you click on a link to remedy the problem, instead, open up your web browser and visit the site by using **[web browser](#terms)** to confirm that problem exists. 
 3. **Where** will I land if I act? Without clicking on any links in the email, move your mouse over the link and look at the destination URL. If it doesn't contain a recognizable location, you know you got a problem.
+
 
 ## Post-Scam
 

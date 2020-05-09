@@ -2,7 +2,7 @@
 title = "True Willpower"
 date = 2020-04-02T07:18:52-07:00
 draft = false
-
+summary = "True willpower consists in overcoming the irritabilities, follies, rash impulses and moral lapses which accompany the daily life of the individual, and which are apt to manifest themselves on every slight provocation; and in developing calmness, self-possession..."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["IntegrityThursday"]

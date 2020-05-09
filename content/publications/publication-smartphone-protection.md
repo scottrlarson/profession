@@ -54,26 +54,15 @@ Be smart about how you use a unprotected network like a hotspot. It's great for 
 ### 5. Stick to the tried and true
 Don't Jailbreak you smartphone, or let a friend convince that you need some rogue app that is not part of your app store.
 
-  <div class="panel-group" id="accordion">
-    <div class="panel panel-default">
-      <div style="border: none; padding-left:0; padding-top: 0;" class="panel-heading">
-        <h3 class="">
-          6. Other Smartphone protection <a data-toggle="collapse" data-parent="#accordion" name="other-tips" href="#collapse1">tips</a>
-        </h2>
-      </div>
-      <div id="collapse1" class="panel-collapse collapse">
-        <div class="panel-body">
-        <ul>
-          <li>**Do not modify the smartphone’s security settings**: Check what permissions are required before installing any apps, and be careful that access to sensitive information is not being granted if it's not necessary for the app in question.</li>
-          <li>**Apply encryption** to the internal memory card and – if possible – to any sensitive data held; If you back-up your device to another location, make sure that backup is encrypted.</li>
-          <li>**Ensure ‘Bluetooth’ is switched off if not required.**</li>
-          <li>**Think before clicking** on web links, or attachments in emails, or text messages – if you are not sure who the message is coming from, or the message is coming from someone you know that would never send you that kind of information, or that person would never make this kind of contact with you, ignore the message and delete it.</li>
-          <li>**Secure Erase that Old Device**: Ensure that the smartphone is securely recycled, donated or disposed of – e.g. erase all data first, reset it to the factory settings; remove the SIM card.</li>
-          <li>**Report a lost or stolen phone ASAP**: If the smartphone is lost or stolen, report it  as soon as possible to your mobile provider.</li>
-          <li>**Set a PIN on your SIM card**: Most smartphones have the ability to set a PIN code on the SIM card itself. If your SIM card, or smartphone gets compromised, the attacker will be required to enter a PIN code to unlock the capabilities of the SIM card, unless the smartphone is powered on and unlocked at the time it has been compromised. (Shutting down or restarting your smartphone will require you to enter in this PIN in addition to whatever password you have setup on the smartphone itself.</li>
-        </ul>
-        </div>
-      </div>
-  </div>
+{{% accordion-list title="6. Other Smartphone protection tips" id="list-othersmartphoneprotection" %}}
+- **Do not modify the smartphone’s security settings**: Check what permissions are required before installing any apps, and be careful that access to sensitive information is not being granted if it's not necessary for the app in question.
+- **Apply encryption** to the internal memory card and – if possible – to any sensitive data held; If you back-up your device to another location, make sure that backup is encrypted.
+- **Ensure ‘Bluetooth’ is switched off if not required.**
+- **Think before clicking** on web links, or attachments in emails, or text messages – if you are not sure who the message is coming from, or the message is coming from someone you know that would never send you that kind of information, or that person would never make this kind of contact with you, ignore the message and delete it.
+- **Secure Erase that Old Device**: Ensure that the smartphone is securely recycled, donated or disposed of – e.g. erase all data first, reset it to the factory settings; remove the SIM card.
+- **Report a lost or stolen phone ASAP**: If the smartphone is lost or stolen, report it  as soon as possible to your mobile provider.
+- **Set a PIN on your SIM card**: Most smartphones have the ability to set a PIN code on the SIM card itself. If your SIM card, or smartphone gets compromised, the attacker will be required to enter a PIN code to unlock the capabilities of the SIM card, unless the smartphone is powered on and unlocked at the time it has been compromised. (Shutting down or restarting your smartphone will require you to enter in this PIN in addition to whatever password you have setup on the smartphone itself.
+{{% /accordion-list %}}
+
 ## Conclusion
 In my experience, the best security (Smartphone or otherwise) is awareness. Being aware of what you know (and don't know) about your technology is one step for man, and one giant leap for mankind. Have some peace of mind about where you stand with security. If you don't know how to proceed on any of these areas, [contact me](/#contact) and I can help you formulate a master plan. My goal is to is to be that troubleshooter for you, so you don't have to figure things thing's out yourself..

@@ -1,0 +1,19 @@
+
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <div style="border: none; padding-left:0; padding-top: 0;" class="panel-heading">
+      <h3 class="">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ .Get "id" }}">{{ .Get "title" }}</a>
+      </h3>
+    </div>
+    {{- if .Get "col"}}
+    <div id="collapse-{{ .Get "id" }}" class="panel-collapse collapse {{ .Get "col" }} ">
+      <div class="panel-body"><p>{{ .Inner | markdownify }}</p></div>
+    </div>
+    {{- else}}
+    <div id="collapse-{{ .Get "id" }}" class="panel-collapse collapse">
+      <div class="panel-body"><p>{{ .Inner | markdownify }}</p></div>
+    </div>
+    {{- end -}}
+  </div>
+</div>

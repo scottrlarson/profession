@@ -579,6 +579,12 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 	display: table-header-group;
   text-align: center;
 }
+
+.divResPackageHeader {
+  color: DarkSlateBlue; 
+  font-weight: bold;
+}
+
 .divResTableCell {
   text-align: center;
   padding: 8px;
@@ -590,7 +596,7 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   overflow: hidden; // Or flex might break
   list-style: none;
   border: solid @bw white;
-  background: fade(slategrey,20%);
+  background: LightSlateGray;
   > h1, > h2, > h3, > h4, > h5, > h6 { margin: 0; }
 }
 .divResTableHeading {

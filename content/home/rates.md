@@ -3,7 +3,7 @@
 widget = "custom"
 active = true
 date = 2018-03-24T14:54:39-07:00
-
+aliases = ["/links/rates"]
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Rates"
 subtitle = ""
@@ -62,8 +62,8 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">Free</div>
 </div>
 
-### In-Office Consultations
-
+### In-Office Consultations by Priority Scheduling
+Schedule an [appointment](/#contact).
 <div class="divResTable divResTable--6cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
   <div class="divResTableCell" style="order: 2;">$158.00</div>
@@ -81,26 +81,10 @@ Check my [hours](#contact) for availability.
 
 ---
 
-## At-Your-Location Consultations
+## At-Your-Location Consultations by Priority Scheduling
 
-### Pick-up/Drop-Off Service (Within 5miles of Downtown SR) Some services require work to be performed in my office.
-
-
-<div class="divResTable divResTable--5cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
-  <div class="divResTableCell" style="order: 2;">$103.00</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
-  <div class="divResTableCell" style="order: 2;">$51.00</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
-  <div class="divResTableCell" style="order: 2;">$27.00</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
-  <div class="divResTableCell" style="order: 2;">$127.00</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
-  <div class="divResTableCell" style="order: 2;">$156.00</div>
-</div>
-
-### Scheduled Visit Repair/Resolution Rates Per Hour (1hr minimum)
-
+### Repair/Resolution Rates Per Hour (1hr minimum)
+Schedule an [appointment](/#contact).
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
@@ -115,7 +99,8 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">$228.00</div>
 </div>
 
-### Scheduled Visit Training, or File/Folder Organization Rates Per Hour (1hr minimum)
+### Training, or File/Folder Organization Visit Rates Per Hour (1hr minimum)
+Schedule an [appointment](/#contact).
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
@@ -130,7 +115,9 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">$153.00</div>
 </div>
 
-### Scheduled Repair/Resolution Remote/Phone Support Rates Per Hour (30min minimum) (3hr maximum per day)
+### Online Repair & Resolution Rates Per Hour (30min minimum) (3hr maximum per day) {#OnlineRepairResolution}
+
+Schedule an [appointment](/#contact).
 
 <div class="divResTable divResTable--5cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
@@ -145,40 +132,38 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">$141.00</div>
 </div>
 
----
+### Pick-up/Drop-Off Service (Within 5 miles of Downtown SR) Some services require work to be performed in my office. (<span style="color: orange;">Free During SARS-CoV-2 Precaution</span>)
+Schedule an [appointment](/#contact).
 
-## Service Packages For individuals & Small Business Owners
+<div class="divResTable divResTable--5cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
+  <div class="divResTableCell" style="order: 2;"><s>$103.00</s></div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell" style="order: 2;"><s>$51.00</s></div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
+  <div class="divResTableCell" style="order: 2;">$<s>27.00</s></div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
+  <div class="divResTableCell" style="order: 2;"><s>$127.00</s></div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;"><s>Off Hours</s></div>
+  <div class="divResTableCell" style="order: 2;"><s>$156.00</s></div>
+</div>
 
+- Off-Hours Pickup/drop-off service is suspended until further notice.
 
+### Pick-up/Drop-Off Service (Within 15 miles of Downtown SR) Some services require work to be performed in my office.
+Schedule an [appointment](/#contact).
 
-<div class="divResTable divResTable--3cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Personal Service Package</div>
-  <div class="divResTableCell" style="order: 2;">
-  <p>3-7 day turn-around</p>
-<ul style="text-align: left; font-size: 0.7em;">
-  <li>1x In-Shop Device Diagnostic</li>
-  <li>1x In-Shop Device Repair</li>
-  <li>1x In-Home/Office Visits (Schedule 1-2 Week in advance) </li>
-</ul>
-  </div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Advanced Service Package</div>
-  <div class="divResTableCell" style="order: 2;">
-  <p>1-2 day turn-around</p>
-  <ul style="text-align: left; font-size: 0.7em;">
-    <li>2x In-Shop Device Diagnostic</li>
-    <li>2x In-Shop Device Repair</li>
-    <li>2x In-Home/Office Visits (Schedule 1-2 Week in advance) </li>
-  </ul>
-  </div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Priority Service Package</div>
-  <div class="divResTableCell" style="order: 2;">
-  <p>1-2 day turn-around</p>
-  <ul style="text-align: left; font-size: 0.7em;">
-    <li>3x In-Shop Device Diagnostic</li>
-    <li>3x In-Shop Device Repair</li>
-    <li>3x In-Home/Office Visits (Schedule 1-2 Week in advance) </li>
-  </ul>
-  </div>
+<div class="divResTable divResTable--5cols divResTable--collapse">
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1-2 Day</div>
+  <div class="divResTableCell" style="order: 2;">$153.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">3-7 day</div>
+  <div class="divResTableCell" style="order: 2;">$101.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">1 week+</div>
+  <div class="divResTableCell" style="order: 2;">$77.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
+  <div class="divResTableCell" style="order: 2;">$177.00</div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
+  <div class="divResTableCell" style="order: 2;">$206.00</div>
 </div>
 
 ---
@@ -187,7 +172,7 @@ Check my [hours](#contact) for availability.
 ## Retainer Packages For Small Business (1-10 End Points)
 
 ### Basic Retainer At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
-
+Schedule a free [evaluation](/#contact).
 <div class="divResTable divResTable--2cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">4x Phone/Remote</div>
   <div class="divResTableCell" style="order: 2;">$200.00</div>
@@ -196,7 +181,7 @@ Check my [hours](#contact) for availability.
 </div>
 
 ### Intermediate Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
-
+Schedule a free [evaluation](/#contact).
 <div class="divResTable divResTable--2cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">8x Phone/Remote</div>
   <div class="divResTableCell" style="order: 2;">$400.00</div>
@@ -204,8 +189,51 @@ Check my [hours](#contact) for availability.
   <div class="divResTableCell" style="order: 2;">$200.00</div>
 </div>
 
-### Advanced Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
+---
 
+## Service Packages For individuals & Small Business Owners
+
+Beat the line with a priority service package. 
+
+<div class="divResTable divResTable--3cols divResTable--collapse">
+  <div class="divResTableCell divResPackageHeader" style="order: 1;">Personal Service Package</div>
+  <div class="divResTableCell" style="order: 2;">
+  <p class="">Walk-in, beginning of the line priority service.</p>
+  <p>$250 a month.</p>
+<ul style="text-align: left; font-size: 0.7em;">
+  <li>1x In-Shop Device Diagnostic</li>
+  <li>1x In-Shop Device Repair</li>
+</ul>
+  </div>
+  <div class="divResTableCell divResPackageHeader" style="order: 1;">Advanced Service Package</div>
+  <div class="divResTableCell" style="order: 2;">
+  <p class="">Walk-in, beginning of the line priority service.</p>
+    <p>$500 a month.</p>
+  <ul style="text-align: left; font-size: 0.7em;">
+    <li>Free 1 hour phone support</li>
+    <li>2x In-Shop Device Diagnostic</li>
+    <li>2x In-Shop Device Repair</li>
+  </ul>
+  </div>
+  <div class="divResTableCell divResPackageHeader" style="order: 1;">Premire Service Package</div>
+  <div class="divResTableCell" style="order: 2;">
+  <p class="">Walk-in, beginning of the line priority service.</p>
+    <p>$1000 a month.</p>
+  <ul style="text-align: left; font-size: 0.7em;">
+    <li>Free 2 hour phone support</li>
+    <li>3x In-Shop Device Diagnostic</li>
+    <li>3x In-Shop Device Repair</li>
+    <li>1x In-Home/Office Visits (Schedule 1 Week in advance) </li>
+  </ul>
+  </div>
+</div>
+
+*Please note that beating the line does not mean I can excellerate the time in which a service can be completed.
+
+---
+
+### Advanced Retainer/Priority Service Contract At-Location/Remote/Phone Support Package (Quarterly) (No Weekends or Off-Hours)
+Schedule a free [evaluation](/#contact).
 <div class="divResTable divResTable--2cols divResTable--collapse">
   <div class="divResTableCell divResTableHeading" style="order: 1;">12x Phone/Remote</div>
   <div class="divResTableCell" style="order: 2;">$600.00</div>

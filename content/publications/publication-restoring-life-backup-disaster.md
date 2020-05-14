@@ -5,7 +5,7 @@ draft = false
 aliases = ["/updates/update-restoring-life-backup-disaster/"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Backup", "Planning", "Restoring", "Data"]
+tags = ["Backup", "Planning", "Restoring", "Data", "Digital life protection", "Shelter-in-place"]
 categories = ["Guides"]
 
 # Featured image
@@ -18,7 +18,7 @@ caption = ""
 
 *Learn why solely backing up your data isn't always enough to recover from a disaster.*
 
-In this update, you will learn about:
+In this publication, you will learn about:
 
 - [What is disaster recovery backup, and why should I care?](#what-is-disaster-recovery-backup-and-why-should-i-care)
 - <a href="#planning-how" name="list-planning-how">How a little planning can drive a successful disaster recovery</a>

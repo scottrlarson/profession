@@ -49,11 +49,11 @@ I found a stone sitting area, it reminded me of a relic from a bygone age. This 
 
 ![Fountain Center](/img/travelogues/armstrong-woods-reflections/stone-sitting-place.jpg)
 
-I imagine this rRedwood to have a cave at the base of the trunk. I go in, and never come out. But once I'm down there, I go through my own personal trial-by-fire. Whatever is holding me back in my life remains, up on the surface, I find the solution to it here. Underneath the earth, where it's dark, I come to an understanding with myself. I will take heart, and not take life for granted, as I once did when I was young.
+I imagine this Redwood to have a cave at the base of the trunk. I go in, and never come out. But once I'm down there, I go through my own personal trial-by-fire. Whatever is holding me back in my life remains, up on the surface, I find the solution to it here. Underneath the earth, where it's dark, I come to an understanding with myself. I will take heart, and not take life for granted, as I once did when I was young.
 
 ![Door to the redwoods](/img/travelogues/armstrong-woods-reflections/door.jpg)
 
-This looks like an outcropping of rock formations, but it's the roots of an enormous rRedwood tree. The park calls Its call Armstrong Tree by the park. One day it had enough, and fell over. But it's still here, after all this time. Just like us. We can fall over, but we get back up, and we can be remembered for what we do after we fall.
+This looks like an outcropping of rock formations, but it's the roots of an enormous Redwood tree. It's called "Armstrong Tree" by the park. One day it had enough, and fell over. But it's still here, after all this time. Just like us. We can fall over, but we get back up, and we can be remembered for what we do after we fall.
 
 ![Armstrong Tree](/img/travelogues/armstrong-woods-reflections/roots-armstrong-tree.jpg)
 

@@ -37,6 +37,8 @@ To avoid Ad listings in search results entirely, you can use a reputable Adblock
 
 **Avoiding Ads with Knowledge**
 
+![Pop-Up Scam](/img/publications/scam-avoidance/eugjt.club-scam.jpg)
+
 If you do not want to use an Adblocker you can avoid malicious Ad results by knowing what to look for. The image below shows how Google, Yahoo, and Bing layout their Ad based search results. Headings highlighted in red contain the Ad listings. 
 
 ![Ad Laden Search Result Example 1](/img/publications/scam-avoidance/search-results-ads.png)

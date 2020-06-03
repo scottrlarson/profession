@@ -37,8 +37,6 @@ To avoid Ad listings in search results entirely, you can use a reputable Adblock
 
 **Avoiding Ads with Knowledge**
 
-![Pop-Up Scam](/img/publications/scam-avoidance/eugjt.club-scam.jpg)
-
 If you do not want to use an Adblocker you can avoid malicious Ad results by knowing what to look for. The image below shows how Google, Yahoo, and Bing layout their Ad based search results. Headings highlighted in red contain the Ad listings. 
 
 ![Ad Laden Search Result Example 1](/img/publications/scam-avoidance/search-results-ads.png)
@@ -61,11 +59,15 @@ Organic search results are ones that are not commercially supported and as such 
 
 ### Pop-up Warnings or Error Messages
 
+![Pop-Up Scam](/img/publications/scam-avoidance/eugjt.club-scam.jpg)
+
 Within the scope of normal computer use, legitimate warnings or error messages never include phone numbers. Some specific business applications, like Quickbooks, are the exception. 
 
 If you receive an error message, or warning on your screen that you cannot get out of, do not interact with it in any way. Instead, you could immediately **shutdown the computer** by way of the **power button**. You can power down the computer by **holding the power button down for 5-10 seconds and waiting until the screen goes black**. Please note that there is a slight chance of data loss when you shutdown your computer in this fashion, but if you cannot get your computer to respond to a shutdown or restart command, or use the Task Manager to kill the task in question, it is my understanding these are the only options.
 
 ### Call-based Scams
+
+![Call center scam](/img/publications/scam-avoidance/health-center-call-center_759.jpg)
 
 The trick to **handling inbound call scams** is to realize that, under most circumstances, obtaining computer support requires that you initiate the contact by your own means. When you receive an unsolicited call from an unknown agent, claiming to be from any legitimate establishment with the intent to offer you any kind of support, hang up. It's that simple. Remember to maintain awareness of your decision-making psychology and don't put yourself into situations that cause you to make snap decisions.
 

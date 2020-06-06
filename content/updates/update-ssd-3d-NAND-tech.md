@@ -39,4 +39,4 @@ The storage industry released a new SSD storage technology during the end of 201
 
 - SSD Data recovery is still a nightmare making recovery jobs more expensive. Be sure to have a disaster recovery solution in place before using one of these devices. When these devices fail due to poor manufacturing quality or wear and tear its a good chance that data will be difficult to recover. The price range on physical recovery of data on SSD's can be around $4000 and up if the device is not accessible under normal circumstances.
 
-<a href="https://scottrlarson.wordpress.com/contact/">Contact me</a> for a free quote on upgrading to an SSD, or if your SSD has failed and need data recovered.
+<a href="https://scottrlarson.wordpress.com/contact/">Contact me</a> for a quote on upgrading to an SSD, or if your SSD has failed and need data recovered.

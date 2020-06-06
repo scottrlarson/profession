@@ -425,14 +425,9 @@ if you want to upgrade the Home edition later.
 
 ### The Dig
 
-Visit the [Scott Larson Computer Repair & Data
-Recovery](http://www.scottlarsonconsulting.com) website for more
+Visit my [website](http://scottrlarson.com) for more
 information about me. If you have any questions about Windows 10, give
-me a [call](http://www.scottlarsonconsulting.com/contact), or send a
-[consultation
-request](http://www.scottlarsonconsulting.com/service-consultation) from
-my website in the request section for a free consultation to help you
-decide if Windows 10 is right for you.
+me a [call](/#contact).
 
 **[Follow
 @scottrlarson](https://twitter.com/scottrlarson){.twitter-follow-button}

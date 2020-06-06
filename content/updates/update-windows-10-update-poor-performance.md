@@ -39,4 +39,4 @@ Click on the Start menu, open the Settings app, and select Update &amp; security
 
 Short of disabling the update service entirely (not very good for security) it is recommended that you run this update and let the process finish with out interruption as soon as you can.
 
-If you have a problems with the update process or you would like assistance with limiting the consequences to Windows 10 automatic update process [contact](https://scottrlarson.wordpress.com/contact/) me for a free quote.
+If you have a problems with the update process or you would like assistance with limiting the consequences to Windows 10 automatic update process [contact](https://scottrlarson.wordpress.com/contact/) me for a quote.

@@ -69,4 +69,4 @@ In the case of a single device, if you cannot afford to be down for hours or day
 
 [My disaster recovery backup solution](/publications/publication-disaster-recovery-backup/) uses software, and a external storage device, like a USB hard drive, or a network attached storage device to regularly store a copy of your settings/configurations, programs, and personal data like documents, and music on a external storage device in the event of catastrophic failure. SSD's are more prone to catastrophic failures then Hard Disk Drives are. When the fail, the often fail in such a way that it requires very expensive techniques to recover that data. To prevent these kinds of failures, get setup with a backup and recovery plan of your device so you are not caught off guard.
 
-[Contact me](/#contact) for a free quote on your storage device or backup needs.
+[Contact me](/#contact) for a quote on your storage device or backup needs.

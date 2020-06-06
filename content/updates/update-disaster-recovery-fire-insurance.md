@@ -40,4 +40,4 @@ Break it down into the following categories: [storage device](https://en.wikiped
 I offer a various [disaster recovery backup solutions](../../publications/publication-disaster-recovery-backup/) that can be tailored to your needs. From just cloud backup of your most important files, to real-time backup of your entire small business, or personal operations. Having a consistent backup of just your data, or even your programs and operating system saves you a ton of time when a disaster hits. Most of all there is real security in being prepared.
 
 ## Conclusion
-[Contact me](/#contact) for a free consultation. I can sit down with you, or talk to you over the phone about a solution that will fit your needs.
+[Contact me](/#contact) for a free 20 minute consultation. I can sit down with you, or talk to you over the phone about a solution that will fit your needs.

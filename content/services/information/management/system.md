@@ -42,7 +42,7 @@ If you have a current security or backup solution this service would be a replac
     <li>Up to date software that minimizes security threats to your computer</li>
     <li>Management of your computer's security through threat behavior analysis.</li>
   </ul>
-  <div class="divResTableFoot">$166.00</div>
+  <div class="divResTableFoot">$100.00</div>
   </div>
     <div class="divResTableCell divResTableHeading" style="order: 1;">Upkeep</div>
     <div class="divResTableCell" style="order: 2;">
@@ -51,7 +51,7 @@ If you have a current security or backup solution this service would be a replac
     <li>Maintain software updates.</li>
     <li>Problem Forecasting and Mitigation</li>
   </ul>
-  <div class="divResTableFoot">$166.00</div>
+  <div class="divResTableFoot">$150.00</div>
     </div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">Backup</div>
   <div class="divResTableCell" style="order: 2;">
@@ -60,11 +60,11 @@ If you have a current security or backup solution this service would be a replac
     <li>Carbonite Cloud Backup</li>
     <li>Reliable upkeep of backup software and data.</li>
   </ul>
-  <div class="divResTableFoot">$166.00</div>
+  <div class="divResTableFoot">$300.00</div>
   </div>
 </div>
 
-The full system management package is $498.00 per year - averaging out to $40.00 Monthly. It includes all software, and monitoring of your security, upkeep and backup. Alternatively, you can purchase individual packages if you feel you don't need one particular service, but I strongly recommend the entire package for total system security.
+The full system management package is $550.00 per year - averaging out to $45.00 Monthly. It includes all software, and monitoring of your security, upkeep and backup. Alternatively, you can purchase individual packages if you feel you don't need one particular service, but I strongly recommend the entire package for total system security.
 
 $30.00 per year peripheral add-on - provides regular upkeep and 3hrs of support for devices that attach to your computer.
 

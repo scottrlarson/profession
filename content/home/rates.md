@@ -144,7 +144,7 @@ Schedule an [appointment](/#contact).
   <div class="divResTableCell" style="order: 2;">$27.00</div>
   <div class="divResTableCell divResTableHeading" style="order: 1;">Weekend</div>
   <div class="divResTableCell" style="order: 2;">$127.00</div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;"><s>Off Hours</s></div>
+  <div class="divResTableCell divResTableHeading" style="order: 1;">Off Hours</div>
   <div class="divResTableCell" style="order: 2;">$156.00</div>
 </div>
 

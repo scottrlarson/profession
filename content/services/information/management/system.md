@@ -81,7 +81,7 @@ The full system management package is $520.00 per year - averaging out to $45.00
 
 ## Support
 
-Individual support issues are handled on an individual bases, or by contract. Can check my [rates](/#rates) for more information. 
+Individual support issues are handled on an individual bases, or by contract. Check my [rates](/#rates) for more information. 
 
 ## Terms
 - The **Security, Upkeep, and Backup System Management** services covers the installation and upkeep of each service. I remotely manage and customize the service's settings to help prevent most problems from causing system downtime or loss of data. If a problem is identified during my normal monitoring, I will contact you and let you know a normal servicing needs to happen, and we can talk about [fees](/#rates) or I can send you a quote of service. 

@@ -115,7 +115,7 @@ Schedule an [appointment](/#contact).
   <div class="divResTableCell" style="order: 2;">$153.00</div>
 </div>
 
-### Online Repair & Resolution Rates Per Hour (30min minimum) (3hr maximum per day) {#OnlineRepairResolution}
+### Online Repair & Resolution Rates Per Hour (1hr minimum) (3hr maximum per day) {#OnlineRepairResolution}
 
 Schedule an [appointment](/#contact).
 

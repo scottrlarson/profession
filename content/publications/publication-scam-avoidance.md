@@ -63,7 +63,7 @@ Contemplate on these questions and make a reminder or a mental note for any futu
 
 
 ## Conclusion
-My goal in this publication was to attempt to make you aware of some of the common ways in which a scammer operates, but there may be other methods that are outside of its scope. When dealing with solicited requests for information, don't be afraid to err on the side of caution. It's better to be safe, then sorry. In [part 2](/publications/publication-scam-avoidance2) I will discuss techquies of avoiding being a victim of a Scam.
+My goal in the first part of this publication is to attempt to make you aware of some of the common ways in which a scammer operates. When dealing with solicited requests for information, don't be afraid to err on the side of caution. It's better to be safe, then sorry. In [part 2](/publications/publication-scam-avoidance2) I will discuss techquies of avoiding being a victim of a Scam.
 
 If you have any questions about this publication, or you would like help with your computer's security, [contact](/#contact) me. I can assess your protection, and offer suggestions to improve your online safeguards.
 

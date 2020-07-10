@@ -90,7 +90,7 @@ When you receive an email asking you to perform an action, keep in mind the thre
 
 ## Conclusion
 
-My goal in this part of the series was to show you some ways in which a scammer might trick you into giving away personal identifying information and some ways you can avoid this. In [part 3](/publications/publication-scam-avoidance3) I will discuss ways to protect yourself after you have become a victum of a scam and some information on create a better awareness of scammer techniques.
+My goal in this part of the series was to show you some ways in which a scammer might trick you into giving away personally identifying information with some ways you can avoid this. In [part 3](/publications/publication-scam-avoidance3) I will discuss ways to protect yourself after you have become a victim of a scam.
 
 If you have any questions about this publication, or you would like help with your computer's security, [contact](/#contact) me. I can assess your protection, and offer suggestions to improve your online safeguards.
 

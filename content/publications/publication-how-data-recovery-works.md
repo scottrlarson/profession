@@ -37,9 +37,14 @@ If your device uses a SSD and the information was erased using a delete file/fol
 
 If your data recovery situation meets the requirements in the storage device section. You can use a tool to scan for the information you lost and see what it finds, you can then select the data that is able to be recovered. You most definitely want to store this information on another storage device like a USB Flash drive or external HDD as overwriting information on the storage device you are trying to recover from can actually wipe out the data you are trying to recover.
 
+## Conclusion
+
+Recovering data successfully can be tricky depending on the complexity of the loss itself. If you lost your own personal data, you own the device, and you need help recovering it, you can consult with me on a data recovery analysis. Please note that recovering data in a forensic situation requires a [forensic recovery](#terms) expert and there are legal constraints about recovering personal data from another person's storage device.
+
 ## terms
 
 - **Hard Disk Drive Technology**: A hard disk drive (HDD), hard disk, hard drive, or fixed disk is an electro-mechanical data storage device that uses magnetic storage to store and retrieve digital data using one or more rigid rapidly rotating platters coated with magnetic material.
 - **Solid State Drive Technology**: A solid-state drive (SSD) is a solid-state storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory, and functioning as secondary storage in the hierarchy of computer storage
 - **Form Factor**: The physical size and shape of a piece of computer hardware.
-- Storage Device: A piece of computer equipment on which information can be stored.
+- **Storage Device**: A piece of computer equipment on which information can be stored.
+- **Forensic Recovery**: Relating to or denoting the application of scientific methods and techniques to the investigation of crime.

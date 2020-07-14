@@ -75,7 +75,7 @@ Depending on your needs, you might need:
 {{% /accordion %}}
 
 
-The full system management package is $520.00 per year - averaging out to $45.00 Monthly. It includes all software, and monitoring of your security, upkeep and backup. Alternatively, you can purchase individual packages if you feel you don't need one particular service, but I strongly recommend the entire package for total system security.
+The full system management package is $572.00 per year - averaging out to $48.00 Monthly. It includes all software, and monitoring of your security, upkeep and backup. Alternatively, you can purchase individual packages if you feel you don't need one particular service, but I strongly recommend the entire package for total system security.
 
 ## Support
 

@@ -11,7 +11,7 @@ weight = 1
 [interests]
   interests = [
     "Software and Hardware Investigative Problem-solving",
-    "Cosmic Con",
+    "Cosmic Consciousness",
     "Objective Truth and Gnosis"
   ]
 

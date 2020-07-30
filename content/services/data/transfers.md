@@ -42,3 +42,14 @@ Transfer files and folders from one device to another.
 If you are having trouble moving your mail from one service to another I have special tools and expertise in transferring POP and IMAP mail from one storage location to another.
 
 {{% service-quote %}}
+
+# Disk Transfer
+
+Floppy, Zip and Optical (DVD,and CD) first 4 disks:
+{{% service-price item="$25.00" %}}
+
+Floppy, Zip and Optical (DVD,and CD) 10 disks or more:
+{{% service-price item="$10.00" %}}
+
+Floppy, Zip and Optical (DVD,and CD) 20 disks or more:
+{{% service-price item="$05.00" %}}

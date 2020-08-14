@@ -64,8 +64,6 @@ weight = 1
   
 +++
 
-{{% alert title="Scott will be attending the GDC through August 4th-7th 2020" %}} I will be attending the [Game Developers Conference](https://gdconf.com) on August 4th-7th. My Wife and Assistant will be taking calls and scheduling appointments for the following week. If you need to speak to me or require a service, I will be returning on Saturday the 8th.{{% /alert %}}
-
 {{% alert title="My response to the COVID-19 Crisis" url="/updates/update-covid-19" %}}Due to my particular field, being an essential service to the public, I am remaining in operation. I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am taking every precaution necessary to prevent the spread of this virus[...more](/updates/update-covid-19){{% /alert %}}
 
 

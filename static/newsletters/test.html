@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+      // loader function
+      // runs once page has loaded
+      // adds click event to the button with id btnClickMe
+      function loader()
+      {
+      $(’#btnClickMe’).click(catchClick);
+      }
+
+      // is called when the button is clicked
+      // this function will add the css script to the html page
+      // make sure the href is correct
+      function catchClick()
+      {
+      var head = document.getElementsByTagName(‘head’)[0];
+      var link = document.createElement(‘link’);
+      link.id = cssId;
+      link.rel = ‘stylesheet’;
+      link.type = ‘text/css’;
+      link.href = ‘stylesheet.css’;
+      link.media = ‘all’;
+      head.appendChild(link);
+      }
+    </script>
+    
+    <style type="text/css">
+      body {
+        background-color: black;
+      }
+    </style>
+    
+</head>
+<body>
+  Test text
+  
+  <button id="btnClickMe" type="submit" form="form1" value="Submit">Submit</button>
+</body>
+</html>

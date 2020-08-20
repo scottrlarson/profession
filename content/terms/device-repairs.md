@@ -1,5 +1,5 @@
 +++
-title = "Device Repairs & Remote Management"
+title = "Device Diagnostic, Repairs & Remote Management"
 date = 2020-06-03T08:52:29-07:00
 draft = false
 
@@ -15,6 +15,12 @@ image = "terms/service-packages.png"
 caption = ""
 
 +++
+
+## Diagnostics and Analysis Services
+
+Diagnostic fees cover my time in troubleshooting an issue, and for me to provide you with a expert report on what I think the problem is based on my observations, or for me to provide you with a recommendation in the event the device unable to be repaired due to time or cost.
+
+## Providing Service Prerequisites
 
 When you bring your device in for servicing, after a repair, or when you agree to allow me to remotely manage your device's security, backup or upkeep, I may install certain applications/shortcuts on your desktop that help provide ongoing services or to maintain a business relationship. 
 

@@ -3,7 +3,7 @@ title = "Who can request service"
 date = 2018-06-15T09:58:06-07:00
 draft = false
 weight = 10
-summary = "I will provide technical service to you and you alone. All inquiries should be handled by you as the business owner. If you want some other person, or agent to act your behalf please provide me with that person's or agent's name and give your consent in writing to me to allow them to speak for you and act on your behalf."
+summary = "I provide technical service solely to individuals. If you own a business or you work for a business all service related dealings will be handled by you and I. If you want someone else to engage with me on a service in question on your behalf, please provide your consent in writing to allow that someone to speak for you and act on your behalf."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -16,4 +16,6 @@ categories = []
 image = ""
 caption = ""
 +++
-I provide technical service solely to individuals. If you own a business or you work for a business all service related dealings will be handled by you and I. If you want someone else to engage with me on a service in question on your behalf, please provide your consent in writing to allow them to speak for you and act on your behalf.
+I provide technical service solely to individuals. If you own a business or you work for a business all service related dealings will be handled by you and I. If you want someone else to engage with me on a service in question on your behalf, please provide your consent in writing to allow that someone to speak for you and act on your behalf.
+
+When you request a service from me, recurring or otherwise, it is by contract. Please note that any arrangement between us is two party. You [Customer] and I [Service Man]. As such, if I provide a service to you that results in an exchange of property (My services for any payment method you use to compensate me) that exchange does not include any 3rd party.

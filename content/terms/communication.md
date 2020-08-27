@@ -2,7 +2,7 @@
 title = "Responsible Communication"
 date = 2018-06-15T09:58:47-07:00
 draft = false
-
+weight = 20
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -13,7 +13,6 @@ categories = []
 [header]
 image = ""
 caption = ""
-weight = 20
 +++
 Its very important to me that I provide the best possible service and that means that after I completed my service on your device, I want to return your device to you in a timely manner. I rely on you to provide me with timely responses to my requests, especially if you require a quick turn-around on the service of your device. 
 

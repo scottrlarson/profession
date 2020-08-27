@@ -13,7 +13,7 @@ categories = []
 [header]
 image = ""
 caption = ""
-weight = "20"
+weight = 20
 +++
 Its very important to me that I provide the best possible service and that means that after I completed my service on your device, I want to return your device to you in a timely manner. I rely on you to provide me with timely responses to my requests, especially if you require a quick turn-around on the service of your device. 
 

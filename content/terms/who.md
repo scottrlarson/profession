@@ -14,6 +14,6 @@ categories = []
 [header]
 image = ""
 caption = ""
-
+weight = "10"
 +++
 I provide technical service solely to individuals. If you own a business or you work for a business all service related dealings will be handled by you and I. If you want someone else to engage with me on a service in question on your behalf, please provide your consent in writing to allow them to speak for you and act on your behalf.

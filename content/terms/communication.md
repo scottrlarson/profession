@@ -15,4 +15,6 @@ image = ""
 caption = ""
 
 +++
-<p>If I require communication from you on resolving an issue where I cannot complete a  requested task without that communication it is not my responsibility to provide you with reoccurring communications or reminders. I will send one communication via whatever means you require and it will be your responsibility to respond. If your failure to follow up or a late response on a communication prevents or delays me from performing on a task you require from me, that failure to communicate does not cancel my billable rate involved in performing on that task or subsequent follow up tasks that result due to delayed or failed communications.</p>
+Its very important to me that I provide the best possible service and that means that after I completed my service on your device, I want to return your device to you in a timely manner. I rely on you to provide me with timely responses to my requests, especially if you require a quick turn-around on the service of your device. 
+
+In certain cases, failure to follow up on my request for communication in a timely manner may increase the chance of a delay with other customer's services. If this happens, I reserve the right to charge you a bench fee of $65 dollars per delayed communication.

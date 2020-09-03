@@ -21,9 +21,9 @@ caption = ""
 In this publication, you will learn about:
 
 - [What is disaster recovery backup, and why should I care?](#what-is-disaster-recovery-backup-and-why-should-i-care)
-- <a href="#planning-how" name="list-planning-how">How a little planning can drive a successful disaster recovery</a>
-- <a href="#waiting-disaster-why" name="list-waiting-disaster-why">Why waiting for a disaster to happen before you plan is a bad idea </a>
-- <a href="#terms" name="#list-terms">Understanding technology terms</a>
+- [How a little planning can drive a successful disaster recovery](#how-a-little-planning-can-drive-a-successful-disaster-recovery)
+- [Why waiting for a disaster to happen before you plan is a bad idea](#why-waiting-for-a-disaster-to-happen-before-you-plan-is-a-bad-idea)
+- [Understanding technology terms](#terms)
 
 Knowing the difference between backup and disaster recovery, understanding key technology terms, and evaluating software along with storage options can help you develop an effective plan for avoiding the consequences of data loss and downtime after a catastrophe strikes.
 
@@ -32,7 +32,7 @@ Knowing the difference between backup and disaster recovery, understanding key t
 
 **Disaster Recovery** is having all tools in place to recover from a loss of data. Do you just need to recover one file, a set of files, or your entire computer? If your entire computer needs to be recovered, will you lose anything recently saved? How do you perform a full recovery of your computer? Knowing the answers to these questions is essential to your recovery plan.
 
-**Disaster Recovery Backup**, on the other hand, refers to the plan and processes for quickly reestablishing access to your data after a catastrophe. If your computer, or applications fail catastrophically, become lost, or stolen, your <a href="#terms-operating-env">operating environment</a> can be restored to a previous working condition, minimizing downtime.
+**Disaster Recovery Backup**, on the other hand, refers to the plan and processes for quickly reestablishing access to your data after a catastrophe. If your computer, or applications fail catastrophically, become lost, or stolen, your **Desktop environment**[^desktop-env] can be restored to a previous working condition, minimizing downtime.
 
 
 > “I am prepared for the worst, but hope for the best.” - Benjamin Disraeli
@@ -42,18 +42,18 @@ Knowing the difference between backup and disaster recovery, understanding key t
 ### What are the strengths and weaknesses of different storage options and locations
 A backup and a disaster recovery backup are similar in that they both need a location to store a copy of the data that is needed for a restoration.
 
-In a <a href="#terms-cloud-storage" name="cloud-storage">**Cloud Storage**</a> scenario, data is stored outside the home, or small office. This off-site location protects your data from being destroyed by a tragedy, like a fire, or loss from a theft of your equipment. The speed and reliability of the <a href="#terms-cloud-backup" name="cloud-backup">Cloud Backup</a> service, as well as the internet connection to your home, or office, is a factor in determining the length of time needed for a data restoration.
+In a **Cloud Storage**[^cloud-storage] scenario, data is stored outside the home, or small office. This off-site location protects your data from being destroyed by a tragedy, like a fire, or loss from a theft of your equipment. The speed and reliability of the **Cloud Backup**[^cloud-backup] service, as well as the internet connection to your home, or office, is a factor in determining the length of time needed for a data restoration.
 
-<a href="#terms-network-storage" name="network-storage">**Network Storage**</a>, or a <a href="#terms-network-storage">**Network Attached Storage Device (NAS)**</a> are storage locations that give you Cloud like storage in your home. Network Storage gives you the ability to store files onto it from any device in your home that is connected to your home, or business network. The speed in which data can be transferred to, and from a NAS is largely dependent on the kind of hardware (<a href="#terms-router" name="router">Router</a>, <a href="#terms-wifi-access-point" name="wifi-access-point">WiFi Access Point</a>, <a href="#terms-network-switch" name="network-switch">Network Switch</a>, <a href="#terms-network-cabling" name="network-cabling">Network Cabling</a>) you have, and the connection between the NAS and your devices (Wired or Wireless). In my experience, Network Storage Devices are less susceptible to physical connection problems and damage due to the fact that they are rarely moved from their physical location. Wired connections are typically faster than Wireless connections. There are many types of Wired and Wireless connections. Having the latest technology insures that you will have the fastest transfer speeds between two or more devices. Transfer speeds between devices is really important. The less time it takes for data to transfer to and from devices the less likely a problem will occur in the transfer, or backup.
+**Network Storage**[^NetworkStorage], or a **Network Attached Storage Device (NAS)**[^NetworkStorage] are **storage locations**[^storage-location] that give you Cloud like storage in your home. Network Storage gives you the ability to store files onto it from any device in your home that is connected to your home, or business network. The speed in which data can be transferred to, and from a NAS is largely dependent on the kind of hardware (**Network Router**[^router], **WiFi Access Point**[^-wifi-access-point], **Network Switch**[^network-switch], **Network Cabling**[^network-cabling]) you have, and the connection between the NAS and your devices (Wired or Wireless). In my experience, Network Storage Devices are less susceptible to physical connection problems and damage due to the fact that they are rarely moved from their physical location. Wired connections are typically faster than Wireless connections. There are many types of Wired and Wireless connections. Having the latest technology insures that you will have the fastest transfer speeds between two or more devices. Transfer speeds between devices is really important. The less time it takes for data to transfer to and from devices the less likely a problem will occur in the transfer, or backup.
 
-The benefit of using a <a href="#terms-local-storage" name="local-storage">**Local Storage**</a> device over Cloud or Network storage is speed, convenience, and ease of use. But moving the storage device around, regularly disconnecting/reconnect it, often in situations that require it, like bringing a laptop with you on the go, may eventually cause damage to, or cause a connection problem with the storage device. In many cases, when a connection problem shows up, the backup software cannot do its job, and you may not know that there is a problem until it's too late.
+The benefit of using a **Local Storage**[^local-storage] device over Cloud or Network storage is speed, convenience, and ease of use. But moving the storage device around, regularly disconnecting/reconnect it, often in situations that require it, like bringing a laptop with you on the go, may eventually cause damage to, or cause a connection problem with the storage device. In many cases, when a connection problem shows up, the backup software cannot do its job, and you may not know that there is a problem until it's too late.
 
-In most cases, drawbacks of each technology cannot be avoided. It’s best to choose two, or more storage options that work best for your needs and make redundancy your friend. If one storage device, or location fails, have another, and another. Three storage locations are optimal.
+In most cases, drawbacks of each technology cannot be avoided. It’s best to choose two, or more storage options that work best for your needs and make redundancy your friend. If one storage device, or location fails, have another, and another. Three **storage locations**[^storage-location] are optimal.
 
 
 ![planning to recovery your digital life](/img/publications/digital-life/disaster-recovery-choice.jpg)
 
-## <a name="planning-how">How a little planning can drive a successful disaster recovery</a> <a href="#list-planning-how"><i class='far fa-arrow-alt-circle-up'></i></a>
+## How a little planning can drive a successful disaster recovery
 ### Identifying the best technologies for achieving your backup and disaster recovery goals for home and small businesses
 The important thing to understand first is what kind of computer user you are: **Basic**, **Intermediate**, or **Advanced**.
 
@@ -66,20 +66,20 @@ Documents are usually stored on your device’s storage drive unless you are usi
 
 > “I know enough just to get myself into trouble…”
 
-As an **Intermediate** user, you probably use your device professionally, or for education purposes and you work with more than just mail and documents. You might also save files like music, pictures, and videos. You may use non-standard applications like Turbotax, or Quickbooks. In a case like this, regular automatic backups using backup <a href="#backup-software-what" name"software" name="backup-software">software</a> might be preferable to you.
+As an **Intermediate** user, you probably use your device professionally, or for education purposes and you work with more than just mail and documents. You might also save files like music, pictures, and videos. You may use non-standard applications like Turbotax, or Quickbooks. In a case like this, regular automatic backups using **backup software**[^backup-software] might be preferable to you.
 
 
 > “I know my stuff, but I don't really do backup that well…”
 
-As an **Advanced** user, the way you use your device, the placement of everything stored on the device, and the programs you use are all vital to your everyday activities. If you  lost access to your device for too long, it would probably cause a problem for you. In a case like this, using Disaster Recovery Backup <a href="#backup-software-what">software</a> to backup a full copy of your <a href="#terms-system-drive" name="system-drive">system drive</a> <a href="system-drive"><i class='far fa-arrow-alt-circle-up'></i></a> might be preferable to you.
+As an **Advanced** user, the way you use your device, the placement of everything stored on the device, and the programs you use are all vital to your everyday activities. If you  lost access to your device for too long, it would probably cause a problem for you. In a case like this, using **Disaster Recovery Backup software**[^backup-software] to backup a full copy of your **system drive**[^system-drive] might be preferable to you.
 
 
-## <a name="backup-software-what">What kind of backup software do I need?</a> <a href="#backup-software"><i class='far fa-arrow-alt-circle-up'></i></a>
-There are a host of backup software solutions on the market. For **local backups**, Windows 10 comes with its own backup solution called [File History](https://blogs.msdn.microsoft.com/b8/2012/07/10/protecting-user-files-with-file-history/). If you are a **Basic**, or **Intermediate** user this might work for you. You would need to purchase an external hard drive and set up File History to perform regular backups of your important storage locations. If you find that you require more control over the way your data is backed up than what File History offers, commercial third party products such as [EaseUS ToDo Backup](https://www.easeus.com/backup-software/tb-enterprise.html?ad&gclid=EAIaIQobChMImPS1-ea65gIVth6tBh0thgM9EAAYAiAAEgKfgvD_BwE), and [Paragon Backup and Recovery](https://www.paragon-software.com/backup-recovery/) can offer more options.
+## What kind of backup software do I need?
+There are a host of backup software solutions on the market. For **local backups**, Windows 10 comes with its own backup solution called [File History](https://blogs.msdn.microsoft.com/b8/2012/07/10/protecting-user-files-with-file-history/). If you are a **Basic**, or **Intermediate** user this might work for you. You would need to purchase an external hard drive and set up File History to perform regular backups of your important **storage locations**[^storage-location]. If you find that you require more control over the way your data is backed up than what File History offers, commercial third party products such as [EaseUS ToDo Backup](https://www.easeus.com/backup-software/tb-enterprise.html?ad&gclid=EAIaIQobChMImPS1-ea65gIVth6tBh0thgM9EAAYAiAAEgKfgvD_BwE), and [Paragon Backup and Recovery](https://www.paragon-software.com/backup-recovery/) can offer more options.
 
 For **Intermediate** and **Advanced** users, who cannot be without access to their programs and data for too long, and want to minimize the time in recovering from a disaster, I recommend Disaster Recovery Backup software like [Macirum Reflect](https://www.macrium.com/reflectfree), or [Acronis True Image](https://www.acronis.com).
 
-## <a name="waiting-disaster-why">Why waiting for a disaster to happen before you plan is a bad idea</a> <a href="#list-waiting-disaster-why"><i class='far fa-arrow-alt-circle-up'></i></a>
+## Why waiting for a disaster to happen before you plan is a bad idea
 Many things can happen in the process of using your device. The place where you store your device could be involved in a catastrophe, your device could be stolen, your device’s internal storage drive could fail, you could accidentally delete a file, or a file could become corrupted in the process of using your device.
 
 Don’t wait until it’s too late to devise a plan to protect your data. Protecting your data is like having insurance, you don't know when, or if, you will need it, but when you do, boy can it be a lifesaver.
@@ -88,28 +88,29 @@ Having a plan also builds confidence, so when your data becomes inaccessible, yo
 ## Conclusion
 With a disaster recovery solution in place you can protect yourself from:
 
-- <a href="#terms-downtime" name="downtime">Downtime</a>, by avoiding lengthy repairs to your device.
+- **Downtime**[^downtime], by avoiding lengthy repairs to your device.
 - High repair, or data recovery costs when a device fails catastrophically.
-- <a href="#terms-malware" name="malware">Malware</a>, or <a href="#terms-ransomeware" name="ransomeware">Ransomeware</a> infections by being able to restore from a previous backup.
+- **Malware**[^malware], or **ransomeware**[^ransomeware] infections by being able to restore from a previous backup.
 
 [Contact me](http://scottrlarson.com/#contact) for more information about developing a backup plan. I can help you identify what backup solution you need, and help you manage it.
 
-## <a name="terms">Terms</a>
-- <a name="terms-cloud-backup">**Cloud Backup**</a> is a software-as-a-service solution that is designed to backup your most important data at regular intervals. You usually pay a monthly fee for the storage space and the software to backup your device. <a href="#cloud-backup"><i class='far fa-arrow-alt-circle-up'></i></a>
-- <a name="terms-cloud-storage">**Cloud Storage**</a> is a data center that is accessed via a cloud software service. <a href="#cloud-storage"><i class='far fa-arrow-alt-circle-up'></i></a>
-- <a name="terms-downtime">**Downtime**</a> is the length of time when you are unable to access your device, or any data that is stored on that device. <a href="#downtime"><i class='far fa-arrow-alt-circle-up'></i></a>
-- <a name="terms-local-storage">**Local storage**</a> is a hard, or solid state storage drive that is either mounted the device, or connected to the device externally via USB or SATA. Network storage is a storage device that is connected to your computer via your modem or router using an Ethernet or Wireless connection. <a href="#local-storage"><i class='far fa-arrow-alt-circle-up'></i></a>
-- <a name="terms-malware">**Malware**</a> is software that is specifically designed to disrupt, damage, or gain unauthorized access to a computer system. <a href="#malware"><i class='far fa-arrow-alt-circle-up'></i></a>
-- <a name="terms-network-storage">**Network Storage**</a>, or a <a name="">**Network Attached Storage (NAS)**</a> is a device that contains a storage drive and can be connected to an existing home, or office network. <a href="#network-storage"><i class='far fa-arrow-alt-circle-up'></i></a>
-- A <a name="terms-network-switch">**Network Switch**</a> is a device that allows you to connect multiple devices to a network allowing those devices to either talk to the internet, or to each other. <a href="#network-switch"><i class='far fa-arrow-alt-circle-up'></i></a>
+## Terms
 
-- <a name="terms-network-cabling">**Network Cabling**</a> are the cords that are used in connecting or hard wiring devices to a network. <a href="#network-cabling"><i class='far fa-arrow-alt-circle-up'></i></a>
-- An <a name="terms-operating-env">**Operating Environment**</a> is the software and data related to accessing your files.  It allows you to log into your device and be presented with a desktop containing applications you can open, and files you can access. <a href="#operating-env"><i class='far fa-arrow-alt-circle-up'></i></a>
-- <a name="terms-ransomeware">**Ransomware**</a> is a type of malware from cryptovirology that threatens to publish the victim's data or perpetually block access to it unless a ransom is paid. <a href="#ransomeware"><i class='far fa-arrow-alt-circle-up'></i></a>
-- A <a name="terms-router">**Router**</a> is a network device that helps provide internet access to multiple devices in the home, or small office. <a href="#router"><i class='far fa-arrow-alt-circle-up'></i></a>
-- A <a name="terms-system-drive">**System Drive**</a> is the drive that your device boots and operates from. In most cases all of your settings: What applications you have installed, and the look and feel of your desktop and even your personal/business data are stored on the system drive. <a href="#system-drive"><i class='far fa-arrow-alt-circle-up'></i></a>
-- A <a name="terms-wifi-access-point">**WiFi Access Point**</a> is a device that connects to your router giving your devices Wifi access to your internet connection. Most routers come with Wifi so you would not normally use a Wifi Access point unless you needed to extend the range of your WiFi coverage in a home or office. <a href="#wifi-access-point"><i class='far fa-arrow-alt-circle-up'></i></a>
-- A <a name="terms-wired">**Wired**</a> connection between two devices involves some kind of transmission cable. <a href="#wired"><i class='far fa-arrow-alt-circle-up'></i></a>
-- A <a name="terms-wireless">**Wireless**</a> connection uses radio frequencies to transfer data between two devices. <a href="#wireless"><i class='far fa-arrow-alt-circle-up'></i></a>
+[^desktop-env]: A desktop environment is the settings, customizations, applications, and personal data of your computer.
+[^cloud-storage]: **Cloud Storage** is a software-as-a-service solution that is designed to backup your most important data at regular intervals. You usually pay a monthly fee for the storage space and the software to backup your device.
+[^cloud-backup]: **Cloud Backup** backs up and stores files with a cloud service. In the event of data loss, you can restore files your files. Cloud backup is different then cloud storage because you must manually select files you want to store in the cloud, while cloud backup services work automatically to save and sync files stored on your computer.
+[^cloud-storage]: **Cloud Storage** is a data center that is accessed via a cloud software service. 
+[^downtime]: **Downtime** is the length of time when you are unable to access your device, or any data that is stored on that device. 
+[^local-storage]: **Local storage** is a hard, or solid state storage drive that is either mounted the device, or connected to the device externally via USB or SATA. Network storage is a storage device that is connected to your computer via your modem or router using an Ethernet or Wireless connection. 
+[^storage-location]: A **Storage Location** is a local drive or a cloud based service that stores files.
+[^malware]: **Malware** is software that is specifically designed to disrupt, damage, or gain unauthorized access to a computer system.
+[^NetworkStorage]: **Network Storage**, or a **Network Attached Storage (NAS)** is a device that contains a storage drive and can be connected to an existing home, or office network.
+[^network-switch]: **Network Switch** is a device that allows you to connect multiple devices to a network allowing those devices to either talk to the internet, or to each other. 
+[^network-cabling]: **Network Cabling**</a> are the cords that are used in connecting or hard wiring devices to a network. 
+[^ransomeware]: **Ransomware** is a type of malware from cryptovirology that threatens to publish the victim's data or perpetually block access to it unless a ransom is paid. 
+[^router]: A **Network Router** is a network device that helps provide internet access to multiple devices in the home, or small office.
+[^backup-software]: **Backup Software** takes over the job of backing up your data to a **storage location**[^storage-location]. It can be executed manually, or setup to run automatically and regular intervals. Disaster Recovery Backup software backs up your system drive and can restore your desktop environment to its original working state before a disaster.
+[^system-drive]: **System Drive** is the drive that your device boots and operates from. In most cases all of your settings: What applications you have installed, and the look and feel of your desktop and even your personal/business data are stored on the system drive.
+[^wifi-access-point]: A **WiFi Access Point** is a device that connects to your router giving your devices Wifi access to your internet connection. Most routers come with Wifi so you would not normally use a Wifi Access point unless you needed to extend the range of your WiFi coverage in a home or office. 
 
  

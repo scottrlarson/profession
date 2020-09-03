@@ -1,7 +1,10 @@
 body {
 	margin-top: initial;
 	line-height: initial;
+  color: WhiteSmoke !important;
 }
+
+b, strong {color: SeaShell;}
 
 .portrait-title h1 {
 	color: white;

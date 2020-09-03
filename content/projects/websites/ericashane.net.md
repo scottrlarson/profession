@@ -17,4 +17,4 @@ caption = ""
 +++
 ![Image of ericashane.net website conversion and design](/img/demos/ericashane.net.png)
 
-Originally ericashane.net was hosted with a now defunked apple website platform called IWEB. I converted the content for this site over to the Wordpress content management system so it would be easy to update and maintain for the customer. Wordpress is a very easy to use content system that offers auto updating to keep the technology behind the platform current. I also added a lightbox image viewer for the photos on the site to make the images easier to view.
+Originally ericashane.net was hosted with a now defunct apple website platform called IWEB. I converted the content for this site over to the Wordpress content management system so it would be easy to update and maintain for the customer. Wordpress is a very easy to use content system that offers auto updating to keep the technology behind the platform current. I also added a lightbox image viewer for the photos on the site to make the images easier to view.

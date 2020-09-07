@@ -29,7 +29,7 @@ This is 3rd part of a 3 part series in protecting yourself from on-line and of-l
 
 ## Protecting yourself after the Scam
 
-If you have already been a victim of an scam. The first thing to do is to stop the interaction with the attacker. If you have given the attacker access to your technology, shutdown the device and contact me for free evaluation. In most cases its safer to [**factory restore**](#terms) the device.
+If you have already been a victim of an scam. The first thing to do is to stop the interaction with the attacker. If you have given the attacker access to your technology, shutdown the device and contact me for free evaluation. In most cases its safer to **factory restore**[^factory-restore] the device.
 
 ## Protect your on-line accounts
 If you have already had one or more of your accounts hacked, or you want to protect devices in the future, read my "[Protecting Your Smartphone From Being Hacked](/publications/publication-smartphone-protection)" which delves into advanced [2 factor authentication methods](/publications/publication-smartphone-protection#2-factor-authentication). Many online services still use the insecure smartphone text based method, which is really a liability instead of a strength. If your thinking about purchasing an identity theft protection service, read my publication "[What is Identity Theft Protection, and do you need it?](/publications/publication-id-theft-what-why/)"
@@ -45,8 +45,4 @@ If you have any questions about this publication, or you would like help with yo
 
 {{< youtube le71yVPh4uk >}}
 
-## Terms
-
-- **Illusion of authority**: A author of a message or a person that attempts to put themselves in a position of authority over you in an attempt to get you acquiesce your freedom of choice.
-- **Web Browser**: Google Chrome, Firefox and Internet Explorer are a few popular examples. These applications make it so you can visit sites on the web.
-- **Factory Restore**: A method to restore the device to its factory state when you first purchase the device. This can assure that any actions that were performed on your device are erased.
+[^factory-restore]: **Factory Restore** is a method to restore the device to its factory state when you first purchase the device. This can assure that any actions that were performed on your device are erased.

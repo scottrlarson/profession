@@ -85,7 +85,7 @@ Making decisions on how to respond to emails that ask you to perform an action c
 When you receive an email asking you to perform an action, keep in mind the three basic qualifiers of legitimacy: 
 
 1. **Who** is the email sender? Are you receiving an email from Microsoft asking you about your email? Do you even have an email with Microsoft? Find out who your mail provider is. If it's not Microsoft, delete the message. If you do have an Email with Microsoft move on to the next step.
-2. **What** is the message asking me to do? Depending on the request, you can sometimes tell that the message is suspect by the way the message is crafted, or by the nature of the request. If the email states that an account you own is on hold because of a billing problem and the message requests that you click on a link to remedy the problem, instead, open up your web browser and visit the site by using **[web browser](#terms)** to confirm that problem exists. 
+2. **What** is the message asking me to do? Depending on the request, you can sometimes tell that the message is suspect by the way the message is crafted, or by the nature of the request. If the email states that an account you own is on hold because of a billing problem and the message requests that you click on a link to remedy the problem, instead, open up your web browser and visit the site by using **web browser**[^web-browser] to confirm that problem exists. 
 3. **Where** will I land if I act? Without clicking on any links in the email, move your mouse over the link and look at the destination URL. If it doesn't contain a recognizable location, you know you got a problem.
 
 ## Conclusion
@@ -95,3 +95,5 @@ My goal in this part of the series was to show you some ways in which a scammer 
 If you have any questions about this publication, or you would like help with your computer's security, [contact](/#contact) me. I can assess your protection, and offer suggestions to improve your online safeguards.
 
 ## [Part 3..>](/publications/publication-scam-avoidance3)
+
+[^web-browser]: A **Web Browser** is software that allow you to interface with sites on the world wide web. Google Chrome, Firefox and Internet Explorer are a few popular examples. These applications make it so you can visit sites on the web.

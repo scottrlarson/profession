@@ -41,7 +41,7 @@ Social engineering attacks happen in one or more steps:
 2. Vulnerabilities are discovered. 
 3. Armed with the necessary information from step one and two, the attacker uses psychological manipulation in the form of a pointed written message, or phone conversation, to trick you into giving away sensitive information.
 
-Attackers will likely attempt to trick you with a message that conveys an [**illusion of authority**](#terms), and a sense of urgency. As an example, you may get a pop-up on your screen that your computer has been compromised, asking you to urgently call a number. You might get an email stating that you are required by law to make contact with a government representative because the IRS didn't receive your tax return, or you might even get a call from the attacker, without any action on your part, claiming to be working for Microsoft and that your computer is unprotected.
+Attackers will likely attempt to trick you with a message that conveys an **illusion of authority**[^illusion-authority], and a sense of urgency. As an example, you may get a pop-up on your screen that your computer has been compromised, asking you to urgently call a number. You might get an email stating that you are required by law to make contact with a government representative because the IRS didn't receive your tax return, or you might even get a call from the attacker, without any action on your part, claiming to be working for Microsoft and that your computer is unprotected.
 
 With any unfamiliar situation, remember to take a deep breath and relax. 99% of communications that attempt to compel you to act with the above tactics are false. These kinds of attacks are most successful when you are in a state of panic. Legitimate business dealings happen on their own with no outside coercion. If at any time you feel forced to perform an action, step back, regroup, and gather information from outside sources. In these circumstances, you never, ever, have to take an immediate action. You always have recourse, but it takes time and patience to find alternatives. 
 
@@ -66,5 +66,7 @@ Contemplate on these questions and make a reminder or a mental note for any futu
 My goal in the first part of this publication is to attempt to make you aware of some of the common ways in which a scammer operates. When dealing with solicited requests for information, don't be afraid to err on the side of caution. It's better to be safe, then sorry. In [part 2](/publications/publication-scam-avoidance2) I will discuss techquies of avoiding being a victim of a Scam.
 
 If you have any questions about this publication, or you would like help with your computer's security, [contact](/#contact) me. I can assess your protection, and offer suggestions to improve your online safeguards.
+
+[^illusion-authority]: **Illusion of authority** is a term to describe a psychological interaction between two individuals or a group. An author of a letter, email, call or in-person encounter attempts to put themselves in a position of authority by using psychological tactics against you in an attempt to get you acquiesce your freedom of choice.
 
 ## [Part 2..>](/publications/publication-scam-avoidance2)

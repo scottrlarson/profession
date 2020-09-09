@@ -14,4 +14,4 @@ weight = 100
 
 {{% service-priority %}}
 
-[Contact me](/#contact) to reserve your priority now!
+[Contact me](/#contact) to reserve your priority service now!

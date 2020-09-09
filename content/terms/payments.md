@@ -8,7 +8,7 @@ draft = false
 tags = []
 categories = []
 weight = 17
-summary = "All payments can be made via check or cash. If you prefer to pay by credit card, you can paypal me money at slarson -at- scottrlarson.com or by venmo at @scottrlarson. Payments are due upon pick-up of your device."
+summary = "All payments can be made via check or cash. If you prefer to pay by credit card, you can [paypal](paypal.me/scottrlarson) me, or venmo me at @scottrlarson."
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
@@ -17,8 +17,12 @@ caption = ""
 
 +++
 
+All payments can be made via check or cash. If you prefer to pay by credit card, you can [paypal](paypal.me/scottrlarson) me, or venmo me at @scottrlarson.
+
 ## In-shop Servicing
-All payments can be made via check or cash. If you prefer to pay by credit card, you can paypal me money at slarson -at- scottrlarson.com or by venmo at @scottrlarson. Payments are due upon pick-up of your device.
+Payments are due upon pick-up of your device.
+
+
 
 ## At-location
 I require payment before I leave the location where I provide you service unless special arrangements are made for recurring service. In this case I will bill you for that service, upon receipt of a bill of service, you have two weeks to pay that bill.

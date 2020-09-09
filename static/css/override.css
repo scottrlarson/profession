@@ -418,6 +418,13 @@ img {max-width:100%; height:auto;}
 
 }
 
+/* Service Priority CSS */
+
+.emoji-priority {
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+} 
 
 /* accessibility */
 
@@ -580,13 +587,14 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   margin-top: -10px;"
 }
 
-/* rate table styles */
+/* flexbox table styles for tabular data */
 
 .divResTable{
 	display: flex;
   flex-wrap: wrap;
   margin: 0 0 3em 0;
   padding: 0;
+  align-items: flex-start;
 }
 
 .divResTable--6cols > .divResTableCell  { width: 16.4%; }
@@ -600,41 +608,75 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 .divResTable--2cols > .divResTableCell  { width: 50%; }
 
 .divResTableHeading {
-	font-weight: bold;
 	display: table-header-group;
   text-align: center;
 }
+
+.divResTableTitle {
+  font-size: xx-large;
+}
+
 .divResTableCell {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  text-align: center;
-  padding: 8px;
+  padding: 10px;
 	box-sizing: border-box;
   background-color: rgb(50, 52, 64);
-  flex-grow: 1;
   width: 100%;  // Default to full width
   padding: 0.8em 1.2em;
   overflow: hidden; // Or flex might break
   list-style: none;
   border: solid @bw white;
-  background: LightSlateGray;
   > h1, > h2, > h3, > h4, > h5, > h6 { margin: 0; }
 }
+
+.divResTableList {
+  text-align: left;
+  font-size: smaller;
+  margin-left: -20px;
+}
+
 .divResTableHeading {
   background-color: initial;
   border-bottom: 2px solid #ddd;
 	display: table-header-group;
-	font-weight: bold;
-  
 }
+
+.divResTableHeadDesc {
+  font-size: small;
+}
+  
 .divResTableFoot {
   text-align: center;
-	font-weight: bold;
-  margin-top: auto;
+	font-size: x-large;
+  font-weight: bold;
 }
+
 .divResTableBody {
 	display: table-row-group;
+}
+
+
+.priority-header1 {
+  background: MediumSeaGreen;
+}
+
+.priority-cell1 { 
+  background: ForestGreen;
+}
+
+.priority-header2 {
+  background: GoldenRod;
+}
+
+.priority-cell2 { 
+  background: DarkGoldenRod;
+}
+
+.priority-header3 {
+  background: LightSteelBlue;
+}
+
+.priority-cell3 { 
+  background: LightSlateGray;
 }
 
 @media all and (max-width: 500px) {

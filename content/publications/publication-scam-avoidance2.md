@@ -88,6 +88,14 @@ When you receive an email asking you to perform an action, keep in mind the thre
 2. **What** is the message asking me to do? Depending on the request, you can sometimes tell that the message is suspect by the way the message is crafted, or by the nature of the request. If the email states that an account you own is on hold because of a billing problem and the message requests that you click on a link to remedy the problem, instead, open up your web browser and visit the site by using **web browser**[^web-browser] to confirm that problem exists. 
 3. **Where** will I land if I act? Without clicking on any links in the email, move your mouse over the link and look at the destination URL. If it doesn't contain a recognizable location, you know you got a problem.
 
+## How to respond to calls for help from family, friends, or colleagues.
+
+In some cases, you may encounter a situation, usually by email or social networking, where a contact looks to be someone close to you, who reaches out to you for help in some way. Many scammers steal the identity of a person to target the victims network of contacts. Once the identity has been compromised is some way, the attacker will trying to appeal to individuals in the victims network with a request of good will by crafting a message of help. The message will probably look like a request for money. The contact might mention a travel situation where the contact is in a bind and needs help. Then there might be a link to send that person money. 
+
+Another regular method of attack is to trick an individual from victims network into giving away personal details, like bank account information, or any site where your credit card is stored by convincing the target to click on a link that takes the victim to a page that looks like a legitimate website, but instead is a malicious site used to steal account credentials.
+
+The best way to deal with these situations is to try to reach out using outside methods. Call the contact and verify via voice that the message is legit. If you cant reach the person, call or text a close friend and see if they know anything about the situation.
+
 ## Conclusion
 
 My goal in this part of the series was to show you some ways in which a scammer might trick you into giving away personally identifying information with some ways you can avoid this. In [part 3](/publications/publication-scam-avoidance3) I will discuss ways to protect yourself after you have become a victim of a scam.

@@ -607,13 +607,20 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 
 .divResTable--2cols > .divResTableCell  { width: 50%; }
 
+
+.divResTable--3cols {
+  margin-bottom: 25px;
+}
+
 .divResTableHeading {
-	display: table-header-group;
   text-align: center;
+  background-color: initial;
+  border-bottom: 2px solid #ddd;
 }
 
 .divResTableTitle {
   font-size: xx-large;
+  text-align: center;
 }
 
 .divResTableCell {
@@ -624,8 +631,6 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   padding: 0.8em 1.2em;
   overflow: hidden; // Or flex might break
   list-style: none;
-  border: solid @bw white;
-  > h1, > h2, > h3, > h4, > h5, > h6 { margin: 0; }
 }
 
 .divResTableList {
@@ -634,20 +639,19 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   margin-left: -20px;
 }
 
-.divResTableHeading {
-  background-color: initial;
-  border-bottom: 2px solid #ddd;
-	display: table-header-group;
-}
-
 .divResTableHeadDesc {
   font-size: small;
+  text-align: center;
 }
   
 .divResTableFoot {
   text-align: center;
 	font-size: x-large;
   font-weight: bold;
+}
+
+.divResTableBreak {
+  margin-bottom: 25px;
 }
 
 .divResTableBody {

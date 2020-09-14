@@ -20,34 +20,7 @@ caption = ""
 
 I provide home and small office system management services for security, backup and maintenance of your computer, or computers. System Management services include monitoring and maintenance of your devices with robust security software, upkeep of your device, and regular disaster recovery backups of your most important data. In many cases, System Management frees you from down-time in your productivity. When a problem occurs in these areas, its usually related to a reoccurring issue that is not immediately visible. Just like a car, over time, and use, computers require regular maintenance and a fresh look at these important areas of your digital life by someone with experience in forecasting future hardware and software problems. Keeping your computer maintained (Updating Software, and monitoring security and backups) helps prevents catastrophic events from occurring.
 
-<div class="divResTable divResTable--3cols divResTable--collapse">
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Security</div>
-  <div class="divResTableCell" style="order: 2;">
-  <ul style="text-align: left; font-size: 0.7em;">
-    <li>Up to date software that minimizes security threats to your computer</li>
-    <li>Management of your computer's security through threat behavior analysis.</li>
-  </ul>
-  <div class="divResTableFoot">$104.00</div>
-  </div>
-    <div class="divResTableCell divResTableHeading" style="order: 1;">Upkeep</div>
-    <div class="divResTableCell" style="order: 2;">
-  <ul style="text-align: left; font-size: 0.7em;">
-    <li>Monitor's storage systems reliability *</li>
-    <li>Maintain software updates.</li>
-    <li>Problem Forecasting and Mitigation</li>
-  </ul>
-  <div class="divResTableFoot">$156.00</div>
-    </div>
-  <div class="divResTableCell divResTableHeading" style="order: 1;">Backup</div>
-  <div class="divResTableCell" style="order: 2;">
-  <ul style="text-align: left; font-size: 0.7em;">
-    <li>Disaster Recovery Backup ****</li>
-    <li>Carbonite Cloud Backup</li>
-    <li>Reliable upkeep of backup software and data.</li>
-  </ul>
-  <div class="divResTableFoot">$312.00</div>
-  </div>
-</div>
+{{% system-management-packages %}}
 
 Instead of purchasing the Security, Upkeep or Backup System Management packages individually, You can purchase a full system management package at $572.00 per year - averaging out to $48.00 Monthly. It includes all software, and monitoring of your security, upkeep and backup.
 

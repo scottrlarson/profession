@@ -20,7 +20,7 @@ This is the 1st part of a 3 part series in protecting yourself from on-line and 
 
 With the 2020 COVID-19 crisis causing many to work from home, it's more important than ever to have a set of tools to deal with threats that come your way.
 
-In this publication, I will help you **identify threats** so that you can **avoid being deceived** by malicious calls to action, and it's important to know how to deal with an attack after your **device has been compromised**.
+In this publication, I will help you **identify threats** so that you can **avoid being deceived** by malicious calls to action. If your **device has been compromised** by a scam, its important to [learn](/publications/publication-scam-avoidance3#protecting-yourself-after-the-scam) how to deal with an attack after the fact.
 
 - [The best security is awareness](/publications/publication-scam-avoidance#the-best-security-is-awareness)
 - [The psychology behind decision making](/publications/publication-scam-avoidance#the-psychology-behind-decision-making)
@@ -60,7 +60,6 @@ It's good to learn a bit about your decision-making process. Recognize your part
 - Can you practice breathing, and walking away?
 
 Contemplate on these questions and make a reminder or a mental note for any future dealings with aggressive queries.
-
 
 ## Conclusion
 My goal in the first part of this publication is to attempt to make you aware of some of the common ways in which a scammer operates. When dealing with solicited requests for information, don't be afraid to err on the side of caution. It's better to be safe, then sorry. In [part 2](/publications/publication-scam-avoidance2) I will discuss techquies of avoiding being a victim of a Scam.

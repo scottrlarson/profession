@@ -29,7 +29,7 @@ I have created the following procedures to minimizing the handling of your devic
 {{< srl-alert >}}Please do not order any services if you, or, in the case of a at-location appointment, anyone in your household has shortness of breath, or has signs of any flu like symptoms.{{< /srl-alert >}}
 
 ## Drop-off In-Office Service
-You can drop off your device at my office. To maintain social distancing during this crisis, I can pick up your device directly from the front entrance of my office building. Just give me call or text me:
+You can drop off your device at my office. To maintain social distancing during this crisis, I can pick up your device directly from the curbside of my office building. I can also pick up your device from your curbside, there is a $50 pick up/drop off fee in additional to any other fees for that service that I will collect up front for my time. If you want to minimize contact and/or speed up the process of the exchange, print, fill out my [authorization form](https://www.dropbox.com/s/odow1lxexadhd0a/srl-authorization-form_savable.pdf?dl=0). You can present it to me with your device. Give me call or text me to setup a time for the exchange:
 
 {{% contact-info %}}
 

@@ -42,8 +42,10 @@ It's very likely that I can recover data from your damaged device, or your data 
 Data recovery rates for a functioning device (device powers on, and is accessible via the hardware interface.)
 
 {{% service-range item-min="$800" item-max="$3000" %}}
-Data recovery rates for a non-functioning device (Device does not detect, power on, or does power on, but the contents of the file system cannot be read in any meaningful way, necessitating a mechanical failure recovery.)
+Data recovery rates for a non-functioning HDD (Device does not detect, power on, or does power on, but the contents of the file system cannot be read in any meaningful way, necessitating a mechanical failure recovery.)
 
+{{% service-range item-min="$1300" item-max="$5000" %}}
+Data recovery rates for a non-functioning Solid State Device such as a USB flash drive or a SSD drive (Device does not detect, power on, or does power on, but the contents of the file system cannot be read in any meaningful way, necessitating a mechanical failure recovery.)
 
 ## Password/System Recovery
 

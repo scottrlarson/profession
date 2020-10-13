@@ -64,6 +64,21 @@ weight = 1
   
 +++
 
+{{% alert title="Upcoming Holliday Closure Dates" %}}
+Scott, the computer troubleshooter will be closed on the follow days:  
+Thursday, November 26, 2020 Thanksgiving Day  
+Thursday, December 24, 2020 Christmas Eve  
+Friday, December 25, 2020 Christmas Day  
+Saturday, December 26, 2020  
+Monday, December 28, 2020  
+Tuesday, December 29, 2020  
+Wednesday, December 30, 2020  
+Thursday, December 31, 2020 New Year's Eve  
+
+I may take in devices during this time, but I will not be completing any service until after the new year. If you are interested in dropping off a device for 2021 servicing during these days, call, text or email me and when I get time, I will get back to you.
+{{% /alert %}}
+
+
 {{% alert title="My response to the COVID-19 Crisis" url="/updates/update-covid-19" %}}Due to my particular field, being an essential service to the public, I am remaining in operation. I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am taking every precaution necessary to prevent the spread of this virus[...more](/updates/update-covid-19){{% /alert %}}
 
 

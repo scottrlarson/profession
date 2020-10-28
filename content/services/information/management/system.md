@@ -1,5 +1,5 @@
 +++
-title = "System Management"
+title = "Recurring System Management"
 date = 2018-08-30T13:28:18-07:00
 draft = false
 aliases = ["/web-service-capabilities","/system-management"]
@@ -18,17 +18,19 @@ caption = ""
 [Brochure Side 1](/img/packages/system-management/srl-broshure-system-mangement-services1.png)
 [Brochure Side 2](/img/packages/system-management/srl-broshure-system-mangement-services2.png)
 
-I provide home and small office system management services for security, backup and maintenance of your computer, or computers. System Management services include monitoring and maintenance of your devices with robust security software, upkeep of your device, and regular disaster recovery backups of your most important data. In many cases, System Management frees you from down-time in your productivity. When a problem occurs in these areas, its usually related to a reoccurring issue that is not immediately visible. Just like a car, over time, and use, computers require regular maintenance and a fresh look at these important areas of your digital life by someone with experience in forecasting future hardware and software problems. Keeping your computer maintained (Updating Software, and monitoring security and backups) helps prevents catastrophic events from occurring.
+I provide recurring home and small office remote system management services for your PC Desktops and Laptops. I handle system security, backup and upkeep. Remote system management improves performance of your device, minimizes down time and service visits by tuning your system for optimal performance and predicting hardware/software failures. 
+
+I provide piece of mind that the most import parts of your computer are being protected with robust security, upkeep, and regular disaster recovery backups of your most important data. Just like a car, computers need love and care on a regular basis. With my skills and experience in forecasting future hardware and software problems, I keep you in the loop and aware by handling the tasks of maintaining your device for you, so you do not have to worry that you are missing a vital component needed to keep your device protected from harm.
 
 {{% system-management-packages %}}
 
-Instead of purchasing the Security, Upkeep or Backup System Management packages individually, You can purchase a full system management package at $572.00 per year - averaging out to $48.00 Monthly. It includes all software, and monitoring of your security, upkeep and backup.
+Instead of purchasing the Security, Upkeep or Backup System Management packages individually, You can purchase a recurring full system management package at $572.00 per year - averaging out to $48.00 Monthly. Please note that this can and often does reduce your regular service visits, saving you money. It includes all software, and monitoring of your security, upkeep and backup.
 
 ## Backup System Management Service Information
 
 {{% accordion-list title="Backup System Management Case Study" id="disaster-rec-info"  %}}
 ### Why would I want Disaster Recovery Backup System Management?
-- One of my customers was surprised that the service Carbonite was not backing up a special accounting program data. Due to the way in which the application accessed the proprietary data the application prevented Carbonite from accessing and backing-up the data. The customer had to rebuild that particular data set from scratch.
+- One of my customers was surprised that the service Carbonite was not backing up a special accounting program data. Due to the way in which the application accessed the proprietary data, the application prevented Carbonite from accessing and backing it up. The customer had to rebuild that particular data set from scratch.
 - When you run a business and have special software you rely on, I can sit down with you, and find out what data is most important to secure. I provide solutions that aim to prevent catastrophic loss of critical data. In monitoring backup, I can determine what is being backed up. With my **Upkeep System Management Service** I monitoring the life of the hardware which allows me to alert you of a pending failure, or trigger a backup before a loss occurs. Even if you have simple needs, don't let the upgrade of your current system slip though the cracks of a upgrade.
 {{% /accordion-list %}}
 
@@ -48,7 +50,7 @@ Depending on your needs, you might need:
 
 ## Terms
 
-{{% alert %}}System Management is a pre-emptive service that aims to reduce failures, unresolved security, or software/hardware issues that usually cause catastrophes requiring a repair visit. The fees for this System Management service includes the upkeep of the pre-emptive service. Support for any issues related to the reliability, security or backup of your device is handled on an individual bases, or by contract. Check my [rates](/#rates) for more information.{{% /alert %}}
+{{% alert %}}System Management is a pre-emptive service that aims to reduce failures, unresolved security, or software/hardware issues that usually cause catastrophes requiring a repair visit. The System Management fees only cover the upkeep of the service and its components. The fees do not cover any other service related issues with your device.{{% /alert %}}
 
 - If you purchase the **Total Security, Upkeep, and Backup System Management Service** package, it covers the installation and upkeep of each service. I remotely manage and customize the service's settings to help prevent most problems from causing system downtime or loss of data. If a problem is identified during my normal monitoring, I will contact you and let you know a normal servicing needs to happen, and we can talk about [fees](/#rates) or I can send you a quote of service. 
 - **Upkeep System Management** is a service that helps prevent downtime by identifying potential problems to your hardware and software before they cause catastrophes.
@@ -65,7 +67,7 @@ Depending on your needs, you might need:
 
 **[Hard Disk Sentinel](https://www.hdsentinel.com/)**: A remote management tool that provides remote upkeep services for the **Upkeep System Management Service** Its designed to send storage device diagnostic data remotely to my operations workstation at 533 5th street Santa Rosa. I monitor hardware reliability on a monthly basis and make suggestions for replacements. Software is setup to initiate a panic backup of the system drive in the event of a failure.
 
-**[Carbonite Safe](https://www.carbonite.com/)**: This software is used in the **Backup System Management Service** as a fail-over backup for personal data in the event you loose access to your location, the equipment is lost/taken, or Macrium Reflect fails to make a backup. Backs up data to the Carbnoite cloud on a realtime schedule.
+**[Carbonite Safe](https://www.carbonite.com/)**: This software is used in the **Backup System Management Service** as a fail-over backup for personal data in the event you loose access to your location, the equipment is lost/taken, or Macrium Reflect fails to make a backup. Personal data like documents, and pictures are backed up to the Carbnoite cloud on a realtime schedule.
 
 **[Emsisoft Antimalware](https://www.carbonite.com/)**: This software is used in the **Security System Management Service** as a security product designed to minimize on-line and local threats to your device.
 	

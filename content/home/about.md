@@ -64,6 +64,10 @@ weight = 1
   
 +++
 
+{{% accordion title="Current Services & Location" col="in" id="services" %}}
+I provide computer repair services in my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers in my office, I do home and office visits. I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. <a href="#contact">Contact</a> me if you have questions, to setup an appointment to have your device serviced at my office, or want to setup a home/office consultation.
+{{% /accordion %}}
+
 {{% alert title="Upcoming Holliday Closure Dates" %}}
 Scott, the computer troubleshooter will be closed on the follow days:  
 Thursday, November 26, 2020 Thanksgiving Day  
@@ -88,8 +92,9 @@ Support sane [copyright legislation](https://www.fightforthefuture.org/fixcopyri
 
 {{% alert %}} Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRECODE25 when paying and I will take 25% off your bill of service.{{% /alert %}}
 
-{{% accordion title="Professional Background" col="in" id="professional" %}}
-I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in late nineties. In early 2000 I moved on to Systems Administration for small networks. I got tired with the corporate world and started providing services to the public of Santa Rosa as a independent IT service man. Today I still provide IT services to the public of Santa Rosa, California and surrounding areas. You can <a href="#contact">contact</a> me if you have questions or want to setup a consultation.
+
+{{% accordion title="Professional Background" id="professional" %}}
+I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in late nineties. In early 2000 I moved on to Systems Administration for small networks. I got tired with the corporate world and started providing services to the public of Santa Rosa as a independent IT service man. Today I still provide IT services to the public of Santa Rosa, California and surrounding areas.
 {{% /accordion %}}
 
 {{% accordion title="Spiritual Activism" id="activism" %}}

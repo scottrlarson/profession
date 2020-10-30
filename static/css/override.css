@@ -589,12 +589,30 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 
 /* flexbox table styles for tabular data */
 
+.divResContainer{
+  background-color: rgb(60, 67, 80);
+  padding: 1em;
+  border-radius: 0.5em;
+}
+
+.divResContainerHeader {
+  font-size: 125%;
+  text-align: center;
+}
+
+.divResContainerFooter {
+  font-size: 145%;
+  font-weight: bold;
+  text-align: center;
+}
+
 .divResTable{
 	display: flex;
   flex-wrap: wrap;
-  margin: 0 0 3em 0;
+  margin: 1em 0 0 0;
   padding: 0;
   align-items: flex-start;
+  background-color: rgb(50, 52, 64);
 }
 
 .divResTable--6cols > .divResTableCell  { width: 16.4%; }
@@ -626,7 +644,6 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 .divResTableCell {
   padding: 10px;
 	box-sizing: border-box;
-  background-color: rgb(50, 52, 64);
   width: 100%;  // Default to full width
   padding: 0.8em 1.2em;
   overflow: hidden; // Or flex might break

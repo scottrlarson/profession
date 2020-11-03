@@ -597,13 +597,22 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 
 .divResContainerHeader {
   font-size: 125%;
+  font-weight: bold;
   text-align: center;
+  color: CadetBlue !important;
 }
 
 .divResContainerFooter {
   font-size: 145%;
   font-weight: bold;
   text-align: center;
+  color: CadetBlue;
+}
+
+.divResContainerFooterDesc {
+  font-size: 85%;
+  text-align: center;
+  color: CadetBlue;
 }
 
 .divResTable{
@@ -666,6 +675,36 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 	font-size: x-large;
   font-weight: bold;
 }
+
+.divResTableButtonCenter {
+  text-align: center;
+}
+
+.divResTableButton {
+  margin: 1em;
+  display: inline-block;
+  width: auto;
+  border-radius: 0.5em;
+  padding: 1em;
+  background-color: CadetBlue;
+  text-align: center;
+	font-size: small;
+  font-weight: bold;
+}
+
+.divResTableButton a:link {
+  color: white;
+}
+
+.divResTableButton a:hover {
+  margin: -1em;
+  display: inline-block;
+  width: auto;
+  border-radius: 0.5em;
+  padding: 1em;
+  color: black;
+  background-color: white;
+  text-decoration: underline;
 
 .divResTableBreak {
   margin-bottom: 25px;

@@ -1,5 +1,5 @@
 +++
-title = "Recurring System Management"
+title = "Remote System Management"
 date = 2018-08-30T13:28:18-07:00
 draft = false
 aliases = ["/web-service-capabilities","/system-management"]
@@ -18,13 +18,7 @@ caption = ""
 [Brochure Side 1](/img/packages/system-management/srl-broshure-system-mangement-services1.png)
 [Brochure Side 2](/img/packages/system-management/srl-broshure-system-mangement-services2.png)
 
-I provide recurring home and small office remote system management services for your PC Desktops and Laptops. I handle system security, backup and upkeep. Remote system management improves performance of your device, minimizes down time and service visits by tuning your system for optimal performance and predicting hardware/software failures. 
-
-I provide piece of mind that the most import parts of your computer are being protected with robust security, upkeep, and regular disaster recovery backups of your most important data. Just like a car, computers need love and care on a regular basis. With my skills and experience in forecasting future hardware and software problems, I keep you in the loop and aware by handling the tasks of maintaining your device for you, so you do not have to worry that you are missing a vital component needed to keep your device protected from harm.
-
 {{% system-management-packages %}}
-
-Instead of purchasing the Security, Upkeep or Backup System Management packages individually, You can purchase a recurring full system management package at $572.00 per year - averaging out to $48.00 Monthly. Please note that this can and often does reduce your regular service visits, saving you money. It includes all software, and monitoring of your security, upkeep and backup.
 
 ## Backup System Management Service Information
 

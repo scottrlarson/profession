@@ -589,7 +589,7 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 
 /* flexbox table styles for tabular data */
 
-.divResContainer{
+.divResContainer {
   background-color: rgb(60, 67, 80);
   padding: 1em;
   border-radius: 0.5em;
@@ -705,6 +705,7 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   color: black;
   background-color: white;
   text-decoration: underline;
+}
 
 .divResTableBreak {
   margin-bottom: 25px;

@@ -589,6 +589,7 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 
 /* flexbox table styles for tabular data */
 
+<<<<<<< HEAD
 .divResContainer {
   background-color: rgb(60, 67, 80);
   padding: 1em;
@@ -615,12 +616,13 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   color: CadetBlue;
 }
 
+
 .divResTable{
-	display: flex;
-  margin: 1em 0 0 0;
+display: flex;
+  flex-wrap: wrap;
+  margin: 0 0 3em 0;
   padding: 0;
   align-items: flex-start;
-  background-color: rgb(50, 52, 64);
 }
 
 .divResTable--6cols > .divResTableCell  { width: 16.4%; }
@@ -651,6 +653,7 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 
 .divResTableCell {
 	box-sizing: border-box;
+  background-color: rgb(50, 52, 64);
   width: 100%;  // Default to full width
   padding: 0.8em 1.2em;
   overflow: hidden; // Or flex might break

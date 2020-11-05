@@ -618,6 +618,7 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 .divResTable{
 	display: flex;
   flex-wrap: wrap;
+  flex-direction: column;
   margin: 1em 0 0 0;
   padding: 0;
   align-items: flex-start;
@@ -656,8 +657,16 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   width: 100%;  // Default to full width
   padding: 0.8em 1.2em;
   overflow: hidden; // Or flex might break
-  list-style: none;
 }
+
+.divResTableWrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.divResTableColumn {
+}
+
 
 .divResTableList {
   text-align: left;
@@ -674,6 +683,7 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   text-align: center;
 	font-size: x-large;
   font-weight: bold;
+  align-self: flex-end;
 }
 
 .divResTableButtonCenter {

@@ -477,10 +477,17 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 	font-size: 1.75rem;
 }
 
+.panel-desc-title {
+	font-size: 0.80rem;
+}
+
 .panel-body {
 
 }
 
+.panel-desc-body {
+  font-size: 0.80rem;
+}
 .panel-default {
 	border: 0px;
 

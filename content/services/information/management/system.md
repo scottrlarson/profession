@@ -20,37 +20,6 @@ caption = ""
 
 {{% system-management-packages %}}
 
-## Backup System Management Service Information
-
-{{% accordion-list title="Backup System Management Case Study" id="disaster-rec-info"  %}}
-### Why would I want Disaster Recovery Backup System Management?
-- One of my customers was surprised that the service Carbonite was not backing up a special accounting program data. Due to the way in which the application accessed the proprietary data, the application prevented Carbonite from accessing and backing it up. The customer had to rebuild that particular data set from scratch.
-- When you run a business and have special software you rely on, I can sit down with you, and find out what data is most important to secure. I provide solutions that aim to prevent catastrophic loss of critical data. In monitoring backup, I can determine what is being backed up. With my **Upkeep System Management Service** I monitoring the life of the hardware which allows me to alert you of a pending failure, or trigger a backup before a loss occurs. Even if you have simple needs, don't let the upgrade of your current system slip though the cracks of a upgrade.
-{{% /accordion-list %}}
-
-{{% accordion-list title="Backup System Management Hardware Requirement Costs" id="disaster-rec-pre"  %}}
-
-{{% alert %}}If you have a current security or backup solution this service would be a replacement. {{% /alert %}}
-
-Depending on your needs, you might need:
-
-- A **reliable USB storage device**: Lacie Rugged Portable HDD 2TB (If required) - $150.00 Per System
-
-\- or -     
-
-- A **NAS(Network Attached Storage)** for multiple computers - $700.00 (Provides local in-home/office network backup's of all your systems, or network access to your files) - An NAS installation usually requires a network site survey service ($400.00) to audit your current networking hardware to confirm that your it's meets the specified requirements for a NAS.
-{{% /accordion-list %}}
-
-
-## Terms
-
-{{% alert %}}System Management is a pre-emptive service that aims to reduce failures, unresolved security, or software/hardware issues that usually cause catastrophes requiring a repair visit. The System Management fees only cover the upkeep of the service and its components. The fees do not cover any other service related issues with your device.{{% /alert %}}
-
-- If you purchase the **Total Security, Upkeep, and Backup System Management Service** package, it covers the installation and upkeep of each service. I remotely manage and customize the service's settings to help prevent most problems from causing system downtime or loss of data. If a problem is identified during my normal monitoring, I will contact you and let you know a normal servicing needs to happen, and we can talk about [fees](/#rates) or I can send you a quote of service. 
-- **Upkeep System Management** is a service that helps prevent downtime by identifying potential problems to your hardware and software before they cause catastrophes.
-- **Backup System Management** is a service that helps prevent backup failures from happening and with the upkeep monitoring portion may enable me to trigger a backup before a catastrophe in many cases.
-- **Security System Management** is a service that in most cases helps prevent threats from causing damage to your system or data.
-
 {{% accordion title="More Technical Information..." id="technical-info" %}}
 
 ### Installed Services/Software

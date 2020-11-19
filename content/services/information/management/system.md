@@ -42,6 +42,4 @@ caption = ""
 
 
 - As of 2020 I use **Macrium Reflect as a Backup** and Disaster recovery solution. It is a reliable and well a tested product for making regular backups and restores of both system and personal data. Macrium Software was founded in 2006 when CEO and Founder Nick Sills experienced a personal data disaster and in the process discovered existing backup tools were not as good as he expected. Wanting a software solution that was practical and easy to use, Nick and his team developed Macrium Reflect to create a safe and secure disk image with ultra-fast recovery times should disaster strike.
-
-- This Management service **does not cover costs of installation or replacement hardware**, if any.
 {{% /accordion %}}

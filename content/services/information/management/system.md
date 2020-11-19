@@ -20,7 +20,7 @@ caption = ""
 
 {{% system-management-packages %}}
 
-{{% accordion title="More Technical Information..." id="technical-info" %}}
+{{% accordion title="Technical Information" id="technical-info" %}}
 
 ### Installed Services/Software
 

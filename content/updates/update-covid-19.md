@@ -24,7 +24,7 @@ I have created the following procedures to minimizing the handling of your devic
 
  
 1. Once the device is in my office, I immediately hook it up to my attached Keyboard, Video & Mouse environment. This allows me to access the device without having to physically be at the device itself. 
-2. When the servicing is complete, I wipe down the outside of the device with 70% Ethyl Rubbing Alcohol.
+2. When the servicing is complete, I wipe down the device with 70% Ethyl Rubbing Alcohol.
 
 {{< srl-alert >}}Please do not order any services if you, or, in the case of a at-location appointment, anyone in your household has shortness of breath, or has signs of any flu like symptoms.{{< /srl-alert >}}
 

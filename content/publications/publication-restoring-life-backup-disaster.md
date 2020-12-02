@@ -13,7 +13,7 @@ categories = ["Guides"]
 [header]
 image = "publications/digital-life/disaster-types.jpg"
 caption = ""
-
+images = ["publications/digital-life/disaster-types.jpg"]
 +++
 
 *Learn why solely backing up your data isn't always enough to recover from a disaster.*

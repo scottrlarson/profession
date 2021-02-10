@@ -19,6 +19,6 @@ caption = ""
 I can help you setup solution that backs-up important data to a local or cloud based storage device.
 
 ## Disaster Recovery Backup Solution
-Storage devices usually have a limited life span due to wear and tear. A disaster recovery solution backs-up your system, programs and personal data. In the event of a hardware loss, or disaster, a recovery of that data can be performed minimizing down-time. Read my [update](\updates\update-disaster-recovery-fire-insurance) and [publication](/publications/publication-disaster-recovery-backup) on why this is important.
+Storage devices usually have a limited life span due to wear and tear. A disaster recovery solution backs-up your system, programs and personal data. In the event of a hardware loss, or disaster, a recovery of that data can be performed minimizing down-time. Read my [update](/updates/update-disaster-recovery-fire-insurance) and [publication](/publications/publication-disaster-recovery-backup) on why this is important.
 
 {{% service-quote %}}

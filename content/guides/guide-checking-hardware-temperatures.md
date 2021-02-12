@@ -44,9 +44,9 @@ If any of these numbers are beyond the specifications I recommend having your de
 
 ## Terms
 
-[^Desktop]: A Desktop computer is a Tower based computer.
-[^CaseAmbientTemp]: The Case Ambient Temperature is the overall temperature that exists inside the case resulting from the heat that all the hardware components give off. If the ambient temperature is too high, that heat will increase the temperature of the resulting hardware components, causing instability and hardware damage.
-[^Value]: The current temperature value.
+[^Desktop]: A **Desktop** computer is a Tower based computer.
+[^CaseAmbientTemp]: The **Case Ambient Temperature** is the overall temperature that exists inside the case resulting from the heat that all the hardware components give off. If the ambient temperature is too high, that heat will increase the temperature of the resulting hardware components, causing instability and hardware damage.
+[^Value]: The **current temperature value**.
 [^MaxTemp]: The Max temperature column displays the highest number measurement of temperature at one point, but did not stay there.
-[^ProcessorTemp]: The CPU or processor, which is the brain of your computer. Knowing the temperatures of the processor is important because if it gets to high, the processor has a sensor that will trigger an immediate shutdown of the computer.
-[^VideoTemp]: The Video Temperature section  measures the Graphics Processing Unit. The GPU drives your monitor or display. Know the temperature of the GPU can help you troubleshooting video glitches or system errors related to the GPU.
+[^ProcessorTemp]: The **CPU or processor temperature**, which is the brain of your computer. Knowing the temperatures of the processor is important because if it gets to high, the processor has a sensor that will trigger an immediate shutdown of the computer.
+[^VideoTemp]: The **Video Temperature section** measures the Graphics Processing Unit. The GPU drives your monitor or display. Know the temperature of the GPU can help you troubleshooting video glitches or system errors related to the GPU.

@@ -39,7 +39,7 @@ Click on option 4, the "**Scheduled Backups**" tab. You will be presented with a
 
 ![Macrium Reflect: Schedule Backups](/img/guides/MacriumReflect/macrium-reflect-scheduled-backups-menu.png)
 
-Due to the complexity of maintaining disaster recovery backups, in many cases, I [remotely manage](/system-management) backups for you as a service. If you have an interested of setting up a disaster recovery backup to secure your data and your desktop environment, [contact me](/#contact).
+Due to the complexity of maintaining disaster recovery backups, in many cases, I [remotely manage](/system-management) backups for you as a service. If you have an interest in setting up a disaster recovery backup to secure your data and your desktop environment, [contact me](/#contact).
 
 ## Terms
 

@@ -19,6 +19,8 @@ Macrium Software was founded in 2006 when CEO and Founder Nick Sills experienced
 
 This is a guide to help beginners perform some operations of managing their own backups. It outlines the basics, If you want to learn more information about specific options, check the [user guide](https://knowledgebase.macrium.com/). 
 
+You can monitor backup schedules, change the day/time backups run and the settings for each backup. Mostly, Macrium does all the work automatically, but on occasion you might need to observe that the backups are running correctly or change a setting.
+
 The most important parts to focus on are: Backups, Restores, Scheduling backup jobs.
 
 With disaster recovery solutions, backing up is the process of creating an image file[^image-file] of the contents of your computer that can be restored from later in the event of data loss[^data-loss] or a catastrophe[^disaster-recovery-catastrophe].
@@ -36,6 +38,8 @@ Once you start Reflect, you should see a screen like this:
 Click on option 4, the "**Scheduled Backups**" tab. You will be presented with a screen that shows you a set of backup schedules with the **Name**, type of backup (Full, Differential, and Incremental), **Schedule** (day and time the backup will run), the **Next Run Time**, the **Last Run Time** (when the backup ran previously), The **Status** of the backup (Ready - will run on the next run time, Running - Currently running), **Last Result** (Successful, or Failed):
 
 ![Macrium Reflect: Schedule Backups](/img/guides/MacriumReflect/macrium-reflect-scheduled-backups-menu.png)
+
+Due to the complexity of maintaining disaster recovery backups, in many cases, I [remotely manage](/system-management) backups for you as a service. If you have an interested of setting up a disaster recovery backup to secure your data and your desktop environment, [contact me](/#contact).
 
 ## Terms
 

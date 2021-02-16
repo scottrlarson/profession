@@ -11,12 +11,16 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "services/"
+image = "services/srl-data-transfer.png"
 caption = ""
 
 +++
-![Drive Replacement](/img/highlights/replacement-hard-drive.jpg)
+
 A data transfer is a service that involves moving, or copying data from one, or more source devices and transferring that data to a target device, or devices, such as another computer or a secondary storage device.
+
+{{% alert title="Data/System Transfers/Migrations" url="" %}}If you require a data transfer service and you do not know the specifics of your data, like what file types/software you want transferred/migrated or the location of where your data files are stored, a migration audit report is required. I audit your system or data to determine what needs to be transferred before the data transfer service is performed.{{% /alert %}}
+
+{{% alert title="Damaged Media" url="" %}}Physical media like floppy, hard disk drives, and optical disks have a shelf life of 10-20 years. Also your disk are subject to wear and tear damage. Transferring data from damaged disks fall under my [Data Recovery Service](/services/data/recovery/). {{% /alert %}}
 
 ## Migration Audit Report
 In some cases, an audit report of your applications, software, settings and data is performed to ascertain the specifics of data you want transferred. This service is for a customer that does not know what needs to be transferred.
@@ -25,6 +29,11 @@ In some cases, an audit report of your applications, software, settings and data
 
 ## Drive Replacement
 If you require your storage device to be replaced or upgraded. This service is only required if your storage device has failed, or is running out of space.
+
+{{% service-price item="$50.00" %}}
+
+## Drive Removal
+If one or more of my services depends on having the storage device removed, this service may need to be performed. In many cases, involving really old or non-functioning devices, I need to remove the storage device to perform a transfer or migration.
 
 {{% service-price item="$50.00" %}}
 
@@ -43,7 +52,7 @@ If you are having trouble moving your mail from one service to another I have sp
 
 {{% service-quote %}}
 
-# Disk Transfer
+## Disk Transfer
 
 Floppy, Zip and Optical (DVD,and CD) first 4 disks:
 {{% service-price item="$25.00" %}}

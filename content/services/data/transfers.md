@@ -48,7 +48,7 @@ Transfer files and folders from one device to another.
 {{% service-range item-min="$50" item-max="$200" %}}
 
 ## Email Transfer
-If you are having trouble moving your mail from one service to another I have special tools and expertise in transferring POP and IMAP mail from one storage location to another.
+If you are having trouble moving your mail from one service to another, I have special tools and expertise in transferring POP and IMAP mail.
 
 {{% service-quote %}}
 

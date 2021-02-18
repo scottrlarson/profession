@@ -65,7 +65,7 @@ weight = 1
 +++
 
 {{% accordion title="Current Services & Location" col="in" id="services" %}}
-I provide computer repair services in my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers in my office, I do home and office visits. I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. <a href="#contact">Contact</a> me if you have questions, to setup an appointment to have your device serviced at my office, or want to setup a home/office consultation.
+I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. <a href="#contact">Contact</a> me if you have questions. You can schedule an appointment with me to have your device serviced at my office, or to setup a home/office consultation.
 {{% /accordion %}}
 
 {{% alert title="My response to the COVID-19 Crisis" url="/updates/update-covid-19" %}}Due to my particular field, being an essential service to the public, I am remaining in operation. I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am taking every precaution necessary to prevent the spread of this virus[...more](/updates/update-covid-19){{% /alert %}}

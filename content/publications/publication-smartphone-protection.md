@@ -6,7 +6,7 @@ aliases = ["/updates/update-smartphone-protection/"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Mobile", "Security", "Digital life protection", "Shelter-in-place"]
-categories = ["Scooter's Awareness Training", "Scooter's Awareness Guide"]
+categories = ["Scooter's Awareness Training", "Scooter's Awareness Guide", "Scooter's Best Practices"]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "cs-article-protecting-smartphone-hacked.png"`.
 [header]

@@ -1,5 +1,5 @@
 +++
-title = "Cultural Domination Reflections"
+title = "Uncovering my own Cultural Domination Aspects"
 date = 2021-02-21T07:26:58-08:00
 draft = false
 
@@ -16,7 +16,11 @@ caption = ""
 
 +++
 
-I am involved in doing interpersonal work with the Mankind Project and one of the topics that came up for me this week is my behavior around anger and irritation. One of my Mankind Project brothers suggested I do some writing around this topic. I decided to turn this into a writing via voice dictation on the path of a mini-journey.
+I am involved in doing interpersonal work with the [Mankind Project](https://mankindproject.org/) and one of the topics that came up for me this week is my behavior around anger and irritation towards others when I want to push people away. I am discovering that aspects of my behavior around my mother (The Feminine) is a result of what I have learned from my Father (The Masculine). The way in which my parents related to each other contains a male dominating aspect to it. 
+
+One of my Mankind Project brothers suggested I do some writing around this topic. I decided to turn this into a writing via voice dictation on the path of a mini-journey.
+
+For background information on the topic of what I call "Cultural Domination" check out the Wikipedia [article](https://en.wikipedia.org/wiki/Cultural_imperialism) on "Cultural Imperialism"
 
 ![Paths](/img/reflections/cultural-domination-1/paths.jpg)
 

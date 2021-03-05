@@ -3,7 +3,7 @@ title = "Remote System Management"
 date = 2018-08-30T13:28:18-07:00
 draft = false
 summary = "I provide recurring home and small office remote system management services for your PC Desktops and Laptops. I handle system security, backup and upkeep. Remote system management improves performance of your device, minimizes down time and service visits by tuning your system for optimal performance and predicting hardware/software failures."
-aliases = ["/web-service-capabilities","/system-management","/packages/package-system-management"]
+aliases = ["/web-service-capabilities","/system-management","/packages/package-system-management","management"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []

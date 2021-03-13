@@ -2,7 +2,7 @@
 title = "What is Identity Theft Protection, and do you need it?"
 date = 2019-11-09T12:33:54-08:00
 draft = false
-aliases = ["/updates/update-id-theft-what-why/"]
+aliases = ["/updates/update-id-theft-what-why/", "/publications/ITP/"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Identity Theft", "Security", "Digital life protection", "Shelter-in-place"]

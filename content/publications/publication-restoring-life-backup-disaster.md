@@ -2,7 +2,7 @@
 title = "Restoring your digital life from backup after a disaster"
 date = 2019-12-21T14:44:47-08:00
 draft = false
-aliases = ["/updates/update-restoring-life-backup-disaster/"]
+aliases = ["/updates/update-restoring-life-backup-disaster/","/publications/restoringlifebackup"]
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Backup", "Planning", "Restoring", "Data", "Digital life protection", "Shelter-in-place"]

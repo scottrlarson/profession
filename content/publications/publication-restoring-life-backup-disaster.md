@@ -11,7 +11,7 @@ categories = ["Guides"]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "publications/digital-life/disaster-types.jpg"
+image = "publications/digital-life/disaster-recovery.png"
 caption = ""
 images = ["publications/digital-life/disaster-types.jpg"]
 +++

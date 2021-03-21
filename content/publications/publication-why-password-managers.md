@@ -1,5 +1,5 @@
 +++
-title = "Why Password Managers?"
+title = "Why everyone should use a password manager"
 date = 2021-03-03T11:00:52-08:00
 draft = false
 

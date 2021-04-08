@@ -79,7 +79,7 @@ Support sane [copyright legislation](https://www.fightforthefuture.org/fixcopyri
 
 
 {{% accordion title="Professional Background" id="professional" %}}
-I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in late nineties. In early 2000 I moved on to Systems Administration for small networks. I got tired with the corporate world and started providing services to the public of Santa Rosa as a independent IT service man. Today I still provide IT services to the public of Santa Rosa, California and surrounding areas.
+I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in the late nineties. I then moved on to Systems Administration for small networks. Disillusioned with the corporate world, I  decided to leave that world behind and provide services directly to the public as a independent computer service professional.
 {{% /accordion %}}
 
 {{% accordion title="Spiritual Activism" id="activism" %}}

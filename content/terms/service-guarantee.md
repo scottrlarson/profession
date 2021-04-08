@@ -15,4 +15,4 @@ image = ""
 caption = ""
 
 +++
-All my services are guaranteed to be free of mistakes. Any device purchased from me that has parts containing a replacement guarantee from the manufacturer, also carries my 1 year labor replacement warranty from the day of purchase.
+All my services are guaranteed to be free of mistakes in servicemanship. Any device purchased from me that has parts containing a replacement guarantee from the manufacturer, also carries my 1 year labor replacement warranty from the day of purchase.

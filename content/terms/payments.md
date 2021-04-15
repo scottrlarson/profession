@@ -27,8 +27,8 @@ Payments are due upon pick-up of your device.
 ## At-location
 I require payment before I leave the location where I provide you service unless special arrangements are made for recurring service. In this case I will bill you for that service, upon receipt of a bill of service, you have two weeks to pay that bill.
 
-# Online Servicing
+## Online Servicing
 I will bill you for this service after it's completed, upon receipt of a bill of service, you have two weeks to pay that bill.
 
-### Notice about late payments
-There is a $1.00 fee (Per Day) for late payments. Too many late or unpaid bills will result in services being halted at a time of my discretion. Repeated late or unpaid bills will result in the termination of the service relationship.
+## Notice about late payments
+There is a $1.00 fee (Per Day) for late payments. Too many late or unpaid bills will result in services being halted at a time of my discretion, or your service will be reprioritized for timely paid customers. **Repeated late or unpaid bills will result in the termination of the service relationship.**

@@ -572,7 +572,7 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 }
 
 
-.contact2-field {display: hidden;}
+.hidden {display: none;}
 
 .alert-container {
 	font-size: 80%;

@@ -63,6 +63,11 @@ weight = 1
   images = ["profile-scottrlarson.png"]
   
 +++
+{{% accordion title="2021 Out-of-Office Dates" col="in" id="outofoffice" %}}
+July 19th-23rd (Monday-Friday): I will be attending [GDC](https://gdconf.com/) and will be out of the office.  
+November 25th (Thursday): Thanksgiving  
+December 24th-31th: The Week of Christmas and New years eve. I will return on Jan 1st 2022.
+{{% /accordion %}}
 
 {{% accordion title="Current Services & Location" col="in" id="services" %}}
 I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. <a href="#contact">Contact</a> me if you have questions. You can schedule an appointment with me to have your device serviced at my office, or to setup a home/office consultation.

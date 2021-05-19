@@ -46,20 +46,20 @@ Under my Analysis/Handling fee I will determine which category your data loss is
 
 {{% service-custom label="Analysis/Handling" item="$127.00" %}}
 
-### Standard Recovery (No Hardware Failure/Damage) 
+### 1. Standard Recovery (No Hardware Failure/Damage) 
 Drives or disks that have data loss resulting from operations like deletions, formatting, or inadvertent file system damage. 
 
 {{% service-range item-min="$300" item-max="$600" %}}
 Data recovery rates for a functioning device (device powers on, and is accessible via the hardware interface.)
 
-### Advanced Recovery (Minimal Hardware Damage)
+### 2. Advanced Recovery (Minimal Hardware Damage)
 
 {{% service-range item-min="$800" item-max="$4000" %}}
-Data recovery rates for a non-functioning HDD (Device does not detect, power on, or does power on, but the contents of the file system cannot be read in any meaningful way, necessitating a mechanical failure recovery.)
+Data recovery rates for a non-functioning HDD (Device does not detect, but powers up correctly)
 
-### Catastrophic Recovery (Critical Hardware Damage)
+### 3. Catastrophic Recovery (Critical Hardware Damage)
 {{% service-range item-min="$1300" item-max="$5000" %}}
-Data recovery rates for a non-functioning Solid State Device such as a USB flash drive or a SSD drive (Device does not detect, power on, or does power on, but the contents of the file system cannot be read in any meaningful way, necessitating a mechanical failure recovery.)
+Data recovery rates for a non-functioning Solid State Device such as a USB flash drive or a SSD drive (Device does not detect and/or does not power on. Or the device does power on, but there are noises indicating a problem with the media or the contents of the file system cannot be read in any meaningful way, necessitating a mechanical failure recovery.)
 
 ## Password/System Recovery
 

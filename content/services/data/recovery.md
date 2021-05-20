@@ -60,9 +60,9 @@ Data recovery rates for a non-functioning device. The device does not detect and
 
 ## Password/System Recovery
 
-If you are unable to access your device or data, I can help you gain access to the data or equipment. 
+If you are unable to access your device or data, in many cases I can gain access to the data or equipment. 
 
-You must own the equipment, or have power of attorney to act on the owner's behalf. I will need documentation confirming that you purchased the equipment, or a document stating that you have authority to act on behalf of the owner to allow me to service the equipment. 
+For me to perform this service, you must own the equipment, or have power of attorney to act on the owner's behalf. I will need documentation confirming that you purchased the equipment, or a document stating that you have authority to act on behalf of the owner to allow me to service the equipment. 
 
 {{% service-custom label="System Recovery" item="$125.00" %}}
 

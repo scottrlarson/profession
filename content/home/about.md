@@ -64,16 +64,16 @@ weight = 1
   
 +++
 {{% accordion title="2021 Out-of-Office Dates" col="in" id="outofoffice" %}}
-July 19th-23rd (Monday-Friday): I will be attending [GDC](https://gdconf.com/) and will be out of the office.  
-November 25th (Thursday): Thanksgiving  
-December 24th-31th: The Week of Christmas and New years eve. I will return on Jan 1st 2022.
+**July 19th-23rd (Monday-Friday)**: I will be attending [GDC](https://gdconf.com/) and will be out of the office.  
+**November 25th (Thursday)**: Thanksgiving  
+**December 24th-31th**: The Week of Christmas and New years eve. I will return on Jan 1st 2022.
 {{% /accordion %}}
 
 {{% accordion title="Current Services & Location" col="in" id="services" %}}
 I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. <a href="#contact">Contact</a> me if you have questions. You can schedule an appointment with me to have your device serviced at my office, or to setup a home/office consultation.
 {{% /accordion %}}
 
-{{% alert title="My response to the COVID-19 Crisis" url="/updates/update-covid-19" %}}Due to my particular field, being an essential service to the public, I am remaining in operation. I am a one man shop in isolation, and I operate by appointment, which allows me to control the stream of customers, I am taking every precaution necessary to prevent the spread of this virus[...more](/updates/update-covid-19){{% /alert %}}
+{{% alert title="Apprenticeship Opportunity" url="/education/apprentice-opportunity" %}}I am interested in training a apprentice in my field. If you, or someone you know, are/is interested in an in-depth understanding of how hardware and software computer technology works to be able to troubleshoot your own computer problems, or build your own computer, this apprenticeship opportunity is for you. [...more](/education/apprentice-opportunity){{% /alert %}}
 
 
 {{% alert title="We Have the Right to Repair Everything We Own" url="https://www.ifixit.com/Right-to-Repair/Intro" %}}

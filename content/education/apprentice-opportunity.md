@@ -26,6 +26,13 @@ My main interests are in gaming technology. I'm a old school gamer at heart and 
 
 Eventual I would like to apprentice two individuals. One who is interested in repairing/upgrading laptops and another repairing upgrading desktops. 
 
+## Main Requirements
+- Must be 18 years of age or older
+- Be available 2-3 days per week (Depending on my work load)
+- Be available 2-4 hours per day (Depending on my work load)
+- Live in Santa Rosa, California or the surrounding area within 20 miles.
+- Have reliable transportation
+
 ## Laptop Technician Requirements
 
 - Have 20/20 or better eyesight or have equivalent with prescriptions eyewear.
@@ -37,14 +44,6 @@ Eventual I would like to apprentice two individuals. One who is interested in re
 - Have 20/20 or better eyesight or have equivalent with prescriptions eyewear.
 - Have good dexterity in handling electronic parts.
 - Willingness to learn how to follow a standard procedure during servicing.
-
-## Age Requirements
-- 18+
-
-## Time Requirements
-- 2-3 days per week (Depending on my work load)
-- 2-4 hours per day (Depending on my work load)
-
 
 ## Commitment Requirements
 - Willingness to learn, even when the tasks does not seem related to the project at hand.

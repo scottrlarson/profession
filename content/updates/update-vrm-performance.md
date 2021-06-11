@@ -15,7 +15,7 @@ image = ""
 caption = ""
 
 +++
-
+(content needs to be changed)
 Skip to content
 What is VRM and How it Affects CPU Performance
 By John Perkins / Feb 17, 2021 / Hardware

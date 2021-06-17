@@ -64,37 +64,9 @@ from:
 -   Malware or Ransomeware infections by being able to restore from a
     previous backup.
 
-### Yearly Management & Maintenance {#yearly-management-maintenance .headingAttributes}
+See my [remote system management service packages](/management) for more information about keeping your device protected from a data loss situation.
 
-When you purchase this solution from me, I set you up with your own
-disaster recovery solution and provide you with management & maintenance
-service for 1 year. Having a yearly management & maintenance service
-contract frees you from having to maintain the solution yourself when it
-stops working or when it needs to be updated.
 
-I have a confession to make. I didn't tell you the whole story about
-the customer that had that Windows update failure. I didn't mention
-that this customer requested more information from me about this very
-solution prior to the disasters. When I sent this customer a quote on my
-disaster recovery solution this customer didn't think the solution was
-worth the cost. I do my very best to keep costs to a minimum, but do you
-really want to find yourself in a situation where you have to pay
-someone for a lengthy repair when you can have a secure disaster
-recovery solution in place where I provide all the resources you need to
-help you recover in the event of catastrophe? I provide the most
-comprehensive backup solutions to individuals and small business in
-northern California area that are affordable, but make no mistake, just
-like an insurance policy staying secure costs, regularly. If you want to
-have control over your data you need to have a budget for this area of
-your life.
-
-{{% disaster-recovery-rates %}}
-
-I will devise a plan that meets your expectations and provides you with
-a safe recovery environment in the event of damage or loss to you most
-important data.
-
-{{% service-quote %}}
 
 
 ------------------------------------------------------------------------

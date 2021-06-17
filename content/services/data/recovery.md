@@ -16,11 +16,13 @@ caption = ""
 
 +++
 ## Data Recovery
+Data Recovery is a process of evaluating and attempting to retrieve data that has become inaccessible due to an operating system failure, hardware damage, or due to accidental deletion by the user.   
+
 {{% alert title="STOP!" url="" %}}
 If you experienced a loss on a device you are currently using, unless you have a backup of your lost/damaged data that you want to recover,  stop using your device immediately after you notice the loss, or failure, as further use could prevent a full recovery.
 {{< /alert >}}
 
-The chances of recovery depend on some factors: If you own a Laptop or Desktop with either a Hard Disk Drive or Solid State Storage device. The state of the damage/loss on the device, or if your data was deleted, or wiped. In some cases, you might have a backup of your damaged or lost data and if so, in many cases data can be recovered from this backup. If you do not have a backup of your data, and you have no choice but to attempt a recovery, I will need to perform an analysis on your device, to confirm that the lost/damaged data can be recovered.
+The chances of recovery depend on some factors: If you own a Laptop or Desktop with either a Hard Disk Drive or Solid State Storage device. The state of the damage/loss on the device, or if your data was deleted, or wiped. In some cases, you might have a backup of your damaged or lost data and if so, in many cases, data can be recovered from this backup. If you do not have a backup of your data, or you do not know how to access your backup, [contact me](/#contact) for a consultation. Otherwise, depending on the above circumstances, I can attempt a recovery, I will need to perform an analysis on your device to confirm that the lost/damaged data can be recovered.
 
 - Data Recovery turn-Around times and costs can vary. Turn-around times can take between 1 day to 3 weeks depending on my time constraints, and the state of your device. If physical damage exists on your device, the particular damage may significantly slow your device's recovery time. Check below for price ranges.
 - The recovery fee portion covers a full recovery of the data you need.

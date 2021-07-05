@@ -32,7 +32,7 @@ caption = ""
 
 **[Carbonite Safe](https://www.carbonite.com/)**: This software is used in the **Backup System Management Service** as a fail-over backup for personal data in the event you loose access to your location, the equipment is lost/taken, or Macrium Reflect fails to make a backup. Personal data like documents, and pictures are backed up to the Carbnoite cloud on a realtime schedule.
 
-**[Emsisoft Antimalware](https://www.carbonite.com/)**: This software is used in the **Security System Management Service** as a security product designed to minimize on-line and local threats to your device.
+**[Bitdefender Total Security MSP Edition](https://www.bitdefender.com/solutions/total-security.html#features)**: This software is used in the **Security System Management Service** A security product designed to protect customers against on-line and local threats.
 	
 ### Definitions
 

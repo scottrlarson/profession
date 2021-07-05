@@ -2,7 +2,7 @@
 title = "Smart Device"
 date = 2021-06-19T09:01:14-07:00
 draft = false
-
+summary = "A smart device is an electronic device, generally connected to other devices or networks via different wireless protocols such as Bluetooth, Wi-Fi, or cellular networks that can operate to some extent interactively and autonomously."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Security" ,"Access"]

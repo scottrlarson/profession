@@ -631,6 +631,14 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   background-color: rgb(50, 52, 64);
 }
 
+
+.divColTable {
+  width: 100
+  display: table;
+  background-color: rgb(50, 52, 64);
+  padding: 10px;
+}
+
 .divResTable--6cols > .divResTableCell  { width: 16.4%; }
 
 .divResTable--5cols > .divResTableCell  { width: 20%; }
@@ -658,6 +666,15 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 }
 
 .divResTableCell {
+  padding: 10px;
+	box-sizing: border-box;
+  width: 100%;  // Default to full width
+  padding: 0.8em 1.2em;
+  overflow: hidden; // Or flex might break
+}
+
+.divColTableCell {
+  display: block;
   padding: 10px;
 	box-sizing: border-box;
   width: 100%;  // Default to full width

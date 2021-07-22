@@ -25,22 +25,22 @@ A data transfer is a service that involves moving, or copying data from one, or 
 ## Migration Audit Report
 In some cases, an audit report of your applications, software, settings and data is performed to ascertain the specifics of data you want transferred. This service is for a customer that does not know what needs to be transferred.
 
-{{% service-price item="$50.00" %}}
+{{% service-price item="$54.00" %}}
 
 ## Drive Replacement
 If you require your storage device to be replaced or upgraded. This service is only required if your storage device has failed, or is running out of space.
 
-{{% service-price item="$50.00" %}}
+{{% service-price item="$54.00" %}}
 
 ## Drive Removal
 If one or more of my services depends on having the storage device removed, this service may need to be performed. In many cases, involving really old or non-functioning devices, I need to remove the storage device to perform a transfer or migration.
 
-{{% service-price item="$50.00" %}}
+{{% service-price item="$54.00" %}}
 
 ## System Transfer
 In most cases, operating systems, settings, and applications can be transferred to another device. [Call](/#contact) for more information.
 
-{{% service-range item-min="$125" item-max="$300" %}}
+{{% service-range item-min="$127" item-max="$330" %}}
 
 ## Files Transfer
 Transfer files and folders from one device to another. 
@@ -56,10 +56,10 @@ If you are having trouble moving your mail from one service to another, I have s
 ## Disk Transfer
 
 Floppy, Zip and Optical (DVD,and CD) first 4 disks:
-{{% service-price item="$25.00" %}}
+{{% service-price item="$27.50" %}}
 
 Floppy, Zip and Optical (DVD,and CD) 10 disks or more:
-{{% service-price item="$10.00" %}}
+{{% service-price item="$11.00" %}}
 
 Floppy, Zip and Optical (DVD,and CD) 20 disks or more:
-{{% service-price item="$05.00" %}}
+{{% service-price item="$07.50" %}}

@@ -43,9 +43,10 @@ In most cases, operating systems, settings, and applications can be transferred 
 {{% service-range item-min="$125" item-max="$300" %}}
 
 ## Files Transfer
-Transfer files and folders from one device to another.
+Transfer files and folders from one device to another. 
+{{% alert %}}The amount of date you have depends on the size of the folder/folders you want transferred. If you need help determining this [contact me](/#contact). As an example, there are about 40,000 photos in a set of files that equals 250gigs of data. {{% /alert %}}
 
-{{% service-range item-min="$50" item-max="$200" %}}
+{{% service-custom label="Per 250gigs" item="$54" %}}
 
 ## Email Transfer
 If you are having trouble moving your mail from one service to another, I have special tools and expertise in transferring POP and IMAP mail.

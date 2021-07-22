@@ -63,28 +63,18 @@ weight = 1
   images = ["profile-scottrlarson.png"]
   
 +++
-{{% accordion title="2021 Out-of-Office Dates" col="in" id="outofoffice" %}}
-**July 19th-23rd (Monday-Friday)**: I will be attending [GDC](https://gdconf.com/) and will be out of the office until monday the 26th.  
-**November 25th (Thursday)**: Thanksgiving  
-**December 24th-31th**: The Week of Christmas and New years eve. I will return on Jan 1st 2022.
+{{% accordion title="Professional Background" col="in" id="professional" %}}
+I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in the late nineties. I then moved on to Systems Administration for small networks. Disillusioned with the corporate world, I  decided to leave that world behind and provide services directly to the public as a independent computer service professional.
 {{% /accordion %}}
 
 {{% accordion title="Current Services & Location" col="in" id="services" %}}
-I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. <a href="#contact">Contact</a> me if you have questions. You can schedule an appointment with me to have your device serviced at my office, or to setup a home/office consultation.
+I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. <a href="#contact">Contact</a> me if you have questions, to schedule an appointment with me to have your device serviced at my office, or to setup a home/office consultation.
 {{% /accordion %}}
 
-{{% alert title="Apprenticeship Opportunity" url="/education/apprentice-opportunity" %}}I am interested in training an apprentice in my field. If you, or someone you know, are/is interested in an in-depth understanding of how hardware and software computer technology works to be able to troubleshoot your own computer problems, or build your own computer, this apprenticeship opportunity is for you. [...more](/education/apprentice-opportunity){{% /alert %}}
-
-
-{{% alert title="We Have the Right to Repair Everything We Own" url="https://www.ifixit.com/Right-to-Repair/Intro" %}}
-  Once you’ve paid money for a product, the manufacturer shouldn’t be able to dictate how you use it—it’s yours. Ownership means you should be able to open, hack, repair, upgrade, or tie bells on it.
-Support sane [copyright legislation](https://www.fightforthefuture.org/fixcopyright/).{{% /alert %}}
-
-{{% alert %}} Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRECODE25 when paying and I will take 25% off your bill of service.{{% /alert %}}
-
-
-{{% accordion title="Professional Background" col="in" id="professional" %}}
-I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in the late nineties. I then moved on to Systems Administration for small networks. Disillusioned with the corporate world, I  decided to leave that world behind and provide services directly to the public as a independent computer service professional.
+{{% accordion title="2021 Out-of-Office Dates" col="in" id="outofoffice" %}}
+**July 19th-23rd (Monday-Friday)**: I will be attending [GDC](https://gdconf.com/) and will be out of the office until Monday the 26th.  
+**November 25th (Thursday)**: Thanksgiving  
+**December 24th-31th**: The Week of Christmas and New years eve. I will return on Jan 1st 2022.
 {{% /accordion %}}
 
 {{% accordion title="Spiritual Activism" id="activism" %}}
@@ -98,3 +88,14 @@ In 2019 I suffered a Cerebral Hemorrhage. I wrote a [book](/publications/publica
 
 Check out my writing [events](/events/authoring), [projects](/projects), [quotes](/quotes), [books](/books), and [reflections](/reflections).
 {{% /accordion %}}
+
+{{% alert title="Apprenticeship Opportunity" url="/education/apprentice-opportunity" %}}I am interested in training an apprentice in my field. If you, or someone you know, are/is interested in an in-depth understanding of how hardware and software computer technology works to be able to troubleshoot your own computer problems, or build your own computer, this apprenticeship opportunity is for you. [...more](/education/apprentice-opportunity){{% /alert %}}
+
+
+{{% alert title="We Have the Right to Repair Everything We Own" url="https://www.ifixit.com/Right-to-Repair/Intro" %}}
+  Once you’ve paid money for a product, the manufacturer shouldn’t be able to dictate how you use it—it’s yours. Ownership means you should be able to open, hack, repair, upgrade, or tie bells on it.
+Support sane [copyright legislation](https://www.fightforthefuture.org/fixcopyright/).{{% /alert %}}
+
+{{% alert %}} Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRECODE25 when paying and I will take 25% off your bill of service.{{% /alert %}}
+
+

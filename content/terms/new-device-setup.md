@@ -2,7 +2,7 @@
 title = "New Device Setup"
 date = 2018-08-22T14:36:04-07:00
 draft = false
-
+summary = "When you purchase a device from me, bring a new device in for setup or a tune-up, I will remove or replace features that I deem best for my customers. These fine tuning operations are done to improve customer experience..."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -16,7 +16,7 @@ caption = ""
 
 +++
 
-When you purchase a device from me, I tend to perform a clean up and fine tuning operations that involve customizing the software/hardware. To provide the best possible performance while minimizing issues that arise out of faulty or unwanted software and hardware installed from 3rd parties, I will remove or replace features that I deem best for my customers.
+**When you purchase a device from me, bring a new device in for setup or a tune-up, I will remove or replace features that I deem best for my customers. These fine tuning operations are done to improve customer experience.**
 
 This might include removing, or replacing (also by your request): security software, preloaded apps that are not part of the required core functionality of the system, or hardware that is causing performance bottlenecks. For example, I might increase the memory size, or the speed of the storage device.
 
@@ -26,10 +26,10 @@ If you request a removal of an application, you will be liable for any ramificat
 
 ## My Windows 10 Restore/Reset Service Includes Decrapifing
 
-In 2017, Microsoft implemented data collection into it's Windows 10 Operating System. Due to the negative effects that this practice has on customer privacy, when I install, or reinstall Windows 10 on any machine that enters this office, I remove and disable certain unnecessary and unwanted functions.(Please note that I do not guarantee any performance improvements on any of these adjustments.):
+Due to Windows 10 data collection practices and the impact it has on customer privacy, when I install, reinstall, or tune-up Windows 10 on any machine that enters this office, I remove and disable the unnecessary and in many cases unwanted functions listed below. If you need any of these applications restored, you can contact me to re-enabled those features at no charge to you, by a office visit, or a remote session. These requests are subject to my time constraints and are dependent upon access to the device. Additionally, you can opt to install the app in question yourself by launching the Microsoft Store App on your computer, doing a search for the missing App, and then installing it. (Please note that I do not guarantee any performance improvements on any of these adjustments.):
 
 - I disable all Telemetry and Data Collection services.
-- I uninstall all Microsoft Windows 10 apps, except the basic, or useful ones that would prevent the normal operation of the device: Mail, Microsoft Store, Calculator, Sticky, Windows.photos, Soundrecorder, MSpaint, Screensketch.
-- I Install new default applications to make use of: Photos(Fast Stone Image Viewer), Internet Browsing(Mozilla Firefox and Google Chrome), Email(Mozilla Thunderbird) Videos(VLC), and Media Creation(Burn Aware).
+- I uninstall all Microsoft Windows 10 apps, except the basic, or useful ones that would prevent the normal operation of the device: Mail, Microsoft Store, Calculator, Sticky, Windows.photos, Soundrecorder, MSpaint, Screensketch, Cortana.
+- I may Install new default applications to make use of: Photos(Fast Stone Image Viewer), Internet Browsing(Mozilla Firefox and Google Chrome), Email(Mozilla Thunderbird) Videos(VLC), and Media Creation(Burn Aware).
 
 I do this to give my customers a good experience with their device by decluttering the operation of Windows 10. This improves the performance and user experience.

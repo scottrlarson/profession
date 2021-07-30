@@ -2,7 +2,7 @@
 title = "Software Installation"
 date = 2018-02-05T14:53:34-08:00
 draft = false
-
+summary = "I can install and configure a wide variety of software packages ranging from office applications to professional products."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -13,11 +13,10 @@ categories = []
 [header]
 image = "services/cs-software-install-package.png"
 caption = ""
-
 +++
 ## Software Package
-I can install and configure a wide variety of software packages ranging from office applications to professional products.<!--more-->
-
+I can install and configure a wide variety of software packages ranging from office applications to professional products.
+ 
 ### Additional Charges
 
 <ul>

@@ -18,7 +18,7 @@ caption = ""
 
 As a professional computer technician, I'm responsible for addressing operational related issues with technology at the time of servicing.
 
-Preexisting software or hardware problems can be revealed at any time during a servicing by software bugs and configuration changes that are introduced during a repair or resolution, during or after servicing. These bugs or changes can cause pervasive and reoccurring issues that may require follow-up intervention to resolve. 
+Preexisting unrelated/related software or hardware problems can be revealed at any time that can be missed during a servicing by software bugs and configuration changes that are introduced during a repair or resolution, during or after servicing. These bugs or changes can cause pervasive and reoccurring issues that may require follow-up intervention to resolve. 
 
 When this rare situation arises, I can address these issues at a later date at my [regular rates](/#service-repair-rates-turnaround). Reoccurring issues that are attributed to the same conditions that caused the original issue, can be handled under a reduced fee (at my discretion). If the issue is closely related to the original issue from a previous servicing, I may reduce the rate in half for the second visit. Also In some rare cases, if there is a third or forth visit, I may reduce my rate to 75% of what I originally charged.
 

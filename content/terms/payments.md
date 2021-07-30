@@ -17,7 +17,7 @@ caption = ""
 
 +++
 
-All payments can be made via check or cash. If you prefer to pay by credit card, you can [paypal](paypal.me/scottrlarson) me, or venmo me at @scottrlarson.
+All payments can be made via check or cash. If you prefer to pay by credit card, you can [paypal](paypal.me/scottrlarson) me, or [venmo me](https://account.venmo.com/u/scottrlarson) at @scottRlarson. On Venmo, my handle is connected to a business. So if you do not see my listing, switch to the business tab.
 
 ## In-shop Servicing
 Payments are due upon pick-up of your device.

@@ -12,4 +12,4 @@ subtitle = ""
 weight = 110
 +++
 
-Consultations can happen in my office, or at your location. Rates are based on location and distance and starts at $125 an hour with a one hour minimum. My availability depends on the level of my in-shop repair priority service. [Contact me](/#contact) for more information. 
+Consultations can happen in my office, or at your location. Rates are based on location and distance and starts at $125 an hour with a one hour minimum. At office/home appointments that require a 1-3 day arrival are twice the normal rate per hour, otherwise expect to wait a week for regular arrivals. My availability depends on the level of my in-shop repair priority service. [Contact me](/#contact) for more information. 

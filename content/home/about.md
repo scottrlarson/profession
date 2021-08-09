@@ -71,8 +71,11 @@ I am a computer and information technology professional. I got my start in techn
 I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. <a href="#contact">Contact</a> me if you have questions, to schedule an appointment with me to have your device serviced at my office, or to setup a home/office consultation.
 {{% /accordion %}}
 
+{{% accordion title="My Service Precautions" col="in" id="precautions" %}}
+Please read and observe the following [precautions](/#precautions) to minimizing the spread of viruses during this pandemic. 
+{{% /accordion %}}
+
 {{% accordion title="2021 Out-of-Office Dates" col="in" id="outofoffice" %}}
-**July 19th-23rd (Monday-Friday)**: I will be attending [GDC](https://gdconf.com/) and will be out of the office until Monday the 26th.  
 **November 25th (Thursday)**: Thanksgiving  
 **December 24th-31th**: The Week of Christmas and New years eve. I will return on Jan 1st 2022.
 {{% /accordion %}}

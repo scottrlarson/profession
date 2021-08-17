@@ -56,4 +56,5 @@ I provide home/business visits. If you need priority (1-3 day scheduled in advan
 
 At your request, I will wipe down any equipment with 70% rubbing alcohol after I have completed the service, otherwise I expect you to protect yourself by doing your own cleaning after I leave the location.
 
+## Contact Info & Scheduling
 {{% contact-info %}}

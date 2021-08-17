@@ -71,6 +71,10 @@ I am a computer and information technology professional. I got my start in techn
 I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. <a href="#contact">Contact</a> me if you have questions, to schedule an appointment with me to have your device serviced at my office, or to setup a home/office consultation.
 {{% /accordion %}}
 
+{{% accordion title="Scheduling" col="in" id="scheduling" %}}
+{{% scheduling %}}
+{{% /accordion %}}
+
 {{% accordion title="My Service Precautions" col="in" id="precautions" %}}
 Please read and observe the following [precautions](/#precautions) to minimizing the spread of viruses during this pandemic. 
 {{% /accordion %}}

@@ -15,9 +15,9 @@ image = "services/cs-performance-tuning.png"
 caption = ""
 
 +++
-Is your 5 year or newer device running slow, or not the way you expected it to operate? Are you having problems with security? Find out how you can increase your performance without having to replace it. <a href="/services/computer/assistance/phone">Call</a> or <a href="/services/computer/assistance/request">schedule an appointment</a> to drop-off your device to get a free 20 minute evaluation today! </p>
+Is your 5 year or newer device running slow, or not the way you expected it to operate? Are you having problems with security? Find out how you can increase your performance without having to replace it. <a href="/services/computer/assistance/phone">Call</a> or <a href="/services/computer/assistance/request">schedule an appointment</a> to drop-off your device to get a performance tune-up audit! </p>
 
-{{% service-custom label="20min Evaluation" item="Free" %}}
+{{% service-custom label="Performance Tune-up Audit" item="$52" %}}
 
 When you just want to make sure your computer is running normally, I offer a more comprehensive check-up of your device.
 

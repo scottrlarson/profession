@@ -68,7 +68,7 @@ I am a computer and information technology professional. I got my start in techn
 {{% /accordion %}}
 
 {{% accordion title="Current Services" col="in" id="services" %}}
-I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment.
+I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. I also design and performance-tune Gaming Desktops for hard-core and average gamers.
 {{% /accordion %}}
 
 {{% accordion title="Location, Hours, Pricing and Turnaround Times" col="in" id="location" %}}

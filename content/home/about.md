@@ -67,12 +67,12 @@ weight = 1
 I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in the late nineties. I then moved on to Systems Administration for small networks. Disillusioned with the corporate world, I  decided to leave that world behind and provide services directly to the public as a independent computer service professional.
 {{% /accordion %}}
 
-{{% accordion title="Current Services & Location" col="in" id="services" %}}
-I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. <a href="#contact">Contact</a> me if you have questions, to schedule an appointment with me to have your device serviced at my office, or to setup a home/office consultation.
+{{% accordion title="Current Services" col="in" id="services" %}}
+I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment.
 {{% /accordion %}}
 
-{{% accordion title="Scheduling" col="in" id="scheduling" %}}
-{{% scheduling %}}
+{{% accordion title="Location, Hours, Pricing and Turnaround Times" col="in" id="location" %}}
+If you require an immediate response, it's best to reach me by [phone or text](#contact). I operate Monday through Friday from 8 am to 5 pm and my turnaround times for my standard [1st class](/#service-repair-rates-turnaround) service is 3-7 business days. I also have [Priority Service](/#service-repair-rates-turnaround) with a 1-3 day turnaround along with availability on Saturday from 10am to 4pm. If you require a higher priority than my normal operating hours and turn-around times, please make special arrangements with me ahead of time. Finally, if you do not require 1st Class or Priority service and can wait a week or more, talk to me about my [2nd Class](/#service-repair-rates-turnaround) special reduced rates if you are looking to save money. <a href="#contact">Contact</a> me if you have questions. You can [schedule an appointment](https://harmonizely.com/scottrlarson) with me to have your device serviced at my office, or to setup a home/office consultation.
 {{% /accordion %}}
 
 {{% accordion title="My Service Precautions" col="in" id="precautions" %}}

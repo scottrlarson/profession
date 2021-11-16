@@ -64,7 +64,7 @@ weight = 1
   
 +++
 {{% accordion title="Professional Background" col="in" id="professional" %}}
-I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in the late nineties. I then moved on to Systems Administration for small networks. Disillusioned with the corporate world, I  decided to leave that world behind and provide services directly to the public as a independent computer service professional.
+I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in the late nineties. I then moved on to Systems Administration for small networks. Disillusioned with corporate politics, I  decided to leave that world behind and provide services directly to the public as a independent computer service professional.
 {{% /accordion %}}
 
 {{% accordion title="Current Services" col="in" id="services" %}}

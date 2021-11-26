@@ -103,6 +103,9 @@ Check out my writing [events](/events/authoring), [projects](/projects), [quotes
   Once you’ve paid money for a product, the manufacturer shouldn’t be able to dictate how you use it—it’s yours. Ownership means you should be able to open, hack, repair, upgrade, or tie bells on it.
 Support sane [copyright legislation](https://www.fightforthefuture.org/fixcopyright/).{{% /alert %}}
 
+{{% alert title="End Creative Monopolies" url="https://www.endcreativemonopolies.com/" %}}
+Big Tech and Big Content are oppressing creativity. It’s time to #EndCreativeMonopolies by reimagining our archaic copyright laws to put artists before Disney, Amazon, Spotify, &amp; News Corp. Take action in support of artists everywhere.{{% /alert %}}
+
 {{% alert %}} Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRECODE25 when paying and I will take 25% off your bill of service.{{% /alert %}}
 
 

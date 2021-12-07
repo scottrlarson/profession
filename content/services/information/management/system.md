@@ -15,8 +15,8 @@ categories = ["System Care"]
 image = ""
 caption = ""
 +++
-[Brochure Side 1](/img/packages/system-mangement/srl-broshure-system-mangement-services1.png)
-[Brochure Side 2](/img/packages/system-mangement/srl-broshure-system-mangement-services2.png)
+[Brochure Side 1](/img/packages/system-management/srl-broshure-system-mangement-services1.png)
+[Brochure Side 2](/img/packages/system-management/srl-broshure-system-mangement-services2.png)
 
 {{% system-management-packages %}}
 

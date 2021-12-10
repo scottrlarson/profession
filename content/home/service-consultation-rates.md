@@ -12,4 +12,4 @@ aliases = ["service-consultation-rates"]
 weight = 110
 +++
 
-Consultations can happen in my office, or at your location. Rates are based on location and distance and starts at $125 an hour with a one hour minimum. At office/home appointments that require a 1-3 day arrival are twice the normal rate per hour, otherwise expect to wait a week for regular arrivals. My availability depends on the level of my in-shop repair priority service. [Contact me](/#contact) for more information. 
+Consultations can happen in my office, or at your location. Rates are based on location and distance and starts at $125 an hour with a one hour minimum. Depending on my service load, at office/home appointments usually carry a 1-3 day service visit priority. If you need a faster arrival visit priority, for instance, between three hours and up to one day, and are willing to pay twice the normal rate per hour, please specify that in your communication. My availability depends on the level of my In-office priority service load. [Contact me](/#contact) for more information. 

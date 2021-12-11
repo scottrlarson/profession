@@ -1,13 +1,13 @@
 +++
-title = "Maintenance (General)"
+title = "Upkeep (General)"
 date = 2019-10-18T15:48:04-08:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Troubleshooting"]
+tags = ["Troubleshooting", "Maintenance"]
 categories = []
-
+aliases = ["/services/computer/repair/maintenance-general"]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]

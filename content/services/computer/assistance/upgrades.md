@@ -1,5 +1,5 @@
 +++
-title = "Windows Upgrade"
+title = "Windows Upgrade/Downgrade"
 date = 2018-02-05T14:50:56-08:00
 draft = false
 
@@ -15,11 +15,11 @@ image = "services/cs-windows-update.png"
 caption = ""
 
 +++
-## Windows Version Upgrade
-<p>Upgrade to the latest version of Windows brings an improved and stellar desktop experience.</p>
+## Windows Version Upgrade/Downgrade
+<p>Upgrade to the latest version of Windows brings an improved and stellar desktop experience. Or when things go haywire after upgrading, downgrade back to the original release that was working.</p>
 <p>This service includes:</p>
 <ul>
-<li>Upgrade compatibility check to determine if the system is compatible with the upgrade.</li>
+<li>Upgrade/Downgrade compatibility check to determine if the system hardware is compatible.</li>
 <li>Driver and firmware compatibility check to determine your hardware is going to work with the upgrade.</li>
 <li style="box-sizing: border-box;">Includes the latest windows and driver updates along with some performance tuning to make sure your system is going to run smoothly with the new version of Windows.</li>
 <li>The preservation of your data and programs.</li>

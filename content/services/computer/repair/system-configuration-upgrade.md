@@ -1,5 +1,5 @@
 +++
-title = "System Configuration Upgrades"
+title = "System Configuration Setup & Upgrades"
 date = 2021-12-11T10:15:43-08:00
 draft = false
 

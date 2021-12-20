@@ -80,8 +80,8 @@ Please read and observe the following [precautions](/#precautions) to minimizing
 {{% /accordion %}}
 
 {{% accordion title="2021 Out-of-Office Dates" col="in" id="outofoffice" %}}
-**November 25th (Thursday)**: Thanksgiving  
-**December 24th-31th**: The Week of Christmas and New years eve. I will return on Jan 1st 2022.
+**December 24th-31th**: Christmas Eve and Christmas Day . I will return on Dec 27th.
+**January 1st**: New Years Day.
 {{% /accordion %}}
 
 {{% accordion title="Spiritual Activism" id="activism" %}}

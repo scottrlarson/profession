@@ -1,5 +1,5 @@
 +++
-title = "Taking Windows 11 For a Spin - The Good, Bad and Ugly"
+title = "Taking Windows 11 For a Spin - The Good, the Bad and the Ugly"
 date = 2021-12-20T07:40:54-08:00
 draft = false
 

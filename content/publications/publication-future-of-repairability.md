@@ -11,13 +11,10 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "publications/future-repairibility/framework-laptop.jpg"
 caption = ""
 
 +++
-
-![](https://www.scottrlarson.com/img/publications/future-repairibility/framework-laptop.jpg)
-
 This article came about due to my concern with our current age of throw-away technology. Since I have been repairing computers and laptops since the early 2000s, I am in a particular position to see firsthand where the environmental sustainability of modern technology is heading.
 
 In the last couple of years, laptop technology has been advancing in a direction of portability. Reducing the weight and size of technology enriches how we live. We now have mobile devices that are ultra-portable, making it possible to connect with friends and family or create works of art, anywhere in the world.

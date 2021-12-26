@@ -37,6 +37,8 @@ Framework is the first company, that I know of, that could be in a position to p
 
 Framework's endeavor is something I haven't seen since the beginning of the home computer movement. When Personal Computers were first introduced, they had a modular design.
 
+![Modularability](https://scottrlarson.com/img/publications/future-repairibility/modularability.jpg)
+
 If the Framework laptop is anything at all, it's hard proof that you can build something thin and light without sacrificing repairability and this one idea will stick in our collective memory for a long time. As it stands now, the insides of laptops have horribly unfriendly designs.
 
 ## Solutions

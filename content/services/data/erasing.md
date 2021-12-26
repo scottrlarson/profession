@@ -1,6 +1,6 @@
 +++
-title = "Password Recovery"
-date = 2018-02-06T13:45:41-08:00
+title = "Data Erasing/Wiping"
+date = 2021-12-26T10:19:51-08:00
 draft = false
 
 # Tags and categories
@@ -15,6 +15,5 @@ image = "services/"
 caption = ""
 
 +++
-If you are unable to access your device or data I can help you gain access to data or equipment you own or have power of attorney over.
-
-{{% service-price item="$100.00" %}}
+If you have an old piece of technology that you want to recycle or reuse, it's important that you have your data erased from the device before you send it off so your data does not fall into the wrong hands.
+{{% service-price item="$25" %}}

@@ -25,7 +25,7 @@ The fault lies somewhere in the middle. The symbiosis between our need for new t
 
 In the pursuit of innovation, we are creating a vast waste footprint. This problem appears to be very hard to solve. Recycling devices only produce about 2[0% of usable materials](https://circleit.us/blogs/news/the-e-waste-crisis) that can be put back into use for other products. This means that 80% has to be used in ways other than recycling. I think we all know where the rest goes, in the landfill. That means our planet. It's a major problem that is going to require the smartest people on the planet to solve.
 ![Repair Difficulty](https://scottrlarson.com/img/publications/future-repairibility/repair-difficulty.jpg)
-Right now, most laptop and tablet manufacturers are not doing all they can to make these devices last. It's not entirely their fault. For the most part, they are responding to forces that are driven by the needs of the market. So although manufacturers have a part to play in creating better options for recycling and re-use, it's up to us to decide how this is going to play out by our purchasing and discarding decisions.
+Right now, most laptop and tablet manufacturers are not doing all they can to make these devices easier to repair and last. It's not entirely their fault. For the most part, they are responding to forces that are driven by the needs of the market. So although manufacturers have a part to play in creating better options for recycling and re-use, it's up to us to decide how this is going to play out by our purchasing and discarding decisions.
 
 This is why I am starting to recommend customers move away from throw-away devices and invest in tech that is sustainable.
 

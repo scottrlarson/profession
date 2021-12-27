@@ -15,37 +15,36 @@ image = "publications/future-repairibility/framework-laptop.jpg"
 caption = ""
 
 +++
-This article came about due to my concern with our current age of throw-away technology. Since I have been repairing computers and laptops since the early 2000s, I am in a particular position to see firsthand where the environmental sustainability of modern technology is heading.
+Since I have been repairing computers and laptops since the early 2000s, I am in a particular position to see firsthand where the environmental sustainability of modern technology is heading. The impact that throw-away technology has on our environment is a concern of mine. This article aims to survey this landscape and offer some alternatives to the discard and upgrade approach.
 
 In the last couple of years, laptop technology has been advancing in a direction of portability. Reducing the weight and size of technology enriches how we live. We now have mobile devices that are ultra-portable, making it possible to connect with friends and family or create works of art, anywhere in the world.
 
-What hasn't advanced along with the portability of technology is the ecological impact we are having on the environment under this current paradigm of upgrading and discarding.
+What hasn't advanced along with the portability of technology is the ecological impact we are having on the environment under this current paradigm.
 
 The fault lies somewhere in the middle. The symbiosis between our need for new technology (to improve our lives) and the systems make and sell this technology. 
 
-In the pursuit of innovation, we are creating a vast waste footprint. This problem appears to be very hard to solve. Recycling devices only produce about 2[0% of usable materials](https://circleit.us/blogs/news/the-e-waste-crisis) that can be put back into use for other products. This means that 80% has to be used in ways other than recycling. I think we all know where the rest goes, in the landfill. That means our planet. It's a major problem that is going to require the smartest people on the planet to solve.
+![E-Waste](https://scottrlarson.com/img/publications/future-repairibility/waste.jpg)
+
+In the pursuit of innovation, we are creating a vast waste footprint. Recycling devices only produce about [20% of usable materials](https://circleit.us/blogs/news/the-e-waste-crisis) that can be put back into use for other products. This means that 80% has to be used in ways other than recycling. I think we all know where the rest goes, in the landfill. That means our planet. It's a major problem and solving it is going to require the smartest people on the planet.
 ![Repair Difficulty](https://scottrlarson.com/img/publications/future-repairibility/repair-difficulty.jpg)
-Right now, most laptop and tablet manufacturers are not doing all they can to make these devices easier to repair and last. It's not entirely their fault. For the most part, they are responding to forces that are driven by the needs of the market. So although manufacturers have a part to play in creating better options for recycling and re-use, it's up to us to decide how this is going to play out by our purchasing and discarding decisions.
+Right now, most laptop and tablet manufacturers are not doing all they can to make these devices easier to repair and last. It's not entirely their fault. For the most part, they are responding to forces that are driven by the needs of the market. Although manufacturers have a part to play in creating better options for recycling and re-use, it's up to us to decide how this is going to play out by our purchasing and discarding decisions.
 
-This is why I am starting to recommend customers move away from throw-away devices and invest in tech that is sustainable.
-
-This year, the company [Framework](https://frame.work/) created a laptop that is easy to repair and upgrade. Recently, many of the laptops I get in for repairs have been difficult to upgrade and service. The reason for this, at least from the reports from manufacturers is that to make technology smaller, sacrifices need to be made in the device's **repairability** options. The reality is that it's more complicated than that and the whole truth isn't being addressed. It is cheaper, and in some cases can create better performance and reliability, to design hardware that has everything integrated, I.E does not have external **components** that can be changed out. The problem with this approach is that when one component fails on an integrated platform, the whole device needs to be replaced, this puts a higher cost burden on the customer, which manufacturers knowingly make a profit from. Compared to designing technology to be upgraded and reused, this approach creates more waste over time.
+Recently, many of the laptops I get in for repairs have been difficult to upgrade and service. The reason for this, at least from the reports from manufacturers is that to make technology smaller, sacrifices need to be made in the device's **repairability** options. The truth is, from my experience, is that it's cheaper to and in some cases hardware can perform better and be more reliable to design hardware that integrates many of its components, I.E does not have external **components** that can be changed out. Also it's cheaper, from a support perspective, if there are limited repair resources that have to be maintained by the manufacturer for the life of the product. The problem with this approach is that when one component fails on an integrated platform, the whole device needs to be replaced, this puts a higher cost burden on the customer, which manufacturers knowingly make a profit from. Compared to designing technology that can be upgraded and reused, this approach creates more waste over time.
 
 ![Framework's Repair it yourself option](https://www.scottrlarson.com/img/publications/future-repairibility/repairibility.avif)
 
-Framework is the first company, that I know of, that could be in a position to put a dent in this problem. The fact that this particular laptop even exists cuts through the lies and puts to shame Apple's [argument](https://www.macrumors.com/2019/04/30/apple-right-to-repair-consumer-harm/) that from a security and reliability perspective it's not a good idea to make devices more repairable.
+This year, the company [Framework](https://frame.work/) designed a laptop that is easy to repair and upgrade. The potential of this laptop to change our understanding of upgrading, repairability and portability should not be underestimated. Its design brings me back to the days during the beginning of the home computer revolution, where expanding the functionality of the device was the center piece of every product, not a forethought, like many devices are today. Framework is the first company, that I know of, that could be in a position to put a dent in this problem. The fact that this particular laptop even exists cuts through the lies and puts to shame Apple's [argument](https://www.macrumors.com/2019/04/30/apple-right-to-repair-consumer-harm/) that from a security and reliability perspective, it's not a good idea to make devices more repairable.
 
-Framework's endeavor is something I haven't seen since the beginning of the home computer movement. When Personal Computers were first introduced, they had a modular design.
 
 ![Modularability](https://scottrlarson.com/img/publications/future-repairibility/modularability.jpg)
 
-If the Framework laptop is anything at all, it's hard proof that you can build something thin and light without sacrificing repairability and this one idea will stick in our collective memory for a long time. As it stands now, the insides of laptops have horribly unfriendly designs.
-
-## Solutions
+If the Framework laptop is anything at all, it's hard proof that you can build a thin and light laptop without sacrificing repairability and upgradability. This one idea could be the spark that changes this industry for good. In a world of devices that have horribly unfriendly designs, we sorely need this kind of innovation. I'm glad Framework took the risk, at the very least causing a shift in perspective. There is a hurricane of attention right now on the [Right to Repair](https://www.repair.org/stand-up) movement, and Framework is right in the center of it.
 
 If the Framework Laptop catches on, it's one possibility that might be worth investing in. You can [purchase an assembled](https://frame.work/#laptop-configuration) unit or an [assemble-it yourself]( https://frame.work/products/laptop-diy-edition/configuration/edit) option from Framework now. Starting at $1000, the cost of a Framework Laptop is about $200-$300 more than a comparable model that is currently on the market. None of Framework's competition have anything close to the expandability and repairability of Framework's offering. I see the increase in cost as an early adoption investment for any person who wants to support sustainability. 
 
-If the Framework laptop is not for you, there are other options:
+Also, if you are on the lookout for a new mobile phone and want to invest in the future of repairability, check out [Fairphone](https://shop.fairphone.com/).
+
+## Other Recycling and Reuse Options
 
 [**Donate to charity**](http://www.globalstewards.org/donate-computers.htm)**:** If you think your old PC is no longer usable and just taking up space, donate it to a charitable organization. There are quite a few non-profit organizations that use old computers for administrative or instructional purposes.
 

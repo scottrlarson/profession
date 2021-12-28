@@ -11,7 +11,7 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "publications/future-repairibility/framework-laptop.jpg"
+image = "publications/future-repairability/framework-laptop.jpg"
 caption = ""
 
 +++
@@ -23,20 +23,20 @@ What hasn't advanced along with the portability of technology is the ecological 
 
 The fault lies somewhere in the middle. The symbiosis between our need for new technology (to improve our lives) and the systems make and sell this technology. 
 
-![E-Waste](https://scottrlarson.com/img/publications/future-repairibility/waste.jpg)
+![E-Waste](https://scottrlarson.com/img/publications/future-repairability/waste.jpg)
 
 In the pursuit of innovation, we are creating a vast waste footprint. Recycling devices only produce about [20% of usable materials](https://circleit.us/blogs/news/the-e-waste-crisis) that can be put back into use for other products. This means that 80% has to be used in ways other than recycling. I think we all know where the rest goes, in the landfill. That means our planet. It's a major problem and solving it is going to require the smartest people on the planet.
-![Repair Difficulty](https://scottrlarson.com/img/publications/future-repairibility/repair-difficulty.jpg)
+![Repair Difficulty](https://scottrlarson.com/img/publications/future-repairability/repair-difficulty.jpg)
 Right now, most laptop and tablet manufacturers are not doing all they can to make these devices easier to repair and last. It's not entirely their fault. For the most part, they are responding to forces that are driven by the needs of the market. Although manufacturers have a part to play in creating better options for recycling and re-use, it's up to us to decide how this is going to play out by our purchasing and discarding decisions.
 
 Recently, many of the laptops I get in for repairs have been difficult to upgrade and service. The reason for this, at least from the reports from manufacturers, is that to make technology smaller, sacrifices need to be made in the device's **repairability** options. From my technology research and recommendation experience, I have found that these design decisions by manufacturers boils down to cost savings.  In some cases, it's cheaper for the manufacturer to design hardware that integrates many of its components, I.E does not have external **components** that can be changed out. Also it's cheaper, from a support perspective, if there are limited repair resources that have to be maintained by the manufacturer for the life of the product. Also it's easier and more cost effective to design hardware to perform better and be more reliable if components are integrated rather that upgradable.  The problem with this approach is that when one component fails on an integrated platform, the whole device needs to be replaced, this puts a higher cost burden on the customer, which manufacturers knowingly make a profit from. Compared to designing technology that can be upgraded and reused, its my understanding that this approach creates more waste over time.
 
-![Framework's Repair it yourself option](https://www.scottrlarson.com/img/publications/future-repairibility/repairibility.jpg)
+![Framework's Repair it yourself option](https://www.scottrlarson.com/img/publications/future-repairability/repairability.jpg)
 
 This year, the company [Framework](https://frame.work/) designed a laptop that is easy to repair and upgrade. The potential of this laptop to change our understanding of upgrading, repairability and portability should not be underestimated. Its design brings me back to the days during the beginning of the home computer revolution, where expanding the functionality of the device was the center piece of every product, not a forethought, like many devices are today. Framework is the first company, that I know of, that could be in a position to change the upgrade and discard landscape. The fact that this particular laptop even exists cuts through the lies and puts to shame Apple's [argument](https://www.macrumors.com/2019/04/30/apple-right-to-repair-consumer-harm/) that from a security and reliability perspective, it's not a good idea to make devices more repairable.
 
 
-![Modularability](https://scottrlarson.com/img/publications/future-repairibility/modularability.jpg)
+![Modularability](https://scottrlarson.com/img/publications/future-repairability/modularability.jpg)
 
 If the Framework laptop is anything at all, it's hard proof that you can build a thin and light laptop without sacrificing repairability and upgradability. This one idea could be the spark that changes this industry for good. In a world of devices that have horribly unfriendly designs, we sorely need this kind of innovation. I'm glad Framework took the risk, at the very least causing a shift in perspective. There is a hurricane of attention right now on the [Right to Repair](https://www.repair.org/stand-up) movement, and Framework is right in the center of it.
 

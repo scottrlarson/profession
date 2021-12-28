@@ -15,8 +15,6 @@ image = "publications/future-repairability/framework-laptop.jpg"
 caption = ""
 
 +++
-I repair computers and laptops. My repair history spans over twenty years. As improvements to the size of electronics are made, the environmental impact increases. This article aims to take a closer look at this dilemma and offer some alternatives to the discard and upgrade approach.
-
 In the last couple of years, laptop technology has been advancing in a direction of portability. Reducing the weight and size of technology enriches how we live. We now have mobile devices that are ultra-portable, and with these advancements it makes it possible to connect with friends and family, or create works of art, anywhere in the world.
 
 What hasn't advanced along with the portability of technology is the ecological impact we are having on the environment under this current paradigm.

@@ -15,9 +15,9 @@ image = "publications/future-repairability/framework-laptop.jpg"
 caption = ""
 
 +++
-Since I have been repairing computers and laptops since the early 2000s, I am in a particular position to see firsthand where the environmental sustainability of modern technology is heading. The impact that throw-away technology has on our environment is a concern of mine. This article aims to survey this landscape and offer some alternatives to the discard and upgrade approach.
+I repair computers and laptops for over twenty years. During this time the environmental sustainability of modern technology is declining. Throw-away technology is a concern of mine. This article aims to survey the environmental landscape of this dilemma and offer some alternatives to the discard and upgrade approach.
 
-In the last couple of years, laptop technology has been advancing in a direction of portability. Reducing the weight and size of technology enriches how we live. We now have mobile devices that are ultra-portable, making it possible to connect with friends and family or create works of art, anywhere in the world.
+In the last couple of years, laptop technology has been advancing in a direction of portability. Reducing the weight and size of technology enriches how we live. We now have mobile devices that are ultra-portable, and with these advancements it makes it possible to connect with friends and family, or create works of art, anywhere in the world.
 
 What hasn't advanced along with the portability of technology is the ecological impact we are having on the environment under this current paradigm.
 

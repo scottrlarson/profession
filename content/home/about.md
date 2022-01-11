@@ -63,6 +63,11 @@ weight = 1
   images = ["profile-scottrlarson.png"]
   
 +++
+
+{{% alert title="My Service Precautions" col="in" id="precautions" %}} 
+As the new Omicron variant of the COVID virus spreads. I need to take precautions to protect everyone from infection. Please do not walk-in to my service office without an [appointment](https://harmonizely.com/scottrlarson). If you have an appointment and do not want to drop-off your device to my office building curbside, or allow me to pick-up your device on your curbside, [contact me](/#contact) about the possibility of servicing your computer remotely. Please read and observe the following [precautions](/#precautions) to minimizing the spread of viruses during this pandemic. 
+{{% /alert %}}
+
 {{% accordion title="Professional Background" col="in" id="professional" %}}
 I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in the late nineties. I then moved on to Systems Administration for small networks. Disillusioned with corporate politics, I  decided to leave that world behind and provide services directly to the public as a independent computer service professional.
 {{% /accordion %}}
@@ -75,13 +80,8 @@ I provide computer repair services at my office in <a href="#contact">downtown</
 If you require an immediate response, it's best to reach me by [phone or text](#contact). I operate Monday through Friday from 8 am to 5 pm and my turnaround times for my standard [1st class](/#service-repair-rates-turnaround) service is 3-7 business days. I also have [Priority Service](/#service-repair-rates-turnaround) with a 1-3 day turnaround along with availability on Saturday from 10am to 4pm. If you require a higher priority than my normal operating hours and turn-around times, please make special arrangements with me ahead of time. Finally, if you do not require 1st Class or Priority service and can wait a week or more, talk to me about my [2nd Class](/#service-repair-rates-turnaround) special reduced rates if you are looking to save money. <a href="#contact">Contact</a> me if you have questions. You can [schedule an appointment](https://harmonizely.com/scottrlarson) with me to have your device serviced at my office, or to setup a home/office consultation.
 {{% /accordion %}}
 
-{{% accordion title="My Service Precautions" col="in" id="precautions" %}}
-Please read and observe the following [precautions](/#precautions) to minimizing the spread of viruses during this pandemic. 
-{{% /accordion %}}
-
-{{% accordion title="2021 Out-of-Office Dates" col="in" id="outofoffice" %}}
-**December 24th-31th**: Christmas Eve and Christmas Day . I will return on Dec 27th.
-**January 1st**: New Years Day.
+{{% accordion title="Out-of-Office Dates" col="in" id="outofoffice" %}}
+None
 {{% /accordion %}}
 
 {{% accordion title="Spiritual Activism" id="activism" %}}

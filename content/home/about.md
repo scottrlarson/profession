@@ -65,7 +65,7 @@ weight = 1
 +++
 
 {{% alert title="COVID Precautions" col="in" id="precautions" %}} 
-As the new Omicron variant of the COVID virus spreads. I need to take precautions to protect everyone from infection. I provide remote service, curbside and at your location pick-up. Due to COVID, please call me, or make an [online](https://harmonizely.com/scottrlarson) appointment before you arrive. Also please read and observe the following [precautions](/#precautions) to minimizing the spread of infection during this pandemic. 
+As the new Omicron variant of the COVID virus spreads, I need to take precautions to protect everyone from infection. I provide remote service, curbside and at your location pick-up. Due to COVID, please call me, or make an [online appointment](https://harmonizely.com/scottrlarson) before you arrive. Also please read and observe the following [precautions](/#precautions) to minimizing the spread of infection during this pandemic. Thank you.
 {{% /alert %}}
 
 {{% accordion title="Professional Background" col="in" id="professional" %}}

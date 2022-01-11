@@ -64,8 +64,8 @@ weight = 1
   
 +++
 
-{{% alert title="My Service Precautions" col="in" id="precautions" %}} 
-As the new Omicron variant of the COVID virus spreads. I need to take precautions to protect everyone from infection. Please do not walk-in to my service office without an [appointment](https://harmonizely.com/scottrlarson). If you have an appointment and do not want to drop-off your device to my office building curbside, or allow me to pick-up your device on your curbside, [contact me](/#contact) about the possibility of servicing your computer remotely. Please read and observe the following [precautions](/#precautions) to minimizing the spread of viruses during this pandemic. 
+{{% alert title="COVID Precautions" col="in" id="precautions" %}} 
+As the new Omicron variant of the COVID virus spreads. I need to take precautions to protect everyone from infection. I provide remote service, curbside and at your location pick-up. Due to COVID, please call me, or make an [online](https://harmonizely.com/scottrlarson) appointment before you arrive. Also please read and observe the following [precautions](/#precautions) to minimizing the spread of infection during this pandemic. 
 {{% /alert %}}
 
 {{% accordion title="Professional Background" col="in" id="professional" %}}

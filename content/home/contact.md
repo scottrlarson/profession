@@ -14,4 +14,4 @@ subtitle = ""
 autolink = true
 +++
 
-{{% contact-form-zohocrm %}}
+{{% contact-form %}}

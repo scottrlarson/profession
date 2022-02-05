@@ -30,7 +30,7 @@ Lengthy delays opening resource intensive applications like Outlook creates the 
 
 ### Increased productivity
 
-Today we have faster memory, faster storage drives, increased graphics capabilities, and more processing power – With these increased resources the processing of workloads improves dramatically. There is a joke in technical circles that using an outdated computer, as it gets slower and slower, is like being boiled in a pot of water with the temperature slowing being turned up, you don't notice the heat until it's too late. 
+Today we have faster memory, faster storage drives, increased graphics capabilities, and more processing power – With these increased resources the processing of workloads improves dramatically. There is a joke in technical circles that using an outdated computer, as it gets slower and slower, is like being boiled in a pot of water with the temperature slowing being turned up, you don't notice the heat until it's too late.  
 
 
 ### Reduced cost over time

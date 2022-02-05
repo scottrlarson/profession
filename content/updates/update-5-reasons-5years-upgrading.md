@@ -18,9 +18,7 @@ caption = ""
 
 Computers should just last forever, right?
 
-When your automobile breaks down on the way to an important meeting after running it into the ground is that idea going to help you recover from the time loss?
-
-Automobiles don't last forever and neither do computers. Computers are much more likely to break down or cause issues due to wear and tear because they are much more complicated and require regular upkeep and eventually, yes, they need to be upgraded. 
+Automobiles don't last forever, and neither do computers. Computers are much more likely to break down or cause issues due to wear and tear because they are much more complicated. Just like automobiles, they require regular upkeep and eventually, yes, they need to be upgraded.
 
 Here are 5 reasons why you should upgrade your computer every five years. 
 

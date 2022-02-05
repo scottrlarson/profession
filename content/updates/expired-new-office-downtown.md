@@ -2,12 +2,12 @@
 title = "Scooter's New Office Downtown"
 date = 2018-08-29T15:45:29-07:00
 draft = true
-
+expiryDate = 2020-05-02T15:00:36-07:00
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = []
-
+aliases = "/updates/update-new-office-downtown/"
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]

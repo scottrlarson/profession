@@ -36,10 +36,10 @@ Upgrading sounds expensive, but the truth is that older systems have more issues
 
 ### Better security
 
-Because aging systems are not actively updated, they are vulnerable to having information stolen or compromised. Newer technology in my cases can have better security checking. (Of course, upgrading to newer hardware is not a replacement for better awareness around current threats, read my [articles](https://www.scottrlarson.com/tags/security/) on security.)
+Because aging systems are not actively updated, they are vulnerable to having information stolen or compromised. Newer technology in many cases can have better security checking. Of course, upgrading to newer hardware is not a replacement for awareness, read my [articles](https://www.scottrlarson.com/tags/security/) on security to stay up to date on the latest threats.
 
 ### Declining Support
 
-IT professionals can’t productively support technology that has become too old. It costs more for the technician to service older hardware because of the time it takes to boot and interact with software.
+IT professionals can’t productively support technology that has reached it's end of life. It costs more for the technician to service older hardware because of the time it takes to boot and interact with software.
 
 If you are a professional that has a PC that is over five years old, or you are an average computer user that has a computer over seven years old [contact](/#contact) me for a quote & recommendation on new hardware. I provide comprehensive and cost saving packages that cover every aspect of the upgrade process.

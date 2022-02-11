@@ -41,7 +41,7 @@ How you can obtain my services:
 Please note that if you have a working internet connection, and your device is responsive, in most cases, I can handle your issue with my <a href="/services/computer/assistance/online">Online Repair & Resolution Service</a> without a visit.
 
 ## Curbside Assistance
-To maintain social distancing during this crisis, I can pick up your device directly from the curbside of my office building. Just [schedule a curbside appointment](/#contact) with me before you drop-off.
+To maintain social distancing during this crisis, I can pick up your device directly from the curbside of my office building. Just [schedule a curbside appointment](https://harmonizely.com/scottrlarson). Call to confirm before you drop-off if you do not receive a email receipt that the appointment was scheduled.
 
 I can also pick up your device from your curbside. If you would like me to pick up your device from your location, there is a $50 pick up/drop off fee. This fee I collect up front and is in addition to any other pre-service related fee like a diagnostic or part related fee. If you want to minimize contact and/or speed up the process of the exchange, print, fill out my [authorization form](https://www.dropbox.com/s/odow1lxexadhd0a/srl-authorization-form_savable.pdf?dl=0). You can present it to me with your device. Give me [call](/services/computer/assistance/phone/) or [text me](/services/computer/assistance/phone/) to setup a time for the exchange.
 
@@ -49,7 +49,7 @@ I can also pick up your device from your curbside. If you would like me to pick 
 [Contact me](/#contact) to schedule an appointment to drop of your equipment for an office visit. Because of COVID restrictions, I can only have one person in my office at a time. If you have someone else with you, they will need to wait outside.
 
 ## In-office Consultations 
-If you need advise on a technical issue [contact me](/#contact) to schedule an appointment for an office visit. Because of COVID restrictions, I can only have one person in my office at a time. If you have someone else with you, they will need to wait outside.
+If you need advise on a technical issue [contact me](/#contact) for a phone consultation. If you need to meet with me [schedule an appointment](https://harmonizely.com/scottrlarson) for a conference room consultation. Because of COVID restrictions, I can only have up to 3 people in the conference room at a time.
 
 ## At-Location Appointments
 I provide home/business visits. If you need priority (1-3 day scheduled in advance) service, check my [At-Location rates](/#service-consultation-rates). Otherwise at-location appointments are scheduled a week out. To protect our households, I will arrive wearing a mask and gloves, so please do not be alarmed. I also expect you and the occupants in your home or business to wear a mask if they are going to be within 6 feet of my work area. 

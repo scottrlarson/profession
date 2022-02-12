@@ -1,0 +1,17 @@
++++
+title = "5 Reasons Why Backup Is Important"
+date = YEAR-MM-DDT14:08:24-07:00
+draft = true
+alias = [""]
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+categories = []
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++

@@ -1,6 +1,6 @@
 +++
 title = "5 Reasons Why Backup Is Important"
-date = YEAR-MM-DDT14:08:24-07:00
+date = 2022-02-12T07:08:24-07:00
 draft = true
 alias = [""]
 # Tags and categories
@@ -11,7 +11,10 @@ categories = []
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "updates/why-back-up/why-backing-up-important.png"
 caption = ""
 
 +++
+
+Im thinking about ways to convey reflecting on loss.
+Im also working on a graphic that is stored in dropbox operations\projects\scottrlarson\header graphics

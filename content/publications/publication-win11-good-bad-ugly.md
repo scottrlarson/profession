@@ -17,7 +17,7 @@ caption = ""
 +++
 
 {{% alert title="" url="" %}}
-Even though I think Windows 11 has potential in future releases, I strongly recommend **NOT INSTALLING** it until mid-2022 as it has major stability issues that can cause productivity concerns with your device.  Better yet, sign up for my [System Care Package](https://www.scottrlarson.com/care), where I perform the upgrade, and work out any issues in a **controlled environment**[^controlled-environment].
+Even though I think Windows 11 has potential in future releases, I strongly recommend **NOT INSTALLING** it until mid-2023 as it has major stability issues that can cause productivity concerns with your device.  Better yet, sign up for my [System Care Package](https://www.scottrlarson.com/care), where I perform the upgrade, and work out any issues in a **controlled environment**[^controlled-environment].
 {{% /alert %}}
 
 What happened to the release of Windows 11? For those of you who follow Microsoft's Windows evolution, this feels like a **Windows Me**[^Windows-Me] release all over again. But just the way it was released and the bugs that prevented it from working correctly out-of-the-box. Windows 11 got a major facelift that was a long time coming and once the bugs are worked out, I think it's going to improve your workflow.

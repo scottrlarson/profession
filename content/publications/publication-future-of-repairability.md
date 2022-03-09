@@ -19,7 +19,7 @@ In the last couple of years, laptop technology has been advancing in a direction
 
 What hasn't advanced along with the portability of technology is the ecological impact we are having on the environment under this current paradigm.
 
-The fault lies somewhere in the middle. The symbiosis between our need for new technology (to improve our lives) and the systems make and sell this technology. 
+The fault lies somewhere in the middle. The symbiosis between our need for new technology (to improve our lives) and the systems that make and sell this technology. 
 
 ![E-Waste](https://scottrlarson.com/img/publications/future-repairability/waste.jpg)
 

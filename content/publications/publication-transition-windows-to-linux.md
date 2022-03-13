@@ -15,6 +15,8 @@ image = "publications/transition-windows-to-linux/windows-linux.jpeg"
 caption = ""
 
 +++
+*I am a computer professional that helps the public with technology. I have been troubleshooting computer problems for over 25 years. To find out more about me, visit my [home page](https://scottRlarson.com).*
+
 Here I am, back in Windows. I'm realizing that my journey to a Freedom-Of-Choice Desktop environment is riddled with traps from my past. My familiarity with the apps and processes of Windows haunts my every move. It's challenging  to find replacements and workarounds for what I used to be able to do... But then my determination kicked in. If I really think about it, would it be such as loss to switch to a Linux alternative? I rebooted back into Linux and got to work. Any hope for a Windows-centric  guy to transcend his limitations and biases? Only time will tell...
 
 ## Windows 11 has reached the hight of anti-customer practices.

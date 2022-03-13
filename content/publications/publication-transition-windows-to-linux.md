@@ -1,6 +1,6 @@
 +++
 title = "My transition from Windows to Linux in an anti-customer age"
-date = 2021-12-26T11:09:55-08:00
+date = 2022-03-13T12:05:55-08:00
 draft = false
 
 # Tags and categories

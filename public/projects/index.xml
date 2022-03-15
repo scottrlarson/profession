@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Scott Larson</title>
+    <link>http://scottrlarson.com/projects/</link>
+    <description>Recent content in Projects on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 26 Feb 2018 12:59:37 -0800</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Andrei Sakharov Ebook Conversion Project</title>
+      <link>http://scottrlarson.com/projects/ebooks/project-ebook-conversion-world-sakharov/</link>
+      <pubDate>Thu, 01 Mar 2018 10:54:02 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/ebooks/project-ebook-conversion-world-sakharov/</guid>
+      <description>I converted this PDF to EPUB to make it easier to read and find information as a reference book. The PDF format is great for maintaining the size and dimensions of paperwork, the format is not so good for scaling content to meet the size of different mobile screens. The EPUB format is an open TEXT/HTML based format that makes it very easy to reformat content for every screen size.</description>
+    </item>
+    
+    <item>
+      <title>norcalssc.com website development</title>
+      <link>http://scottrlarson.com/projects/websites/norcalssc.com/</link>
+      <pubDate>Mon, 26 Feb 2018 12:58:35 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/websites/norcalssc.com/</guid>
+      <description>I customized the design of Norcal Specialty Surgery Center website with the aesthetics of the building, the colors the staff use for their scrubs and the rock and roll wall hanging pictures. I wanted a clean, elegant and simple design to make it easy for the public to find information about their services. I made this site very search engine friendly by sticking strictly with HTML and CSS for all of the content.</description>
+    </item>
+    
+    <item>
+      <title>ericashane.net IWEB to Wordpress Migration </title>
+      <link>http://scottrlarson.com/projects/websites/ericashane.net/</link>
+      <pubDate>Tue, 27 Feb 2007 11:44:46 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/websites/ericashane.net/</guid>
+      <description>Originally ericashane.net was hosted with a now defunct apple website platform called IWEB. I converted the content for this site over to the Wordpress content management system so it would be easy to update and maintain for the customer. Wordpress is a very easy to use content system that offers auto updating to keep the technology behind the platform current. I also added a lightbox image viewer for the photos on the site to make the images easier to view.</description>
+    </item>
+    
+    <item>
+      <title>Tantra.com: Diagnose &amp; Repair: HTML Website Loading Stuck Issue</title>
+      <link>http://scottrlarson.com/projects/network/tantra.com/</link>
+      <pubDate>Sat, 10 Mar 2001 13:49:14 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/network/tantra.com/</guid>
+      <description>Legacy HTML image caching code caused site to stop loading on certain modern web browsers - tracked down from client side using web load tools and reported problem to developer&amp;rsquo;s allowing them to remove legacy code that was causing the issue.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Scott Larson</title>
+    <link>http://scottrlarson.com/education/</link>
+    <description>Recent content in Education on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Fri, 04 Jun 2021 13:55:24 -0700</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apprenticeship Opportunity</title>
+      <link>http://scottrlarson.com/education/apprentice-opportunity/</link>
+      <pubDate>Fri, 04 Jun 2021 13:55:05 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/education/apprentice-opportunity/</guid>
+      <description>I am interested in training an apprentice in my field. If you, or someone you know, are/is interested in an in-depth understanding of how hardware and software computer technology works to be able to troubleshoot your own computer problems, or build your own computer, this apprenticeship opportunity is for you.
+This is a very special arrangement for a student, or an adult that is willing to learn new ideas in how to provide a successful Computer Repair or Information Technology service.</description>
+    </item>
+    
+  </channel>
+</rss>

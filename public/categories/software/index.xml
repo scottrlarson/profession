@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Scott Larson</title>
+    <link>http://scottrlarson.com/categories/software/</link>
+    <description>Recent content in Software on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 14:51:36 -0800</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remote Utilities</title>
+      <link>http://scottrlarson.com/recommendations/recommendation-remote-utilities/</link>
+      <pubDate>Mon, 30 Dec 2019 14:51:36 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/recommendation-remote-utilities/</guid>
+      <description>Remote Utilities is remote desktop software. I have tried many products and many of them work great, are simple to use, but expensive, or cloud based. I use to use Team Viewer, its worked really good, but they charge $1200 a year for a license, and there terms of service transparency regarding their polices around subscription billing in my mind is unethical. If you do not cancel the subscription 30days before you want to cancel it, your locked into another subscription for the following year.</description>
+    </item>
+    
+    <item>
+      <title>Password Managers</title>
+      <link>http://scottrlarson.com/recommendations/recommendation-password-managers/</link>
+      <pubDate>Thu, 15 Aug 2019 15:17:37 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/recommendation-password-managers/</guid>
+      <description>Here is my recommendations for Password Managers. I look for solutions that are cross-platform, reliable, and since many of them store your private information on a cloud service, the provider needs to have good security practices. Also, the password manager should not have too many features that complicate the use and performance of the solution. The solution should also have the ability to sync your passwords in an encrypted form to a 3rd party cloud service, instead of including its own cloud solution.</description>
+    </item>
+    
+    <item>
+      <title>File Copy Transfer Utilities</title>
+      <link>http://scottrlarson.com/links/utilities/link-file-folder-utilities/</link>
+      <pubDate>Thu, 20 Dec 2018 14:49:14 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/links/utilities/link-file-folder-utilities/</guid>
+      <description>When copying a lot of files, sometimes you need an advanced utility. This is a list of tools I use for my services.
+ A good article on the history behind coping files in bulk and a tool that was created to meet that need. RichCopy – Microsoft’s Multi-Threaded File Copy Utility is a Windows copy utilities for IT professionals. Fab&amp;rsquo;s Autobackup utility is a good tool to migrate Windows account profile data from one computer to another.</description>
+    </item>
+    
+  </channel>
+</rss>

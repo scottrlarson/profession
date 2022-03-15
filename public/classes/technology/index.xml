@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classes on Technology on Scott Larson</title>
+    <link>http://scottrlarson.com/classes/technology/</link>
+    <description>Recent content in Classes on Technology on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 02 Jan 2020 14:10:08 -0800</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/classes/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Windows 10 Desktop Basics</title>
+      <link>http://scottrlarson.com/classes/technology/class-windows10-desktop-basics/</link>
+      <pubDate>Wed, 18 Apr 2018 09:52:23 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/classes/technology/class-windows10-desktop-basics/</guid>
+      <description>Windows 10 Lifebuoy Class: Desktop Basics The lifebuoy of Windows 10. Learn how to navigate the windows 10 desktop. Understand the workings of the different areas of your desktop. Windows10lifebuoy-basic-notes.pdf - Via Dropbox</description>
+    </item>
+    
+  </channel>
+</rss>

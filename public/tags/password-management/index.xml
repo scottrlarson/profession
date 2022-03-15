@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Password Management on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/password-management/</link>
+    <description>Recent content in Password Management on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Wed, 03 Mar 2021 11:00:52 -0800</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/tags/password-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why everyone should use a password manager</title>
+      <link>http://scottrlarson.com/publications/publication-why-password-managers/</link>
+      <pubDate>Wed, 03 Mar 2021 11:00:52 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-why-password-managers/</guid>
+      <description>We are in an age where password security is becoming very important to our ability to function in society, but not for the reasons you expect. The password strength, although a problem, isn&amp;rsquo;t the real problem. The real problem is having to remember passwords for the multitude of online accounts we are forced to create to survive in the modern age of technology. In a survey performed last year by Digital Guardian, an average person or business associates their email address with 130 accounts.</description>
+    </item>
+    
+  </channel>
+</rss>

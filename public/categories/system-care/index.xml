@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System Care on Scott Larson</title>
+    <link>http://scottrlarson.com/categories/system-care/</link>
+    <description>Recent content in System Care on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 30 Aug 2018 13:28:18 -0700</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/categories/system-care/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remote System Care</title>
+      <link>http://scottrlarson.com/services/information/management/system/</link>
+      <pubDate>Thu, 30 Aug 2018 13:28:18 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/services/information/management/system/</guid>
+      <description>Brochure Side 1 Brochure Side 2
+Remote System Care Package  Click title for more info  I provide recurring home and small office remote system care services for your PC Desktops and Laptops. I handle system security, backup and upkeep. Remote system care improves performance of your device, minimizes down time and service visits by tuning your system for optimal performance and predicting hardware/software failures.
+I provide piece of mind that the most import parts of your computer are being protected with robust security, upkeep, and regular disaster recovery backups of your most important data.</description>
+    </item>
+    
+  </channel>
+</rss>

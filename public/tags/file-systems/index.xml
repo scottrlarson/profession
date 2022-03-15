@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>File-systems on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/file-systems/</link>
+    <description>Recent content in File-systems on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 26 Mar 2020 10:49:14 -0700</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/tags/file-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exfat -vs- Ntfs</title>
+      <link>http://scottrlarson.com/links/guides/link-exfat-ntfs/</link>
+      <pubDate>Thu, 26 Mar 2020 10:49:14 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/links/guides/link-exfat-ntfs/</guid>
+      <description>A good article on the differences between these two Windows based file systems exfat and ntfs when it comes to portability.
+ https://www.lifewire.com/exfat-vs-ntfs-4781790  </description>
+    </item>
+    
+  </channel>
+</rss>

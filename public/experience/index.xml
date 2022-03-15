@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Index on Scott Larson</title>
+    <link>http://scottrlarson.com/experience/</link>
+    <description>Recent content in _Index on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 20 Apr 2020 11:56:59 -0700</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information Services Experience</title>
+      <link>http://scottrlarson.com/experience/information-services/</link>
+      <pubDate>Mon, 20 Apr 2020 11:57:36 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/experience/information-services/</guid>
+      <description>IT Setup, Troubleshooting and Repair From 2000 - 2006 I worked for a company called Sonic.com in Novato. Back then Sonic.com was a Multimedia authoring software company that made software products for audio and video professionals. I came in as their systems administrator. At that time I already had lots of experience with the inner workings with computers, but that was the first time I started to learn about handling technology on a service level.</description>
+    </item>
+    
+  </channel>
+</rss>

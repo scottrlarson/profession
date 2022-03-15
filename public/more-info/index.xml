@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>More-infos on Scott Larson</title>
+    <link>http://scottrlarson.com/more-info/</link>
+    <description>Recent content in More-infos on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 04 Mar 2021 08:44:59 -0800</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/more-info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remote Backup System Management Service Details</title>
+      <link>http://scottrlarson.com/more-info/services/remote-system-management-backup/</link>
+      <pubDate>Thu, 04 Mar 2021 08:44:59 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/more-info/services/remote-system-management-backup/</guid>
+      <description>Remote Backup Management is a service I provide to you that decreases risk of data loss. I provide this service under a recurring fee specified in the System Management Package. Depending on the package you purchased. This service fee includes subscription licensing fees for software I install on your device to protect your device from disasters, from security threats, and my time to maintain this service on a recurring basis.</description>
+    </item>
+    
+  </channel>
+</rss>

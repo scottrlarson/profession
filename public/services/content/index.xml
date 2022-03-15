@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on Scott Larson</title>
+    <link>http://scottrlarson.com/services/content/</link>
+    <description>Recent content in Content on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 08 Mar 2018 12:56:28 -0800</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/services/content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shopping on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/shopping/</link>
+    <description>Recent content in Shopping on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 30 Mar 2020 09:03:09 -0700</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/tags/shopping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laptop Buyers Guide</title>
+      <link>http://scottrlarson.com/links/guides/link-laptop-buyers-guide/</link>
+      <pubDate>Mon, 30 Mar 2020 09:03:09 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/links/guides/link-laptop-buyers-guide/</guid>
+      <description>This is a really great resource for finding a laptop that meets your specifications. The site reviews laptops and then it has a search tool that allows you to filter laptops based on the recommendation points of each laptop. https://www.notebookcheck.net/Laptop-Buying-Guide-Tool.13212.0.html</description>
+    </item>
+    
+    <item>
+      <title>Scooters&#39; Laptop Buyers Guide</title>
+      <link>http://scottrlarson.com/publications/publication-laptop-buyers-guide/</link>
+      <pubDate>Wed, 29 Jan 2020 10:55:00 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-laptop-buyers-guide/</guid>
+      <description>During my repairs, I receive quite a few PC laptops that are designed and constructed on the cheap. I speak to each of my customers about their purchasing choice, and if they can remember, it usually boils down to a purchase by marketing gimmick. While researching this publication, I looked up this phrase and the search results seem to think that performing a marketing gimmick is a great idea. Where I come from, marketing gimmicks are used to obfuscate the true colors of a product.</description>
+    </item>
+    
+  </channel>
+</rss>

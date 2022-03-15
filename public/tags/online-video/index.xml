@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Video on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/online-video/</link>
+    <description>Recent content in Online Video on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 11 Feb 2019 05:30:31 -0800</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/tags/online-video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ebook Publishing Process</title>
+      <link>http://scottrlarson.com/updates/update-process-publishing/</link>
+      <pubDate>Mon, 11 Feb 2019 05:30:31 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-process-publishing/</guid>
+      <description>I am a author, publisher, and ebook conversion specialist. I got my start developing websites about 5 years after the internet was in fruition. During the beginning of 2019, my first book &amp;ldquo;Most Improved&amp;rdquo; was authored, and published in digital form. I then converted the digital format to a print version so my audience can experience both formats. I can do the same for you.
+If you are looking to convert your manuscript to a ebook, or you are just thinking about finding another way to format your documents so you can easily get them to you customers in a way they can read them, on any device, with out a major hassle, then this document is for you.</description>
+    </item>
+    
+    <item>
+      <title>Smooth Video Playback</title>
+      <link>http://scottrlarson.com/updates/update-smooth-video-playback/</link>
+      <pubDate>Mon, 21 Jan 2019 11:24:31 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-smooth-video-playback/</guid>
+      <description>Playing video online or off smoothly has some minimum hardware requirements if you want to avoid hassles:
+ Processor: 2.4 Ghz Dual Core Processor. Graphics Card: 256 MB VRAM, 600Mhz Core Clock RAM: 4 GB  If you do not know what specifications your device has, there are a few ways to check, on a PC the easiest way is to open a Run Dialog Box. Hold the Windows key down and press &amp;lsquo;R&amp;rsquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

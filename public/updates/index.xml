@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Scott Larson</title>
+    <link>http://scottrlarson.com/updates/</link>
+    <description>Recent content in Updates on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 22 Feb 2018 18:16:33 -0800</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why backing up your data matters</title>
+      <link>http://scottrlarson.com/updates/update-why-backing-up-your-data-matters/</link>
+      <pubDate>Mon, 14 Feb 2022 07:08:24 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-why-backing-up-your-data-matters/</guid>
+      <description>There are many reasons why backing up matters. In my experience, the most important reason is sudden damage to the main storage device. When the main storage device fails, your computer or laptop becomes inaccessible, preventing access to your data. If the loss is catastrophic, this can result in a total and unrecoverable loss of your important files like documents, pictures, and music.
+Having backup software automate regular backups prevents you from having to think about, or remember to do it yourself.</description>
+    </item>
+    
+    <item>
+      <title>5 reasons why upgrading every 5 years enriches your life</title>
+      <link>http://scottrlarson.com/updates/update-5-reasons-5years-upgrading/</link>
+      <pubDate>Tue, 15 Jun 2021 11:22:36 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-5-reasons-5years-upgrading/</guid>
+      <description>Computers should just last forever, right?
+Automobiles don&amp;rsquo;t last forever, and neither do computers. Computers are much more likely to break down or cause issues due to wear and tear because they are much more complicated. Just like automobiles, they require regular upkeep and eventually, yes, they need to be upgraded.
+Here are 5 reasons why you should upgrade your computer every five years.
+File Corruption Due to Wait Times Lengthy delays opening resource intensive applications like Outlook creates the illusion of slow or no response.</description>
+    </item>
+    
+    <item>
+      <title>Check Xfinity Internet Status</title>
+      <link>http://scottrlarson.com/updates/xfinity-internet-status/</link>
+      <pubDate>Wed, 03 Feb 2021 14:36:52 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/xfinity-internet-status/</guid>
+      <description>If you find that your internet service is down, you can take these steps first before you reach out for my technical service. In most cases, if internet access is not working in your home or office (all computers are not able to surf the internet) The modem may need to be restarted, or there is an outage in your area. Comcast allows you to manage restarting your gateway/modem and check for outages from its website.</description>
+    </item>
+    
+    <item>
+      <title>How to check Battery level via Command line</title>
+      <link>http://scottrlarson.com/updates/update-battery-life-via-cmd-line/</link>
+      <pubDate>Thu, 13 Feb 2020 09:00:53 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-battery-life-via-cmd-line/</guid>
+      <description>Sometimes, the battery indicator in Windows 10 stops working, fails to respond, or disappears. In this case you might need to check your battery life, until that problem gets fixed.
+Check Battery level using command line Open Windows Command Prompt and execute the following command:
+WMIC PATH Win32_Battery Get EstimatedChargeRemaining  The output for that command would look something like this:
+ EstimatedCharge
+Remaining
+ You can see the estimated battery charge remaining.</description>
+    </item>
+    
+    <item>
+      <title>Scooters&#39; Preferred Windows Tweaks</title>
+      <link>http://scottrlarson.com/updates/update-scooters-windows-tweaks/</link>
+      <pubDate>Wed, 12 Feb 2020 08:37:16 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-scooters-windows-tweaks/</guid>
+      <description>These are tweaks that I make to my Windows configuration that improves my productivity. Performing these kinds of changes to Windows requires a careful understanding of programming, the Windows registry, and how to protect Windows from damage by making and restoring backups. Don&#39;t perform any of these tweaks unless you know what your doing. I am not liable, nor responsible for any action you take on behalf of this information.</description>
+    </item>
+    
+    <item>
+      <title>Should you upgrade to Windows 10, or Retire that old PC?</title>
+      <link>http://scottrlarson.com/updates/update-retire-old-pc/</link>
+      <pubDate>Tue, 14 Jan 2020 09:39:28 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-retire-old-pc/</guid>
+      <description>Many technology firms will recommend upgrading Windows 7 to Windows 10. Truth be told, in most cases, the hardware in that older computer is not recent enough to support an upgrade like this. It can be done, but you may find, in a short amount of time, that the computer operates slower than it ever had. Don&amp;rsquo;t bother wasting time an money on a upgrade that is just going to be worthless in a few months time.</description>
+    </item>
+    
+    <item>
+      <title>Office Location</title>
+      <link>http://scottrlarson.com/updates/update-office-location/</link>
+      <pubDate>Thu, 02 May 2019 15:00:36 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-office-location/</guid>
+      <description>I provide my services at 555 5th Street Suite 230-A.</description>
+    </item>
+    
+    <item>
+      <title>Improving the Life Expectancy of your SSD</title>
+      <link>http://scottrlarson.com/updates/update-ssd-improving-life-expectancy/</link>
+      <pubDate>Tue, 26 Mar 2019 14:08:24 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-ssd-improving-life-expectancy/</guid>
+      <description>SSD is a Solid State Drive. SSD&amp;rsquo;s are part of most newer computers, laptops and mobile devices. A storage device stores your personal information every time you save, copy, or transfer a file to your device.
+SSD&amp;rsquo;s use non-moving parts like memory technology. A hard disk drive uses moving parts to store information.
+Like Hard Disk Drives (HDD&amp;rsquo;s), Solid State Storage devices (SSD&amp;rsquo;s) have a life expectancy time line. A SSD is what your computer, laptop, or mobile device uses to store information on, and read from over the course of its life.</description>
+    </item>
+    
+    <item>
+      <title>Ebook Publishing Process</title>
+      <link>http://scottrlarson.com/updates/update-process-publishing/</link>
+      <pubDate>Mon, 11 Feb 2019 05:30:31 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-process-publishing/</guid>
+      <description>I am a author, publisher, and ebook conversion specialist. I got my start developing websites about 5 years after the internet was in fruition. During the beginning of 2019, my first book &amp;ldquo;Most Improved&amp;rdquo; was authored, and published in digital form. I then converted the digital format to a print version so my audience can experience both formats. I can do the same for you.
+If you are looking to convert your manuscript to a ebook, or you are just thinking about finding another way to format your documents so you can easily get them to you customers in a way they can read them, on any device, with out a major hassle, then this document is for you.</description>
+    </item>
+    
+    <item>
+      <title>Smooth Video Playback</title>
+      <link>http://scottrlarson.com/updates/update-smooth-video-playback/</link>
+      <pubDate>Mon, 21 Jan 2019 11:24:31 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-smooth-video-playback/</guid>
+      <description>Playing video online or off smoothly has some minimum hardware requirements if you want to avoid hassles:
+ Processor: 2.4 Ghz Dual Core Processor. Graphics Card: 256 MB VRAM, 600Mhz Core Clock RAM: 4 GB  If you do not know what specifications your device has, there are a few ways to check, on a PC the easiest way is to open a Run Dialog Box. Hold the Windows key down and press &amp;lsquo;R&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Where is my email stored, and is it being backed up?</title>
+      <link>http://scottrlarson.com/updates/update-email-archiving/</link>
+      <pubDate>Mon, 01 Oct 2018 08:06:46 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-email-archiving/</guid>
+      <description>You might think that when you are reading and responding to your email, it is actually is stored on your device. In the last 5 years or so IMAP and Cloud based email services changed all of that. Email is actually stored on the email hosting provider servers, unless you are using a old POP mail account. When you read, or respond to your email, you are actually reading/responding to a remote copy of this email that is stored at your service provider&amp;rsquo;s data center.</description>
+    </item>
+    
+    <item>
+      <title>Right to Repair</title>
+      <link>http://scottrlarson.com/updates/update-right-to-repair/</link>
+      <pubDate>Wed, 12 Sep 2018 17:15:50 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-right-to-repair/</guid>
+      <description>Technology Providers like Apple, Nikon, Verizon often prevent, or make it hard for customers to obtain information about a product or service. They have been known to even lock out repair facilities, like mine, from making repairs on many new electronic devices. Please support choice by supporting independent repair technician&amp;rsquo;s right to repair these products in our own way, under our own conditions, given that we honor practices that make products reliable and safe to use.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s your disaster recovery plan?</title>
+      <link>http://scottrlarson.com/updates/update-disaster-recovery-fire-insurance/</link>
+      <pubDate>Sat, 08 Sep 2018 15:35:09 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-disaster-recovery-fire-insurance/</guid>
+      <description>The Problem. A customer called me the day after the firestorm in the 2017 Northern California fires, &amp;ldquo;Scott, our house was destroyed in the fire and our computers are gone. Can you get us up and running with new laptops, and restore our data?&amp;rdquo;
+It was the day after returning from the coast with my family. That day I was able to order two new laptops from dell&amp;rsquo;s online store, install Carbonite, and restore data that the customer was backing up to the cloud.</description>
+    </item>
+    
+    <item>
+      <title>SSD File Recovery Options</title>
+      <link>http://scottrlarson.com/updates/update-file-recovery-ssd/</link>
+      <pubDate>Thu, 06 Sep 2018 17:24:34 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-file-recovery-ssd/</guid>
+      <description>The way data is written to SSD (Solid State Storage) technology is different from HDD technology (Hard Disk Drives). On SSD&amp;rsquo;s data cannot be overwritten. Flash memory must first be erased before it can be written to. The smallest writable unit on a SSD is called a page which is typically 8 – 16 KB in size. The smallest unit that can be erased is a block which consists of several pages (8 – 16 MB in size).</description>
+    </item>
+    
+    <item>
+      <title>Storing Laptop Batteries to Prolong Life Expectancy</title>
+      <link>http://scottrlarson.com/updates/update-battery-life/</link>
+      <pubDate>Thu, 06 Sep 2018 09:52:28 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-battery-life/</guid>
+      <description>Maintaining battery life can be a moving target. Lithium Ion batteries are used in most electronics since 2013. Unfortunately, little has changed in battery technology for computer electronics.
+Over time, between one and three years, laptop batteries lose much of their life expectancy. Below is a chart on the average loss based on the temperature that the battery is stored in:
+ Storage Temperature Charged to 40% &amp;ndash; capacity loss after a year  Charged to 100% &amp;ndash; capacity loss after a year   0 &amp;deg;C (32 &amp;deg;F) 2% 6%  25 &amp;deg;C (77 &amp;deg;F) 4% 20%   40 &amp;deg;C (104 &amp;deg;F) 15% 35%  60 &amp;deg;C (140 &amp;deg;F) 25% 40%    You can improve the life expectancy of the battery by storing it in a cold environment.</description>
+    </item>
+    
+    <item>
+      <title>Windows 10 Creators Update (1709) Performance Issues Alert</title>
+      <link>http://scottrlarson.com/updates/update-windows-10-update-poor-performance/</link>
+      <pubDate>Tue, 26 Dec 2017 12:26:27 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-windows-10-update-poor-performance/</guid>
+      <description>Customers should watch out for a recent update to Windows 10 called &amp;ldquo;Creators Update (1709)&amp;rdquo;. The update is very big, it&amp;rsquo;s almost like installing a new version of windows. You might experience a performance hit to you device&amp;rsquo;s ability to perform while this update is downloading or installing. When the update installs it may ask to reboot your computer. There are reports of machines rebooting themselves depending on your device&amp;rsquo;s update settings.</description>
+    </item>
+    
+    <item>
+      <title>Why I replaced Notezilla with Taskpaper</title>
+      <link>http://scottrlarson.com/updates/update-notezilla-taskpaper/</link>
+      <pubDate>Sun, 26 Nov 2017 12:11:00 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-notezilla-taskpaper/</guid>
+      <description>Notezilla although versatile has a few issues:  The app depends on proprietary methods to store notes. The syncing feature doesn&amp;rsquo;t work very well.  Taskpaper allows:  It uses a flat file structure In has built in features that allow you to set tasks based on tags. You can use Dropbox to handle the task files.</description>
+    </item>
+    
+    <item>
+      <title>Why its smart not to solicit your customers for mobile app reviews</title>
+      <link>http://scottrlarson.com/updates/update-mobile-app-review-solicitations/</link>
+      <pubDate>Sat, 04 Nov 2017 20:14:02 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-mobile-app-review-solicitations/</guid>
+      <description>When I update apps on my mobile devices I am seeing a really terrible trend, developers taking up space in their update notes begging people to review their app. I need to set the record straight before this gets out of control.
+If your app is worth giving a review, I will go out of my way to do that. But when you nag me for a review in the app itself (or anywhere else) I get this sense of being compelled, by force, through in-app nagging notifications, to leave a review.</description>
+    </item>
+    
+  </channel>
+</rss>

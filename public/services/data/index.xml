@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Services on Scott Larson</title>
+    <link>http://scottrlarson.com/services/data/</link>
+    <description>Recent content in Data Services on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Tue, 06 Feb 2018 13:03:27 -0800</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/services/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Erasing/Wiping</title>
+      <link>http://scottrlarson.com/services/data/erasing/</link>
+      <pubDate>Sun, 26 Dec 2021 10:19:51 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/services/data/erasing/</guid>
+      <description>If you have an old piece of technology that you want to recycle or reuse, it&amp;rsquo;s important that you have your data erased from the device before you send it off so your data does not fall into the wrong hands. Service Price $25</description>
+    </item>
+    
+    <item>
+      <title>Cloud Backup Setup Service</title>
+      <link>http://scottrlarson.com/services/data/cloud/</link>
+      <pubDate>Tue, 06 Feb 2018 13:46:11 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/services/data/cloud/</guid>
+      <description>I setup cloud backup services, if you need special help in make sure files and folders are backed up.
+Service Range Min $50.00  Service Range Max $100.00  </description>
+    </item>
+    
+    <item>
+      <title>Data Transfers</title>
+      <link>http://scottrlarson.com/services/data/transfers/</link>
+      <pubDate>Tue, 06 Feb 2018 13:45:10 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/services/data/transfers/</guid>
+      <description>A data transfer is a service that involves moving, or copying data from one, or more source devices and transferring that data to a target device, or devices, such as another computer or a secondary storage device.
+Data/System Transfers/Migrations If you require a data transfer service and you do not know the specifics of your data, like what file types/software you want transferred/migrated or the location of where your data files are stored, a migration audit report is required.</description>
+    </item>
+    
+    <item>
+      <title>Backup Solutions</title>
+      <link>http://scottrlarson.com/services/data/backup/</link>
+      <pubDate>Tue, 06 Feb 2018 13:44:49 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/services/data/backup/</guid>
+      <description>Data Backup and Recovery Solution (Local and Cloud) I can help you setup solution that backs-up important data to a local or cloud based storage device.
+Disaster Recovery Backup Solution Storage devices usually have a limited life span due to wear and tear. A disaster recovery solution backs-up your system, programs and personal data. In the event of a hardware loss, or disaster, a recovery of that data can be performed minimizing down-time.</description>
+    </item>
+    
+    <item>
+      <title>Archiving</title>
+      <link>http://scottrlarson.com/services/data/archiving/</link>
+      <pubDate>Tue, 06 Feb 2018 13:44:27 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/services/data/archiving/</guid>
+      <description>If you need to have data stored long term, there are methods that will protect your data from wear. I can help you develop a strategy for maintaining a good copy of that data so that you dont lose important information due to wear or device end of life situations.
+Request Quote
+ Call  On-line    </description>
+    </item>
+    
+    <item>
+      <title>Recovery</title>
+      <link>http://scottrlarson.com/services/data/recovery/</link>
+      <pubDate>Tue, 06 Feb 2018 13:03:13 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/services/data/recovery/</guid>
+      <description>Data Recovery Data Recovery is a process of evaluating and attempting to retrieve data that has become inaccessible due to an operating system failure, hardware damage, or due to accidental deletion by the user.
+STOP! If you are experiencing performance problems, hangs, freezing, or unrecoverable errors, your storage device might be in the process of failing catastrophically. In addition if you experienced a loss already on a device you are currently using, in both cases, stop using your device and have a diagnostic/analysis performed on the device immediately.</description>
+    </item>
+    
+  </channel>
+</rss>

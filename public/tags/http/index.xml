@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTTP on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/http/</link>
+    <description>Recent content in HTTP on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Sat, 10 Mar 2001 13:49:14 -0800</lastBuildDate>
+    
+	<atom:link href="http://scottrlarson.com/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tantra.com: Diagnose &amp; Repair: HTML Website Loading Stuck Issue</title>
+      <link>http://scottrlarson.com/projects/network/tantra.com/</link>
+      <pubDate>Sat, 10 Mar 2001 13:49:14 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/network/tantra.com/</guid>
+      <description>Legacy HTML image caching code caused site to stop loading on certain modern web browsers - tracked down from client side using web load tools and reported problem to developer&amp;rsquo;s allowing them to remove legacy code that was causing the issue.</description>
+    </item>
+    
+  </channel>
+</rss>

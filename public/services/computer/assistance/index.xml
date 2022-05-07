@@ -144,15 +144,12 @@ This service includes:
       
       <guid>http://scottrlarson.com/services/computer/assistance/phone/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;contact-info-table&#34;&gt;
-  &lt;div class=&#34;contact-info-group&#34;&gt;
-  	&lt;div class=&#34;contact-info-label&#34;&gt;Office+Voicemail&lt;/div&gt;
-  	&lt;div class=&#34;contact-info-item&#34;&gt;&lt;a href=&#34;tel:707-536-1527&#34;&gt;707-536-1527&lt;/a&gt;&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;contact-info-group&#34;&gt;
-  	&lt;div class=&#34;contact-info-label&#34;&gt;Mobile+Text&lt;/div&gt;
-  	&lt;div class=&#34;contact-info-item&#34;&gt;&lt;a href=&#34;sms:707-416-5811&#34;&gt;707-416-5811&lt;/a&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+<div class="contact-info-table">
+  <div class="contact-info-group">
+  	<div class="contact-info-label">Phone & Text Support</div>
+  	<div class="contact-info-item"><a href="tel:707-536-1527">707-536-1527</a></div>
+  </div>
+</div>
 
 Check my &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;hours&lt;/a&gt; for availability. I offer a free evaluation of your issue. In this evaluation, I use my 20+ years of experience to visually inspect your device and make a educated guess on the cause. This helps you decide whether diagnosing or repairing your issue is worth your time. Please understand that many issues require a full diagnostic of the hardware or the software. If you have a question about technology, you can consult with me over the phone or through an in-office visit. In this case I give you 20mins of my time to understand your issue. If you want more information about my project based services you can visit the &lt;a href=&#34;http://scottrlarson.com/services/computer/repair/&#34;&gt;Repairs&lt;/a&gt;, &lt;a href=&#34;http://scottrlarson.com/services/computer/home-office/&#34;&gt;Home-Office&lt;/a&gt;, and &lt;a href=&#34;http://scottrlarson.com/services/computer/multimedia-gaming/&#34;&gt;Multimedia/Gaming&lt;/a&gt; sections of my website. For information on the costs of these services, check my &lt;a href=&#34;http://scottrlarson.com/#rates&#34;&gt;rates&lt;/a&gt; section. If you have a question, please &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact&lt;/a&gt; me.
 &lt;/p&gt;</description>

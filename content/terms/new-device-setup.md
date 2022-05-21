@@ -29,7 +29,7 @@ At all times the device will be remain functional, but you might have an expecta
 
 If you request a removal of an application, you will be liable for any ramification of that request. For instance: If you request that a default security package be removed due to the fact that you prefer to install your own and you forget to perform that operation, and that inaction causes some kind of harm to you, another party, or to any property; You, and you alone are responsible.
 
-## My Windows 10 Restore/Reset Service Includes Decrapifing
+## My Windows 10 Setup Service Includes Decluttering
 
 Due to Windows 10 data collection practices and the impact it has on customer privacy, when I install, reinstall, or tune-up Windows 10 on any machine that enters this office, I remove and disable the unnecessary and in many cases unwanted functions listed below. You can opt to install or re-enable the app in question yourself by launching the Microsoft Store App on your computer, doing a search for the missing App, and then installing it. (Please note that I do not guarantee any performance improvements on any of these adjustments.):
 

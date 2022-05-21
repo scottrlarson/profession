@@ -15,12 +15,15 @@ image = ""
 caption = ""
 
 +++
+{% alert %}
+When you purchase a device from me, bring a new device in for setup or a tune-up, I will remove, replace, or disable features that I deem best for my customers. These fine tuning operations are done to improve customer experience.
+{% /alert %}
 
-**When you purchase a device from me, bring a new device in for setup or a tune-up, I will remove, replace, or disable features that I deem best for my customers. These fine tuning operations are done to improve customer experience.**
+{% alert title="Storage Encryption" %}
+In many cases, storage device encryption prevents me from providing the services you request. I require an unencrypted storage device before I can provide any services. If your storage device has been encrypted by the default Windows installation, I will decrypt it using the credentials you supplied to me to provide the service. If you require your storage device to be encrypted, you will have to re-enable that encryption after the service is complete. Having a device with unencrypted storage may open your data up to theft, protecting your data is your responsibility. If you have questions about this topic or need help please contact me before requesting service. 
+{% /alert %}
 
 This might include removing, replacing or disabling (also by your request): security software, preloaded apps that are not part of the required core functionality of the system, or hardware that is causing performance bottlenecks. For example, I might increase the memory size, or the speed of the storage device.
-
-In many cases, storage device encryption prevents me from providing the services you request. I require an unencrypted storage device before I can provide any services. If your storage device has been encrypted by the default Windows installation, I will decrypt it using the credentials you supplied to me to provide the service. If you require your storage device to be encrypted, you will have to re-enable that encryption after the service is complete. Having a device with unencrypted storage may open your data up to theft, protecting your data is your responsibility. If you have questions about this topic or need help please contact me before requesting service. 
 
 At all times the device will be remain functional, but you might have an expectation about the device that I deliberately changed. If you have a required need for a default application, or setting/customization, that would have existed with another device provider, please let me know so that we can talk about that requirement.
 

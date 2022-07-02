@@ -2,7 +2,6 @@
 title = "Payments"
 date = 2019-11-22T14:17:05-08:00
 draft = false
-
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -17,7 +16,7 @@ caption = ""
 
 +++
 
-All payments can be made via check or cash. If you prefer to pay by credit card, you can [paypal](paypal.me/scottrlarson) me, or [venmo me](https://account.venmo.com/u/scottrlarson) at @scottRlarson. On Venmo, my handle is connected to the business part of their service. So if you do not see my listing, switch to the business tab.
+All payments can be made via check or cash. If you prefer to pay by credit card, you can [paypal](paypal.me/scottrlarson) me, or [venmo me](https://account.venmo.com/u/scottrlarson) at @scottRlarson. On Venmo, my handle is connected to the business part of their service. So if you do not see my listing, switch to the business tab. All payments are due immediately upon the return of the device, or for at-location services, before I leave the service location. My rates for at location services are per-hour with a one-hour minimum regardless of the result. If you have an expectation of a result that goes beyond my terms, please communicate that  upfront, before payment. You are liable for all payments after the service is started.
 
 ## In-shop Servicing
 Payments are due upon pick-up of your device.

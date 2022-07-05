@@ -81,7 +81,7 @@ If you require an immediate response, it's best to reach me by [phone or text](#
 {{% /accordion %}}
 
 {{% accordion title="Out-of-Office Dates" col="in" id="outofoffice" %}}
-None
+Out sick from over the 4th of July weekend (Food Poisoning) Expected Return Date 7/7/2022
 {{% /accordion %}}
 
 {{% accordion title="Spiritual Activism" id="activism" %}}

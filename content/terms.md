@@ -16,6 +16,28 @@ caption = ""
 
 +++
 
+Table of Contents:
+
+- [Appointments](#Appointments)
+- [Service Authorization](#Service-Authorization)
+- [Responsible Communication](#Responsible-Communication)
+- [Fees](#Fees)
+- [Payments](#Payments)
+- [Remote Service](#Remote-Service)
+- [Protecting Your Data](#Protecting-Your-Data)
+- [Software Bugs - Hardware Wear & Tear](#Software-Bugs-Hardware-Wear-&-Tear)
+- [Equipment Left Behind](#Equipment-Left-Behind)
+- [New Device Setup](#New-Device-Setup)
+- [Priority Service](#Priority-Service)
+- [Privacy Statement - Communication](#Privacy-Statement-Communication)
+- [Privacy Statement - Data](#Privacy-Statement-Data)
+- [Responsibility](#Responsibility)
+- [Self-Regulation](#Self-Regulation)
+- [Service Guarantee](#Service-Guarantee)
+- [Turn-Around Time](#Turn-Around-Time)
+- [Shipping](#Shipping)
+- [Who I provide service to](#who-i-provide-service-to)
+
 ## Appointments
 If you require an at-location or in-shop consultation [contact me](/#contact) to make an appointment.  Please note that making appointments with me require both of us to be prompt and communicative about delays/cancellations ahead of time by at least 2hrs. If I fail to show up for our appointment I will wave the first hour of the consultation.  If I am late for an appointment over 10mins I will take %25 off your fee. If you fail to show up you agree to pay the first 1 hour of consultation fee. If you fail to contact me, or contact me under 2hrs before the consultation about a delay/cancellation, or show up late, you agree to a %25 addition to the fee. Please see my [rates](/#rates) for more information.
 
@@ -29,13 +51,19 @@ In certain cases, failure to follow up on my request for communication in a time
 
 Unless my work schedule is nearing the end of the day, I will respond to communications within three hours, or less. There are a few exceptions to this time frame: If I am on a emergency appointment where I cannot get away, I am on vacation, I am out sick, or it is during off hours. If I am occupied with any of these situations,  I will respond to any and all communications on the next business day. My home page should have a post with a status update on my availability if something happens that prevents me from operating inside of my normal working hours.
 
-
 ## Fees
-
 Diagnostic fees cover my time in troubleshooting an issue, and for me to provide you with a expert report on what I think the problem is based on my observations, or for me to provide you with a recommendation in the event the device is unable to be repaired due to time or cost.
 
-## Remote or Reoccurring Service Prerequisites
 
+## Payments
+All payments can be made via **check or cash**. If you prefer to pay by credit card, you can **[paypal](paypal.me/scottrlarson) me, or [venmo me]**(https://account.venmo.com/u/scottrlarson) at @scottRlarson. On Venmo, my handle is connected to the business part of their service. So if you do not see my listing, switch to the business tab. **All payments are due immediately upon the return of the device**, for at-location services, **before I leave the service location**. For online services, **two weeks after you receive a bill of service**. **My rates for at location services are per-hour with a one-hour minimum regardless of the result**. If you have an expectation of a result that goes beyond my terms, please communicate that upfront, before any services I provide. You are liable for all payments after the service is started.
+
+### Notice about late or unpaid payments
+There is a $1.00 fee (Per Day) for late payments. Too many late or unpaid bills will result in services being halted at a time of my discretion, or your service will be reprioritized for timely paid customers. **Repeated late or unpaid bills will result in the termination of the service relationship.**
+
+If there are outstanding payments, I will retain your device until the service is paid. Any equipment left behind for over a period of 120 days will be destroyed/recycled. You agree that any equipment you leave behind may be sold to cover any outstanding payments to Scott Larson not received within 60 days of the bill of service date. You understand that all personal data will be irrevocably destroyed to protect you privacy. If you leave behind a device for servicing, you understand Scott Larson will make every effort to contact you, but if you am not reachable via Phone, Email or Post within this time frame, regardless of the reason, you are giving up ownership of your equipment.
+
+## Remote Service
 When you bring your device in for servicing, after a repair, or when you agree to allow me to remotely manage your device's security, backup or upkeep, I may install certain applications/shortcuts on your desktop that help provide ongoing services or to maintain a business relationship. 
 
 Please note that remote service requires exceptions to be configured in any security software that is installed on your computer. If you do not trust me or do not want to make these exceptions to your security software, I will not be able to provide any remote services.
@@ -65,7 +93,7 @@ In the process of updating software, or making changes to the way software funct
 I am very proactive in keeping you in the loop on the status of your device. If for some reason I do not hear back from you on a communication for a period of 120 days, depending on my time constraints, I am assuming you do not want whatever equipment you have left behind, and your equipment will be irrevocably destroyed, or may be sold to cover any costs. I will do my best to secure wipe your data to protect your privacy, but I am not liable for any results that occur from any kind of breach to your personal data from devices that are in my care even though I excel at protecting your data.
 and any arrangements we have after I attempt to contact you, even though I am not required to. This may involve all of the following during this 120 day period: a few calls, an email, a text message (If a mobile number is on file), and a post letter(IF I have an address for you on file). For more information about the my limited liability and protection of your data, please see my privacy terms below.
 
-## New Device Setup Required Operations
+## New Device Setup
 
 {{% alert %}}
 When you purchase a device from me, bring a new device in for setup or a tune-up, I will remove, replace, or disable features that I deem best for my customers. These fine tuning operations are done to improve customer experience.
@@ -89,23 +117,15 @@ Due to Windows 10 data collection practices and the impact it has on customer pr
 
 I do this to give my customers a good experience with their device by decluttering the operation of Windows 10. This has the potential to improve the performance and user experience.
 
-## Payments
-All payments can be made via **check or cash**. If you prefer to pay by credit card, you can **[paypal](paypal.me/scottrlarson) me, or [venmo me]**(https://account.venmo.com/u/scottrlarson) at @scottRlarson. On Venmo, my handle is connected to the business part of their service. So if you do not see my listing, switch to the business tab. **All payments are due immediately upon the return of the device**, for at-location services, **before I leave the service location**. For online services, **two weeks after you receive a bill of service**. **My rates for at location services are per-hour with a one-hour minimum regardless of the result**. If you have an expectation of a result that goes beyond my terms, please communicate that upfront, before any services I provide. You are liable for all payments after the service is started.
-
-### Notice about late or unpaid payments
-There is a $1.00 fee (Per Day) for late payments. Too many late or unpaid bills will result in services being halted at a time of my discretion, or your service will be reprioritized for timely paid customers. **Repeated late or unpaid bills will result in the termination of the service relationship.**
-
-If there are outstanding payments, I will retain your device until the service is paid. Any equipment left behind for over a period of 120 days will be destroyed/recycled. You agree that any equipment you leave behind may be sold to cover any outstanding payments to Scott Larson not received within 60 days of the bill of service date. You understand that all personal data will be irrevocably destroyed to protect you privacy. If you leave behind a device for servicing, you understand Scott Larson will make every effort to contact you, but if you am not reachable via Phone, Email or Post within this time frame, regardless of the reason, you are giving up ownership of your equipment.
-
 ## Priority Service
 I operate on a first come, first serve basis. Unless you want a priory service. If you need a faster turn-around, see my priority [rates](/#rates).
 
 During my regular service schedule, I always prioritize customers that have already paid for service, over those that have an outstanding payment that is due.
 
-## Privacy Statement (Communication)
+## Privacy Statement - Communication
 During the servicing of your device, by your request, I may have to access certain areas of your file system, or online accounts, that might contain private information. I will not knowingly take any action that involves breaching the privacy to your digital information in any way. I take every effort within my ability to secure any private/personal communications/data from any locations that I service devices at. There is a possibility that my communications (that might contain information about you, or a 3rd party) could be intercepted by an online or at-location attacker without my knowledge. Also if my physical location is breached, your private information could be compromised. In cases, like this, beyond my control, I am not liable for any results that occur due to a physical breach of my office, or an successful online breach of my network.
 
-## Privacy Statement (Data)
+## Privacy Statement - Data
 When you bring your device to me for servicing, I make an encrypted safety backup of your device's system data. This includes the system hard drive, or storage device, and/or any other device that is required for the system to function normally.
 
 I do this in case a issue occurs during, or after the service is complete, that would prevent you from accessing your device, or data. I keep this backup in encrypted form for around 4 months. This means that if my equipment were ever to become lost, or a theft occurred, the encryption method, 256 AES, serves as a significant deterrent against accessing your data stored in my backup. This safety backup is not a guarantee that I can provide to you a copy of your data, at your request, in the event you experience a loss, after the return your device. If you did not purchase a data-backup, and if I still have a backup of your data on hand, depending on my storage free space requirements at the time, I can provide you with a copy of your data under a data restore service.

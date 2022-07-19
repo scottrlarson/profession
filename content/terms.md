@@ -25,9 +25,10 @@ Table of Contents:
 - [Payments](#payments)
 - [Remote Service](#remote-service)
 - [Protecting Your Data](#protecting-your-data)
-- [Software Bugs - Hardware Wear & Tear](#software-bugs-hardware-wear-&-tear)
+- [Software Bugs - Hardware Wear & Tear](#software-bugs-hardware-wear-tear)
 - [Equipment Left Behind](#equipment-left-behind)
 - [New Device Setup](#new-device-setup)
+- [Storage Encryption/Decryption](#storage-encryption-decryption)
 - [Priority Service](#priority-service)
 - [Privacy Statement - Communication](#privacy-statement-communication)
 - [Privacy Statement - Data](#privacy-statement-data)
@@ -42,7 +43,7 @@ Table of Contents:
 If you require an at-location or in-shop consultation [contact me](/#contact) to make an appointment.  Please note that making appointments with me require both of us to be prompt and communicative about delays/cancellations ahead of time by at least 2hrs. If I fail to show up for our appointment I will wave the first hour of the consultation.  If I am late for an appointment over 10mins I will take %25 off your fee. If you fail to show up you agree to pay the first 1 hour of consultation fee. If you fail to contact me, or contact me under 2hrs before the consultation about a delay/cancellation, or show up late, you agree to a %25 addition to the fee. Please see my [rates](/#rates) for more information.
 
 ## Service Authorization 
-You authorize my service when you bring in your device, request service via other means, for instance, but not limited to, an E-mail or Phone request. I will have you approve the service by an Authorization or Service Order Form. You can approve this authorization or order by signature, voice or text message. Your approval can happen in a phone conversation with me or an electronic/letter communication. When you authorize a service I have a responsibility to provide you a reliable experience which usually results in a successful outcome. There are certain conditions that are out of my hands, like inadvertent data loss, or hardware failures while diagnosing, repairing, or replacing hardware and/or software. I rely on you to protect your investment by maintaining backups of your data before requesting service.
+You authorize my service when you bring in your device, request service via other means, for instance, but not limited to, an E-mail or Phone request. I will have you approve the service by an Authorization or Service Order Form. You can approve this authorization or order by signature, voice or text message. Your approval can happen in a phone conversation with me or an electronic/letter communication. When you authorize a service I have a responsibility to provide you a reliable experience which usually results in a successful outcome. There are certain conditions that are out of my hands, like inadvertent data loss, or hardware failures while diagnosStorage Encryption/Decryptioning, repairing, or replacing hardware and/or software. I rely on you to protect your investment by maintaining backups of your data before requesting service.
 
 ## Responsible Communication
 Its very important to me that I provide the best possible service and that means that after I completed my service on your device, I want to return your device to you in a timely manner. I rely on you to provide me with timely responses to my requests, especially if you require a quick turn-around on the service of your device. 
@@ -99,10 +100,6 @@ and any arrangements we have after I attempt to contact you, even though I am no
 When you purchase a device from me, bring a new device in for setup or a tune-up, I will remove, replace, or disable features that I deem best for my customers. These fine tuning operations are done to improve customer experience.
 {{% /alert %}}
 
-{{% alert title="Storage Encryption" %}}
-In many cases, storage device encryption prevents me from providing the services you request. I require an unencrypted storage device before I can provide any services. If your storage device has been encrypted by the default Windows installation, I will decrypt it using the credentials you supplied to me to provide the service. If you require your storage device to be encrypted, you will have to re-enable that encryption after the service is complete. Having a device with unencrypted storage may open your data up to theft, protecting your data is your responsibility. If you have questions about this topic or need help please contact me before requesting service. 
-{{% /alert %}}
-
 This might include removing, replacing or disabling (also by your request): security software, preloaded apps that are not part of the required core functionality of the system, or hardware that is causing performance bottlenecks. For example, I might increase the memory size, or the speed of the storage device.
 
 At all times the device will be remain functional, but you might have an expectation about the device that I deliberately changed. If you have a required need for a default application, or setting/customization, that would have existed with another device provider, please let me know so that we can talk about that requirement.
@@ -116,6 +113,10 @@ Due to Windows 10 data collection practices and the impact it has on customer pr
 - I may Install new default applications to make use of: Photos(Fast Stone Image Viewer), Internet Browsing(Mozilla Firefox and Google Chrome), Email(Mozilla Thunderbird) Videos(VLC), and Media Creation(Burn Aware).
 
 I do this to give my customers a good experience with their device by decluttering the operation of Windows 10. This has the potential to improve the performance and user experience.
+
+## Storage Encryption/Decryption
+In many cases, storage device encryption prevents me from providing the services you request. I require an unencrypted storage device before I can provide any services. If your storage device has been encrypted by the default Windows installation, I will decrypt it using the credentials you supplied to me to provide the service. If you require your storage device to be encrypted, you will have to re-enable that encryption after the service is complete. Having a device with unencrypted storage may open your data up to theft, protecting your data is your responsibility. If you have questions about this topic or need help please contact me before requesting service. 
+
 
 ## Priority Service
 I operate on a first come, first serve basis. Unless you want a priory service. If you need a faster turn-around, see my priority [rates](/#rates).

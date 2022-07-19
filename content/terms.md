@@ -119,7 +119,7 @@ In many cases, storage device encryption prevents me from providing the services
 
 
 ## Priority Service
-I operate on a first come, first serve basis. Unless you want a priory service. If you need a faster turn-around, see my priority [rates](/#rates).
+I operate on a first come, first serve basis. Unless you want a priory service. If you need a faster turn-around, see my priority [rates](/#service-repair-rates-turnaround).
 
 During my regular service schedule, I always prioritize customers that have already paid for service, over those that have an outstanding payment that is due.
 
@@ -170,7 +170,7 @@ Shipments that don't arrive on time, or are late requires resolution with the on
 
 If you are not prepared to wait for packages to be delivered, which under normal circumstances can take 3-7 business days, and in rare cases, such as items shipped from out of the country, up to a month, so I can perform my services, please reach out to me to discuss alternatives. I am not liable, nor responsible for delay shipments. At my discretion, I reserve the right to charge you a fee for time involved in handling your service request up to a point, should you wish to cancel any services related to delayed, or lost shipped items, and in some cases, for instance, if you agree to allow me to provide a service with an item in the process of delivered and that item never arrives, and you wish to cancel that service, those service fees are not refundable.
 
-# Who I provide service to
+## Who I provide service to
 
 I provide technical service solely to individuals. If you own a business, or you work for a business all service related dealings will be handled by you and I. If you want someone else to engage with me on a service in question on your behalf, please provide your consent in writing to allow that someone to speak for you, and act on your behalf.
 

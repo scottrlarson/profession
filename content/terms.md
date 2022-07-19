@@ -53,7 +53,17 @@ In certain cases, failure to follow up on my request for communication in a time
 Unless my work schedule is nearing the end of the day, I will respond to communications within three hours, or less. There are a few exceptions to this time frame: If I am on a emergency appointment where I cannot get away, I am on vacation, I am out sick, or it is during off hours. If I am occupied with any of these situations,  I will respond to any and all communications on the next business day. My home page should have a post with a status update on my availability if something happens that prevents me from operating inside of my normal working hours.
 
 ## Fees
-Diagnostic fees cover my time in troubleshooting an issue, and for me to provide you with a expert report on what I think the problem is based on my observations, or for me to provide you with a recommendation in the event the device is unable to be repaired due to time or cost.
+**Diagnostic fees** cover my time in troubleshooting an issue, and for me to provide you with a expert report on what I think the problem is based on my observations, or for me to provide you with a recommendation in the event the device is unable to be repaired due to time or cost. Diagnostic fees are paid upfront before the service is rendered, or, in the case of a at-location appointment, upon completion of an assessment, diagnostic, or survey/estimate in cash or check form, with the option (at my discretion) of using your Venmo or Paypal mobile app at my office when you drop off your device.
+
+**Repair fees** are usually in addition to any diagnostic fees and are paid when the repair is complete, before you pick up your device, or before I leave your location in cash or check form, with the option (at my discretion) of using your Venmo or Paypal mobile app at my office when you pick up your device.
+
+**Consultation fees** are per-hour, with a one hour minimum, REGARDLESS OF THE RESULTS of the service. Paid in cash or check form, with the option (at my discretion) of using your Venmo or Paypal mobile app before I leave your location.
+
+**Research/Recommendation** fees cover my time in creating a estimate/quote, or communicating recommendation information at your request. The fees are charged per project or per request. Payment can be in cash or check form, with the option (at my discretion) of using Venmo or Paypal.
+
+**Project/Service fees** are set fees that I charge for specific projects or services that I know are going to be fixed turn-around times. The fees are charged per project. Payment can be in cash or check form, with the option (at my discretion) of using your Venmo or Paypal mobile app at my office or before I leave your location.
+
+**Please be prepared to pay cash or check if you unable to get your mobile app working.**
 
 
 ## Payments

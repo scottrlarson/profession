@@ -21,3 +21,5 @@ caption = ""
 ![Future Wars](/img/history/delphine software/Future Wars/futurewars-cover.jpg)
 ![Another World](/img/history/delphine software/Another World/anotherworld19.jpg)
 ![Flashback](/img/history/delphine software/Flashback/89-06.jpg)
+
+tesat

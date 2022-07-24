@@ -1,6 +1,6 @@
 +++
-title = "_Index"
-date = 2022-07-24T10:55:24-07:00
+title = "Memorials"
+date = 2022-07-24T10:40:52-07:00
 draft = false
 
 # Tags and categories

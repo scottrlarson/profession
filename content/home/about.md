@@ -69,7 +69,7 @@ As the new Omicron variant of the COVID virus spreads, I need to take precaution
 {{% /alert %}}
 
 {{% accordion title="Professional Background" col="in" id="professional" %}}
-I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in the late nineties. I then moved on to Systems Administration for small networks. Disillusioned with corporate politics, I  decided to leave that world behind and provide services directly to the public as a independent computer service professional.
+I am a computer repair and information technology professional. I got my start in technology working for small custom computer shops back in the late nineties. I then moved on to Systems Administration for small networks. Disillusioned with corporate politics, I  decided to leave that world behind and provide services directly to the public as a independent computer service professional.
 {{% /accordion %}}
 
 {{% accordion title="Current Services" col="in" id="services" %}}

@@ -68,9 +68,8 @@ weight = 1
 As the new Omicron variant of the COVID virus spreads, I need to take precautions to protect everyone from infection. I provide remote service, curbside and at-your-location pick-up. Due to COVID, please call me, or make an [online appointment](https://harmonizely.com/scottrlarson) before you arrive. Also please read and observe the following [precautions](/#precautions) to minimizing the spread of infection during this pandemic. Thank you.
 {{% /alert %}}
 
-{{% accordion title="Professional Background" col="in" id="professional" %}}
-I am a computer repair and information technology professional. I got my start in technology working for small custom computer shops back in the late nineties. I then moved on to Systems Administration for small networks. Disillusioned with corporate politics, I  decided to leave that world behind and provide services directly to the public as a independent computer service professional.
-{{% /accordion %}}
+
+
 
 {{% accordion title="Current Services" col="in" id="services" %}}
 I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. I also design and performance-tune Gaming Desktops for hard-core and average gamers.

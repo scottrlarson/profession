@@ -124,11 +124,20 @@ caption = ""
 
 {{% /accordion-clean %}}
 
-My first experience with computers started in the 1980's with games on one of the first home computers, the Texas Instruments TI-99/4A. A few of my friends and I would visit a friend who's mother had purchased the computer for him. The game we played was what I experienced as the first multi-player turn-based [dungeon crawler](https://en.wikipedia.org/wiki/Dungeon_crawl) game ""**Tunnels of Doom**"". We would start our morning loading our save game of cassette, which would take several hours. After dinner our game would be loaded and we would each play our turn. It was the first continuous game experience that would last more than one sitting where I learned to cooperate with other players to complete objectives.
+My first experience with computers started in the 1980's with games on one of the first home computers, the Texas Instruments TI-99/4A. I was about 12 years old. A few of my friends and I would visit a friend who's mother had purchased the computer for him. The game we played was what I experienced as the first multi-player turn-based [dungeon crawler](https://en.wikipedia.org/wiki/Dungeon_crawl) game ""**Tunnels of Doom**"". We would start our morning loading our save game of cassette, which would take several hours. After dinner our game would be loaded and we would each play our turn. It was the first continuous game experience that would last more than one sitting where I learned to cooperate with other players to complete objectives.
 
 {{< youtube oa7MYYmB4XQ >}}
+<p></p>
 
+A few years after my experience with the TI994a. My parents notice my enthusiasm in science. I think they wanted to turn me into a scientist and saw the home computer as a step up from my childhood dream of getting myself into trouble. 
 
+A quick side note, I had brief introduction into electronics theory and practicalities by my Uncle Jim, who worked as a electrician in WWII, and later became a city electrician. On occasion, when my parents went a way on vacation, they would ship me to Chicago to visit my Uncle. He showed me the basics of the apprentice craft. I few years of my life was spent in his basement, building small electronic devices together. Maybe that's why I jump at the sight of a newly released gadget today.  
+
+As far as electronics go, the computer was, and is, a different beast. Obviously, the inner workings of a computer operates on the same principles of electric current. But what made home computers different from electronics is the software programming aspect of it. Programming is like creating a list of instructions for something to happen. When a computer receives a list of instructions, at the end of the day, is really all about flipping switches. Flipping a sequence of switches actually, in a way the computer can understand.
+
+Anyways, this enthusiasm got me my first computer, a Commodore 64. I'm skipping the part where my real first computer was a TRS-80. Because, well, if you didn't know, back then, it was consider the [Trash 80](https://dfarq.homeip.net/trash-80-what-it-meant-and-why-it-stuck/) by my compadres, and I don't want to mar my reputation :P. It was as good of a computer as any during that time, but since it was sold by Radio Shack, I think it developed a bad reputation because Radio Shack's electronics were considered subpar.
+
+Anyways, forget I ever said anything about that. On to the extraordinary achievement of the mid-eighties. I bring you, the Commodore 64!
 
 ### Commodore 64
 
@@ -136,7 +145,6 @@ My first experience with computers started in the 1980's with games on one of th
 
 {{% accordion-clean title="Commodore 64 Specs" id="commodore64-specs" %}}
 <table class="infobox hproduct vevent">
-  <caption class="infobox-title fn summary">Commodore 64</caption>
   <tbody>
     <tr>
       <td colspan="2" class="infobox-image">
@@ -249,7 +257,6 @@ My first experience with computers started in the 1980's with games on one of th
 
 {{% /accordion-clean %}}
 
-A few years after my experience with the TI994a. My parents notice my interest in computers. At the time, I was also interested in electronics when I was spending time with my Uncle who was an electrician. On occasion when my parents went a way on vacation, they would leave me with my Uncle. He showed me the basics of his craft and We would build gadgets together.  I think they wanted to encourage me to continue in this area and saw the home computer as an extension my Uncle's profession. But the computer was and is a different beast. Computers operating on the engineering principles electric current, but its the software, and how programming the [electro-circuitry](https://en.wikipedia.org/wiki/Electronic_circuit) by way of code, imputed into the computer that makes home computers different.
 
 ### Commodore 128
 

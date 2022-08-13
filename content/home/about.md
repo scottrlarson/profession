@@ -91,7 +91,7 @@ Spiritual Activism is the coming together of spirituality and activism. It is no
 
 {{% accordion title="Authoring Background" id="authoring" %}}
 
-{{% alert title="Personal Interests Warning" url="/education/apprentice-opportunity" %}}If you are customer, or potentially want to be a customer of mine, reading about my personal interests and beliefs might be more than you want to know about me. I strive for professionalism by refraining from bringing up personal interest topics unless asked. In many cases I like to keep it brief as I do not want to taint our business relationship with my philosophical beliefs.{{% /alert %}}
+{{% alert title="Personal Interests Warning" url="/education/apprentice-opportunity" %}}If you are a customer, or potentially want to be a customer of mine, reading about my personal interests and beliefs might be more than you want to know about me. I strive for professionalism by refraining from bringing up personal interest topics unless asked. In many cases, I like to keep discussions amount my personal life in the office and on at-location appointments brief as I do not want to taint our business relationship with my philosophical beliefs.{{% /alert %}}
 
 In 2019 I suffered a Cerebral Hemorrhage. I wrote a [book](/publications/publication-most-improved/) about the experience of overcoming depression and how choosing mental/emotional strife over peace plays a direct role in shaping life.
 

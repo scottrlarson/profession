@@ -64,6 +64,8 @@ weight = 1
   
 +++
 
+{{% alert title="I stand with Ukraine" %}} I support any people's right to freedom and sovereignty from repressive colonial systems through non-cooperation. Please speak out against tyranny in your own way as we all share this Earth. Using violence, or the threat of violence, to subjugate a people for political gain, or any other reason, is unacceptable. Humans were born with the right to be free from oppression and I look forward to the day when the minds and hearts of this planet are fully aligned with Cosmic Spiritual Law. See my "Spiritual Activism" section below for more information.{{% /alert %}}
+
 {{% alert title="Pandemic Precautions" col="in" id="precautions" %}} 
 To reduce the spread of the current virus epidemic, I provide remote service, curbside drop-off and at-your-location pick-up. Please call, or make an [online appointment](https://harmonizely.com/scottrlarson) before visiting my office. I can only have one customer at a time in my office. If you arrive while I am ingaged with a customer, you can wait in the sitting room next to my office. Also please read and observe the following [precautions](/#precautions) to minimizing the spread of infection.
 {{% /alert %}}
@@ -75,8 +77,6 @@ I provide computer repair services at my office in <a href="#contact">downtown</
 {{% accordion title="Location, Hours, Pricing and Turnaround Times" col="in" id="location" %}}
 If you require an immediate response, it's best to reach me by [phone or text](#contact). I operate Monday through Friday from 8 am to 5 pm and my turnaround times for my standard [1st class](/#service-repair-rates-turnaround) service is 3-7 business days. I also have [Priority Service](/#service-repair-rates-turnaround) with a 1-3 day turnaround along with availability on Saturday from 10am to 4pm. If you require a higher priority than my normal operating hours and turn-around times, please make special arrangements with me ahead of time. Finally, if you do not require 1st Class or Priority service and can wait a week or more, talk to me about my [2nd Class](/#service-repair-rates-turnaround) special reduced rates if you are looking to save money. <a href="#contact">Contact</a> me if you have questions. You can [schedule an appointment](https://harmonizely.com/scottrlarson) with me to have your device serviced at my office, or to setup a home/office consultation.
 {{% /accordion %}}
-
-{{% alert title="I stand with Ukraine" %}} I support any people's right to freedom and sovereignty from repressive colonial systems through non-cooperation. Please speak out against tyranny in your own way as we all share this Earth. Using violence, or the threat of violence, to subjugate a people for political gain, or any other reason, is unacceptable. Humans were born with the right to be free from oppression and I look forward to the day when the minds and hearts of this planet are fully aligned with Cosmic Spiritual Law. See my "Spiritual Activism" section below for more information.{{% /alert %}}
 
 {{% accordion title="Out-of-Office Dates" col="in" id="outofoffice" %}}
 Out sick from over the 4th of July weekend (Food Poisoning) Expected Return Date 7/7/2022

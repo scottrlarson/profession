@@ -34,7 +34,7 @@ Missions are a grind though and made terribly slow when you have to manually iss
 
 If you don't mind your Warband's "Hired Swords" falling in battle, or becoming maimed, affecting combat effectiveness, then this game is for you.  
 
-The game is well done in my view even for its shortcomings. With so many AAA titles trying to be everything to everyone, any game that puts survival front a center deserves my respect.  I wholeheartedly recommend trying this [game](https://store.steampowered.com/app/276810/Mordheim_City_of_the_Damned/) out. Let me know what you think of it on [Twitter](twitter.com/scottrlarson)
+The game is well done in my view even for its shortcomings. With so many AAA titles trying to be everything to everyone, any game that puts survival front a center deserves my respect.  I wholeheartedly recommend trying this [game](https://store.steampowered.com/app/276810/Mordheim_City_of_the_Damned/) out. Let me know what you think of it on [Twitter](https://twitter.com/scottrlarson/status/1560708175799541760)
 
 ## My Custom Gaming Service Plug
 

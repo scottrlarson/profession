@@ -1,5 +1,5 @@
 +++
-title = "My Home Computer & Gaming Biography"
+title = "Reflections on The Home Computer Golden Age"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 
@@ -62,39 +62,30 @@ During this time, I was combining what I knew about electronics from my Uncle by
 
 The 1980's was an interesting era for computers. There was fierce competition between business PC's, which were more static in their design (not as easily upgradable) and personal computers (Which were designed with upgradability in mind). It definitely seemed like an ideological movement between freedom and choice, how you want to use and change hardware that you owned, and business PC's that wanted you to purchase whatever they sold you, and didn't want customers changing or upgrading the hardware. I'm glad that personal computers eventually won that round. But another round of removing customer choice has returned recently with Computer software and hardware designers, like Microsoft, Apple, HP, Dell and others. Many current computer hardware manufacturers and software developers are designing static hardware and software around a [walled garden](https://en.wikipedia.org/wiki/Closed_platform) perspective. You can see this perspective with the push to cloud software as a service. You can read more about my thoughts around this in my "[Will one repairable laptop change the world?](https://www.scottrlarson.com/publications/publication-future-of-repairability/)" article.
  
-### Commodore 128
-
-![Commodore 128 Photo](/img/memorials/personal-computers/commodore128-floor.webp)
 
 
 ### Commodore Amiga 500
 
 ![Commodore Amiga 500 Photo](/img/memorials/personal-computers/commodore-amiga-500-old-school.webp)
 
+{{% accordion-clean title="Commodore Amiga 500 Specs" id="commodoreAmiga500-specs" %}}
+{{% specs-amiga500 %}}
+{{% /accordion-clean %}}
 
-### Commodore Amiga 1000
-
-![Commodore Amiga 1000 Photo](/img/memorials/personal-computers/commodore-amiga-1000.jpeg)
-
-#### Running my own BBS on the Amiga 1000
-
-**Dial a BBS from an Amiga in 2016**
-{{< youtube MxcjnV-WhnQ >}}
+Commodore, instramental in launching the Home Computer movement foward focused on low cost alternatives to the high end, high price market that the juggernaughts Apple and IBM involved in at the time. Commodore's decisions around the development of the Home Computer launched many innovations forward that many computer enthusists at the time adopted with open arms. When the Amiga 500 released, it sported a new development called "Open Achictechure". A first for computer enthusists, simmilar to the cocenpt of modularity, parts could be removed, replaced and upgraded.
 
 
-#### 3D Modeling Software
+> ‘We need to build computers for the masses, not the classes.‘ was Commodore’s founder Jack Tramiel’s motto.
 
-**Truespace 3d**
+I remember spending way to much of my money on memory upgrades and expansion cards in compeitition with my friends to give me that extra edge, but also to be involved in an amazing hobby with others. We shared ideas and software and the Amiga expanding our concepts of possibilities at the time.
 
-[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
+#### The days of Future Wars and Another World
+**Commodore Amiga games that influenced my life**
 
+With the release of the Amiga platform, games started springing up with amazing graphics and sound. Beyond anything I experienced before, the capibilities of these features ignighting my imagination with possibitlies. Eventually my gaming experience on the Amiga platform inspired me to invest my time and energy into 3D modeling and graphic design.
 
-#### Commodore Amiga Games that Influenced my Life
-
-##### Delphine Software
-
-**Future Wars**
 ![Future Wars](/img/memorials/games/delphine-software/future-wars/futurewars-cover.jpg)
+In my early twenties I develop an interest in Time travel after reading a book on Temporal Mechanics. The concept of time became a big interest of mine. So when the adventure game, **Future Wars** came out on the Amiga Platform I was as ecstatic as a hobbit in a pie shop. Future Wars might not have been as an amazon success as other games at the time, but I love expoloring the concept of time and doing so in a game that sported such amazing graphics and sound, made possible by the Amiga platform, helped me to continue to explore my interests in science.
 
 {{< youtube GGNTiMET244 >}}
 
@@ -111,6 +102,27 @@ The 1980's was an interesting era for computers. There was fierce competition be
 
 Flashback Soundtrack
 {{< youtube 3VXBjg7Nxto >}}
+
+### Commodore Amiga 2000
+
+![Commodore Amiga 2000 Photo](/img/memorials/personal-computers/amiga2k1-1.jpg)
+
+
+
+#### Running my own BBS on the Amiga 2000
+
+**Dial a BBS from an Amiga in 2016**
+{{< youtube MxcjnV-WhnQ >}}
+
+
+#### 3D Modeling Software
+
+**Truespace 3d**
+
+[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
+
+
+
 
 ## This is Now
 

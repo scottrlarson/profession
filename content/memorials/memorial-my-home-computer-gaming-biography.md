@@ -1,5 +1,5 @@
 +++
-title = "That was then: A Home Computer Biography (Part 1)"
+title = "Reflections on The Home Computer Golden Age"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 
@@ -60,34 +60,33 @@ But the major selling point of the C64 was the low cost for the individual that 
 
 It put the power to create something cool into the hands of regular people. The C64 inspired a whole slew of independent software designed for people who wanted to share their creations. 
  
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> master
 ### Commodore Amiga 500
 
 ![Commodore Amiga 500 Photo](/img/memorials/personal-computers/commodore-amiga-500-old-school.webp)
 
+{{% accordion-clean title="Commodore Amiga 500 Specs" id="commodoreAmiga500-specs" %}}
+{{% specs-amiga500 %}}
+{{% /accordion-clean %}}
 
-### Commodore Amiga 1000
-
-![Commodore Amiga 1000 Photo](/img/memorials/personal-computers/commodore-amiga-1000.jpeg)
-
-#### Running my own BBS on the Amiga 1000
-
-**Dial a BBS from an Amiga in 2016**
-{{< youtube MxcjnV-WhnQ >}}
+Commodore, instramental in launching the Home Computer movement foward focused on low cost alternatives to the high end, high price market that the juggernaughts Apple and IBM involved in at the time. Commodore's decisions around the development of the Home Computer launched many innovations forward that many computer enthusists at the time adopted with open arms. When the Amiga 500 released, it sported a new development called "Open Achictechure". A first for computer enthusists, simmilar to the cocenpt of modularity, parts could be removed, replaced and upgraded.
 
 
-#### 3D Modeling Software
+> ‘We need to build computers for the masses, not the classes.‘ was Commodore’s founder Jack Tramiel’s motto.
 
-**Truespace 3d**
+I remember spending way to much of my money on memory upgrades and expansion cards in compeitition with my friends to give me that extra edge, but also to be involved in an amazing hobby with others. We shared ideas and software and the Amiga expanding our concepts of possibilities at the time.
 
-[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
+#### The days of Future Wars and Another World
+**Commodore Amiga games that influenced my life**
 
+With the release of the Amiga platform, games started springing up with amazing graphics and sound. Beyond anything I experienced before, the capibilities of these features ignighting my imagination with possibitlies. Eventually my gaming experience on the Amiga platform inspired me to invest my time and energy into 3D modeling and graphic design.
 
-#### Commodore Amiga Games that Influenced my Life
-
-##### Delphine Software
-
-**Future Wars**
 ![Future Wars](/img/memorials/games/delphine-software/future-wars/futurewars-cover.jpg)
+In my early twenties I develop an interest in Time travel after reading a book on Temporal Mechanics. The concept of time became a big interest of mine. So when the adventure game, **Future Wars** came out on the Amiga Platform I was as ecstatic as a hobbit in a pie shop. Future Wars might not have been as an amazon success as other games at the time, but I love expoloring the concept of time and doing so in a game that sported such amazing graphics and sound, made possible by the Amiga platform, helped me to continue to explore my interests in science.
 
 {{< youtube GGNTiMET244 >}}
 
@@ -104,6 +103,27 @@ It put the power to create something cool into the hands of regular people. The 
 
 Flashback Soundtrack
 {{< youtube 3VXBjg7Nxto >}}
+
+### Commodore Amiga 2000
+
+![Commodore Amiga 2000 Photo](/img/memorials/personal-computers/amiga2k1-1.jpg)
+
+
+
+#### Running my own BBS on the Amiga 2000
+
+**Dial a BBS from an Amiga in 2016**
+{{< youtube MxcjnV-WhnQ >}}
+
+
+#### 3D Modeling Software
+
+**Truespace 3d**
+
+[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
+
+
+
 
 ## This is Now
 

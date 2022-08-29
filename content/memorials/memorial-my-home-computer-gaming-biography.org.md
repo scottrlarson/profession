@@ -86,7 +86,7 @@ I remember spending way to much of my money on memory upgrades and expansion car
 With the release of the Amiga platform, games started springing up with amazing graphics and sound. Beyond anything I experienced before, the capibilities of these features ignighting my imagination with possibitlies. Eventually my gaming experience on the Amiga platform inspired me to invest my time and energy into 3D modeling and graphic design.
 
 ![Future Wars](/img/memorials/games/delphine-software/future-wars/futurewars-cover.jpg)
-In my early twenties I develop an interest in Time travel after reading a book on Temporal Mechanics. The concept of time became a big interest of mine. So when the adventure game, **Future Wars** came out on the Amiga Platform I was as ecstatic as a hobbit in a pie shop. Future Wars might not have been as an amazon success as other games at the time, but I love expoloring the concept of time and doing so in a game that sported such amazing graphics and sound, made possible by the Amiga platform, helped me to continue to explore my interests in science.
+In my early twenties I develop an interest in Time travel after reading a book on Temporal Mechanics. So when the adventure game, **Future Wars** came out on the Amiga Platform I was as ecstatic as a hobbit in a pie shop. Future Wars might not have been an amazing success like other games at the time, but I love expoloring the concept of time and doing so in a game that sported such amazing graphics and sound, made possible by the Amiga platform, helped me to continue to explore my interests in science .
 
 {{< youtube GGNTiMET244 >}}
 

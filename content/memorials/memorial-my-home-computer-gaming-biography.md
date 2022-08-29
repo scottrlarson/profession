@@ -1,5 +1,5 @@
 +++
-title = "My Home Computer & Gaming Biography"
+title = "That was then: A Home Computer Biography (Part 1)"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 
@@ -15,8 +15,10 @@ image = ""
 caption = ""
 
 +++
-## Back Then
 
+I am a computer hardware and software troubleshooter. Since I was a kid I have been tinkering with computers. Currently, I run my own computer repair service and for over 20 years providing technical assistance to home users and very small businesses. This biography is my personal take on the Home Computer's evolution which brought about the computer revolution we see today. This two part series is written for people that have an interest in the historical aspects of computer technology from someone who was in the scene in the eighties and nineties. I take a philosophical approach to how technology has impacted the world from a sociological perspective and how it's evolving the way we related each-other. This article is part biographical and part philosophical. My hope is to share my experiences with others who are interested in computer history, but also to inspire people to look closely at systems of control that show up in our every day life that attempt to take away our individual value. With knowledge comes responsibility. You have been warned.
+
+My first experience with computers started in the early 1980's on one of the first home computers, the Texas Instruments TI-99/4A. I was about 12 years old. Relatively expensive, but affordable to average person, Home Computers ranged around a thousand dollars in value.   
 
 ### Texas Instruments TI-99/4A
 
@@ -27,9 +29,7 @@ caption = ""
 {{% specs-ti994a %}}
 {{% /accordion-clean %}}
 
-
-
-My first experience with computers started in the 1980's on one of the first home computers, the Texas Instruments TI-99/4A. I was about 12 years old. I think Personal Computers were expensive at the time, over a thousand dollars in value. We would visit are only friend that had a computer and play the game we played game ""**Tunnels of Doom**"". As far as I know, it was the first multi-player turn-based [dungeon crawler](https://en.wikipedia.org/wiki/Dungeon_crawl) released at that time. We would start our morning loading our previous save game from the weekend before off of a cassette tape, which would take several hours. After dinner our game would be loaded and we would each play our  respective turns. It was the first continuous game experience that would last more than one sitting where I learned to cooperate with other players to complete objectives.
+Due to the expense, not many families had a personal computer back then. Fortunately we had a friend who's mother must have saw the value and had the resources to purchase one for her son. The reasons why I will never know as I lost contact with them. "**Tunnels of Doom**" became the hot title at the time. As far as I know, it was the first multi-player turn-based [dungeon crawler](https://en.wikipedia.org/wiki/Dungeon_crawl) released at that time. We started our morning loading in the cassette and pushing the play button so the computer could read our previous save game data from the weekend before. After several hours and a home cooked dinner our game would be loaded. We each took our respective turns in battles dealing and receiving damage. I remember it being the first continuous game experience that would last more than one sitting where I learned to cooperate with other players to complete objectives.
 
 {{< youtube oa7MYYmB4XQ >}}
 <p></p>
@@ -40,7 +40,7 @@ A quick side note, I had brief introduction into electronics theory and practica
 
 As far as electronics go, the computer was, and is, a different beast. Obviously, the inner workings of a computer operates on the same principles of electric current. But what made home computers different from electronics is the software programming aspect of it. Programming is like creating a list of instructions for something to happen. When a computer receives a list of instructions, at the end of the day, is really all about flipping switches. Flipping a sequence of switches actually, in a way the computer can understand.
 
-Anyways, this enthusiasm got me my first computer, a Commodore 64. I'm skipping the part where my real first computer was a TRS-80. Because, well, if you didn't know, back then, it was consider the [Trash 80](https://dfarq.homeip.net/trash-80-what-it-meant-and-why-it-stuck/) by my compadres, and I don't want to mar my reputation :P. It was as good of a computer as any during that time, but since it was sold by Radio Shack, I think it developed a bad reputation because Radio Shack's electronics were considered subpar.
+Anyways, this enthusiasm got me my first computer, a Commodore 64. I'm skipping the part where my real first computer was a TRS-80. Because, well, if you didn't know, back then, it was considered the [Trash 80](https://dfarq.homeip.net/trash-80-what-it-meant-and-why-it-stuck/) by my compadres, and I don't want to mar my reputation :P. It was as good of a computer as any during that time, but since it was sold by Radio Shack, I think it developed a bad reputation because Radio Shack's electronics were considered subpar.
 
 Anyways, forget I ever said anything about that. On to the extraordinary achievement of the mid-eighties. I bring you, the Commodore 64!
 
@@ -52,21 +52,14 @@ Anyways, forget I ever said anything about that. On to the extraordinary achieve
 {{% specs-c64 %}}
 {{% /accordion-clean %}}
 
-The C64 was my first computer, if you were using computers at the time, it was likely your first computer too, as most business class computers liked the IBM were too expensive to afford. Naturally, I explored the capabilities of personal computers. I learned C64 basic, the coding language at the time and speech synthesizing (Converting text into speech). But really I was mostly playing games. 
+The C64 was my first computer, if you were using computers at the time, it was likely your first computer to. Simplicity, low cost, superior graphics, quality sound, good game software and aggressive marketing made the C64 the perfect home computer for enthusiasts like me and many others.
 
-I imagine most people at the time thought, and maybe currently think now, that computer games are peripheral to what is going on in the world. In fact, I think there was a real stigma to art and entertainment in my childhood years. Everyone in my neck of the woods seemed to want to appear like they were doing something of importance, that usually meant having a good job with some well known corporation, and making sure we appeared to be supporting capitalism. 
+Tinkering communities formed around the C64's simple design and broad software support. It was a bit like the cassette tape area. Enthusiasts like me became fascinated with exploring and tinkering with the C64's capabilities by testing the limits of hardware, writing software that does cool things and sharing it with the community.
 
-Some of that must have rubbed off on me, because to this day, I still feel empty if I am not doing something externally productive with my life. But after reflecting on my childhood experiences with computer gaming, I realized that games, and having fun are a basic fundamental of being human. Sound, graphics, and story elements, that reflected the challenges we are facing in modern society had a real impact on my artistic direction and it helped me explore the real problems with our culture's need to [dominate other cultures](https://en.wikipedia.org/wiki/Cultural_hegemony). There is a great documentary on the independent gaming culture and it's positive impact on the developers of games as they were growing up called "[Gameloading: Rise of the Indies](https://gameloading.vhx.tv/videos/gameloading-stereo)". 
+But the major selling point of the C64 was the low cost for the individual that wanted to design their own programs and games. Back then, designing software was dominated by large companies that either sold software to big business, or manufactures of coin-operated games.
 
-During this time, I was combining what I knew about electronics from my Uncle by adding modifications to my C64 peripherals. A few crude applications I can remember implementing, were to save power of my peripherals and increase the operating speed of disk drives, which usually result in read/write problems. These kinds of modifications to hardware were probably directly related to why I choose a path of building gaming computers for myself and friends when the PC platform became more modular, which eventually inspired me to start my own computer repair business.
-
-The 1980's was an interesting era for computers. There was fierce competition between business PC's, which were more static in their design (not as easily upgradable) and personal computers (Which were designed with upgradability in mind). It definitely seemed like an ideological movement between freedom and choice, how you want to use and change hardware that you owned, and business PC's that wanted you to purchase whatever they sold you, and didn't want customers changing or upgrading the hardware. I'm glad that personal computers eventually won that round. But another round of removing customer choice has returned recently with Computer software and hardware designers, like Microsoft, Apple, HP, Dell and others. Many current computer hardware manufacturers and software developers are designing static hardware and software around a [walled garden](https://en.wikipedia.org/wiki/Closed_platform) perspective. You can see this perspective with the push to cloud software as a service. You can read more about my thoughts around this in my "[Will one repairable laptop change the world?](https://www.scottrlarson.com/publications/publication-future-of-repairability/)" article.
+It put the power to create something cool into the hands of regular people. The C64 inspired a whole slew of independent software designed for people who wanted to share their creations. 
  
-### Commodore 128
-
-![Commodore 128 Photo](/img/memorials/personal-computers/commodore128-floor.webp)
-
-
 ### Commodore Amiga 500
 
 ![Commodore Amiga 500 Photo](/img/memorials/personal-computers/commodore-amiga-500-old-school.webp)
@@ -134,3 +127,18 @@ Blender
 On occasion, use blender to design 3D objects for reference.
 
 Inkscape
+
+## Conclusion
+
+An ideological divide, created by big business hoping to capitalize on fear the fear of being different tried to control the experience of computer technology came from people that feared and widely misunderstood this movement. They passed this hysteria onto the general public through the media which caused the general public to treat this new technology with suspicion. If you were one of those "Enthusiast" kids, ridicule and shame came with the territory. During the Industrial Revolution, If you weren't doing something productive, something was wrong with you. I didn't want people to think that I was odd, so I developed a cover story to hide my computer gaming obsession by doing something constructive with "That Contraption" as people like to call them.  I learned C64 basic, the coding language at the time and speech synthesizing (Converting text into speech). If all I was doing, was playing games, I was a nobody with no future in everyone's mind.
+
+
+I imagine most people at the time thought, and maybe currently think now, that computer games are peripheral to what is going on in the world. In fact, I think there was a real stigma to art and entertainment in my childhood years. Everyone in my neck of the woods seemed to want to appear like they were doing something of importance, that usually meant having a good job with some well known corporation, and making sure we appeared to be supporting capitalism. 
+
+Some of that must have rubbed off on me, because to this day, I still feel empty if I am not doing something externally productive with my life. After reflecting on my childhood experiences with computer gaming, I realized that games, and having fun are a basic fundamental of being human. Sound, graphics, and story elements, that reflected the challenges we are facing in modern society created a real impact on my artistic direction and it helped me explore the real problems with our culture's need to [dominate other cultures](https://en.wikipedia.org/wiki/Cultural_hegemony). There is a great documentary on the independent gaming culture and it's positive impact on the developers of games as they were growing up called "[Gameloading: Rise of the Indies](https://gameloading.vhx.tv/videos/gameloading-stereo)". 
+
+During this time, I was combining what I knew about electronics from my Uncle by adding modifications to my C64 peripherals. A few crude applications I can remember implementing, were to save power of my peripherals and increase the operating speed of disk drives, which usually result in read/write problems. These kinds of modifications to hardware were probably directly related to why I choose a path of building gaming computers for myself and friends when the PC platform became more modular, which eventually inspired me to start my own computer repair business.
+
+In the early seventies, IBM was the Goliath on the Business Computer block. They had a solid sales/marketing team and were selling 5 million dollar mainframe computers to business that could afford them. Thinking that the Home Computer craze was just a fad, they didn't take the revolution seriously. For the world-at-large, the Home Computer revolution didn't start until IBM's customers pressured the company to enter the space. IBM released the first Personal Computer called the "model 5150" more commonly known as the IBM PC. Based on a open architecture design, the 5150 became very popular. Home Computers were mainly controlled by closed designs, so it's unfortunate that it took a major player to change this paradigm, which IBM used to its own advantage to dominate the Home Computer space. IBM struggled to compete with the Home Computer market, dominated by Apple, Commodore and Tandy but by then the open architecture concept changed the game completely. Home Computer companies started offer there own PC clones to stay in the game. Standards in hardware and software designed, based on the open architecture philosophy brought great innovation to the world of Computers and with it, an era of endless possibilities for the hobbyist.
+
+To this day, Microsoft benefited the most from the IBM's decision to open its architecture, as it was chosen as the main operating system for the PC. It's interesting to note that the company is currently moving further and further into closed design territory with Windows 11. There aim appears to be removing customer choice along with the other companies that jumped on that bandwagon in later years like Apple, HP, Dell and others. Many current computer hardware manufacturers and software developers are designing static hardware and software around a [walled garden](https://en.wikipedia.org/wiki/Closed_platform) perspective. You can see this perspective with the push to cloud software as a service. You can read more about my thoughts around closed designs in the everyday software we use in my "[My transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-transition-windows-to-linux/)" article and the movement to back again to open hardware platforms in my "[Will one repairable laptop change the world?](https://www.scottrlarson.com/publications/publication-future-of-repairability/)" article.

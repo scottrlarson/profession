@@ -29,7 +29,6 @@ Table of Contents:
 - [Equipment Left Behind](#equipment-left-behind)
 - [New Device Setup](#new-device-setup)
 - [Storage Encryption/Decryption](#storage-encryption-decryption)
-- [Priority Service](#priority-service)
 - [Privacy Statement - Communication](#privacy-statement-communication)
 - [Privacy Statement - Data](#privacy-statement-data)
 - [Responsibility](#responsibility)
@@ -127,12 +126,6 @@ I do this to give my customers a good experience with their device by declutteri
 ## Storage Encryption/Decryption
 In many cases, storage device encryption prevents me from providing the services you request. I require an unencrypted storage device before I can provide any services. If your storage device has been encrypted by the default Windows installation, I will decrypt it using the credentials you supplied to me to provide the service. If you require your storage device to be encrypted, you will have to re-enable that encryption after the service is complete. Having a device with unencrypted storage may open your data up to theft, protecting your data is your responsibility. If you have questions about this topic or need help please contact me before requesting service. 
 
-
-## Priority Service
-I operate on a first come, first serve basis. Unless you want a priory service. If you need a faster turn-around, see my priority [rates](/#service-repair-rates-turnaround).
-
-During my regular service schedule, I always prioritize customers that have already paid for service, over those that have an outstanding payment that is due.
-
 ## Privacy Statement - Communication
 During the servicing of your device, by your request, I may have to access certain areas of your file system, or online accounts, that might contain private information. I will not knowingly take any action that involves breaching the privacy to your digital information in any way. I take every effort within my ability to secure any private/personal communications/data from any locations that I service devices at. There is a possibility that my communications (that might contain information about you, or a 3rd party) could be intercepted by an online or at-location attacker without my knowledge. Also if my physical location is breached, your private information could be compromised. In cases, like this, beyond my control, I am not liable for any results that occur due to a physical breach of my office, or an successful online breach of my network.
 
@@ -168,6 +161,11 @@ I reserve the right to: refuse to accept you as a new customer, halt work in pro
 {{% alert title="Software support is usually outside of the scope of my Service Guarantee" %}}If you request software or a service to be setup, maintained, or repaired on your device/s, and you require support during or after my servicing, I may be required to interact with the software or service provider to resolve the issue. In addition, if a change was made post-service, that caused the issue, I might be required to undue or resolve those changes. In both cases, you may incur additional charges. {{% /alert %}}
 
 ## Turn-Around Time
+
+I operate on a first come, first serve basis. Unless you want a priory service. If you need a faster turn-around, see my priority [rates](/#service-repair-rates-turnaround).
+
+During my regular service schedule, I prioritize servicings based on the following: 1. Priority Customers (paid priority service 1-2 turn-around), 2.1st Class Customers (3-7 day turn around, regular visits), and 3. 2nd class customers (1 week+). If I am waiting on parts to be shipped, I put the servicing for that device on hold and handle the next device in line based on the prioritization above. I also prioritize customers that have already paid or are regularly paying customers for service, over those that have an outstanding payments or overdue payments.
+
 During the evaluation or in-take period, I will do my best to communicate to you the length of time a service might require. With certain technical problems, the length of time to service your device can range from a couple hours, days, or even weeks depending on the issue, and the time may change depending on what crops up during the servicing. If you cannot be without your device for the length of time specified above, purchase a backup device, or ask me about acquiring a temporary replacement loaner device. If my loaner stock is available, I can lend you a device until the work is complete. If you require access to your personal, or business data, that data will need to be transferred to the loaner device. Also applications might need to be installed to make use of that data. Talk to me about data/application setup fees if this is a requirement for you.  Depending on the amount of data to be transferred, or applications to be installed, turn-around times can range between a few hours to a few days depending on the size of the data, the complexity of the transfer, or my current time constraints. For faster service, check out my [priority service pricing](/#service-repair-rates-turnaround).
 
 ## Shipping

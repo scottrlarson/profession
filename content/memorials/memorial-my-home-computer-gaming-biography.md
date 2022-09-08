@@ -52,6 +52,8 @@ Anyways, forget I ever said anything about that. On to the extraordinary achieve
 {{% specs-c64 %}}
 {{% /accordion-clean %}}
 
+Commodore, instrumental in launching the Home Computer movement forward focused on low cost alternatives to the high end, high price market that the juggernauts Apple and IBM involved in at the time. Commodore's decisions around the development of the Home Computer launched many innovations forward that made the industry what it is today.
+
 The C64 was my first computer, if you were using computers at the time, it was likely your first computer to. Simplicity, low cost, superior graphics, quality sound, good game software and aggressive marketing made the C64 the perfect home computer for enthusiasts like me and many others.
 
 Tinkering communities formed around the C64's simple design and broad software support. It was a bit like the cassette tape area. Enthusiasts like me became fascinated with exploring and tinkering with the C64's capabilities by testing the limits of hardware, writing software that does cool things and sharing it with the community.
@@ -59,12 +61,7 @@ Tinkering communities formed around the C64's simple design and broad software s
 But the major selling point of the C64 was the low cost for the individual that wanted to design their own programs and games. Back then, designing software was dominated by large companies that either sold software to big business, or manufactures of coin-operated games.
 
 It put the power to create something cool into the hands of regular people. The C64 inspired a whole slew of independent software designed for people who wanted to share their creations. 
- 
-<<<<<<< HEAD
-=======
 
-
->>>>>>> master
 ### Commodore Amiga 500
 
 ![Commodore Amiga 500 Photo](/img/memorials/personal-computers/commodore-amiga-500-old-school.webp)
@@ -73,12 +70,24 @@ It put the power to create something cool into the hands of regular people. The 
 {{% specs-amiga500 %}}
 {{% /accordion-clean %}}
 
-Commodore, instramental in launching the Home Computer movement foward focused on low cost alternatives to the high end, high price market that the juggernaughts Apple and IBM involved in at the time. Commodore's decisions around the development of the Home Computer launched many innovations forward that many computer enthusists at the time adopted with open arms. When the Amiga 500 released, it sported a new development called "Open Achictechure". A first for computer enthusists, simmilar to the cocenpt of modularity, parts could be removed, replaced and upgraded.
+
+
+Like the first mission to the moon, the technology behind the Amiga 500 Home Computer changed everything. The A500 had it's beginnings at Atari. An engineer, Jay Miner, had an idea to develop a computer that would revolutionize games and make them much easier to develop. Too afraid of losing money, corporate executives put no energy into innovation cause the industry to collapse. At the time game development relied heavily on licensing expensive hardware developed by 3rd parties. Due to the fear of losing these deals, Atari prohibited Jay from perusing this new platform. Jay left Atari, and a previous co-worker helped him revive the idea under a new company. Eventually Commodore bought the platform and the Amiga 500 became a Household Computer. 
+
+The Amiga platform used one of the first [Graphical User Interfaces (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface). In the C64 days, the computer received instructions from a Command Line Interface (CLI). (I.E typing commands to launch programs and work with everyday tasks). Its difficult to quantify the impact the GUI had on my life. Switching between a life time of using CLI, to a GUI is like miraculously being able to see after years of being blind. The way in which a computer is used is like an extension of perception. As humans, we interact with our environment by the senses. Interacting with a computer is an extension between the mind and body. The more intuitive the tool, the more fluid and imaginative one can be in the world, and this interaction impacts how we perceive the world around us. 
+
+Graphical User Interfaces spawned a golden age of digital art and sound for home users of computers. When the first 3d modeling software was released for the A500, I was one of the first adopters of it. **Truespace 3d**
+
+[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
+
+
+It sported a new development called "Open Achictechure". A first for computer enthusiasts, similar to the concept of modularity, parts could be removed, replaced and upgraded.
 
 
 > ‘We need to build computers for the masses, not the classes.‘ was Commodore’s founder Jack Tramiel’s motto.
 
-I remember spending way to much of my money on memory upgrades and expansion cards in compeitition with my friends to give me that extra edge, but also to be involved in an amazing hobby with others. We shared ideas and software and the Amiga expanding our concepts of possibilities at the time.
+
+
 
 #### The days of Future Wars and Another World
 **Commodore Amiga games that influenced my life**
@@ -116,11 +125,7 @@ Flashback Soundtrack
 {{< youtube MxcjnV-WhnQ >}}
 
 
-#### 3D Modeling Software
 
-**Truespace 3d**
-
-[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
 
 
 

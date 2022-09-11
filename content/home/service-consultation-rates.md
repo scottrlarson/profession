@@ -18,7 +18,6 @@ I excel at repairing and resolving most technical issues in a timely and cost ef
   
 Consultations can happen in my office, or at your location. Depending on my service load, at-office/home appointments usually carry a scheduling buffer of 3 hours to 1 day. In some cases, 3 days to 1 week. [Contact me](/#contact) for more information. 
 
-The fees below are estimates. Depending on my workload, I reserve the right to quote you a different fee before the appointment. Also, if the specifics of the service are different than what I understood them to be in our initial conversation about your request, I may quote you a different fee at your location. In this case, you can refuse the service but then I collect half of my original quoted fee for travel time and time loss.
 
 {{% service-custom label="Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$113" %}}
 {{% service-custom label="Within 5miles from Down Town SR (Per Hr/1Hr Min)" item="$137" %}}

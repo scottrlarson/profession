@@ -1,5 +1,5 @@
 +++
-title = "Reflections on The Home Computer Golden Age"
+title = "Reflections on the Home Computer Golden Age"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 
@@ -16,7 +16,19 @@ caption = ""
 
 +++
 
-I am a computer hardware and software troubleshooter. Since I was a kid I have been tinkering with computers. Currently, I run my own computer repair service and for over 20 years providing technical assistance to home users and very small businesses. This biography is my personal take on the Home Computer's evolution which brought about the computer revolution we see today. This two part series is written for people that have an interest in the historical aspects of computer technology from someone who was in the scene in the eighties and nineties. I take a philosophical approach to how technology has impacted the world from a sociological perspective and how it's evolving the way we related each-other. This article is part biographical and part philosophical. My hope is to share my experiences with others who are interested in computer history, but also to inspire people to look closely at systems of control that show up in our every day life that attempt to take away our individual value. With knowledge comes responsibility. You have been warned.
+Computers and tinkering has been my forte since I was a kid. Today I am a computer hardware and software troubleshooter. I run my own computer repair service and for over 20 years I have been providing technical assistance to home users and very small businesses. 
+
+This biography is my personal take on the evolution of the Home Computer. A Home Computer is one of the first computers that were designed for the home which eventually created the [technology revolution](https://en.wikipedia.org/wiki/Technological_revolution) we see today. 
+
+This piece is for people that have an interest in a personal account on aspects of computer technology from a self-educated, non-academic perspective from a kid who was involved in the computer hacking scene in the eighties and nineties. Instead of becoming a programmer, I chose to explore the many aspects of computer technology. Field specialization has strengths, but it also has weaknesses. 
+
+This quote from Motoko Kusanagi (Ghost in the Shell (1995)) says it all: 
+
+> “If we all reacted the same way, we'd be predictable, and there's always more than one way to view a situation...It's simple: overspecialize, and you breed in weakness. It's slow death.” 
+
+I take a philosophical approach to how technology is impacting the world from a sociological perspective. I also touch on how technology is evolving and how this evolution impacts the way we relate each-other. I did not go to school to learn this stuff, its all been hands-on, from a personal exploratory approach. Today, most of what is taught in schools is limited and theoretical, and in my view, we need more practical learning. The theoretical, controlled environment approach to learning is killing us as a species.
+
+The birth of this biography started out with the intention of leaving something behind about my life and my younger years for my family. But I realized that maybe I have something to say to a larger audience. Being free to explore my world from my own interests and not being pinned down (at least to a larger extent) by societal conditioning created this gap in my life that has allowed me to see the world in a slightly different way then you might be accustom to. Its part biographical, part techie, and part philosophical. My hope is to share my experiences with others who are interested in computer history, but also to inspire people to look closely at systems of control that show up in our every day life that attempt to take away our individual value. With knowledge comes responsibility. You have been warned.
 
 My first experience with computers started in the early 1980's on one of the first home computers, the Texas Instruments TI-99/4A. I was about 12 years old. Relatively expensive, but affordable to average person, Home Computers ranged around a thousand dollars in value.   
 
@@ -29,7 +41,7 @@ My first experience with computers started in the early 1980's on one of the fir
 {{% specs-ti994a %}}
 {{% /accordion-clean %}}
 
-Due to the expense, not many families had a personal computer back then. Fortunately we had a friend who's mother must have saw the value and had the resources to purchase one for her son. The reasons why I will never know as I lost contact with them. "**Tunnels of Doom**" became the hot title at the time. As far as I know, it was the first multi-player turn-based [dungeon crawler](https://en.wikipedia.org/wiki/Dungeon_crawl) released at that time. We started our morning loading in the cassette and pushing the play button so the computer could read our previous save game data from the weekend before. After several hours and a home cooked dinner our game would be loaded. We each took our respective turns in battles dealing and receiving damage. I remember it being the first continuous game experience that would last more than one sitting where I learned to cooperate with other players to complete objectives.
+Due to the expense, not many families had a personal computer back then. Fortunately we had a friend who's mother must have saw the value in kids playing with computers and had the resources to purchase one for her son. The reasons why I will never know as I lost contact with them. "**Tunnels of Doom**" became the hot title at the time. As far as I know, it was the first multi-player turn-based [dungeon crawler](https://en.wikipedia.org/wiki/Dungeon_crawl) released at that time. We started our morning loading in the cassette and pushing the play button so the computer could read our previous save game data from the weekend before. After several hours and a home cooked dinner our game would be loaded. We each took our respective turns exploring a procedurally generated dungeon together, engaging in battles with monsters and restoring fallen comrades. I remember it being the first continuous game experience that would last more than one sitting where I learned to cooperate with other players to complete objectives.
 
 {{< youtube oa7MYYmB4XQ >}}
 <p></p>
@@ -52,7 +64,7 @@ Anyways, forget I ever said anything about that. On to the extraordinary achieve
 {{% specs-c64 %}}
 {{% /accordion-clean %}}
 
-Commodore, instrumental in launching the Home Computer movement forward focused on low cost alternatives to the high end, high price market that the juggernauts Apple and IBM involved in at the time. Commodore's decisions around the development of the Home Computer launched many innovations forward that made the industry what it is today.
+Commodore, instrumental in launching the Home Computer movement forward focused on low cost alternatives to the high end, high price market that the juggernauts Apple and IBM were involved in at the time. [Commodore's decisions around the development of the Home Computer launched many innovations forward that made the computer entertainment industry what it is today.](https://www.bitmapbooks.com/blogs/news/back-to-basic-understanding-the-dazzling-legacy-of-the-commodore-64)
 
 The C64 was my first computer, if you were using computers at the time, it was likely your first computer to. Simplicity, low cost, superior graphics, quality sound, good game software and aggressive marketing made the C64 the perfect home computer for enthusiasts like me and many others.
 
@@ -72,11 +84,13 @@ It put the power to create something cool into the hands of regular people. The 
 
 
 
-Like the first mission to the moon, the technology behind the Amiga 500 Home Computer changed everything. The A500 had it's beginnings at Atari. An engineer, Jay Miner, had an idea to develop a computer that would revolutionize games and make them much easier to develop. Too afraid of losing money, corporate executives put no energy into innovation cause the industry to collapse. At the time game development relied heavily on licensing expensive hardware developed by 3rd parties. Due to the fear of losing these deals, Atari prohibited Jay from perusing this new platform. Jay left Atari, and a previous co-worker helped him revive the idea under a new company. Eventually Commodore bought the platform and the Amiga 500 became a Household Computer. 
+Like the first mission to the moon, the technology behind the Amiga 500 Home Computer changed everything. The A500 had it's beginnings at Atari. An engineer, Jay Miner, had an idea to develop a computer that would revolutionize games and make them much easier to develop. Too afraid of losing money, corporate executives put no energy into innovation causing the industry to collapse. At the time game development relied heavily on licensing expensive hardware developed by 3rd parties. Due to the fear of losing these deals, Atari prohibited Jay from perusing this new platform. Jay left Atari, and a previous co-worker helped him revive the idea under a new company. Eventually Commodore bought the platform and the Amiga 500 became bit hit with computer enthusiasts but most importantly with people in the music and video entertainment professions who saw the A500's multimedia features as revolutionary. 
 
-The Amiga platform used one of the first [Graphical User Interfaces (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface). In the C64 days, the computer received instructions from a Command Line Interface (CLI). (I.E typing commands to launch programs and work with everyday tasks). Its difficult to quantify the impact the GUI had on my life. Switching between a life time of using CLI, to a GUI is like miraculously being able to see after years of being blind. The way in which a computer is used is like an extension of perception. As humans, we interact with our environment by the senses. Interacting with a computer is an extension between the mind and body. The more intuitive the tool, the more fluid and imaginative one can be in the world, and this interaction impacts how we perceive the world around us. 
+The Amiga platform used one of the first [Graphical User Interfaces (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface). In the C64 days, the computer received instructions from a Command Line Interface (CLI). (I.E typing commands to launch programs and work with everyday tasks). There were some limited GUI interfaces back then, but nothing on the scale that the A500 had. It's difficult to quantify the impact the GUI had on my life. Switching between a life time of using CLI, to a GUI is like miraculously being able to see after years of being blind. The way in which a computer is used is like an extension of perception. As humans, we interact with our environment by the senses. Interacting with a computer is an extension between the mind and body. The more intuitive the tool, the more fluid and imaginative one can be with the tool, and this interaction impacts how we perceive the world around us. 
 
-Graphical User Interfaces spawned a golden age of digital art and sound for home users of computers. When the first 3d modeling software was released for the A500, I was one of the first adopters of it. **Truespace 3d**
+For many people that might have been put-off by command line, GUI's made using computers more intuitive to use and helped spawned a golden age of digital art and sound. When the first 3d modeling software was released for the A500, I was one of the first adopters of it. 
+
+**Truespace 3d**
 
 [More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
 

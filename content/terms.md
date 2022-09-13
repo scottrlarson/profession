@@ -1,6 +1,7 @@
 +++
 title = "Terms of Service"
 date = 2022-07-18T09:11:56-07:00
+showthedate = false
 draft = false
 
 # Tags and categories
@@ -35,7 +36,7 @@ Table of Contents:
 - [Self-Regulation](#self-regulation)
 - [Service Guarantee](#service-guarantee)
 - [Turn-Around Time](#turn-around-time)
-- [Shipping](#shipping)
+- [Orders and Shipping](#orders-and-shipping)
 - [Who I provide service to](#who-i-provide-service-to)
 
 ## Appointments
@@ -167,15 +168,17 @@ During my regular service schedule, I prioritize servicings based on the followi
 
 During the evaluation or in-take period, I will do my best to communicate to you the length of time a service might require. With certain technical problems, the length of time to service your device can range from a couple hours, days, or even weeks depending on the issue, and the time may change depending on what crops up during the servicing. If you cannot be without your device for the length of time specified above, purchase a backup device, or ask me about acquiring a temporary replacement loaner device. If my loaner stock is available, I can lend you a device until the work is complete. If you require access to your personal, or business data, that data will need to be transferred to the loaner device. Also applications might need to be installed to make use of that data. Talk to me about data/application setup fees if this is a requirement for you.  Depending on the amount of data to be transferred, or applications to be installed, turn-around times can range between a few hours to a few days depending on the size of the data, the complexity of the transfer, or my current time constraints. For faster service, check out my [priority service pricing](/#service-repair-rates-turnaround).
 
-## Shipping
+## Orders and Shipping
 
 I tend to order hardware from online suppliers, instead of relying on brick and mortar vendors for the reasons specified in my "[Laptop Buyers Guide](https://www.scottrlarson.com/publications/publication-laptop-buyers-guide/)" article. As I prefer to use high quality parts, in most cases, I will not depend on purchasing products from local distributors. When purchasing products from online vendors, shipping times can sometimes be hit or miss. Any times I communicate about shipping are estimates and are subject to change depending on courier conditions, or the information I have at my disposal at the time. 
 
-Items that do not arrive are handled under the courier's claim handling system. Only after completing the claim process, and waiting for that process to complete, will you be compensated for lost items. 
+Items that get lost in shipping are handled under the courier's claim handling system. Only after completing the claim process, and waiting for that process to complete, will you be compensated for lost items. 
 
 Shipments that don't arrive on time, or are late requires resolution with the online vendor. In these cases I have to submit a case, and wait for the process to be complete for shipments to be redelivered. This process can take weeks, or in rare cases, months.
 
 If you are not prepared to wait for packages to be delivered, which under normal circumstances can take 3-7 business days, and in rare cases, such as items shipped from out of the country, up to a month, so I can perform my services, please reach out to me to discuss alternatives. I am not liable, nor responsible for delay shipments. At my discretion, I reserve the right to charge you a fee for time involved in handling your service request up to a point, should you wish to cancel any services related to delayed, or lost shipped items, and in some cases, for instance, if you agree to allow me to provide a service with an item in the process of delivered and that item never arrives, and you wish to cancel that service, those service fees are not refundable.
+
+When there is a need to order parts for the servicing of your device, I may mark up the item by 10% to cover price changes related to post COVID market volatility. I'll use some of that fee to cover handling or the work involved in finding a replacement. I will return the rest of that fee as a credit on your bill, or refund you if there isn't a service to apply it to. 
 
 ## Who I provide service to
 

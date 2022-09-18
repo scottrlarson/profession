@@ -1,5 +1,5 @@
 +++
-title = "Reflections on the Home Computer Golden Age - Part 6: That was then, this is now"
+title = "Reflections on our Current Modern Computer Dark Age - Part 6: That was then, this is now"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 
@@ -15,6 +15,8 @@ image = ""
 caption = ""
 
 +++
+
+This piece is a look at where we have been and where we are heading as a society from a computing perspective. This article is a companion to parts 1-5 of "Reflections on the Home Computer Golden Age". 
 
 ## This is Now
 

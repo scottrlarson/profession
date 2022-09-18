@@ -1,5 +1,5 @@
 +++
-title = "Reflections on the Home Computer Golden Age (Part 2)"
+title = "Reflections on the Home Computer Golden Age - Part 6: That was then, this is now"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 

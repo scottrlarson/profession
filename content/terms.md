@@ -1,6 +1,7 @@
 +++
 title = "Terms of Service"
 date = 2022-07-18T09:11:56-07:00
+showthedate = false
 draft = false
 
 # Tags and categories
@@ -29,14 +30,13 @@ Table of Contents:
 - [Equipment Left Behind](#equipment-left-behind)
 - [New Device Setup](#new-device-setup)
 - [Storage Encryption/Decryption](#storage-encryption-decryption)
-- [Priority Service](#priority-service)
 - [Privacy Statement - Communication](#privacy-statement-communication)
 - [Privacy Statement - Data](#privacy-statement-data)
 - [Responsibility](#responsibility)
 - [Self-Regulation](#self-regulation)
 - [Service Guarantee](#service-guarantee)
 - [Turn-Around Time](#turn-around-time)
-- [Shipping](#shipping)
+- [Orders and Shipping](#orders-and-shipping)
 - [Who I provide service to](#who-i-provide-service-to)
 
 ## Appointments
@@ -127,12 +127,6 @@ I do this to give my customers a good experience with their device by declutteri
 ## Storage Encryption/Decryption
 In many cases, storage device encryption prevents me from providing the services you request. I require an unencrypted storage device before I can provide any services. If your storage device has been encrypted by the default Windows installation, I will decrypt it using the credentials you supplied to me to provide the service. If you require your storage device to be encrypted, you will have to re-enable that encryption after the service is complete. Having a device with unencrypted storage may open your data up to theft, protecting your data is your responsibility. If you have questions about this topic or need help please contact me before requesting service. 
 
-
-## Priority Service
-I operate on a first come, first serve basis. Unless you want a priory service. If you need a faster turn-around, see my priority [rates](/#service-repair-rates-turnaround).
-
-During my regular service schedule, I always prioritize customers that have already paid for service, over those that have an outstanding payment that is due.
-
 ## Privacy Statement - Communication
 During the servicing of your device, by your request, I may have to access certain areas of your file system, or online accounts, that might contain private information. I will not knowingly take any action that involves breaching the privacy to your digital information in any way. I take every effort within my ability to secure any private/personal communications/data from any locations that I service devices at. There is a possibility that my communications (that might contain information about you, or a 3rd party) could be intercepted by an online or at-location attacker without my knowledge. Also if my physical location is breached, your private information could be compromised. In cases, like this, beyond my control, I am not liable for any results that occur due to a physical breach of my office, or an successful online breach of my network.
 
@@ -162,23 +156,29 @@ Please note that this right is not a claim of lawlessness. I am responsible for 
 I reserve the right to: refuse to accept you as a new customer, halt work in progress if there is a breach in my terms of service by you, your employees, or any other person that operates on your behalf. Such possibilities for me to refuse or halt work are: being abusive, in writing or in person. Making a habit of being late, or not showing up. Making a habit of failing to communicate when I require a response to continue to provide you service. Making a habit of not paying me on time or when I require it.
 
 ## Service Guarantee
-- All my services are guaranteed to be free of mistakes in servicemanship. 
-- Any device purchased from me that has parts containing a replacement guarantee from the manufacturer, also carries my 1 year labor replacement warranty from the day of purchase.
+All of my services are guaranteed to be free from errors in execution. I will resolve any issue that crops up due to my error free of charge.  Any device purchased from me that has parts containing a replacement guarantee from the manufacturer, also carries my 1 year service replacement warranty from the date of service. Unless I am unable to deliver the service, or item in question, all fees for provided services and any related items are final and non-refundable. Although I make every effort to ensure my customers are happy with the services I provide, shipment delays of any kind, dissatisfaction of a product or service does not warrant an exception from payment. I provide no guarantees on actual performance of hardware or software even though I make every effort to provide accurate projections. I also provide no guarantee on any interactions between 3rd party services and any solutions I provide.
 
 {{% alert title="Software support is usually outside of the scope of my Service Guarantee" %}}If you request software or a service to be setup, maintained, or repaired on your device/s, and you require support during or after my servicing, I may be required to interact with the software or service provider to resolve the issue. In addition, if a change was made post-service, that caused the issue, I might be required to undue or resolve those changes. In both cases, you may incur additional charges. {{% /alert %}}
 
 ## Turn-Around Time
+
+I operate on a first come, first serve basis. Unless you want a priory service. If you need a faster turn-around, see my priority [rates](/#service-repair-rates-turnaround).
+
+During my regular service schedule, I prioritize servicings based on the following: 1. Priority Customers (paid priority service 1-2 turn-around), 2.1st Class Customers (3-7 day turn around, regular visits), and 3. 2nd class customers (1 week+). If I am waiting on parts to be shipped, I put the servicing for that device on hold and handle the next device in line based on the prioritization above. I also prioritize customers that have already paid or are regularly paying customers for service, over those that have an outstanding payments or overdue payments.
+
 During the evaluation or in-take period, I will do my best to communicate to you the length of time a service might require. With certain technical problems, the length of time to service your device can range from a couple hours, days, or even weeks depending on the issue, and the time may change depending on what crops up during the servicing. If you cannot be without your device for the length of time specified above, purchase a backup device, or ask me about acquiring a temporary replacement loaner device. If my loaner stock is available, I can lend you a device until the work is complete. If you require access to your personal, or business data, that data will need to be transferred to the loaner device. Also applications might need to be installed to make use of that data. Talk to me about data/application setup fees if this is a requirement for you.  Depending on the amount of data to be transferred, or applications to be installed, turn-around times can range between a few hours to a few days depending on the size of the data, the complexity of the transfer, or my current time constraints. For faster service, check out my [priority service pricing](/#service-repair-rates-turnaround).
 
-## Shipping
+## Orders and Shipping
 
 I tend to order hardware from online suppliers, instead of relying on brick and mortar vendors for the reasons specified in my "[Laptop Buyers Guide](https://www.scottrlarson.com/publications/publication-laptop-buyers-guide/)" article. As I prefer to use high quality parts, in most cases, I will not depend on purchasing products from local distributors. When purchasing products from online vendors, shipping times can sometimes be hit or miss. Any times I communicate about shipping are estimates and are subject to change depending on courier conditions, or the information I have at my disposal at the time. 
 
-Items that do not arrive are handled under the courier's claim handling system. Only after completing the claim process, and waiting for that process to complete, will you be compensated for lost items. 
+Items that get lost in shipping are handled under the courier's claim handling system. Only after completing the claim process, and waiting for that process to complete, will you be compensated for lost items. 
 
 Shipments that don't arrive on time, or are late requires resolution with the online vendor. In these cases I have to submit a case, and wait for the process to be complete for shipments to be redelivered. This process can take weeks, or in rare cases, months.
 
 If you are not prepared to wait for packages to be delivered, which under normal circumstances can take 3-7 business days, and in rare cases, such as items shipped from out of the country, up to a month, so I can perform my services, please reach out to me to discuss alternatives. I am not liable, nor responsible for delay shipments. At my discretion, I reserve the right to charge you a fee for time involved in handling your service request up to a point, should you wish to cancel any services related to delayed, or lost shipped items, and in some cases, for instance, if you agree to allow me to provide a service with an item in the process of delivered and that item never arrives, and you wish to cancel that service, those service fees are not refundable.
+
+When there is a need to order parts for the servicing of your device, I may mark up the item by 10% to cover price changes related to post COVID market volatility. I'll use some of that fee to cover handling or the work involved in finding a replacement. I will return the rest of that fee as a credit on your bill, or refund you if there isn't a service to apply it to. 
 
 ## Who I provide service to
 

@@ -1,5 +1,5 @@
 +++
-title = "Reflections on the Home Computer Golden Age - Part 4: A500 3d & Games"
+title = "Reflections on the Home Computer Golden Age - Part 4: A500 Games, The BBS Days & 3d Modeling"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 
@@ -16,18 +16,13 @@ caption = ""
 
 +++
 
-**Truespace 3d**
+## Amiga games that influenced my life
+**The days of Future Wars, Another World & Flashback**
 
-[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
-
-
-#### The days of Future Wars and Another World
-**Commodore Amiga games that influenced my life**
-
-With the release of the Amiga platform, games started springing up with amazing graphics and sound. Beyond anything I experienced before, the capibilities of these features ignighting my imagination with possibitlies. Eventually my gaming experience on the Amiga platform inspired me to invest my time and energy into 3D modeling and graphic design.
+With the release of the Amiga platform, games started springing up with amazing capabilities in visuals and sound. Beyond anything I experienced before, igniting my imagination with possibilities. Eventually my gaming experience on the Amiga platform inspired me to invest my time and energy into 3D modeling and graphic design which later engaged my interest in film and finally writing for film.
 
 ![Future Wars](/img/memorials/games/delphine-software/future-wars/futurewars-cover.jpg)
-In my early twenties I develop an interest in Time travel after reading a book on Temporal Mechanics. So when the adventure game, **Future Wars** came out on the Amiga Platform I was as ecstatic as a hobbit in a pie shop. Future Wars might not have been an amazing success like other games at the time, but I love expoloring the concept of time and doing so in a game that sported such amazing graphics and sound, made possible by the Amiga platform, helped me to continue to explore my interests in science .
+**Future Wars**, a science fiction adventure game release on Amiga Platform. Future Wars might not have been an amazing success like other games at the time, but I love expoloring the concept of time and doing so in a game that sported such amazing graphics and sound, made possible by the Amiga platform, helped me to continue to explore my interests in science. This was in my early twenties as I developed an interest in temporal mechanics after reading a book on the subject.
 
 {{< youtube GGNTiMET244 >}}
 
@@ -55,6 +50,12 @@ Flashback Soundtrack
 
 **Dial a BBS from an Amiga in 2016**
 {{< youtube MxcjnV-WhnQ >}}
+
+
+**Truespace 3d**
+
+[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
+
 
 
 

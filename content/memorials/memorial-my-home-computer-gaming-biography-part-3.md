@@ -1,5 +1,5 @@
 +++
-title = "Reflections on the Home Computer Golden Age - Part 3: TI & the C64"
+title = "Reflections on the Home Computer Golden Age - Part 3: The C64 & A500"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 
@@ -15,32 +15,6 @@ image = ""
 caption = ""
 
 +++
-My first experience with computers started in the early 1980's on one of the first home computers, the Texas Instruments TI-99/4A. I was about 12 years old. Relatively expensive, but affordable to average person, Home Computers ranged around a thousand dollars in value.   
-
-### Texas Instruments TI-99/4A
-
-![Texas Instruments TI-99/4A Photo](/img/memorials/personal-computers/ti994a2.jpg)
-
-
-{{% accordion-clean title="Texas Instruments TI-99/4A Specs" id="ti994a-specs" %}}
-{{% specs-ti994a %}}
-{{% /accordion-clean %}}
-
-Due to the expense, not many families had a personal computer back then. Fortunately we had a friend who's mother must have saw the value in kids playing with computers and had the resources to purchase one for her son. The reasons why I will never know as I lost contact with them. "**Tunnels of Doom**" became the hot title at the time. As far as I know, it was the first multi-player turn-based [dungeon crawler](https://en.wikipedia.org/wiki/Dungeon_crawl) released at that time. We started our morning loading in the cassette and pushing the play button so the computer could read our previous save game data from the weekend before. After several hours and a home cooked dinner our game would be loaded. We each took our respective turns exploring a procedurally generated dungeon together, engaging in battles with monsters and restoring fallen comrades. I remember it being the first continuous game experience that would last more than one sitting where I learned to cooperate with other players to complete objectives.
-
-{{< youtube oa7MYYmB4XQ >}}
-<p></p>
-
-A few years after my experience with the TI994a. My parents notice my enthusiasm in science and computers. I think they wanted to turn me into a scientist and saw the home computer as a step up from my childhood dream of getting myself into trouble. 
-
-A quick side note, I had brief introduction into electronics theory and practicalities by my Uncle Jim, who worked as a electrician in WWII, and later became a city electrician. On occasion, when my parents went away on vacation, they would ship me to Chicago to visit my Uncle. He showed me the basics of the apprentice craft. A few years of my life was spent in his basement, building small electronic devices together. Maybe that's why I jump at the prospect of getting my hands on newly released gadgets today.  
-
-As far as electronics go, the computer was, and is, a different beast. Obviously, the inner workings of a computer operates on the same principles of electric current. But what made home computers different from electronics is the software programming aspect of it. Programming is like creating a list of instructions for something to happen. When a computer receives a list of instructions, at the end of the day, is really all about flipping switches. Flipping a sequence of switches actually, in a way the computer can understand.
-
-Anyways, this enthusiasm got me my first computer, a Commodore 64. I'm skipping the part where my real first computer was a TRS-80. Because, well, if you didn't know, back then, it was considered the [Trash 80](https://dfarq.homeip.net/trash-80-what-it-meant-and-why-it-stuck/) by my compadres, and I don't want to mar my reputation :P. It was as good of a computer as any during that time, but since it was sold by Radio Shack, I think it developed a bad reputation because Radio Shack's electronics were considered subpar.
-
-Anyways, forget I ever said anything about that. On to the extraordinary achievement of the mid-eighties. I bring you, the Commodore 64!
-
 ### Commodore 64
 
 ![Commodore 64 Photo](/img/memorials/personal-computers/commodore64-perpective-view-blue-background.jpg)
@@ -60,3 +34,31 @@ Tinkering communities formed around the C64's simple design and broad software s
 But the major selling point of the C64 was the low cost for the individual that wanted to design their own programs and games. Back then, designing software was dominated by large companies that either sold software to big business, or manufactures of coin-operated games.
 
 It put the power to create something cool into the hands of regular people. The C64 inspired a whole slew of independent software designed for people who wanted to share their creations. 
+
+## Commodore Amiga 500
+
+![Commodore Amiga 500 Photo](/img/memorials/personal-computers/commodore-amiga-500-old-school.webp)
+
+{{% accordion-clean title="Commodore Amiga 500 Specs" id="commodoreAmiga500-specs" %}}
+{{% specs-amiga500 %}}
+{{% /accordion-clean %}}
+
+
+
+Like the first mission to the moon, the technology behind the Amiga 500 Home Computer changed everything. The A500 had it's beginnings at Atari. An engineer, Jay Miner, had an idea to develop a computer that would revolutionize games and make them much easier to develop. 
+
+Too afraid of losing money, Atari corporate executives of that time (this still happens today in many other fields of computer technology) put little-to-no energy into paradigm shifting innovations. This decline was in the process of causing the console industry to collapse. At the time, game development relied heavily on licensing expensive hardware developed by 3rd parties. Due to the fear of losing these deals, Atari prohibited Jay from perusing this new platform. Jay left Atari, and a previous co-worker helped him revive the idea under a new company. Eventually Commodore bought the platform and the Amiga 500 became bit hit with computer enthusiasts, but what really made the A500 so popular is the music and video entertainment professions who saw the A500's multimedia features as revolutionary. 
+
+The Amiga platform changed the closed and proprietary paradigm of the time with features like: "[Open Architecture](https://www.tomshardware.com/reviews/history-of-computers,4518-31.html)" and implementation one of the first [Graphical User Interfaces (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface). For the last 20 years, we have been circling back to closed and proprietary designs with small form factory tech. You can read more about this fall in [Part 5](/memorials/memorial-my-home-computer-gaming-biography-part-5.md) of this article. Its only in the last 5 years that things look like they are starting to change. You can read my article on "[Will one repairable laptop change the world?](https://www.scottrlarson.com/publications/publication-future-of-repairability/)" To see how Open Architecture is making a comeback.
+
+### Open Architecture
+During the early Home Computer and Game Console era, hardware technology had a very static design and wasn't designed to be changed or upgraded. The A500 was one of the first computers with an open architecture platform. It had two expansion slots, one on the side and one on the bottom. All of its integrated circuits (ICs) weren't installed directly onto the motherboard, but were mounted onto bases so they could be easily removed and replaced with enhanced ICs. 
+
+Open Architecture was a first for computer enthusiasts, similar to the concept of modularity, parts could be removed, replaced and upgraded. For me, that was what really made home computers interesting. Expanding the capabilities of a computer allowed me to increase my understanding of how computers work and spurred my continued learning. 
+
+### The Graphical User Interface
+The Graphical User Interface changed the way in which a computer is operated. Interfacing with a computer is like an extension of human perception. As humans, we interact with our environment by the senses. Interacting with a computer is like an extension between the body and mind. The more intuitive the tool, the more fluid and imaginative one can be with the tool. Imagination and creativity impacts how the world is perceived and the A500 inspired a whole slew of [creative endeavors](https://www.indiegamewebsite.com/2018/10/19/the-complete-history-of-indie-games/) in more creative fields than I can count. Because of this innovation, everything our modern computers are based on owes its beggings to this era. 
+
+If we go back to the C64 days, the computer received instructions from a Command Line Interface (CLI), I.E typing commands to launch programs and work with everyday tasks. There were some limited GUI interfaces that you could load on top of the CLI, but nothing on the scale that the A500 implemented. The whole OS was grounded in a GUI from start to finish, way before Microsoft's Windows operating system was released. It's difficult to quantify the impact the GUI had on my life. Switching between a lifetime of CLI, to a GUI is like miraculously being able to see after years of being blind. 
+
+I believe that the GUI for computing accelerated adoption of computers.  For many people that might have been put-off by command line, the GUI made using computers more intuitive  helping to spawn a golden age of digital art and sound. When the first 3d modeling software was released for the A500, I was one of it's first adopters. 

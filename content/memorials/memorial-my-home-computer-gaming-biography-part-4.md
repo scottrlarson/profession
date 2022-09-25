@@ -45,7 +45,7 @@ The idea of some guy lost and stranded on a foreign planet resonated with me. Pr
 {{< youtube 0iz9PJbs5rE >}}
 <p></p>
 
-A few years later, **Flashback**, a game by the same publisher was released that had a similar feel to Another World, but in it's own right, it was its own game. The game followed a similar theme that I was attracted to, A single protagonist, stranded somewhere, must find his way back to himself in his quest for identity. The game appeared to use simple techniques of the previous game, cut scenes done by rotoscoping. I like the tools in the game, I forgot about most of them, but one was the teleportation device. 
+A few years later, **Flashback**, a game by the same publisher was released that had a similar feel to Another World, but in it's own right, it was its own game. The game followed a similar theme that I was attracted to, A single protagonist, stranded somewhere, must find his way back to himself. This game got me thinking about my own place in the universe, and who I wanted to be. Society tends to mold a person into a cog in a wheel. As I was growing up, charting my own course was always in the back of my mind. Who I was, I hadn't figured that out yet, but I knew I wanted to figure it out instead of letting the world tell me who I was. I spent the rest of my life on a self-educated quest for identity.
  
 ![Flashback](/img/memorials/games/delphine-software/flashback/flashback-in-game-screenshot.jpg)
 

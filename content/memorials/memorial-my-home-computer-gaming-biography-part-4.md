@@ -1,5 +1,5 @@
 +++
-title = "Reflections on the Home Computer Golden Age - Part 4: The A500"
+title = "Reflections on the Home Computer Golden Age - Part 4: A500 Games, The BBS Days & 3d Modeling"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 
@@ -16,28 +16,66 @@ caption = ""
 
 +++
 
-### Commodore Amiga 500
+The Amiga platform brought amazing capabilities in visuals and sound, beyond anything I experienced. The games created during this time ignited my imagination with possibilities. 
 
-![Commodore Amiga 500 Photo](/img/memorials/personal-computers/commodore-amiga-500-old-school.webp)
+My gaming experience on the Amiga platform inspired me to invest my time and energy into graphic design.  When the first 3D modeling software was released for the Amiga Platform, I was one of it's first adopters. Later in life, this field engaged my interest in film and finally writing for film. 
 
-{{% accordion-clean title="Commodore Amiga 500 Specs" id="commodoreAmiga500-specs" %}}
-{{% specs-amiga500 %}}
-{{% /accordion-clean %}}
+## Amiga games that influenced my life
+**The days of Future Wars, Another World & Flashback**
+
+![Future Wars](/img/memorials/games/delphine-software/future-wars/futurewars-cover.jpg)
+
+In 1989 I played **Future Wars**, a science fiction adventure game release on Amiga Platform. Not a big fan of adventure games at the time, I was more interested in the science fictional aspects of the story telling. 
+
+Future Wars might not have been an amazing success like other games at the time, but I love exploring the concept of time travel. What really inspired me about the game is the sound, made possible by the Amiga platform. Sound was a big thing for games back then, which was very limited by the hardware. For some reason, sound and story telling helped me to continue to explore my interests in science, leading to interpersonal contemplation of what the future might be like. Great for my own story telling as I developed an interest in writing for film. I developed an interest in temporal mechanics and cognitive theory, both of which helps shape my understanding of of the world today. The subjects I write about all have their roots in how objective reality and perception has effects on the human mind.
+
+{{< youtube GGNTiMET244 >}}
+<p></p>
+
+I remeber when **Another World** came out. I was in a game store of the time. I picked up this title and looked at the front and back cover. It looked something like this:
+
+![Another World Amiga Game Box Front Cover Photo](/img/memorials/games/delphine-software/another-world/amiga-anotherworld-front.jpg)
+
+![Another World Amiga Game Box Back Cover Photo](/img/memorials/games/delphine-software/another-world/amiga-anotherworld-back.jpg)
+
+The idea of some guy lost and stranded on a foreign planet resonated with me. Probably because I feel that way some times on earth :P. Anyway, it was the first time I saw 3 dimensional perspective used in a game. Later I found out the developer used rotoscoping to create those shots. Remember this is a 2d scrolling game mind you, Its was my experienced that 3d perspective was something not even considered at the time. 
+
+![Another World In-Game Screenshot](/img/memorials/games/delphine-software/another-world/another-world-4-shot.jpg)
+
+{{< youtube 0iz9PJbs5rE >}}
+<p></p>
+
+A few years later, **Flashback**, a game by the same publisher was released that had a similar feel to Another World, but in it's own right, it was its own game. The game followed a similar theme that I was attracted to, I single protagonist, stranded somewhere, most find his way back to himself in his quest for identity. The game appeared to use simple techniques of the previous game, cut scenes done by rotoscoping. I like the tools in the game, I forgot about most of them, but one was the teleportation device. 
+ 
+![Flashback](/img/memorials/games/delphine-software/flashback/flashback-in-game-screenshot.jpg)
+
+10 FANTASTIC Flashback Facts
+{{< youtube kl7C3DwjTd8 >}}
+
+Flashback Soundtrack
+{{< youtube 3VXBjg7Nxto >}}
+
+### Commodore Amiga 2000
+
+![Commodore Amiga 2000 Photo](/img/memorials/personal-computers/amiga2k1-1.jpg)
+
+
+### 3D modeling on the Amiga 2000
+
+**Caligari/Truespace 3d**
+
+[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
 
 
 
-Like the first mission to the moon, the technology behind the Amiga 500 Home Computer changed everything. The A500 had it's beginnings at Atari. An engineer, Jay Miner, had an idea to develop a computer that would revolutionize games and make them much easier to develop. Too afraid of losing money, Atari corporate executives of that time (and still happening today in many other fields of computer technology) put little-to-no energy into paradigm shifting innovations. This decline was in the process of causing the console industry to collapse. At the time, game development relied heavily on licensing expensive hardware developed by 3rd parties. Due to the fear of losing these deals, Atari prohibited Jay from perusing this new platform. Jay left Atari, and a previous co-worker helped him revive the idea under a new company. Eventually Commodore bought the platform and the Amiga 500 became bit hit with computer enthusiasts, but what really made the A500 so popular is the musicians and video entertainment professions who saw the A500's multimedia features as revolutionary. 
+#### Running my own BBS on the Amiga 2000
 
-The Amiga platform changed the closed and proprietary paradigm of the time with features like: "[Open Architecture](https://www.tomshardware.com/reviews/history-of-computers,4518-31.html)" and implementation one of the first [Graphical User Interfaces (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface). For the last 20 years, we have been circling back to closed and proprietary designs with small form factory tech. You can read more about this fall in [Part 2](/memorials/memorial-my-home-computer-gaming-biography-part2.md) of this article. Its only in the last 5 years that things look like they are starting to change. You can read my article on "[Will one repairable laptop change the world?](https://www.scottrlarson.com/publications/publication-future-of-repairability/)"
+**Dial a BBS from an Amiga in 2016**
+{{< youtube MxcjnV-WhnQ >}}
 
-### Open Architecture
-During the early Home Computer and Game Console era, hardware technology had a very static design and wasn't designed to be changed or upgraded. The A500 was one of the first computers with an open architecture platform. It had two expansion slots, one on the side and one on the bottom. All of its integrated circuits (ICs) weren't installed directly onto the motherboard, but were mounted onto bases so they could be easily removed and replaced with enhanced ICs. 
 
-Open Architecture was a first for computer enthusiasts, similar to the concept of modularity, parts could be removed, replaced and upgraded. For me, that was what really made home computers interesting. Expanding the capabilities of a computer allowed me to increase my understanding of how computers work and spurred my continued learning. 
 
-### The Graphical User Interface
-The Graphical User Interface changed the way in which a computer is operated. Interfacing with a computer is like an extension of human perception. As humans, we interact with our environment by the senses. Interacting with a computer is like an extension between the body and mind. The more intuitive the tool, the more fluid and imaginative one can be with the tool. Imagination and creativity impacts how the world is perceived and the A500 inspired a whole slew of [creative endeavors](https://www.indiegamewebsite.com/2018/10/19/the-complete-history-of-indie-games/) in more creative fields than I can count. Because of this innovation, everything our modern computers are based on owes its beggings to this era. 
+## The fall of Commodore as a company and jumping ship
+I remember the end of the eighties commodore was struggling to keep up with the technological advancements. research shows that they didn't understand the potential of the Amiga platform and the people behind it. On the ground I just remember that the platform was being limited by somehting as software was not being written for it as many developers started migrated to the PC or Mac platform. I eventually had to jump ship and switche over to a PC platform. I often look back at this time because the Amiga platform was doing things at the time that was ahead of its time, and I often wonder where we would be at now if commedore survived. I think we would be at least 5 or 10 years more advanced than we are now. Because of PC compatibility the technolgoy moves at a slower rate. Apple is less limited by this problem,
 
-If we go back to the C64 days, the computer received instructions from a Command Line Interface (CLI), I.E typing commands to launch programs and work with everyday tasks. There were some limited GUI interfaces that you could load on top of the CLI, but nothing on the scale that the A500 implemented. The whole OS was grounded in a GUI from start to finish. It's difficult to quantify the impact the GUI had on my life. Switching between a lifetime of CLI, to a GUI is like miraculously being able to see after years of being blind. 
 
-I believe that the GUI for computing accelerated adoption of computers.  For many people that might have been put-off by command line, the GUI made using computers more intuitive  helping to spawned a golden age of digital art and sound. When the first 3d modeling software was released for the A500, I was one of it's first adopters. 

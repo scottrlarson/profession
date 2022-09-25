@@ -16,22 +16,37 @@ caption = ""
 
 +++
 
+The Amiga platform brought amazing capabilities in visuals and sound, beyond anything I experienced. The games created during this time ignited my imagination with possibilities. 
+
+My gaming experience on the Amiga platform inspired me to invest my time and energy into graphic design.  When the first 3D modeling software was released for the Amiga Platform, I was one of it's first adopters. Later in life, this field engaged my interest in film and finally writing for film. 
+
 ## Amiga games that influenced my life
 **The days of Future Wars, Another World & Flashback**
 
-With the release of the Amiga platform, games started springing up with amazing capabilities in visuals and sound. Beyond anything I experienced before, igniting my imagination with possibilities. Eventually my gaming experience on the Amiga platform inspired me to invest my time and energy into 3D modeling and graphic design which later engaged my interest in film and finally writing for film.
-
 ![Future Wars](/img/memorials/games/delphine-software/future-wars/futurewars-cover.jpg)
-**Future Wars**, a science fiction adventure game release on Amiga Platform. Future Wars might not have been an amazing success like other games at the time, but I love expoloring the concept of time and doing so in a game that sported such amazing graphics and sound, made possible by the Amiga platform, helped me to continue to explore my interests in science. This was in my early twenties as I developed an interest in temporal mechanics after reading a book on the subject.
+
+In 1989 I played **Future Wars**, a science fiction adventure game release on Amiga Platform. Not a big fan of adventure games at the time, I was more interested in the science fictional aspects of the story telling. 
+
+Future Wars might not have been an amazing success like other games at the time, but I love exploring the concept of time travel. What really inspired me about the game is the sound, made possible by the Amiga platform. Sound was a big thing for games back then, which was very limited by the hardware. For some reason, sound and story telling helped me to continue to explore my interests in science, leading to interpersonal contemplation of what the future might be like. Great for my own story telling as I developed an interest in writing for film. I developed an interest in temporal mechanics and cognitive theory, both of which helps shape my understanding of of the world today. The subjects I write about all have their roots in how objective reality and perception has effects on the human mind.
 
 {{< youtube GGNTiMET244 >}}
+<p></p>
 
-**Another World**
-![Another World](/img/memorials/games/delphine-software/another-world/anotherworld-shooting-scene.jpg)
+I remeber when **Another World** came out. I was in a game store of the time. I picked up this title and looked at the front and back cover. It looked something like this:
+
+![Another World Amiga Game Box Front Cover Photo](/img/memorials/games/delphine-software/another-world/amiga-anotherworld-front.jpg)
+
+![Another World Amiga Game Box Back Cover Photo](/img/memorials/games/delphine-software/another-world/amiga-anotherworld-back.jpg)
+
+The idea of some guy lost and stranded on a foreign planet resonated with me. Probably because I feel that way some times on earth :P. Anyway, it was the first time I saw 3 dimensional perspective used in a game. Later I found out the developer used rotoscoping to create those shots. Remember this is a 2d scrolling game mind you, Its was my experienced that 3d perspective was something not even considered at the time. 
+
+![Another World In-Game Screenshot](/img/memorials/games/delphine-software/another-world/another-world-4-shot.jpg)
 
 {{< youtube 0iz9PJbs5rE >}}
+<p></p>
 
-**Flashback**
+A few years later, **Flashback**, a game by the same publisher was released that had a similar feel to Another World, but in it's own right, it was its own game. The game followed a similar theme that I was attracted to, I single protagonist, stranded somewhere, most find his way back to himself in his quest for identity. The game appeared to use simple techniques of the previous game, cut scenes done by rotoscoping. I like the tools in the game, I forgot about most of them, but one was the teleportation device. 
+ 
 ![Flashback](/img/memorials/games/delphine-software/flashback/flashback-in-game-screenshot.jpg)
 
 10 FANTASTIC Flashback Facts
@@ -45,17 +60,18 @@ Flashback Soundtrack
 ![Commodore Amiga 2000 Photo](/img/memorials/personal-computers/amiga2k1-1.jpg)
 
 
+### 3D modeling on the Amiga 2000
+
+**Caligari/Truespace 3d**
+
+[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
+
+
 
 #### Running my own BBS on the Amiga 2000
 
 **Dial a BBS from an Amiga in 2016**
 {{< youtube MxcjnV-WhnQ >}}
-
-
-**Truespace 3d**
-
-[More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
-
 
 
 

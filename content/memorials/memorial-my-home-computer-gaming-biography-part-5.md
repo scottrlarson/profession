@@ -18,6 +18,10 @@ caption = ""
 
 This piece is a look at where we have been and where we are heading as a society from a computing perspective. This article is a companion to parts 1-5 of "Reflections on the Home Computer Golden Age". 
 
+## Flashback Musings
+
+This game got me thinking about my own place in the universe, and who I wanted to be. To a large extent, in civilized living at least,  society tends to mold mold people into different parts that society benefits from. I'm not sure how successful I am at making my own way on the peripheral of life, I guess it depends on what your understanding of success is. For me it was about discovering the true meaning and origins behind all life. As I was growing up, charting my own course was always in the back of my mind. Who I was, I hadn't figured that out yet, but I knew I wanted to try and figure it out instead of letting the world tell me who I was. My entire life, it seems, I have been on a self-educated quest for identity.
+
 ## This is Now
 
 ### Custom built Computers
@@ -55,3 +59,15 @@ During this time, I was combining what I knew about electronics from my Uncle by
 In the early seventies, IBM was the Goliath on the Business Computer block. They had a solid sales/marketing team and were selling 5 million dollar mainframe computers to business that could afford them. Thinking that the Home Computer craze was just a fad, they didn't take the revolution seriously. For the world-at-large, the Home Computer revolution didn't start until IBM's customers pressured the company to enter the space. IBM released the first Personal Computer called the "model 5150" more commonly known as the IBM PC. Based on a open architecture design, the 5150 became very popular. Home Computers were mainly controlled by closed designs, so it's unfortunate that it took a major player to change this paradigm, which IBM used to its own advantage to dominate the Home Computer space. IBM struggled to compete with the Home Computer market, dominated by Apple, Commodore and Tandy but by then the open architecture concept changed the game completely. Home Computer companies started offer there own PC clones to stay in the game. Standards in hardware and software designed, based on the open architecture philosophy brought great innovation to the world of Computers and with it, an era of endless possibilities for the hobbyist.
 
 To this day, Microsoft benefited the most from the IBM's decision to open its architecture, as it was chosen as the main operating system for the PC. It's interesting to note that the company is currently moving further and further into closed design territory with Windows 11. There aim appears to be removing customer choice along with the other companies that jumped on that bandwagon in later years like Apple, HP, Dell and others. Many current computer hardware manufacturers and software developers are designing static hardware and software around a [walled garden](https://en.wikipedia.org/wiki/Closed_platform) perspective. You can see this perspective with the push to cloud software as a service. You can read more about my thoughts around closed designs in the everyday software we use in my "[My transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-transition-windows-to-linux/)" article and the movement to back again to open hardware platforms in my "[Will one repairable laptop change the world?](https://www.scottrlarson.com/publications/publication-future-of-repairability/)" article.
+
+## What Writing Projects am I working on Today
+
+Writing is somewhat of a moving target for me. I Start on one project, and then my understanding of life changes and I move into a new project.
+
+I'm still interested in writing a science fiction story about humanities origins. Not from the typical stand point of what we know about the universe. We really don't know much, at least in terms of how the universe and consciousness was created. I know we have a lot of theories that seem grounded in chaos theory. I believe on the surface, our minds perceive that the universe behaves like a machine, but at its heart is something else. I believe that Hermetic principles have the best chance of helping us understand how the Universe operates. Mainstream scientific views are too nondeterministic. Life is much more organized and orderly that we realize, and there is some kind of interaction between all life and "The All" as Hermeticists like to put it. 
+
+The human family doesn't really have an origin story. That history has been lost by time. Think of children who loses or lost one or more of their parents. Apply that scenario to the human condition and maybe you can see why civilized humanity is in such a sorry state right now. We don't really know where we came from, religions have their stories but they always felt incomplete and overly archaic to me. 
+
+So it would be nice to have a story of humanity, even if its just fiction as I feel that would help us have some understanding of our place in the universe. 
+
+My story roots comes from the idea that there was a first human civilization on earth that was lost by a world disaster in ancient times. Over generations knowledge has been lost and rediscovered, but not completely, and we are remnants of that civilization.

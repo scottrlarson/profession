@@ -32,20 +32,20 @@ Future Wars might not have been an amazing success like other games at the time,
 {{< youtube GGNTiMET244 >}}
 <p></p>
 
-I remeber when **Another World** came out. I was in a game store of the time. I picked up this title and looked at the front and back cover. It looked something like this:
+Three years later **Another World** came out. I was in a game store of the time. I picked up this title and looked at the front and back cover. It looked something like this:
 
 ![Another World Amiga Game Box Front Cover Photo](/img/memorials/games/delphine-software/another-world/amiga-anotherworld-front.jpg)
 
 ![Another World Amiga Game Box Back Cover Photo](/img/memorials/games/delphine-software/another-world/amiga-anotherworld-back.jpg)
 
-The idea of some guy lost and stranded on a foreign planet resonated with me. Probably because I feel that way some times on earth :P. Anyway, it was the first time I saw 3 dimensional perspective used in a game. Later I found out the developer used rotoscoping to create those shots. Remember this is a 2d scrolling game mind you, Its was my experienced that 3d perspective was something not even considered at the time. 
+The idea of some guy lost and stranded on a foreign planet resonated with me. Probably because I feel that way some times on earth :P. Anyway, it was the first time I saw three dimensional perspective used in a game. Later I found out the developer used rotoscoping to create the cut-scenes. Remember this is a 2d scrolling game mind you. If my memory serves me correctly, 3D perspective in 2d scrolling games was something not even considered at the time. 
 
 ![Another World In-Game Screenshot](/img/memorials/games/delphine-software/another-world/another-world-4-shot.jpg)
 
 {{< youtube 0iz9PJbs5rE >}}
 <p></p>
 
-A few years later, **Flashback**, a game by the same publisher was released that had a similar feel to Another World, but in it's own right, it was its own game. The game followed a similar theme that I was attracted to, A single protagonist, stranded somewhere, must find his way back to himself. This game got me thinking about my own place in the universe, and who I wanted to be. Society tends to mold a person into a cog in a wheel. As I was growing up, charting my own course was always in the back of my mind. Who I was, I hadn't figured that out yet, but I knew I wanted to figure it out instead of letting the world tell me who I was. I spent the rest of my life on a self-educated quest for identity.
+A few years later, **Flashback**, a game by the same publisher was released that had a similar feel to Another World, but in it's own right, it was its own game. The game followed a similar theme that I was attracted to, A single protagonist, stranded somewhere, must find his way back to himself. 
  
 ![Flashback](/img/memorials/games/delphine-software/flashback/flashback-in-game-screenshot.jpg) 
 
@@ -54,6 +54,12 @@ A few years later, **Flashback**, a game by the same publisher was released that
 
 Flashback Soundtrack
 {{< youtube 3VXBjg7Nxto >}}
+
+Both Another World and Flashback had great instrumental sound tracks. Not only did music, espically music with atmosphiric sound effects  helped me focus on whats happening in the game, it so helps me connect with my surroundings and from that point on, I used music to help me focus on my creativity which seems to steam atmospheric sounds.
+
+Playing these particular games was the first time I experienced liner story telling and that helped me figure out why I was so inspired by stories. I realized that story telling, in the way it was presented in games, as interactive pieces, was a way for me to focus my own decision making in life. As a learned how to make descision in games, I realized with the right focus and intention, I could make sound choices in my own life.
+
+[The Fallout 3 Ambient Soundtrack](https://www.youtube.com/watch?v=SWgXz2PRrTk) is a perfect example of how ambmiance can focus attention 
 
 ### Commodore Amiga 2000
 

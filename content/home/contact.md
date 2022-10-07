@@ -13,4 +13,4 @@ subtitle = ""
 # Automatically link email and phone?
 autolink = true
 +++
-{{% contact-form-selectable2 %}}
+{{% contact-form %}}

@@ -1,0 +1,86 @@
+Please chose the type of inquiry you would like to make:
+<form name="form01">
+  <select name="fieldset-choice">
+      <option value="f1">--</option>
+      <option value="f2">Professional Inquiry</option>
+      <option value="f3">Personal Inquiry</option>
+  </select>
+  <fieldset id="f1">
+  </fieldset>
+  <fieldset id="f2">
+  <div class="form-container">
+  	<form name="contact" method="POST" netlify-honeypot="contact2-field" netlify-recaptcha netlify>
+      <input type="hidden" name="form-name" value="Professional" />
+  		<div class="form-component">
+  		  <div class="form-label"><label>First Name</label></div>
+  		  <div class="form-input"><input type="text" name="first name" required></div>
+  		</div>
+      <div class="form-component">
+  		  <div class="form-label"><label>Last Name</label></div>
+  		  <div class="form-input"><input type="text" name="last name" required></div>
+  		</div>
+      <div class="form-component">
+  		  <div class="form-label"><label>Best Contact Number</label></div>
+  		  <div class="form-input"><input type="tel" name="phone" required></div>
+  		</div>
+  		<div class="form-component">
+  			<div class="form-label"><label>Your Email</label></div>
+  			<div class="form-input"><input type="email" name="email" required></div>
+  		</div>
+  		<div class="form-component">
+  			<div class="form-label"><label>Details</label></div>
+  			<div class="form-input"><textarea name="details" required></textarea></div>
+  		</div>
+  <div class="hidden">
+    <div class="form-component">
+    <div class="form-label"><label>Secondary Contact</label></div>
+    <div class="form-input"><input name="contact2-field"></div>
+      </div>
+  </div>
+  		<div class="form-component">
+        <div data-netlify-recaptcha></div>
+      </div>
+  		<div class="form-component">
+  			<div class="form-button-container"><button type="submit">Send Request</button></div>
+  		</div>
+  	</form>
+  </div>
+  </fieldset>
+  <fieldset id="f3">
+      <div class="form-container">
+      	<form name="contact" method="POST" netlify-honeypot="contact2-field" netlify-recaptcha netlify>
+          <input type="hidden" name="form-name" value="Personal" />
+      		<div class="form-component">
+      		  <div class="form-label"><label>First Name</label></div>
+      		  <div class="form-input"><input type="text" name="first name" required></div>
+      		</div>
+          <div class="form-component">
+      		  <div class="form-label"><label>Last Name</label></div>
+      		  <div class="form-input"><input type="text" name="last name" required></div>
+      		</div>
+          <div class="form-component">
+      			<div class="form-label"><label>Your Email</label></div>
+      			<div class="form-input"><input type="email" name="email" required></div>
+      		</div>
+      		<div class="form-component">
+      			<div class="form-label"><label>Details</label></div>
+      			<div class="form-input"><textarea name="details" required></textarea></div>
+      		</div>
+      <div class="hidden">
+        <div class="form-component">
+        <div class="form-label"><label>Secondary Contact</label></div>
+        <div class="form-input"><input name="contact2-field"></div>
+          </div>
+      </div>
+      		<div class="form-component">
+            <div data-netlify-recaptcha></div>
+          </div>
+      		<div class="form-component">
+      			<div class="form-button-container"><button type="submit">Send Request</button></div>
+      		</div>
+      	</form>
+      </div>
+
+  </fieldset>
+
+</form>

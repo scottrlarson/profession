@@ -70,6 +70,30 @@
     <script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/{{- $js.mathJax.version -}}/MathJax.js?config=TeX-AMS_CHTML"></script>
     {{ end }}
     {{ end }}
+    
+    <!-- Conditional Form Inputs - Selectable contact form type checkbox-->
+    <script>
+          document.addEventListener('DOMContentLoaded', e => {
+      document.forms.form01.addEventListener('change', e => {
+        if (e.target.name == 'yesOrNo') {
+          let yesOrNo = new Boolean(parseInt(e.target.form.yesOrNo.value));
+          e.target.form.yesQuestion.disabled = yesOrNo.valueOf();
+        }
+      });
+    });
+    </script>
+
+    <!-- Conditional Form Inputs - Selectable contact form type fieldset -->
+
+    <script type="text/javascript">
+      jQuery('select[name=fieldset-choice]').change(function(){
+          var fieldsetName = $(this).val();
+          $('fieldset').hide().filter('#' + fieldsetName).show();
+      });
+
+      // We need to hide all fieldsets except the first:
+      $('fieldset').hide().filter('#f1').show();
+    </script>
 
   </body>
 </html>

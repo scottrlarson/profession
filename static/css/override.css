@@ -803,3 +803,18 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 	height: 100%; 
 	border:0;
 }
+
+/* Styles for Selectable Contact Form */
+
+input:required {
+  border: red thin solid;
+}
+
+input:disabled {
+  border: darkgray thin solid;
+  background-color: lightgray;
+}
+
+fieldset:disabled {
+  display: none;
+}

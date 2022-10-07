@@ -14,5 +14,3 @@ subtitle = ""
 autolink = true
 +++
 {{% contact-form %}}
-
-{{% contact-form-selectable2 %}}

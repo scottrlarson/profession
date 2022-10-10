@@ -13,5 +13,4 @@ subtitle = ""
 # Automatically link email and phone?
 autolink = true
 +++
-
-My contact form is currently down. Please Call or Text me at 707-536-1527. You can also [schedule an appointment for service](https://harmonizely.com/scottrlarson).
+{{% contact-form %}}

@@ -65,10 +65,24 @@ Playing these particular games was the first time I experienced liner story tell
 
 ![Commodore Amiga 2000 Photo](/img/memorials/personal-computers/amiga2k1-1.jpg)
 
+{{% accordion-clean title="Commodore Amiga 2000 Specs" id="commodoreAmiga2000-specs" %}}
+{{% specs-amiga2000 %}}
+{{% /accordion-clean %}}
+
+Realizing the power of the Amiga platform for graphics and sound I wanted to do more with the technology that just play games. So I purchased an Amiga 2000 with some inheritance money I had to explore the cutting edge capabilities of the platform. 
+
+As Commodore shifted gears with the marketing strategies to appeal directly to business by releasing a model for Graphic Artists. In the early 1990's the [Video Toaster](https://en.wikipedia.org/wiki/Video_Toaster) was release and this is where people really started to take notice of the platform. The toaster allowed you to combine graphic capabilities with real world captured video, something TV stations were moving toward anyway. Before the release of the Toaster a TV station would spend 10,000 on hardware to make this dream a reality. But now, it was being put into the hands of independent artists. This move spawned a whole new era of creative markets.
 
 ### 3D modeling on the Amiga 2000
 
-**Caligari/Truespace 3d**
+I came into the 3D scene when I started seeing models being produced by artists. At the time. I was in collage and taking various courses to see where my interests would take me. I thought I might get into 3D graphic design so I purchased the 3d modeling application at the time, **Caligari** which was later renamed to **Truespace 3d**.
+
+{{< figure src="/img/memorials/models/rylon-head.png.jpg" title="My rendition of the Another World Creature" >}}
+
+
+Learning 3D modeling helped me shape my ideas and bring my imagination to life, which inspired me in other areas of my life.
+
+
 
 [More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
 

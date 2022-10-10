@@ -149,7 +149,14 @@ ul.ul-edu li .description p.type {
   font-size: 0.8rem;
 }
 
-img {max-width:100%; height:auto;}
+img {
+	max-width:100%; 
+	height:auto;
+}
+
+.article-style figure {
+  text-align: center;
+}
 
 .imgTitle {
 	width: 50px;

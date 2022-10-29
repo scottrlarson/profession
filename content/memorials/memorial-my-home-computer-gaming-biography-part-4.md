@@ -75,20 +75,33 @@ As Commodore shifted gears with the marketing strategies to appeal directly to b
 
 ### 3D modeling on the Amiga 2000
 
-I came into the 3D scene when I started seeing models being produced by artists. At the time. I was in collage and taking various courses to see where my interests would take me. I thought I might get into 3D graphic design so I purchased the 3d modeling application at the time, **Caligari** which was later renamed to **Truespace 3d**.
+My interests in 3d modeling and animation (Now called special effects) centered around the work behind the games Another World and Flashback. I purchased an Amiga 2000 solely for that purpose. **Caligari** which was later renamed to **Truespace 3d** was the application at the time designed for this purpose. 
+
+I wanted to recreate in 3d what I saw in those 2d side scrolling games.
 
 {{< figure src="/img/memorials/models/rylon-head.png.jpg" title="My rendition of the Another World Creature" >}}
 
 
-Learning 3D modeling helped me shape my ideas and bring my imagination to life, which inspired me in other areas of my life.
+After realizing Caligari's capabilities, I thought I might get into 3D graphic design, so I purchased the Amiga 2000. I was in collage at the time taking various courses in art/design to see where my interests would take me.
+
+Knowing that special effects would become future of film and other forms of creative projects, being apart of this movement would be important for my artistic development. But when I saw the kind of work environments that were created around these industries, the long work hours and the effects corporate culture had on the people that were already in these industries, I decided to take the road of independence. The knowledge I had at the time, making electronics work and maintaining them was more marketable as a one man show. Besides, I didn't really work well with others at the time. In hindsight, the judgments I made about the world, stunted my artistic growth. Or at least the impact I might have made on society by being apart of something bigger than what my own mind could imagine. 
 
 
+But learning learning this field in isolation helped me shape my ideas and bring some of my ideas to life, which inspired me to get into writing for film, instead of creating works of art that revolved around the creations of others.
+
+But creating my own individual works of art has been difficult for me because I chose isolation over working with others.
 
 [More information on Amiga 3D modeling](http://www.etwright.org/cghist/a3d_intro.html)
 
 
 
 #### Running my own BBS on the Amiga 2000
+
+Running a BBS started in the Commdore 64 days and carried into the 128 days. Being a sysop helped me connect with other people that have similar interest to me. I met to people that were as much into computers as I was, and it was great to have people to talk to about my interests. We all worked together to create cool things.
+
+The BBS was the first type of system where there was real interaction between people online, way before the internet. It was somewhat a slow process because only one person was able to connect to a BBS at a time (That changed a bit before the introduction of the internet). It was good because you could leave something behind of yourself in a post, and someone might comment on your post hours or days later.
+
+Before my own SysOP days, I was just a user and as a kid, I would often get myself into trouble by not following the rules.
 
 **Dial a BBS from an Amiga in 2016**
 {{< youtube MxcjnV-WhnQ >}}

@@ -15,6 +15,8 @@ image = ""
 caption = ""
 
 +++
+From a technology and culture perspective This piece is a look at where we have been, and where we are heading as a society. This article is a companion piece to "Reflections on the Home Computer Golden Age". 
+[TOC]
 
 Computers and tinkering has been my forte since I was a kid. Today I am a computer hardware and software troubleshooter. I run my own computer repair service and for over 20 years I have been providing technical assistance to home users and very small businesses. 
 

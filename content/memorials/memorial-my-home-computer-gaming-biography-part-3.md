@@ -15,6 +15,10 @@ image = ""
 caption = ""
 
 +++
+From a technology and culture perspective This piece is a look at where we have been, and where we are heading as a society. This article is a companion piece to "Reflections on the Home Computer Golden Age". 
+[TOC]
+
+
 ### Commodore 64
 
 ![Commodore 64 Photo](/img/memorials/personal-computers/commodore64-perpective-view-blue-background.jpg)

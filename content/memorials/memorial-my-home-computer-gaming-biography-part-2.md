@@ -15,6 +15,10 @@ image = ""
 caption = ""
 
 +++
+From a technology and culture perspective This piece is a look at where we have been, and where we are heading as a society. This article is a companion piece to "Reflections on the Home Computer Golden Age". 
+
+[TOC]
+
 My first experience with computers started in the early 1980's on one of the first home computers, the Texas Instruments TI-99/4A. I was about 12 years old. Relatively expensive, but affordable to many middle class families, Home Computers ranged around a thousand dollars in value.   
 
 ### Texas Instruments TI-99/4A

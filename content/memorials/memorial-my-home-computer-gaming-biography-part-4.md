@@ -1,5 +1,5 @@
 +++
-title = "Reflections on the Home Computer Golden Age - Part 4: A500 Games, The BBS Days & 3d Modeling"
+title = "Reflections on the Home Computer Golden Age - Part 4: Amiga Games, The BBS Days & 3d Modeling"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 
@@ -15,6 +15,9 @@ image = ""
 caption = ""
 
 +++
+From a technology and culture perspective This piece is a look at where we have been, and where we are heading as a society. This article is a companion piece to "Reflections on the Home Computer Golden Age". 
+
+[TOC]
 
 The Amiga platform brought amazing capabilities in visuals and sound, beyond anything I experienced. The games created during this time ignited my imagination with possibilities. 
 
@@ -95,20 +98,33 @@ But creating my own individual works of art has been difficult for me because I 
 
 
 
-#### Running my own BBS on the Amiga 2000
+#### Bulletin Board System (BBS) & The Modem
 
-Running a BBS started in the Commdore 64 days and carried into the 128 days. Being a sysop helped me connect with other people that have similar interest to me. I met to people that were as much into computers as I was, and it was great to have people to talk to about my interests. We all worked together to create cool things.
+In the 1980's we dialed-up computers to leave something about us behind for the next caller.  One call after the other, users imprinted themselves upon the walls of life in this early digital stratosphere.  Before the Internet became a reality, BBS systems were our knowledge centers. Built by the users, for the users, of the users. 
 
-The BBS was the first type of system where there was real interaction between people online, way before the internet. It was somewhat a slow process because only one person was able to connect to a BBS at a time (That changed a bit before the introduction of the internet). It was good because you could leave something behind of yourself in a post, and someone might comment on your post hours or days later.
+I became a user of BBS's during my early C64 days, I was around 13 years of age.  Probably because my parents where in the process of splitting up, I sometimes found it hard to reign in my emotions and be civil. At the time, I found myself in trouble with the social contracts on some of the BBS's I was a member of. Back then, codes of conduct still applied in the digital world and I would find my account suspended for a time which tended to cut me off from online socialization.
 
-Before my own SysOP days, I was just a user and as a kid, I would often get myself into trouble by not following the rules.
+But I got on with life and grew up somewhat. After awhile, I purchased a Commodore 128 and ran my own BBS and becaome my own SysOP (Systems Operator).  
+
+
+If you were a SysOp at the time, you had a unique glimpse into the future of online communication, which is different that person-to-person. Because of the time we were in, society was still in its early stages of individual expression. Much of our way of life was effected by social mores and peer pressure to maintain a facade of being something everyone expected you to be. To fit into society, that's what we did, at least in America. But as an early SysOP, I noticed that BBS users would drop these disguises and reveal who they truly were, or at least who they wanted to be.
+
+Maybe this understanding started me down the path of being able to remain authentic to who I was even under extreme pressure from the outside world.
+
+The early BBS's were the first type of systems where there was real interaction between people online, way before the internet. Connecting and sharing your innermost dreams happened at a turtle's pace because only one person was able to connect to a BBS at a time. It was unique because you could leave something behind of yourself in a post, and someone might comment on your post hours or days later. It helped me develop my thoughts about the world in a slow and methodical way which sometimes I think we lack in the modern era.
+
+BBS's continued to be used during the revolution of the Amiga platform. Although I vaguely remember any significant changes to BBS systems after the C64/128 days, except for the multi-user communication aspect which I lost touch with for a time, not much seemed to change. Being a SysOP helped me connect with other people that had similar interests. I met to people that were as much into computers as I was, and it was great to have people to talk about our similarities. 
+
+There was this feeling of strangers working together make the world a better place and to create cool things. It was the beginning and in some ways, the end of an era, all at once.
 
 **Dial a BBS from an Amiga in 2016**
 {{< youtube MxcjnV-WhnQ >}}
 
 
 
-## The fall of Commodore as a company and jumping ship
-I remember the end of the eighties commodore was struggling to keep up with the technological advancements. research shows that they didn't understand the potential of the Amiga platform and the people behind it. On the ground I just remember that the platform was being limited by somehting as software was not being written for it as many developers started migrated to the PC or Mac platform. I eventually had to jump ship and switche over to a PC platform. I often look back at this time because the Amiga platform was doing things at the time that was ahead of its time, and I often wonder where we would be at now if commedore survived. I think we would be at least 5 or 10 years more advanced than we are now. Because of PC compatibility the technolgoy moves at a slower rate. Apple is less limited by this problem,
+## The fall of Commodore
+
+At the end of the 1980's Commodore, as a company, was struggling to keep up with the technological advancements being made by the competition. Commodore's corporate internal problems prevented them from making the innovations necessary to stay ahead. You can read more about that in the Ars Series "[History of the Amiga](https://arstechnica.com/series/history-of-the-amiga/)". Eventually Apple and the PC clones of the world started to catch up to our little alternate reality. I remember that the platform wasn't evolving. Software development was be being limited by the available hardware at the time. Getting tired of waiting for Commodore to get it's act together, I switched over to a PC platform and never looked back, until now. 
+
 
 

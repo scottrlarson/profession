@@ -22,6 +22,6 @@ Enpass relies on 3rd party [cloud services](/terms/term-cloud-service) to sync y
  
 This guide covers the basics of [setting up a Enpass on a new device](), [how to add new information to the app]() and [how to use Enpass to log into your accounts]().
 
-![Graph on how Enpass works]()
+![Graph on how Enpass works](\img\guides\Enpass\Diagram-Enpass.png)
  
 

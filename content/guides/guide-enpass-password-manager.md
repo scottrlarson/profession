@@ -2,7 +2,7 @@
 title = "How to Use the Enpass Password Manager"
 date = 2022-11-01T06:33:32-07:00
 draft = false
-
+summary = "This guide covers the basics of setting up a Enpass on a new device, how to add new information to Enpass and how to use Enpass to log into your accounts. "
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -15,6 +15,8 @@ image = ""
 caption = ""
 
 +++
+
+This guide covers the basics of [setting up a Enpass on a new device](/guides/guide-enpass-password-manager/#downloading-enpass), [how to add new information to Enpass](/guides/guide-enpass-password-manager/#browser-extension) and [how to use Enpass to log into your accounts](/guides/guide-enpass-password-manager/#enpass-features). For more in-depth in formation on how to use particular features, visit the [support page](https://support.enpass.io/home.htm). 
 
 Enpass is [cross-platform](/terms/term-cross-platform) Password Manager. Password Mangers help you keep track of your account information. Learn about [why this is important](\publications\publication-why-password-managers.md) and [why I recommend everyone use one](\recommendations\recommendation-password-managers.md).
 
@@ -30,9 +32,7 @@ Enpass relies on 3 parts to keep track of and make entering passwords easier for
 
 The first important component is the "**Password Vault**". This is an encrypted file where your information is stored. Any time you use Enpass to grab or save information, you do so via the Password Vault. Normally this file is stored on your computer. Enpass makes use of a **Cloud Service** to synchronize information in your Vault to cloud storage. That way, when you setup Enpass on another device such as a mobile device, and add information into it, that information gets synced between any device you have setup Enpass on.
 
-Normally, you can open your Database/Vault and view/add information similar to an excel file. Copying and Pasting information out of an excel into a website can be cumbersome, if you have multiple sites you visit frequently. That's why Enpass uses a **Extension** for a web browser, integrating your vault information with the login form's of any particular website you frequent. This way Enpass can automatically enter and save information into website login forms as you type it. 
-
-This guide covers the basics of [setting up a Enpass on a new device](/guides/guide-enpass-password-manager/#downloading-enpass), [how to add new information to Enpass](/guides/guide-enpass-password-manager/#browser-extension) and [how to use Enpass to log into your accounts](/guides/guide-enpass-password-manager/#enpass-features). For more in-depth in formation on how to use particular features, visit the [support page](https://support.enpass.io/home.htm). 
+Normally, you can open your Vault and view/add information similar to an excel file. Copying and Pasting information out of an excel into a website can be cumbersome, if you have multiple sites you visit frequently. That's why Enpass uses a **Extension** for a web browser, integrating your Vault information with the login form's of any particular website you frequent. This way Enpass can automatically enter and save information into website login forms as you type it. 
 
 
 ## Downloading Enpass
@@ -61,7 +61,7 @@ Log into your cloud service
 Provide authorization for Enpass to use your Cloud Service to store your Vault.
 
 ![Enpass-Program-Cloud-Link](/img/guides/Enpass/Enpass-Program-Cloud-Link.png)
-If you get a prompt to allow this site to open the enpassauth link with Enpas Password Manager, chose Yes. This will make connected again in the future easier.
+If you get a prompt to allow this site to open the enpassauth link with Enpass Password Manager, chose Yes. If you have to do this process again in  the future, choosing Yes will make this process easier.
 
 ## Setting Up Enpass
 

@@ -16,9 +16,9 @@ caption = ""
 
 +++
 
-This guide covers the basics of [setting up a Enpass on a new device](/guides/guide-enpass-password-manager/#downloading-enpass), [how to add new information to Enpass](/guides/guide-enpass-password-manager/#browser-extension) and [how to use Enpass to log into your accounts](/guides/guide-enpass-password-manager/#enpass-features). For more in-depth in formation on how to use particular features, visit the [support page](https://support.enpass.io/home.htm). 
+This guide covers the basics of [setting up a Enpass on a new device](/guides/guide-enpass-password-manager/#downloading-enpass), [how to add new information to Enpass](/guides/guide-enpass-password-manager/#browser-extension) and [how to use Enpass to log into your accounts](/guides/guide-enpass-password-manager/#enpass-features). If you have questions about this guide, please [contact me](/#contact). For more in-depth in formation on how to use particular features, visit the [support page](https://support.enpass.io/home.htm). 
 
-Enpass is [cross-platform](/terms/term-cross-platform) Password Manager. Password Mangers help you keep track of your account information. Learn about [why this is important](\publications\publication-why-password-managers.md) and [why I recommend everyone use one](\recommendations\recommendation-password-managers.md).
+Enpass is [cross-platform](https://en.wikipedia.org/wiki/Cross-platform_software) [Password Manager](https://en.wikipedia.org/wiki/Password_manager). A password manager is a computer program that allows users to store, generate, and manage your passwords for local applications, online services and even for information that you need to store and retrieve for other purposes. Learn about [why using a Password Manager is important](\publications\publication-why-password-managers.md) and [why I recommend everyone use one](\recommendations\recommendation-password-managers.md).
 
 Enpass relies on 3rd party [cloud services](/terms/term-cloud-service) to sync your information between your devices such as a PC/Mac Desktop, a Tablet or a phone. I choose solutions that are tolerant to change as much as possible.
 

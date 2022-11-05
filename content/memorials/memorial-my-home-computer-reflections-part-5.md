@@ -1,5 +1,5 @@
 +++
-title = "Reflections on our Current Modern Computer Dark Age - Part 5: That was then, this is now"
+title = "Reflections on the Home Computer Golden Age - Part 5: That was then, this is now"
 date = 2022-07-24T11:00:52-07:00
 draft = true
 
@@ -7,7 +7,7 @@ draft = true
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = []
-
+weight = 50
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]

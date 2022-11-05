@@ -7,7 +7,7 @@ draft = true
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = []
-
+weight = 40
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
@@ -82,7 +82,7 @@ My interests in 3d modeling and animation (Now called special effects) centered 
 
 I wanted to recreate in 3d what I saw in those 2d side scrolling games.
 
-{{< figure src="/img/memorials/models/rylon-head.png.jpg" title="My rendition of the Another World Creature" >}}
+{{< caption-image url="/img/memorials/models/rylon-head.png.jpg" title="My rendition of the Another World Creature" >}}
 
 
 After realizing Caligari's capabilities, I thought I might get into 3D graphic design, so I purchased the Amiga 2000. I was in collage at the time taking various courses in art/design to see where my interests would take me.

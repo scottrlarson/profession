@@ -154,6 +154,13 @@ img {
 	height:auto;
 }
 
+
+.image-caption-title {
+  font-style: italic;
+  color: LightSlateGray;
+  font-size: 85%;
+} 
+
 .article-style figure {
   text-align: center;
 }
@@ -604,6 +611,36 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   padding-top: -10px; 
   margin-top: -10px;"
 }
+
+.special-note {
+  margin: 50px auto;
+	font-size: 80%;
+  font-style: italic;
+	color: DarkSlateGray;
+	padding: 25px;
+  text-align: center;
+	margin-bottom: 25px;
+	background-color: MintCream;
+	border-radius: 5px;
+  border-top-left-radius: 0px; 
+}
+
+.special-note a {color: white;}
+
+.special-note p {margin-bottom: 0px;}
+
+.special-note h4 {
+  color: DarkSlateGray; 
+  text-align: center; 
+  padding-top: -10px; 
+  margin-top: -10px;"
+}
+
+
+/* speech bubble 13 */
+
+
+
 
 /* flexbox table styles for tabular data */
 

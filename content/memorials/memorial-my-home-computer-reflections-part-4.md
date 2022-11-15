@@ -15,10 +15,6 @@ image = ""
 caption = ""
 
 +++
-From a technology and culture perspective This piece is a look at where we have been, and where we are heading as a society. This article is a companion piece to "Reflections on the Home Computer Golden Age". 
-
-[TOC]
-
 The Amiga platform brought amazing capabilities in visuals and sound, beyond anything I experienced. The games created during this time ignited my imagination with possibilities. 
 
 My gaming experience on the Amiga platform inspired me to invest my time and energy into graphic design.  When the first 3D modeling software was released for the Amiga Platform, I was one of it's first adopters. Later in life, this field engaged my interest in film and finally writing for film. 

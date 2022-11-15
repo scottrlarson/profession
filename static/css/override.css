@@ -482,9 +482,35 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 	background-color: #141622;
 }
 
+.panel-group .panel-heading-tooltip + .panel-collapse > .panel-body {
+	border-top: 0px;
+	background-color: #141622;
+}
+
+.panel-group .panel-heading-clean + .panel-collapse > .panel-body {
+	border-top: 0px;
+	background-color: #141622;
+}
+
+.panel-heading-tooltip {
+  padding-bottom: 5px;
+}
+
+.panel-heading-clean {
+  padding-bottom: 5px;
+}
+
 .panel-default > .panel-heading{
 	background-color: #282A36;
 	border: 1px solid black;
+}
+
+.panel-default > .panel-heading-tooltip{
+	background-color: #282A36;
+}
+
+.panel-default > .panel-heading-clean{
+	background-color: #282A36;
 }
 
 .panel-title {
@@ -492,8 +518,13 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 }
 
 .panel-title-clean {
-	font-size: 1.25rem;
+	font-size: 1.75rem;
 }
+
+.panel-title-tooltip {
+	font-size: 1rem;
+}
+
 
 .panel-desc-title {
 	font-size: 0.80rem;
@@ -861,4 +892,18 @@ input:disabled {
 
 fieldset:disabled {
   display: none;
+}
+
+/* Tooltips for popover context text */
+
+.tooltip-container {
+  width: 425px;
+  min-height: 200px;
+  padding: 15px;
+  font-size: 25px;
+  background: white;
+  box-shadow: 0 30px 90px -20px rgba(0,0,0,0.3);
+  position: absolute;
+  z-index: 100;
+
 }

@@ -40,7 +40,6 @@ If the Framework laptop is anything at all, it's hard proof that you can build a
 
 If the Framework Laptop catches on, it's one possibility that might be worth investing in. You can [purchase an assembled](https://frame.work/#laptop-configuration) unit or an [assemble-it yourself]( https://frame.work/products/laptop-diy-edition/configuration/edit) option from Framework now. Starting at $1000, the cost of a Framework Laptop is about $200-$300 more than a comparable model that is currently on the market. None of Framework's competition have anything close to the expandability and repairability of Framework's offering. I see the increase in cost as an early adoption investment for any person who wants to support sustainability. 
 
-Also, if you are on the lookout for a new mobile phone and want to invest in the future of repairability, check out [Fairphone](https://shop.fairphone.com/).
 
 ## Other Recycling and Reuse Options
 

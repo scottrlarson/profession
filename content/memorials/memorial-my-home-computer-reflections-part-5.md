@@ -15,11 +15,7 @@ image = ""
 caption = ""
 
 +++
-From a technology and culture perspective This piece is a look at where we have been, and where we are heading as a society. This article is a companion piece to "Reflections on the Home Computer Golden Age". 
 
-[TOC]
- 
-I wrote this article with the need to tell my family how life was before technological boom of 2000. But with how pervasive technology is in all our lives, its important to understand the direction our world is taking by our awareness and our choices.
 
 Currently, technological innovation is being driven by consumption instead of by culture. We don't really know it, but we live in the confines of a few "[Walled Gardens](https://en.wikipedia.org/wiki/Closed_platform)". Apple, Microsoft, and Google. All of them have developed technology that has made our lives better, no doubt about that. But since these are for-profit companies, it appears to me, that the focus for these endeavors are centered around profit. Maybe this position is inevitable by being a publicly trade company on the stock market. Or maybe it happens because companies become to large and the social dynamic between individual workers change. What ever the reason is, when choice becomes limited, and I mean how the tech we use has artificial limitations built into it solely for profit, because its the necessary thing to do for the company, and not for the people who use it, we all suffer. 
 
@@ -64,7 +60,7 @@ So it would be nice to have a story of humanity, even if its just fiction as I f
 My story roots comes from the idea that there was a first human civilization on earth that was lost by a world disaster in ancient times. Over generations knowledge has been lost and rediscovered, but not completely, and we are remnants of that civilization.
 
 ## About Me
-I am a technology enthusiast, I repair computers and provide computer assistance to the public.
+
 The best way to contact me is by email: article-response scottRlarson.com (Create an alternate form?)
 
 ## This is Now

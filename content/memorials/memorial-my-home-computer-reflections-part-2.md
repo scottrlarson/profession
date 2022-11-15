@@ -15,26 +15,14 @@ image = ""
 caption = ""
 
 +++
-This article is a companion piece on the evolution of the Home Computer and the cultural impact technology has on society today. It's a glimpse at where computing culture was, and were its heading. 
-
-This article is part of a 5 part series: 
-
-- [Introduction](/memorials/memorial-my-home-computer-reflections-part-1/)
-- [My First Computer](/memorials/memorial-my-home-computer-reflections-part-2/)
-- [The C64 & A500](/memorials/memorial-my-home-computer-reflections-part-3/)
-- [Amiga Games, The BBS Days & 3d Modeling](/memorials/memorial-my-home-computer-reflections-part-4/)
-- [That was then, this is now](/memorials/memorial-my-home-computer-reflections-part-5/)
-
 My first experience with computers started in the early 1980's on one of the first home computers, the Texas Instruments TI-99/4A. I was about 12 years old. Relatively expensive, but affordable to many middle class families, Home Computers ranged around a thousand dollars in value.   
 
-### Texas Instruments TI-99/4A
+{{% accordion-clean title="Texas Instruments TI-99/4A" id="ti994a-specs" %}}
+{{% specs-ti994a %}}
+{{% /accordion-clean %}}
 
 ![Texas Instruments TI-99/4A Photo](/img/memorials/personal-computers/ti994a2.jpg)
 
-
-{{% accordion-clean title="Texas Instruments TI-99/4A Specs" id="ti994a-specs" %}}
-{{% specs-ti994a %}}
-{{% /accordion-clean %}}
 
 During the introduction of the first models, my family and I did not have a home computer, but fortunately we had a friend who's mother must have saw the value in kids playing with computers and had the resources to purchase one for her son. The reasons why I will never know as I lost contact with them. "**Tunnels of Doom**" became the hot title at the time. As far as I know, it was the first multi-player turn-based [dungeon crawler](https://en.wikipedia.org/wiki/Dungeon_crawl) released at that time. We started our morning loading our previous save game data from cassette tape. After several hours and a home cooked dinner, our game would be loaded. We each took our respective turns exploring a procedurally generated dungeon, engaging in battles with monsters, and restoring fallen comrades. I remember it being the first continuous game experience where I learned to cooperate with other players to complete objectives that spanned more than one sitting.
 

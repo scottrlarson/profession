@@ -21,7 +21,7 @@ I have been a technology enthusiast since I was 10 years old, today I repair com
 If you want to contact me about this article, reach out to me at retrogaming at scottrlarson.com
 {{% /breakout %}}
 
-This article is the first part of a three part series:
+This article is the second part of a three part series:
 
 - [Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days & 3d Modeling](/memorials/memorial-my-home-computer-reflections-part-1/)
 - Reflections on the Home Computer Golden Age - Part 2: The C64 & A500

@@ -1,43 +1,50 @@
 +++
-title = "Reflections on the Home Computer Golden Age - Part 1: Introduction"
+title = "Reflections on the Home Computer Golden Age - Part 1: My First Computer"
 date = 2022-07-24T11:00:52-07:00
-draft = true
-summary ="An introduction on the evolution of the Home Computer in the eighties and the cultural impact technology has on society today. "
+draft = false
+summary = "My first experiences with Home Computers and the first multiplayer game of our time."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = []
-weight = 10
+weight = 20
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "/memorials/commodore-promo-ad.jpg"
+image = ""
 caption = ""
 
 +++
 
-## Preface
+My first experience with computers started in the early 1980s on one of the first home computers, the Texas Instruments TI-99/4A. I was about 12 years old. Relatively expensive, but affordable to many middle-class families, Home Computers ranged around a thousand dollars in value.   
 
-I have been a technology enthusiast since I was 10 years old, today I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. 
+{{% accordion-clean title="Texas Instruments TI-99/4A" subtitle="Click title to view specifications" id="ti994a-specs" %}}
+{{% specs-ti994a %}}
+{{% /accordion-clean %}}
 
-The birth of this article started with a desire to leave an account of the computer scene before technological boom of 2000. I realized that nobody in my family really knows what it was like to grow up as a Computer Enthusiast, especially around the Amiga platform. The Amiga computer was a revolution in computing that I don't think many understand. As I writing about my experiences with this technology, I realized my take on the scene back then might interest a wider audience. 2022 is a precarious time for technology. One the one hand, computer technology is advancing at a breakneck speed, creating a quality of life that is beyond imagination. It's becoming so integrated into our lives that I wonder if we notice the indirect effects its having on our species. And on the other hand, the side effects of these advancements is that technology is driving our cultures in directions we don't really understand. That's why I think its important to be aware of the direction our world is taking by our choices.
+![Texas Instruments TI-99/4A Photo](/img/memorials/personal-computers/ti994a2.jpg)
 
-As I was growing up, I often felt like I was living on the peripheral of life and didn't quite fit in with the accepted views of the time. Somehow this mindset, caused me to look at the inner workings or functions of the world. When I was 7 years old, my mother put me on a merry-go-round ride, instead of remaining on the mounted horse, I leaned over the edge of the ride, to look at the workings that caused the ride to spin.  This way of looking at the world often got me into trouble with authority figures as I would always try to understand a person's reasons for why they acted as they did. 
 
-Today, technology is being heavily locked down by commercialization. During the introduction of the Home Computer, as kids of middle class families we explored its potential and possibilities. I think we were doing this as a way to improve the human experience. As we increased our dependence on technology for living, corporate factions started to form around its evolution. Today we have Microsoft, Apple and Google dictating how technology is being used in the world.   
+During the introduction of the first models, my family and I did not have a home computer, but fortunately, I had friends. A friend's mother, who wanted to keep her son out of trouble, purchased the 99/4a for him. 
 
-What happened? Where are we heading as a human species? Are we driving the bus, or is the bus driving us? These are questions I hope we start thinking about before we move into the next iteration.
+My friend Rob and I would visit Andy's house on the weekends and act like we knew all about computers. The game I vividly remember playing, "**Tunnels of Doom**" became the hot title at the time. As far as I know, it was the first multi-player turn-based [dungeon crawler](https://en.wikipedia.org/wiki/Dungeon_crawl). We started our morning loading our previously save game data from cassette tape. 
 
-This article is for people interested in the evolution and the social impact of computer technology. My interests lie in the non-academic parts of life and my primary mode of learning is self-education. I'm a firm believer in independent thought. State level and many private educational systems have a way of contributing to a herd mentality. We need more people that can think outside the box. Schooling has its place for vocational learning, and we all need to make a living, but I have found that the real problems of life need people that can think independently of society.
+![PHP2700 Program Recorder](/img/memorials/personal-computers/ti994a-program-recorder.jpg)
 
-{{< caption-image url="/img/memorials/computer-lib-prmo.jpg" title="Computer Lib - Dream Machines, a book by Ted Nelson \"A about about the Computer Revolution before it ever happened\"" >}}
+At dinner time our game would be loaded. We each took our respective turns exploring a procedurally generated dungeon, engaging in battles with monsters, and restoring fallen comrades. I remember it being the first continuous game experience where I learned to cooperate with other players to complete objectives that spanned more than one sitting.
 
-For my part, I became interested in computing to tell stories about the future of humanity. My main interests were in the graphical capabilities of home computers but I also have an interest in sound, programming and visual art. Looking back, I realized I didn't want to be pinned down by just one discipline, so I chose to explore many different aspects of computer technology. Field specialization has strengths, but it also has weaknesses. 
+{{< youtube oa7MYYmB4XQ >}}
+<p></p>
 
-![Overspecialization leads to death](/img/memorials/ghost-in-the-shell-overspecialization.webp)
+A few years after my experience with the TI994a, my parents noticed my enthusiasm for computing. I think they saw the home computer as a step up from my childhood dream of getting myself into trouble at school. 
 
-> “If we all reacted the same way, we'd be predictable, and there's always more than one way to view a situation...It's simple: overspecialize, and you breed in weakness. It's slow death.” - Motoko Kusanagi (Ghost in the Shell)
 
-This article is part biographical, part techie, and part philosophical. My hope is to bring all these parts together in a way that can be understood. I'm glad a movement has started recently to preserve computer history. I hope my account can contribute to that endeavor, but my primary interest is in shining a light on how technology is being used in society to create systems of control, systems that we give our power to, that attempt to take away our individual value. 
+{{% accordion-tooltip title="Did you know?: My Uncle introduced me to electronics theory and practicalities?" id="electronics-history" %}}
+I had a brief introduction into electronics theory and practicalities by my Uncle Jim, who worked as an electrician in WWII, and later became a city electrician. When my parents went away on vacation, they would ship me to Chicago to visit my Uncle. He showed me the basics of AC/DC. A few years of my life were spent in his basement, building small electronic devices together. Maybe that's why I jump at the prospect of getting my hands on newly released gadgets today.  
 
-With knowledge comes responsibility. You have been warned.
+As far as electronics go, the computer is a different beast. The inner workings of a computer operate on the same principles of electric current. But what makes home computers different from electronics is the software programming aspect of it. Programming is like creating a list of instructions for something to happen. At the end of the day, is all about flipping switches. Flipping a sequence of switches actually, in a way the computer can understand.
+{{% /accordion-tooltip %}}
+
+This enthusiasm got me my first computer, a Commodore 64. I'm skipping the part where my real first computer was a TRS-80.  Back then, it was considered the [Trash-80](https://dfarq.homeip.net/trash-80-what-it-meant-and-why-it-stuck/) by my compadres. It was as good of a computer as any during that time, except for its initial limitations that could be expanded with add-on hardware, making the cost significantly larger than the original price of the product. It's very similar to how computer games ship nowadays, half-completed, then sold the completed parts of the game in expansions. This half-computer developed a bad reputation for not being a complete experience. You couldn't do much with it without upgrading the hardware and I convinced my mom to upgrade the computer, lots.
+
+Anyways, forget I ever said anything about the Trash-80, we move on to big and better things in the next part of this series.

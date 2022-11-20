@@ -4,6 +4,7 @@
       <h2 class="panel-title-clean">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ .Get "id" }}">{{ .Get "title" }}</a>
       </h2>
+      <div class="panel-subtitle-clean">{{ .Get "subtitle" }}</div>
     </div>
     {{- if .Get "col"}}
     <div id="collapse-{{ .Get "id" }}" class="panel-collapse collapse {{ .Get "col" }} ">

@@ -18,6 +18,8 @@ googleAnalytics = ""
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+enableInlineShortcodes = true
+
 [Social]
 twitter = "scottrlarson"
 

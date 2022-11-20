@@ -9,6 +9,11 @@ b, strong {color: PeachPuff;}
 .portrait-title h1 {
 	color: white;
 }
+
+blockquote {
+  margin: 0.8rem 0 0.8rem 1rem;
+  font-size: 150%;
+}
  
 input {
 	color: black;
@@ -521,6 +526,13 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 	font-size: 1.75rem;
 }
 
+.panel-subtitle-clean {
+  margin-top: -0.8rem;
+  font-size: small;
+  font-style: italic;
+  color: DarkOrange;
+}
+
 .panel-title-tooltip {
 	font-size: 1rem;
 }
@@ -543,6 +555,16 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 }
 
 .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {max-height: none;}
+
+/* Breakout Box Markup */
+
+.breakoutBox1 {
+  margin: 1rem;
+  padding: 2rem;
+  background: #141622;
+  border-radius: 20px;
+  font-size: medium;
+}
 
 /* Newsletter Markup */
 

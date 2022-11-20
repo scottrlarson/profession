@@ -15,6 +15,20 @@ image = ""
 caption = ""
 
 +++
+{{% breakout %}}
+I have been a technology enthusiast since I was 10 years old, today I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my [home page](https://scottrlarson.com). 
+
+If you want to contact me about this article, reach out to me at retrogaming at scottrlarson.com
+{{% /breakout %}}
+
+This article is the first part of a three part series:
+
+- [Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days & 3d Modeling](/memorials/memorial-my-home-computer-reflections-part-1/)
+- [Reflections on the Home Computer Golden Age - Part 2: The C64 & A500](/memorials/memorial-my-home-computer-reflections-part-2/)
+- Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days & 3d Modeling
+
+---
+
 The Amiga platform brought amazing capabilities in visuals and sound, beyond anything I experienced beforehand. Since I am a big fan of Science Fiction, and I believe that art informs humanity about our past and future, the games created during this time ignited my imagination with possibilities for the future of society. 
 
 My gaming experience on the Amiga platform inspired me to invest my time and energy into graphic design.  When the first 3D modeling software was released for the Amiga Platform, I was one of its first adopters. Later in life, this field engaged my interest in film and finally writing for film. 

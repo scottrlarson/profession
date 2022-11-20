@@ -15,6 +15,20 @@ image = ""
 caption = ""
 
 +++
+{{% breakout %}}
+I have been a technology enthusiast since I was 10 years old, today I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my [home page](https://scottrlarson.com). 
+
+If you want to contact me about this article, reach out to me at retrogaming at scottrlarson.com
+{{% /breakout %}}
+
+This article is the first part of a three part series:
+
+- [Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days & 3d Modeling](/memorials/memorial-my-home-computer-reflections-part-1/)
+- Reflections on the Home Computer Golden Age - Part 2: The C64 & A500
+- [Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days & 3d Modeling](/memorials/memorial-my-home-computer-reflections-part-3/)
+
+---
+
 {{% accordion-clean title="Commodore 64" subtitle="Click title to view specifications" id="commodore64-specs" %}}
 {{% specs-c64 %}}
 {{% /accordion-clean %}}

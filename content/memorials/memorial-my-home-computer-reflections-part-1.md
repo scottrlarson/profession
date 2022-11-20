@@ -15,6 +15,19 @@ image = ""
 caption = ""
 
 +++
+{{% breakout %}}
+I have been a technology enthusiast since I was 10 years old, today I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my [home page](https://scottrlarson.com). 
+
+If you want to contact me about this article, reach out to me at retrogaming at scottrlarson.com
+{{% /breakout %}}
+
+This article is the first part of a three part series:
+
+- Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days & 3d Modeling
+- [Reflections on the Home Computer Golden Age - Part 2: The C64 & A500](/memorials/memorial-my-home-computer-reflections-part-2/)
+- [Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days & 3d Modeling](/memorials/memorial-my-home-computer-reflections-part-3/)
+
+---
 
 My first experience with computers started in the early 1980s on one of the first home computers, the Texas Instruments TI-99/4A. I was about 12 years old. Relatively expensive, but affordable to many middle-class families, Home Computers ranged around a thousand dollars in value.   
 

@@ -101,3 +101,5 @@ This innovation accelerated the adoption of computers.  For many people that mig
 {{% breakout %}}
 If you want to read more about the history of the Commodore Amiga, there is a good series on the Commodore Amiga at Ars Tecnica "[The History of the Amiga](https://arstechnica.com/series/history-of-the-amiga/)" by the technology historian, Jeremy Reimer.
 {{% /breakout %}}  
+
+On to the [last part](/memorials/memorial-my-home-computer-reflections-part-3/) of this series.

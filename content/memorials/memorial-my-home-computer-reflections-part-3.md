@@ -80,13 +80,11 @@ Playing these particular games was the first time I experienced linear storytell
 
 [The Fallout 3 Ambient Soundtrack](https://www.youtube.com/watch?v=SWgXz2PRrTk) is a perfect example of how ambiance can focus attention 
 
-### Commodore Amiga 2000
-
-![Commodore Amiga 2000 Photo](/img/memorials/personal-computers/amiga2k1-1.jpg)
-
-{{% accordion-clean title="Commodore Amiga 2000 Specs" id="commodoreAmiga2000-specs" %}}
+{{% accordion-clean title="Commodore Amiga 2000" subtitle="Click title to view specifications" id="commodoreAmiga2000-specs" %}}
 {{% specs-amiga2000 %}}
 {{% /accordion-clean %}}
+
+![Commodore Amiga 2000 Photo](/img/memorials/personal-computers/amiga2k1-1.jpg)
 
 Upon realizing the power of the Amiga platform for graphics and sound, I wanted to do more with the technology than just play games. So I purchased an Amiga 2000 with some inheritance money I had to explore the cutting-edge capabilities of the platform. 
 

@@ -28,8 +28,11 @@ This article is the first part of a three part series:
 - [Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days & 3d Modeling](/memorials/memorial-my-home-computer-reflections-part-3/)
 
 ---
+## Introduction
 
-My first experience with computers started in the early 1980s on one of the first home computers, the Texas Instruments TI-99/4A. I was about 12 years old. Relatively expensive, but affordable to many middle-class families, Home Computers ranged around a thousand dollars in value.   
+This article is about my experience with the first home computers. My history starts with gaming on the consoles of the time starting with the Atari 2600. I played games like "Raiders of the Lost Ark" and "Donkey Kong". When the first Home Computers were released, I continue my gaming experience with one of the first dungeon crawlers, Tunnels of Doom on the TI99/4A. After the Commodore 64 was released I played games like "Wasteland" and "Ultima IV". Back then I was a kid, but my gaming memory begins when the Commodore Amiga was released. Games like "Another World" and "Flashback" bring me back to a time of the 2D side scrollers with the first cinematic experiences. I also touch on the era of the Bulletin Board Systems (BBS) of the time and the first 3d Modeling applications on the Amiga.
+
+Take a journey back in history with me. The year is 1982, just after one of the first home computers was released, the Texas Instruments TI-99/4A. I was about 12 years old. Relatively expensive, but affordable to many middle-class families, Home Computers ranged around a thousand dollars in value.     
 
 {{% accordion-clean title="Texas Instruments TI-99/4A" subtitle="Click title to view specifications" id="ti994a-specs" %}}
 {{% specs-ti994a %}}

@@ -23,9 +23,9 @@ If you want to contact me about this article, reach out to me at retrogaming at 
 
 This article is the third and final part of a three part series:
 
-- [Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days & 3d Modeling](/memorials/memorial-my-home-computer-reflections-part-1/)
-- [Reflections on the Home Computer Golden Age - Part 2: The C64 & A500](/memorials/memorial-my-home-computer-reflections-part-2/)
-- Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days & 3d Modeling
+- [Part 1: My First Computer](/memorials/memorial-my-home-computer-reflections-part-1/)
+- [Part 2: The C64 & A500](/memorials/memorial-my-home-computer-reflections-part-2/)
+- Part 3: Amiga Games, The BBS Days & 3d Modeling
 
 ---
 

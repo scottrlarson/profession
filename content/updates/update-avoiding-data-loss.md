@@ -1,6 +1,6 @@
 +++
 title = "5 Self-correcting computer habits to learn to avoid losing work"
-summary = "How to protect yourself from loosing data where backing up can't always help you"
+summary = "How to protect yourself from losing data where backing up can't always help you"
 date = 2022-12-20T08:38:47-08:00
 draft = false
 

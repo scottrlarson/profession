@@ -1,7 +1,7 @@
 +++
 # Custom widget.
 widget = "custom"
-active = true
+active = false
 date = 2021-08-09T11:28:31-07:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.

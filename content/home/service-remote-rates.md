@@ -17,4 +17,4 @@ Remote Service happens online and it starts with a request from you. Depending o
 {{% service-custom label="Per minute with $26.25 minimum per inquiry" item="$1.33" %}}
 
 
-<a href="https://harmonizely.com/scottrlarson">Book an appointment</a> 
+<a href="https://scheduling.scottrlarson.com/">Book an appointment</a> 

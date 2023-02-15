@@ -26,4 +26,4 @@ Consultations can happen in my office, or at your location. Depending on my serv
 {{% service-custom label="After hours, Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$240" %}}
 {{% service-custom label="After hours, Within 5miles from Down Town SR (Per Hr/1Hr Min)" item="$300" %}}
 
-<a href="https://harmonizely.com/scottrlarson">Book an appointment</a> 
+<a href="https://scheduling.scottrlarson.com/">Book an appointment</a> 

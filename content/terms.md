@@ -32,6 +32,7 @@ Table of Contents:
 - [Storage Encryption/Decryption](#storage-encryption-decryption)
 - [Privacy Statement - Communication](#privacy-statement-communication)
 - [Privacy Statement - Data](#privacy-statement-data)
+- [Licensing Limitations](#licensing-limitations)
 - [Responsibility](#responsibility)
 - [Self-Regulation](#self-regulation)
 - [Service Guarantee](#service-guarantee)
@@ -136,6 +137,9 @@ When you bring your device to me for servicing, I make an encrypted safety backu
 I do this in case a issue occurs during, or after the service is complete, that would prevent you from accessing your device, or data. I keep this backup in encrypted form for around 4 months. This means that if my equipment were ever to become lost, or a theft occurred, the encryption method, 256 AES, serves as a significant deterrent against accessing your data stored in my backup. This safety backup is not a guarantee that I can provide to you a copy of your data, at your request, in the event you experience a loss, after the return your device. If you did not purchase a data-backup, and if I still have a backup of your data on hand, depending on my storage free space requirements at the time, I can provide you with a copy of your data under a data restore service.
 
 To provide to you a service such as, but not limited to, a data transfer service, I also may need to access certain areas of your device's file system that could contain private information. I have strict principles against sharing private information about customers with any third party, unless it's to provide to you a specific service that I subcontract to another provider, such as, but not limited to, a data recovery service provider, or it's to comply with a lawful order from a court. In the case where I pass information to a 3rd party provider, they have their own privacy policies that your data, or information would fall under once the device is in their possession. If you have specific questions, or concerns, that are outside of these described scopes, please contact me to get clarification.
+
+## Licensing Limitations
+In certain cases, when upgrading, or replacing computer hardware; or moving a software license to another computer hardware configuration, there are no absolute hard and fast rules regarding what will actually happen when a certain software product key/license is altered by a hardware change. If the software product you depend on, Like the Windows Operating System, is not able to be re-activated after the hardware replacement, upgrade, or software license move, you may be obligated by the licensing of the product to purchase a new license. This may incur an additional expense outside of any quotes, estimates or fees that I specify in my communications to you about costs. Any licensing challenges that come up do not change the fees owed to me for the parts I order on your behalf, or the fees related to the service I provide to you. It also doesn't obligate me to provide you any free of charge services due to this issue.  If you have questions about this limitation, please let me know before agreeing to any fees.
 
 ## Responsibility
 As a professional computer technician, I'm responsible for addressing operational related issues with technology at the time of servicing.

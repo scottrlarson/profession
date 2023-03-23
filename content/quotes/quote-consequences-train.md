@@ -1,6 +1,6 @@
 +++
 title = "consequences-train"
-date = 2023-02-27T21:21-07:00
+date = 2023-02-27T21:21:00-07:00
 draft = true
 summary = ""
 tags = []

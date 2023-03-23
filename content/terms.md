@@ -36,6 +36,7 @@ Table of Contents:
 - [Responsibility](#responsibility)
 - [Self-Regulation](#self-regulation)
 - [Service Guarantee](#service-guarantee)
+- [Manufacturer Warranty Voiding](#manufacturer-warranty-voiding)
 - [Turn-Around Time](#turn-around-time)
 - [Orders and Shipping](#orders-and-shipping)
 - [Who I provide service to](#who-i-provide-service-to)
@@ -158,6 +159,9 @@ When I provide you a service, or if an arrangement that benefits both parties is
 Please note that this right is not a claim of lawlessness. I am responsible for my conduct in my personal and professional life. If there is a claim of wrong doing by a person, I will answer that claim and take responsibility for any action I take that harms another being. 
 
 I reserve the right to: refuse to accept you as a new customer, halt work in progress if there is a breach in my terms of service by you, your employees, or any other person that operates on your behalf. Such possibilities for me to refuse or halt work are: being abusive, in writing or in person. Making a habit of being late, or not showing up. Making a habit of failing to communicate when I require a response to continue to provide you service. Making a habit of not paying me on time or when I require it.
+
+## Manufacturer Warranty Voiding
+Some Maufacturers will void your Warranty
 
 ## Service Guarantee
 All of my services are guaranteed to be free from errors in execution. I will resolve any issue that crops up due to my error free of charge.  Any device purchased from me that has parts containing a replacement guarantee from the manufacturer, also carries my 1 year service replacement warranty from the date of service. Unless I am unable to deliver the service, or item in question, all fees for provided services and any related items are final and non-refundable. Although I make every effort to ensure my customers are happy with the services I provide, shipment delays of any kind, dissatisfaction of a product or service does not warrant an exception from payment. I provide no guarantees on actual performance of hardware or software even though I make every effort to provide accurate projections. I also provide no guarantee on any interactions between 3rd party services and any solutions I provide.

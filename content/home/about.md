@@ -90,7 +90,7 @@ Spiritual Activism is the coming together of spirituality and activism. It is no
 
 In 2019 I suffered a Cerebral Hemorrhage. I wrote a [book](/publications/publication-most-improved/) about the experience of overcoming depression and how choosing mental/emotional strife over peace plays a direct role in shaping life.
 
-Check out my writing [events](/events/authoring), [projects](/projects), [quotes](/quotes), [books](/books), and [reflections](/reflections).
+Check out my writing [events](/events/authoring), [projects](/projects), [quotes](/quotes), [books](/books), [reflections](/reflections) and [memorials](/memorials).
 {{% /accordion %}}
 
 {{% alert title="Apprenticeship Opportunity" url="/education/apprentice-opportunity" %}}I am interested in training an apprentice in my field. If you, or someone you know, are/is interested in an in-depth understanding of how hardware and software computer technology works to be able to troubleshoot your own computer problems, or build your own computer, this apprenticeship opportunity is for you. [...more](/education/apprentice-opportunity){{% /alert %}}

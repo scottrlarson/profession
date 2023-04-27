@@ -21,4 +21,4 @@ In this class learn how to navigate and understand the workings of the different
 - Location: Share Space 533 5th Street Santa Rosa, CA 95401
 - Start Date/Time: June 2st 2018 - 12pm
 - Special Instructions: The front door to share space is locked, please arrive on time, We will wait by the door until 12:15pm to let in people that are running late. Once the class starts at 12:15 you may not be able to get in.
-- Download the lifebuoy basics of Windows 10 presentation file: [Windows 10 presentations sectionWindows10lifebuoy-basic-notes.pdf](https://www.dropbox.com/s/9slyv1y2owymk88/Windows10lifebuoy-basic-notes.pdf?dl=0).
+- Download the lifebuoy basics of Windows 10 presentation file: [Windows 10 presentations sectionWindows10lifebuoy-basic-notes.pdf](https://u.pcloud.link/publink/show?code=XZon9qVZMKvwy6uclWuo9t9OOWcIJ4m1Xl1y).

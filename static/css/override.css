@@ -9,6 +9,11 @@ b, strong {color: PeachPuff;}
 .portrait-title h1 {
 	color: white;
 }
+
+blockquote {
+  margin: 0.8rem 0 0.8rem 1rem;
+  font-size: 150%;
+}
  
 input {
 	color: black;
@@ -153,6 +158,13 @@ img {
 	max-width:100%; 
 	height:auto;
 }
+
+
+.image-caption-title {
+  font-style: italic;
+  color: LightSlateGray;
+  font-size: 85%;
+} 
 
 .article-style figure {
   text-align: center;
@@ -489,9 +501,35 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 	background-color: #141622;
 }
 
+.panel-group .panel-heading-tooltip + .panel-collapse > .panel-body {
+	border-top: 0px;
+	background-color: #141622;
+}
+
+.panel-group .panel-heading-clean + .panel-collapse > .panel-body {
+	border-top: 0px;
+	background-color: #141622;
+}
+
+.panel-heading-tooltip {
+  padding-bottom: 5px;
+}
+
+.panel-heading-clean {
+  padding-bottom: 5px;
+}
+
 .panel-default > .panel-heading{
 	background-color: #282A36;
 	border: 1px solid black;
+}
+
+.panel-default > .panel-heading-tooltip{
+	background-color: #282A36;
+}
+
+.panel-default > .panel-heading-clean{
+	background-color: #282A36;
 }
 
 .panel-title {
@@ -499,8 +537,20 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 }
 
 .panel-title-clean {
-	font-size: 1.25rem;
+	font-size: 1.75rem;
 }
+
+.panel-subtitle-clean {
+  margin-top: -0.8rem;
+  font-size: small;
+  font-style: italic;
+  color: DarkOrange;
+}
+
+.panel-title-tooltip {
+	font-size: 1rem;
+}
+
 
 .panel-desc-title {
 	font-size: 0.80rem;
@@ -519,6 +569,16 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
 }
 
 .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {max-height: none;}
+
+/* Breakout Box Markup */
+
+.breakoutBox1 {
+  margin: 1rem;
+  padding: 2rem;
+  background: #141622;
+  border-radius: 20px;
+  font-size: medium;
+}
 
 /* Newsletter Markup */
 
@@ -618,6 +678,36 @@ ul.ul-edu li .description p.type {font-size: 0.60rem;}
   padding-top: -10px; 
   margin-top: -10px;"
 }
+
+.special-note {
+  margin: 50px auto;
+	font-size: 80%;
+  font-style: italic;
+	color: DarkSlateGray;
+	padding: 25px;
+  text-align: center;
+	margin-bottom: 25px;
+	background-color: MintCream;
+	border-radius: 5px;
+  border-top-left-radius: 0px; 
+}
+
+.special-note a {color: white;}
+
+.special-note p {margin-bottom: 0px;}
+
+.special-note h4 {
+  color: DarkSlateGray; 
+  text-align: center; 
+  padding-top: -10px; 
+  margin-top: -10px;"
+}
+
+
+/* speech bubble 13 */
+
+
+
 
 /* flexbox table styles for tabular data */
 
@@ -838,4 +928,18 @@ input:disabled {
 
 fieldset:disabled {
   display: none;
+}
+
+/* Tooltips for popover context text */
+
+.tooltip-container {
+  width: 425px;
+  min-height: 200px;
+  padding: 15px;
+  font-size: 25px;
+  background: white;
+  box-shadow: 0 30px 90px -20px rgba(0,0,0,0.3);
+  position: absolute;
+  z-index: 100;
+
 }

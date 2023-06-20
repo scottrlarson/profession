@@ -67,11 +67,11 @@ weight = 1
 {{% alert title="I stand with Ukraine" %}} I support any people's right to freedom and sovereignty from repressive colonial systems through non-cooperation. Please speak out against tyranny in your own way as we all share this Earth. Using violence, or the threat of violence, to subjugate a people for political gain, or any other reason, is unacceptable. Humans were born with the right to be free from oppression and I look forward to the day when the minds and hearts of this planet are fully aligned with Cosmic Spiritual Law. See my "Spiritual Activism" section below for more information.{{% /alert %}}
 
 {{% accordion title="Current Services" col="in" id="services" %}}
-I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. I also design and performance-tune hardware for gamers and creative artists that use there computers for entertainment and professional productions. I also setup and configure desktops and workstations for office work.
+I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. I also design and performance-tune hardware for gamers and creative artists that use computers for entertainment and professional productions. I also setup and configure desktops and workstations for office work.
 {{% /accordion %}}
 
 {{% accordion title="Location, Hours, Pricing and Turnaround Times" col="in" id="location" %}}
-If you require an immediate response, it's best to reach me by [phone or text](#contact). I operate Monday through Friday from 8 am to 5 pm and my turn-around times for my standard [1st class](/#service-repair-rates-turnaround) service is 3-7 business days. I also have [Priority Service](/#service-repair-rates-turnaround) with a 1-3 day turnaround along with availability on Saturday from 10am to 4pm. If you require a higher priority than my normal operating hours and turn-around times, please make special arrangements with me ahead of time. Finally, if you do not require 1st Class or Priority service and can wait a week or more, talk to me about my [2nd Class](/#service-repair-rates-turnaround) special reduced rates if you are looking to save money. <a href="#contact">Contact</a> me if you have questions. You can [schedule an appointment](https://harmonizely.com/scottrlarson) with me to have your device serviced at my office, or to setup a home/office consultation.
+If you require an immediate response, it's best to reach me by [phone or text](#contact). I operate Monday through Friday from 8 am to 5 pm and my turn-around times for my standard [1st class](/#service-repair-rates-turnaround) service is 3-7 business days. I also have [Priority Service](/#service-repair-rates-turnaround) with a 1-3 day turnaround along with availability on Saturday from 10am to 4pm. If you require a higher priority than my normal operating hours and turn-around times, please make special arrangements with me ahead of time. Finally, if you do not require 1st Class or Priority service and can wait a week or more, talk to me about my [2nd Class](/#service-repair-rates-turnaround) special reduced rates if you are looking to save money. <a href="#contact">Contact</a> me if you have questions. You can [schedule an appointment](https://scheduling.scottrlarson.com/) with me to have your device serviced at my office, or to setup a home/office consultation.
 {{% /accordion %}}
 
 {{% accordion title="Out-of-Office Dates" col="in" id="outofoffice" %}}
@@ -90,7 +90,7 @@ Spiritual Activism is the coming together of spirituality and activism. It is no
 
 In 2019 I suffered a Cerebral Hemorrhage. I wrote a [book](/publications/publication-most-improved/) about the experience of overcoming depression and how choosing mental/emotional strife over peace plays a direct role in shaping life.
 
-Check out my writing [events](/events/authoring), [projects](/projects), [quotes](/quotes), [books](/books), and [reflections](/reflections).
+Check out my writing [events](/events/authoring), [projects](/projects), [quotes](/quotes), [books](/books), [reflections](/reflections) and [memorials](/memorials).
 {{% /accordion %}}
 
 {{% alert title="Apprenticeship Opportunity" url="/education/apprentice-opportunity" %}}I am interested in training an apprentice in my field. If you, or someone you know, are/is interested in an in-depth understanding of how hardware and software computer technology works to be able to troubleshoot your own computer problems, or build your own computer, this apprenticeship opportunity is for you. [...more](/education/apprentice-opportunity){{% /alert %}}
@@ -102,7 +102,5 @@ Support sane [copyright legislation](https://www.fightforthefuture.org/fixcopyri
 
 {{% alert title="End Creative Monopolies" url="https://www.endcreativemonopolies.com/" %}}
 Big Tech and Big Content are oppressing creativity. It’s time to #EndCreativeMonopolies by reimagining our archaic copyright laws to put artists before Disney, Amazon, Spotify, &amp; News Corp. Take action in support of artists everywhere.{{% /alert %}}
-
-{{% alert %}} Are you being affected by the Northern California fires? If you are a first responder for the Northern California fires, or a victim of a <a href="updates/update-fema-scam">FEMA Scam</a>, or need help <a href="services/data/recovery">recovering lost, or damaged data</a>, I can help. <a href="#contact">Contact me</a> to setup a free evaluation of your situation. First Responders & Fire victims receive 25% off, use the FIRECODE25 when paying and I will take 25% off your bill of service.{{% /alert %}}
 
 

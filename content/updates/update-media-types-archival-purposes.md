@@ -1,7 +1,7 @@
 +++
-title = "Device Authorization Form"
-date = 2018-09-06T14:13:29-07:00
-draft = false
+title = "Media Types For Archival Purposes"
+date = 2023-01-19T10:00:47-08:00
+draft = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -15,6 +15,3 @@ image = ""
 caption = ""
 
 +++
-This form is required if you plan on requesting that I perform a initial analysis or full diagnostic on your device.
-
-[srl-authorization-form_savable.pdf](https://www.dropbox.com/s/odow1lxexadhd0a/srl-authorization-form_savable.pdf?dl=0)

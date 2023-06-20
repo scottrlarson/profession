@@ -16,14 +16,14 @@ Consultations always start as assessments of your issue, that **may** lead to a 
 
 I excel at repairing and resolving most technical issues in a timely and cost effective manner. Technology has many operational aspects that are not always apparent at first glace and may require additional billable visits that requiring further time and expense to resolve. Please note that In these situations I will do my best to keep costs and time required to resolve your issue at a minimum. 
   
-Consultations can happen in my office, or at your location. Depending on my service load, at-office/home appointments usually carry a scheduling buffer of 3 hours to 1 day. In some cases, 3 days to 1 week. [Contact me](/#contact) for more information. 
+Consultations can happen in my office, or at your location. Depending on my service load, at-office/home appointments usually carry a scheduling buffer of 3 hours to 1 day. In many cases, 3 days to 1 week. [Contact me](/#contact) for more information. 
 
+<b>Please add 20% to the below fees if your service request is tied to an organization that involves 2 or more indivudals.</b>
+{{% service-custom label="Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$124" %}}
+{{% service-custom label="Within 5miles from Down Town SR (Per Hr/1Hr Min)" item="$150" %}}
+{{% service-custom label="Weekends, Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$180" %}}
+{{% service-custom label="Weekends, Within 5miles from Down Town SR (Per Hr/1Hr Min)" item="$242" %}}
+{{% service-custom label="After hours, Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$240" %}}
+{{% service-custom label="After hours, Within 5miles from Down Town SR (Per Hr/1Hr Min)" item="$300" %}}
 
-{{% service-custom label="Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$113" %}}
-{{% service-custom label="Within 5miles from Down Town SR (Per Hr/1Hr Min)" item="$137" %}}
-{{% service-custom label="Weekends, Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$165" %}}
-{{% service-custom label="Weekends, Within 5miles from Down Town SR (Per Hr/1Hr Min)" item="$220" %}}
-{{% service-custom label="After hours, Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$220" %}}
-{{% service-custom label="After hours, Within 5miles from Down Town SR (Per Hr/1Hr Min)" item="$275" %}}
-
-<a href="https://harmonizely.com/scottrlarson">Book an appointment</a> 
+<a href="https://scheduling.scottrlarson.com/">Book an appointment</a> 

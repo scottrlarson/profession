@@ -16,6 +16,8 @@ caption = "The Spirit of Contentment"
 
 +++
 
+{{< figure src="/img//quotes/spirit-of-contentment.png" title="The Spirit of Contentment" >}}
+
 > “To be contented does not mean to forgo effort; it means to free effort from anxiety ; it does not mean to be satisfied with [harm] sin ’ and ignorance and folly, but to rest happily in duty done, and work accomplished.”
 
 — James Allen 21 Books: Complete Premium Collection by James Allen

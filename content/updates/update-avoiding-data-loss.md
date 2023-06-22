@@ -17,7 +17,7 @@ caption = ""
 
 +++
 {{% alert %}}
-These are my beliefs based on my experiences. I cannot take into account every situation that might cause data loss. Do your own research if you have any doubts about storage capabilities. By reading this information, you agree that  if you experience a loss based on actions you took based on my understanding of hardware and or software, you and you alone are responsible.
+These are my beliefs based on my experiences. I cannot take into account every situation that might cause data loss. Do your own research if you have any doubts about storage capabilities. By reading this information, you agree that if you experience a loss based on actions you took based on my understanding of hardware and or software, you and you alone are responsible.
 
 Sometimes I run into situations that fall outside of my efforts to help protect custom data. These tips might help you avoid loss by understanding how the computer saves your infomration and what happens when data is stored for longe periods of time. 
 {{% /alert %}}
@@ -33,28 +33,33 @@ If you are working with data in any application:
 4. After you are done working on document for the day, or for good, make a copy of that file in another location. Use your computers file explorer/finder to perform copy operations.
 5. If you are working on a big project, break your work content into separate files to reduce the changes of the entire document becoming lost. You can always combine these files later.
 
-## Storage Media (For Archival Purposes)
+*I am a computer professional that helps the public with technology. I have been troubleshooting computer problems for over 25 years. To find out more about me, visit my [home page](https://scottRlarson.com).*
+
+## Archiving Data
 
 It's a common belief that data lives forever. That is usually not the case. Data is dependent on the hardware that is used to store information.
 
 As computer technology advances, new ways to store information becomes more compact and useful.
 
-We used to store (for mainly archival purpose) data on tape, then we transitioned to hard disk drives, which is very similar to tape media, but more like a record player. Optical disks are also used to store data (CD-ROM, DVD-R). Recently, we transitioned to solid-state media, which is a sort of long-term memory solution on a chip. 
+Back in the eighties, we stored data on Cassette Tapes and Floppy Disks. Then we transitioned to Hard Disk Drives. Then Optical Disks (CD Media). Recently, we transitioned to Solid State Media, which is a sort of long-term memory solution on a chip. Hard Disk Drives are still used today for long-term backups and archives. 
 
-All of these solutions have a shelf-life, it's important to know how long your data can be stored before the media expires, and it's also good to know what the best solution is for your particular purposes. 
+## Storage Media Archival Characteristics
+Computer storage media manufacturers will usually print the estimated life expectancy of the product you are purchasing on their website in the form of a white paper, or in the details of the specifications. Remember, most of these numbers are rough estimates. Other factors may cause these estimates to decrease or increase.  Electronics are susceptible to damage and/or decreased life expediencies depending on the kind of use the device gets, or wear that might happen due to the conditions the device operates in.  Operating/Non-Operating temperatures also have a big impact. If the ambient temperature is too cold, or in most cases too hot, above 80 degrees, the life expectancy can drop significantly.
 
-Please note that computer technology storage is susceptible to damage and decreased life expectancies at temperatures above 80% for extended periods of time.
 
 ### Hard Disk Technology
-Currently the gold standard for home use for long-term archival data storage.
-HDD technology stores information on a circular platter similar to a record. Magnetics is used to read and write information. Once the electric current is removed, the data storage is permanent until the media itself physically decays. It's been my experience that, drives stored in a 60-degree temperature environment can last around 20–30 years, but the life expectancy can increase or decrease depending on the storage environment, use, and design characteristics of the device. It's good to power on drives periodically if stored for long periods of time 5 years or more so that the bearings that allow the platters to spin, don't lock up. It is also a good idea to refresh the data on the drive every  5-10 years to prevent magnetic field deterioration by copying the data off the drive to another location and then back again.
+Currently the gold standard for long-term archival data storage.
+HDD technology stores information on a circular platter similar to a record. Magnetics are used to read and write information. Once the electric current is removed, the data storage is permanent until the media itself physically decays. It's been my experience that, drives stored in a 60-70 degree temperature environment can last around 20–30 years, but the life expectancy can increase or decrease depending on the use, and design characteristics of the device. It's good to power on drives periodically if stored for long periods of time (5-7 years) so that the bearings that allow the platters to spin, don't lock up. Furthermore, it's also a good idea to refresh the data on the drive every 7–10 years to prevent magnetic field deterioration. Refreshing data usually consists of copying the data to a new drive. 
 
-### Optical Discs (CD/DVD)
-CD and DVD writable media has a life of 10–20 years if stored correctly.
+## Optical Discs (CD/DVD)
+CD and DVD writable media has a life of 10–20 years if stored in a safe location under the above temperature specifications.
 
-### Solid State Technology
+## Solid State Technology
 SSD and flash media (flash drives) fall under this category. Memory cells of Solid State devices degrade over time if there isn't electrical current applied on a regular basis, in my experience at least once or twice a year, if not sooner. 
 
-Most media (except optical disks) require some form of exercise to maintain the life of the device if you want to use it for storage purposes.
+## Conclusion
+All computer storage media degrades over time. Before making a purchase, keep in mind what you plan on using the storage for: 
+1.  If your computer comes with a Solid State Drive, plan ahead. Replace the device or storage before the expiration date to prevent data loss. Make frequent backups to storage media that has a longer life expectancy. 
+2. Check and refresh your media every so often. Most media (except optical disks) require some form of exercise to maintain the life of the device if you want to use it for storage purposes.
 
-The other option is to transfer the data onto a new storage media yearly or every 5 years, along with exercising the media periodically.
+If you have any questions about Storage or Backup, [contact me](https://scottrlarson.com/#contact).

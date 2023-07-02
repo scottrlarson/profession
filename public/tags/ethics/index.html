@@ -85,7 +85,7 @@
   <meta property="og:description" content="The Troubleshooter">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2020-09-24T07:59:21-07:00">
+  <meta property="og:updated_time" content="2022-05-21T13:51:26-08:00">
   
 
   <script src='https://www.google.com/recaptcha/api.js'></script>
@@ -114,7 +114,7 @@
 
 
 
-<meta property="og:updated_time" content="2020-09-24T07:59:21-07:00"/>
+<meta property="og:updated_time" content="2022-05-21T13:51:26-08:00"/>
 
 
 
@@ -130,6 +130,7 @@
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
+
 
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
   <div class="container">
@@ -171,6 +172,7 @@
               <a href="/services/data/recovery">Data Recovery</a>
               <a href="/services/data/archiving">Data Archiving</a>
               <a href="/services/data/erasing">Data Erasing/Wiping</a>
+              <a href="/services/computer/home-office/">Home & Office</a>
               <a href="/services/computer/multimedia-gaming">Multimedia & Gaming</a>
 
               <a href="/packages">Service Packages</a> 
@@ -211,9 +213,9 @@
     <ul class="dropdown-menu mega-nav">
         <li>
           <span><i>My quick <a href="/updates/">updates</a> and full <a href="/publications">publications</a> on technology</i></span>
+          <a href="/updates/update-avoiding-data-loss">5 Self-correcting computer habits to learn to avoid losing work</a>
+          <a href="/memorials/memorial-my-home-computer-reflections-part-1">Reflections on the Home Computer Golden Age</a>
           <a href="/updates/update-why-backing-up-your-data-matters">Why backing up your data matters</a>
-          <a href="/publications/publication-future-of-repairability">Will one repairable laptop change the world?</a>
-            <a href="/publications/publication-win11-good-bad-ugly">Taking Windows 11 For a Spin - The Good, Bad and Ugly</a>
           <a href="/updates/">...More Updates</a>
           <a href="/publications/">...More Publications</a>
         </li>
@@ -265,6 +267,16 @@
   
 
   
+  
+  <div>
+    <h2><a href="http://scottrlarson.com/reflections/reflection-mental-health-awareness-month/">Mental Health Awareness Month</a></h2>
+    <div class="article-style">
+      
+      I heard about Mental Health Awareness Month from another Youtuber &ldquo;Ben Gravey&rdquo; a surfer who was an alcoholic who changed his life through surfing. I had a life-changing experience myself and I thought it would be a good idea to share it.
+In 2017 I had a brain hemorrhage. The doctor said it was brought on by out-of-control blood pressure. To be fair, my blood was high pressure back then so they may have been right.<a href="http://scottrlarson.com/reflections/reflection-mental-health-awareness-month/">...more</a>
+      
+    </div>
+  </div>
   
   <div>
     <h2><a href="http://scottrlarson.com/reflections/reflection-return-laurentum/">Return to Laurentum</a></h2>
@@ -377,6 +389,30 @@ Every day I get up when the sun rises, and go to sleep when the sun sets.<a href
 
     
     
+    
+    
+    <script>
+          document.addEventListener('DOMContentLoaded', e => {
+      document.forms.form01.addEventListener('change', e => {
+        if (e.target.name == 'yesOrNo') {
+          let yesOrNo = new Boolean(parseInt(e.target.form.yesOrNo.value));
+          e.target.form.yesQuestion.disabled = yesOrNo.valueOf();
+        }
+      });
+    });
+    </script>
+
+    
+
+    <script type="text/javascript">
+      jQuery('select[name=fieldset-choice]').change(function(){
+          var fieldsetName = $(this).val();
+          $('fieldset').hide().filter('#' + fieldsetName).show();
+      });
+
+      
+      $('fieldset').hide().filter('#f1').show();
+    </script>
 
   </body>
 </html>

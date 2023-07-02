@@ -134,6 +134,7 @@ Here I am, back in Windows. I&rsquo;m realizing that my journey to a Freedom-Of-
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
 
+
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
   <div class="container">
 
@@ -174,6 +175,7 @@ Here I am, back in Windows. I&rsquo;m realizing that my journey to a Freedom-Of-
               <a href="/services/data/recovery">Data Recovery</a>
               <a href="/services/data/archiving">Data Archiving</a>
               <a href="/services/data/erasing">Data Erasing/Wiping</a>
+              <a href="/services/computer/home-office/">Home & Office</a>
               <a href="/services/computer/multimedia-gaming">Multimedia & Gaming</a>
 
               <a href="/packages">Service Packages</a> 
@@ -214,9 +216,9 @@ Here I am, back in Windows. I&rsquo;m realizing that my journey to a Freedom-Of-
     <ul class="dropdown-menu mega-nav">
         <li>
           <span><i>My quick <a href="/updates/">updates</a> and full <a href="/publications">publications</a> on technology</i></span>
+          <a href="/updates/update-avoiding-data-loss">5 Self-correcting computer habits to learn to avoid losing work</a>
+          <a href="/memorials/memorial-my-home-computer-reflections-part-1">Reflections on the Home Computer Golden Age</a>
           <a href="/updates/update-why-backing-up-your-data-matters">Why backing up your data matters</a>
-          <a href="/publications/publication-future-of-repairability">Will one repairable laptop change the world?</a>
-            <a href="/publications/publication-win11-good-bad-ugly">Taking Windows 11 For a Spin - The Good, Bad and Ugly</a>
           <a href="/updates/">...More Updates</a>
           <a href="/publications/">...More Publications</a>
         </li>
@@ -339,7 +341,7 @@ Here I am, back in Windows. I&rsquo;m realizing that my journey to a Freedom-Of-
 
 <p>The Linux Operating System has come a long way over 10 years and I appreciate that it&rsquo;s becoming more of an alternative to Windows. But it still has issues, and not the fault of the operating system specifically but probably more about the support it has from the hardware and software developers.</p>
 
-<p>For instance, the biggest problem for me was printing to my Epson Work Force Multi-Function device. CUPS or the Epson Linux drivers are problematic. Certain settings like duplex printing failed to work. I couldn&rsquo;t for the life of me get the option for duplex printing to stick by default for my print jobs, and even manually selecting the option from within whatever program I was printing from didn&rsquo;t always yield actuate results. I did some research online and some instructions involved editing script files, but come on man, I don&rsquo;t want to be editing scripts just to print a page on both sides of the paper.</p>
+<p>For instance, the biggest problem for me was printing to my Epson Work Force Multi-Function device. CUPS or the Epson Linux drivers are problematic. Certain settings like duplex printing failed to work. I couldn&rsquo;t for the life of me get the option for duplex printing to stick by default for my print jobs, and even manually selecting the option from within whatever program I was printing from didn&rsquo;t always yield accurate results. I did some research online and some instructions involved editing script files, but come on man, I don&rsquo;t want to be editing scripts just to print a page on both sides of the paper.</p>
 
 <p>I did encounter issues around which versions of software I should have installed, at least with Wine. Especially when trying to get some of my preferred Windows applications working. Sometimes everything just works having the right PPA&rsquo;s configured and in other cases, I&rsquo;m not so sure. The package management system in Linux seems to be evolving, which is a good thing, but it can cause headaches to know which version of a piece of software you need and how to install it.</p>
 
@@ -448,6 +450,30 @@ Here I am, back in Windows. I&rsquo;m realizing that my journey to a Freedom-Of-
 
     
     
+    
+    
+    <script>
+          document.addEventListener('DOMContentLoaded', e => {
+      document.forms.form01.addEventListener('change', e => {
+        if (e.target.name == 'yesOrNo') {
+          let yesOrNo = new Boolean(parseInt(e.target.form.yesOrNo.value));
+          e.target.form.yesQuestion.disabled = yesOrNo.valueOf();
+        }
+      });
+    });
+    </script>
+
+    
+
+    <script type="text/javascript">
+      jQuery('select[name=fieldset-choice]').change(function(){
+          var fieldsetName = $(this).val();
+          $('fieldset').hide().filter('#' + fieldsetName).show();
+      });
+
+      
+      $('fieldset').hide().filter('#f1').show();
+    </script>
 
   </body>
 </html>

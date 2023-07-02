@@ -136,6 +136,7 @@ I provide piece of mind that the most import parts of your computer are being pr
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
 
+
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
   <div class="container">
 
@@ -176,6 +177,7 @@ I provide piece of mind that the most import parts of your computer are being pr
               <a href="/services/data/recovery">Data Recovery</a>
               <a href="/services/data/archiving">Data Archiving</a>
               <a href="/services/data/erasing">Data Erasing/Wiping</a>
+              <a href="/services/computer/home-office/">Home & Office</a>
               <a href="/services/computer/multimedia-gaming">Multimedia & Gaming</a>
 
               <a href="/packages">Service Packages</a> 
@@ -216,9 +218,9 @@ I provide piece of mind that the most import parts of your computer are being pr
     <ul class="dropdown-menu mega-nav">
         <li>
           <span><i>My quick <a href="/updates/">updates</a> and full <a href="/publications">publications</a> on technology</i></span>
+          <a href="/updates/update-avoiding-data-loss">5 Self-correcting computer habits to learn to avoid losing work</a>
+          <a href="/memorials/memorial-my-home-computer-reflections-part-1">Reflections on the Home Computer Golden Age</a>
           <a href="/updates/update-why-backing-up-your-data-matters">Why backing up your data matters</a>
-          <a href="/publications/publication-future-of-repairability">Will one repairable laptop change the world?</a>
-            <a href="/publications/publication-win11-good-bad-ugly">Taking Windows 11 For a Spin - The Good, Bad and Ugly</a>
           <a href="/updates/">...More Updates</a>
           <a href="/publications/">...More Publications</a>
         </li>
@@ -368,7 +370,7 @@ I provide piece of mind that the most import parts of your computer are being pr
         <li>Up to date software that minimizes security threats to your computer</li>
         <li>Care of your computer's security through threat behavior analysis.</li>
       </ul>
-    <div class="divResTableFoot">$113.00/yr</div>
+    <div class="divResTableFoot">$123.00/yr</div>
     </div>
     <div class="divResTableBreak"></div>
       <div class="divResTableCell divResTableHeading" style="order: 1;">Upkeep</div>
@@ -415,7 +417,7 @@ I provide piece of mind that the most import parts of your computer are being pr
     </ul>
     
     
-    <div class="divResTableFoot">$170.00/yr</div>
+    <div class="divResTableFoot">$185.00/yr</div>
       </div>
       <div class="divResTableBreak"></div>
     <div class="divResTableCell divResTableHeading" style="order: 1;"><a href="/more-info/services/remote-system-management-backup/">Backup</a></div>
@@ -426,10 +428,10 @@ I provide piece of mind that the most import parts of your computer are being pr
         <li>Carbonite Cloud Backup</li>
         <li>Reliable upkeep of backup software and data.</li>
       </ul>
-    <div class="divResTableFoot">$340.00/yr</div>
+    <div class="divResTableFoot">$395.00/yr</div>
     </div>
     </div>
-    <div class="divResContainerFooter">$548/yr</div>
+    <div class="divResContainerFooter">$654/yr</div>
     <div class="divResContainerFooterDesc">12% Savings</div>
     <div class="divResTableButtonCenter">
       <div class="divResTableButton"><a href="/#contact">Get in touch</a></div>
@@ -488,7 +490,7 @@ I provide piece of mind that the most import parts of your computer are being pr
 
 <li><p><strong>Backup redundancy</strong> protects your data from data loss. In the instance of a local backup if you system is lost or taken a cloud backup would protect you against theft or loss.</p></li>
 
-<li><p>As of 2020 I use <strong>Macrium Reflect as a Backup</strong> and Disaster recovery solution. It is a reliable and well a tested product for making regular backups and restores of both system and personal data. Macrium Software was founded in 2006 when CEO and Founder Nick Sills experienced a personal data disaster and in the process discovered existing backup tools were not as good as he expected. Wanting a software solution that was practical and easy to use, Nick and his team developed Macrium Reflect to create a safe and secure disk image with ultra-fast recovery times should disaster strike.</p></li>
+<li><p>As of 2020 I use <strong>Macrium Reflect as a Backup</strong> and Disaster recovery solution. It is a reliable and well tested product for making regular backups and restores of both system and personal data. Macrium Software was founded in 2006 when CEO and Founder Nick Sills experienced a personal data disaster and in the process discovered existing backup tools were not as good as he expected. Wanting a software solution that was practical and easy to use, Nick and his team developed Macrium Reflect to create a safe and secure disk image with ultra-fast recovery times should disaster strike.</p></li>
 </ul>
 </p></div>
     </div></div>
@@ -594,6 +596,30 @@ I provide piece of mind that the most import parts of your computer are being pr
 
     
     
+    
+    
+    <script>
+          document.addEventListener('DOMContentLoaded', e => {
+      document.forms.form01.addEventListener('change', e => {
+        if (e.target.name == 'yesOrNo') {
+          let yesOrNo = new Boolean(parseInt(e.target.form.yesOrNo.value));
+          e.target.form.yesQuestion.disabled = yesOrNo.valueOf();
+        }
+      });
+    });
+    </script>
+
+    
+
+    <script type="text/javascript">
+      jQuery('select[name=fieldset-choice]').change(function(){
+          var fieldsetName = $(this).val();
+          $('fieldset').hide().filter('#' + fieldsetName).show();
+      });
+
+      
+      $('fieldset').hide().filter('#f1').show();
+    </script>
 
   </body>
 </html>

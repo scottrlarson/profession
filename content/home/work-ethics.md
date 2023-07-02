@@ -16,4 +16,4 @@ Imagine that you have your own personal knowledgeable computer troubleshooter th
 
 As your own personal troubleshooter, I excel in following up with in-progress projects and services, I stay abreast with the latest technologies that matter to you and I keep you in the loop on what you need to know to help you stay productive.
 
-Check out my [recommendations](/recommendations/), [articles](updates/) and, [publications](/publications) on technology to see how I can help you shortcut many lapses in productivity. Save time and money by having your computer repaired, set up or issue resolved and done right the first time.
+Check out my [recommendations](/recommendations/), [articles](updates/) and [publications](/publications) on technology to see how I can help you shortcut many lapses in productivity. Don't waste your time and money on repair shops that don't staff experienced technicians, have your computer serviced right the first time. 

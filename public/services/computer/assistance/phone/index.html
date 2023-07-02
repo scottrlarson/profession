@@ -104,9 +104,8 @@
 <meta name="twitter:title" content="Phone Support"/>
 <meta name="twitter:description" content="
   
-  	Phone & Text
+  	Phone & Text Support
   	707-536-1527
-
   
 
 
@@ -117,12 +116,8 @@ Check my hours for availability. I offer a free evaluation of your issue. In thi
 <meta property="og:title" content="Phone Support" />
 <meta property="og:description" content="
   
-  	Office&#43;Voicemail
+  	Phone & Text Support
   	707-536-1527
-  
-  
-  	Mobile&#43;Text
-  	707-416-5811
   
 
 
@@ -152,6 +147,7 @@ Check my hours for availability. I offer a free evaluation of your issue. In thi
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
+
 
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
   <div class="container">
@@ -193,6 +189,7 @@ Check my hours for availability. I offer a free evaluation of your issue. In thi
               <a href="/services/data/recovery">Data Recovery</a>
               <a href="/services/data/archiving">Data Archiving</a>
               <a href="/services/data/erasing">Data Erasing/Wiping</a>
+              <a href="/services/computer/home-office/">Home & Office</a>
               <a href="/services/computer/multimedia-gaming">Multimedia & Gaming</a>
 
               <a href="/packages">Service Packages</a> 
@@ -233,9 +230,9 @@ Check my hours for availability. I offer a free evaluation of your issue. In thi
     <ul class="dropdown-menu mega-nav">
         <li>
           <span><i>My quick <a href="/updates/">updates</a> and full <a href="/publications">publications</a> on technology</i></span>
+          <a href="/updates/update-avoiding-data-loss">5 Self-correcting computer habits to learn to avoid losing work</a>
+          <a href="/memorials/memorial-my-home-computer-reflections-part-1">Reflections on the Home Computer Golden Age</a>
           <a href="/updates/update-why-backing-up-your-data-matters">Why backing up your data matters</a>
-          <a href="/publications/publication-future-of-repairability">Will one repairable laptop change the world?</a>
-            <a href="/publications/publication-win11-good-bad-ugly">Taking Windows 11 For a Spin - The Good, Bad and Ugly</a>
           <a href="/updates/">...More Updates</a>
           <a href="/publications/">...More Publications</a>
         </li>
@@ -350,12 +347,8 @@ Check my hours for availability. I offer a free evaluation of your issue. In thi
       <div class="article-style" itemprop="articleBody">
         <p><div class="contact-info-table">
   <div class="contact-info-group">
-  	<div class="contact-info-label">Office+Voicemail</div>
+  	<div class="contact-info-label">Phone & Text Support</div>
   	<div class="contact-info-item"><a href="tel:707-536-1527">707-536-1527</a></div>
-  </div>
-  <div class="contact-info-group">
-  	<div class="contact-info-label">Mobile+Text</div>
-  	<div class="contact-info-item"><a href="sms:707-416-5811">707-416-5811</a></div>
   </div>
 </div>
 
@@ -463,6 +456,30 @@ Check my <a href="/#contact">hours</a> for availability. I offer a free evaluati
 
     
     
+    
+    
+    <script>
+          document.addEventListener('DOMContentLoaded', e => {
+      document.forms.form01.addEventListener('change', e => {
+        if (e.target.name == 'yesOrNo') {
+          let yesOrNo = new Boolean(parseInt(e.target.form.yesOrNo.value));
+          e.target.form.yesQuestion.disabled = yesOrNo.valueOf();
+        }
+      });
+    });
+    </script>
+
+    
+
+    <script type="text/javascript">
+      jQuery('select[name=fieldset-choice]').change(function(){
+          var fieldsetName = $(this).val();
+          $('fieldset').hide().filter('#' + fieldsetName).show();
+      });
+
+      
+      $('fieldset').hide().filter('#f1').show();
+    </script>
 
   </body>
 </html>

@@ -132,6 +132,7 @@
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
 
+
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
   <div class="container">
 
@@ -172,6 +173,7 @@
               <a href="/services/data/recovery">Data Recovery</a>
               <a href="/services/data/archiving">Data Archiving</a>
               <a href="/services/data/erasing">Data Erasing/Wiping</a>
+              <a href="/services/computer/home-office/">Home & Office</a>
               <a href="/services/computer/multimedia-gaming">Multimedia & Gaming</a>
 
               <a href="/packages">Service Packages</a> 
@@ -212,9 +214,9 @@
     <ul class="dropdown-menu mega-nav">
         <li>
           <span><i>My quick <a href="/updates/">updates</a> and full <a href="/publications">publications</a> on technology</i></span>
+          <a href="/updates/update-avoiding-data-loss">5 Self-correcting computer habits to learn to avoid losing work</a>
+          <a href="/memorials/memorial-my-home-computer-reflections-part-1">Reflections on the Home Computer Golden Age</a>
           <a href="/updates/update-why-backing-up-your-data-matters">Why backing up your data matters</a>
-          <a href="/publications/publication-future-of-repairability">Will one repairable laptop change the world?</a>
-            <a href="/publications/publication-win11-good-bad-ugly">Taking Windows 11 For a Spin - The Good, Bad and Ugly</a>
           <a href="/updates/">...More Updates</a>
           <a href="/publications/">...More Publications</a>
         </li>
@@ -451,6 +453,30 @@
 
     
     
+    
+    
+    <script>
+          document.addEventListener('DOMContentLoaded', e => {
+      document.forms.form01.addEventListener('change', e => {
+        if (e.target.name == 'yesOrNo') {
+          let yesOrNo = new Boolean(parseInt(e.target.form.yesOrNo.value));
+          e.target.form.yesQuestion.disabled = yesOrNo.valueOf();
+        }
+      });
+    });
+    </script>
+
+    
+
+    <script type="text/javascript">
+      jQuery('select[name=fieldset-choice]').change(function(){
+          var fieldsetName = $(this).val();
+          $('fieldset').hide().filter('#' + fieldsetName).show();
+      });
+
+      
+      $('fieldset').hide().filter('#f1').show();
+    </script>
 
   </body>
 </html>

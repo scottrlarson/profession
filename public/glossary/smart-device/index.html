@@ -102,11 +102,11 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Smart Device"/>
-<meta name="twitter:description" content="A smart device is an electronic device, generally connected to other devices or networks via different wireless protocols such as Bluetooth, Wi-Fi, or cellular networks that can operate to some extent interactively and autonomously. Several notable types of smart devices are smartphones, smart vehicles , smart thermostats, smart doorbells, smart locks, smart refrigerators, phablets and tablets, smartwatches, smart bands, smart key chains, and even a PC or Mac can act as a smart device depend on the application installed."/>
+<meta name="twitter:description" content="A smart device is an electronic device, generally connected to other devices or networks via different wireless protocols such as Bluetooth, Wi-Fi, or cellular networks that can operate to some extent interactively and autonomously. Several notable types of smart devices are smartphones, smart vehicles , smart thermostats, smart doorbells, smart locks, smart refrigerators, and tablets, smartwatches, smart bands, smart key chains, and even a PC or Mac can act as a smart device depend on the application installed."/>
 <meta name="twitter:site" content="@scottrlarson"/>
 
 <meta property="og:title" content="Smart Device" />
-<meta property="og:description" content="A smart device is an electronic device, generally connected to other devices or networks via different wireless protocols such as Bluetooth, Wi-Fi, or cellular networks that can operate to some extent interactively and autonomously. Several notable types of smart devices are smartphones, smart vehicles , smart thermostats, smart doorbells, smart locks, smart refrigerators, phablets and tablets, smartwatches, smart bands, smart key chains, and even a PC or Mac can act as a smart device depend on the application installed." />
+<meta property="og:description" content="A smart device is an electronic device, generally connected to other devices or networks via different wireless protocols such as Bluetooth, Wi-Fi, or cellular networks that can operate to some extent interactively and autonomously. Several notable types of smart devices are smartphones, smart vehicles , smart thermostats, smart doorbells, smart locks, smart refrigerators, and tablets, smartwatches, smart bands, smart key chains, and even a PC or Mac can act as a smart device depend on the application installed." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://scottrlarson.com/glossary/smart-device/" />
 
@@ -131,6 +131,7 @@
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
+
 
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
   <div class="container">
@@ -172,6 +173,7 @@
               <a href="/services/data/recovery">Data Recovery</a>
               <a href="/services/data/archiving">Data Archiving</a>
               <a href="/services/data/erasing">Data Erasing/Wiping</a>
+              <a href="/services/computer/home-office/">Home & Office</a>
               <a href="/services/computer/multimedia-gaming">Multimedia & Gaming</a>
 
               <a href="/packages">Service Packages</a> 
@@ -212,9 +214,9 @@
     <ul class="dropdown-menu mega-nav">
         <li>
           <span><i>My quick <a href="/updates/">updates</a> and full <a href="/publications">publications</a> on technology</i></span>
+          <a href="/updates/update-avoiding-data-loss">5 Self-correcting computer habits to learn to avoid losing work</a>
+          <a href="/memorials/memorial-my-home-computer-reflections-part-1">Reflections on the Home Computer Golden Age</a>
           <a href="/updates/update-why-backing-up-your-data-matters">Why backing up your data matters</a>
-          <a href="/publications/publication-future-of-repairability">Will one repairable laptop change the world?</a>
-            <a href="/publications/publication-win11-good-bad-ugly">Taking Windows 11 For a Spin - The Good, Bad and Ugly</a>
           <a href="/updates/">...More Updates</a>
           <a href="/publications/">...More Publications</a>
         </li>
@@ -317,7 +319,7 @@
   
 
       <div class="article-style" itemprop="articleBody">
-        <p>A smart device is an electronic device, generally connected to other devices or networks via different wireless protocols such as Bluetooth, Wi-Fi, or cellular networks that can operate to some extent interactively and autonomously. Several notable types of smart devices are smartphones, smart vehicles , smart thermostats, smart doorbells, smart locks, smart refrigerators, phablets and tablets, smartwatches, smart bands, smart key chains, and even a PC or Mac can act as a smart device depend on the application installed. The term can also refer to a device that exhibits some properties of ubiquitous computing, including—although not necessarily—artificial intelligence.</p>
+        <p>A smart device is an electronic device, generally connected to other devices or networks via different wireless protocols such as Bluetooth, Wi-Fi, or cellular networks that can operate to some extent interactively and autonomously. Several notable types of smart devices are smartphones, smart vehicles , smart thermostats, smart doorbells, smart locks, smart refrigerators, and tablets, smartwatches, smart bands, smart key chains, and even a PC or Mac can act as a smart device depend on the application installed. The term can also refer to a device that exhibits some properties of ubiquitous computing, including—although not necessarily—artificial intelligence.</p>
 
 <p>Smart devices can be designed to support a variety of form factors, a range of properties pertaining to ubiquitous computing and to be used in three main system environments: physical world, human-centered environments and distributed computing environments.</p>
 
@@ -349,11 +351,11 @@
     
     <li><a href="/publications/publication-why-password-managers/">Why everyone should use a password manager</a></li>
     
+    <li><a href="/publications/publication-scam-avoidance/">Part 1 Scam Avoidance: How to Spot and Protect Yourself from Scams</a></li>
+    
     <li><a href="/publications/publication-scam-avoidance3/">Part 3 Scam Avoidance: Protecting yourself after the Scam</a></li>
     
     <li><a href="/publications/publication-scam-avoidance2/">Part 2 Scam Avoidance: Avoiding Scams</a></li>
-    
-    <li><a href="/publications/publication-scam-avoidance/">Part 1 Scam Avoidance: How to Spot and Protect Yourself from Scams</a></li>
     
     <li><a href="/publications/publication-id-theft-what-why/">What is Identity Theft Protection, and do you need it?</a></li>
     
@@ -446,6 +448,30 @@
 
     
     
+    
+    
+    <script>
+          document.addEventListener('DOMContentLoaded', e => {
+      document.forms.form01.addEventListener('change', e => {
+        if (e.target.name == 'yesOrNo') {
+          let yesOrNo = new Boolean(parseInt(e.target.form.yesOrNo.value));
+          e.target.form.yesQuestion.disabled = yesOrNo.valueOf();
+        }
+      });
+    });
+    </script>
+
+    
+
+    <script type="text/javascript">
+      jQuery('select[name=fieldset-choice]').change(function(){
+          var fieldsetName = $(this).val();
+          $('fieldset').hide().filter('#' + fieldsetName).show();
+      });
+
+      
+      $('fieldset').hide().filter('#f1').show();
+    </script>
 
   </body>
 </html>

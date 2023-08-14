@@ -55,11 +55,14 @@ If you are having trouble moving your mail from one service to another, I have s
 
 ## Disk Transfer
 
-Floppy, Zip and Optical (DVD,and CD) first 4 disks:
-{{% service-price item="$27.50" %}}
+Floppy, Zip and Optical (DVD,and CD) first 5 disks:
+{{% service-price item="$30" %}}
 
-Floppy, Zip and Optical (DVD,and CD) 10 disks or more:
-{{% service-price item="$11.00" %}}
+Floppy, Zip and Optical (DVD,and CD) 10 to 25:
+{{% service-price item="$20.00" %}}
 
-Floppy, Zip and Optical (DVD,and CD) 20 disks or more:
-{{% service-price item="$07.50" %}}
+Floppy, Zip and Optical (DVD,and CD) 25 to 50:
+{{% service-price item="$10" %}}
+
+Floppy, Zip and Optical (DVD,and CD) 50 to 100:
+{{% service-price item="$5" %}}

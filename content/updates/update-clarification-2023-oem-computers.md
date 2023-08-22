@@ -14,6 +14,7 @@ image = ""
 caption = ""
 
 +++
+
 {{% breakout %}}
 I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my [home page](https://scottrlarson.com). 
 {{% /breakout %}}

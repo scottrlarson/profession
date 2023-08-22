@@ -12,7 +12,7 @@ categories = []
 [header]
 image = ""
 caption = ""
-aliases = "/updates/update-deciptive-design-recent-computers-laptops/"
+aliases = ["/updates/update-deciptive-design-recent-computers-laptops"]
 +++
 
 {{% breakout %}}

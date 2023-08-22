@@ -1,5 +1,5 @@
 +++
-title = "Deciptive Design In Recent Computers and Laptops"
+title = "Deceptive Design In Recent Computers and Laptops"
 date = 2023-08-16T11:23:07-08:00
 draft = false
 # Tags and categories
@@ -12,14 +12,12 @@ categories = []
 [header]
 image = ""
 caption = ""
-
+aliases = "update-deciptive-design-recent-computers-laptops"
 +++
 
 {{% breakout %}}
 I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my [home page](https://scottrlarson.com). 
 {{% /breakout %}}
-
-2023 OEM Computer Servicing Changes
 
 Very recently, OEM (Orginal Equipment Manufacturers of desktops and laptops, like Dell, HP and Sony, etc.) have been introducing new features into the Basic Input/Output System (the system that controls all the hardware in a computer).
 

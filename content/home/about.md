@@ -78,6 +78,9 @@ If you require an immediate response, it's best to reach me by [phone or text](#
 {{% out-of-office %}}
 {{% /accordion %}}
 
+{{% alert title="2023 OEM Computer Servicing Changes" url="/updates/update-deceptive-design-recent-computers-laptops/" %}}Orginal Equipment Manufacturers (OEM) recently have been making design changes to there products that impact my services to you. **If you plan on upgrading to, or purchasing a new computer**, I will recommend a custom-made computer, instead of an OEM Computer that you purchase from a computer store. This will affect some of my services to you. I can still handle most repair issues with OEM computers, but I will no longer be performing hardware upgrades to any OEM Models...[more](/updates/update-deceptive-design-recent-computers-laptops/){{% /alert %}}
+
+
 {{% alert title="Apprenticeship Opportunity" url="/education/apprentice-opportunity" %}}I am interested in training an apprentice in my field. If you, or someone you know, are/is interested in an in-depth understanding of how hardware and software computer technology works to be able to troubleshoot your own computer problems, or build your own computer, this apprenticeship opportunity is for you. [...more](/education/apprentice-opportunity){{% /alert %}}
 
 {{% alert title="We Have the Right to Repair Everything We Own" url="https://www.ifixit.com/Right-to-Repair/Intro" %}}

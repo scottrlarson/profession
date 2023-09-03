@@ -25,7 +25,7 @@ Table of Contents:
 - [Payments](#payments)
 - [Remote Service](#remote-service)
 - [Protecting Your Data](#protecting-your-data)
-- [Software Bugs - Hardware Wear & Tear](#software-bugs-hardware-wear-tear)
+- [Software Bugs - Hardware Wear & Tear](#software-bugs-hardware-wear-tear-end-of-life)
 - [Equipment Left Behind](#equipment-left-behind)
 - [New Device Setup](#new-device-setup)
 - [Storage Encryption/Decryption](#storage-encryption-decryption)
@@ -98,8 +98,10 @@ Please be aware that migrating to and from different technologies can result in 
 Your data is **your** responsibility. Please be sure that the data you want transfered actually exists on the device. If you have any special programs/data outside of written documents, music, videos and pictures, I may ask you to show me where this data is stored before I can proceed with any data transfer service. That being said, I cannot account for data I don't know you have. **Verify for yourself any important data exists on the device before requesting transfer services**. 
 
 
-## Software Bugs - Hardware Wear & Tear
+## Software Bugs - Hardware Wear & Tear - End of Life
 In the process of updating software, or making changes to the way software functions on your device, bugs and errors can be introduced by the way in which software interacts with the operating system. Also failures in the functioning of hardware could be introduced as a result of my servicing. Some of the resulting failures could be related to, but not limited to: design flaws, wear and tear, glitches, bugs, you or any third party mishandling of hardware/software prior to servicing or improper maintenance. If this situations arises, additional costs outside the quoted or estimated fees might be required. My liability and responsibility stops at my [service guarantee](service-guarantee). If I fail to complete a specific piece of work, or I misconfigure/mishandle your device I will take responsibility.
+
+Due to bad experiences with hardware that fails over time, I reserve the right to recommend a replacement instead of a repair for hardware that is over 7 years. 
 
 ## Equipment Left Behind
 I am very proactive in keeping you in the loop on the status of your device. If for some reason I do not hear back from you on a communication for a period of 120 days, depending on my time constraints, I am assuming you do not want whatever equipment you have left behind, and your equipment will be irrevocably destroyed, or may be sold to cover any costs. I will do my best to secure erase your data to protect your privacy, but I am not liable for any results that occur from any kind of breach to your personal data from devices that are left behind though I excel at protecting your data.

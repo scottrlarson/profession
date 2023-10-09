@@ -26,7 +26,7 @@ EZ CD Audio Converter is a music converter software designed for highest quality
 
 ![EZ CD Audio Converter Window Opening](/img/guides/EZCD-Audio-Converter/2023-10-09 10_28_03-EZ CD Audio Converter.png)
 
-4. Drag the folders containing the files you want to convert.
+ 4. Drag the folders containing the files you want to convert.
 
 ![EZ CD Audio Converter Window Convert](/img/guides/EZCD-Audio-Converter/2023-10-09 10_42_37-EZ CD Audio Converter.png)
 
@@ -42,7 +42,7 @@ EZ CD Audio Converter is a music converter software designed for highest quality
 
 7. Click on the convert button at the top right to process the files you selected
 
-![EZ CD Audio Converter Window Done](/img/guides/EZCD-Audio-Converter/2023-10-09 10_37_26-EZ CD Audio Converter.png)
+![EZ CD Audio Converter Window Done](/img/guides/EZCD-Audio-Converter/2023-10-09 10_42_09-EZ CD Audio Converter.png)
 
 ![EZ CD Audio Converter Window Progress](/img/guides/EZCD-Audio-Converter/2023-10-09 10_40_13-Converting files.png)
 

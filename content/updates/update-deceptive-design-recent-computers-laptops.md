@@ -37,11 +37,11 @@ I apologize if this inconveniences you in any way.
 
 ---
 
-List of features or actions that are encumbering the setup and experiencing of consumer grade computers and laptops:
+List of features or actions that are encumbering the setup and experiencing of consumer grade computers and laptops (Please note that these features can be helpful for business environments, but they are not necessary and are a cause for concern in consumer environments):
 
-- Secure Boot Certification Authorities (a setting used to prevent operating system alternatives from being installed)
+- Secure Boot Certification Authorities (A setting used to prevent operating system alternatives from being installed)
 - Preventing or creating friction in disabling Secure Boot
 - Enabling/Disabling USB ports
-- Preventing or creating friction in detection of aftermarket parts
-- Physical system design which prevents, or creates friction in repairing, replacing or upgrading components.
+- Preventing, or creating friction in detection of aftermarket parts
+- Any physical system design characteristic which prevents, or creates friction in repairing, replacing or upgrading components (using glue to mount components, hiding mounting screws or making casing more difficult to remove).
 - Using market dominance to pressure repair shops, or third party component manufacturers to abide my anti-competitive practices by making it more difficult to find and obtain parts.

@@ -19,7 +19,7 @@ aliases = ["/updates/update-deciptive-design-recent-computers-laptops"]
 I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my [home page](https://scottrlarson.com). 
 {{% /breakout %}}
 
-Very recently, OEM (Orginal Equipment Manufacturers of desktops and laptops, like Dell, HP and Sony, etc.) have been introducing new features into the Basic Input/Output System (the system that controls all the hardware in a computer).
+Very recently, OEM (Original Equipment Manufacturers of desktops and laptops, like Dell, HP and Sony, etc.) have been introducing new features into the Basic Input/Output System (the system that controls all the hardware in a computer).
 
 These features are put in under the guise of protecting the consumer, but I think it's complicating the use of new computers, reducing ownership power and ownership privacy. The important point for me as a technology service provider is it's making my job harder to provide my services.
 
@@ -29,7 +29,7 @@ Because of the evolution of the internet, the computer industry has been going t
 
 Please note that the OEM providers are not required to follow certain standards like the rest of the computer industry that sell computer parts. They can and do make for-profit changes to the equipment they design. These kinds of changes, that are made to hardware and software, run counter to open design/development standards, usually an attempt to monopolize a market, or gather data from its customers without informed consent. To read more about this topic, see my articles on "<a href="https://www.scottrlarson.com/categories/deceptivetechnology/">DeceptiveTechnology"</a>
 
-If you plan on upgrading to, or purchasing a new desktop computer, I recommend and will build a custom-made computer, instead of an OEM Computer that you purchase from a computer store. For laptops, I recommend a [Framework](https://frame.work/) Laptop. Framework builds laptops around sustainability. There design choices reflect open standards. Please note that there is a price differnce and a longer turn-around time having a custom computer built for you, or purchasing a sustainabile laptop. Depending on your needs, plan on spending $1000 or more.
+If you plan on upgrading to, or purchasing a new desktop computer, I recommend, and will build, a custom-made computer, instead of recommending an OEM Computer that you purchase from a computer store. For laptops, I recommend a [Framework](https://frame.work/) Laptop. Framework builds laptops around sustainability. Their design choices reflect open standards. Please note that there is a price difference and a longer turn-around time in setting up a custom built computer, or purchasing a sustainable laptop. Depending on your needs, plan on spending $1000 or more.
 
 This will affect some of my services to you. I can still handle most repair issues with OEM computers, but I will no longer be performing hardware upgrades to any OEM Models.
 

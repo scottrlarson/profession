@@ -1,11 +1,11 @@
 +++
-title = "Deceptive Design In Recent Computers and Laptops"
+title = "OEM Deceptive Design Practices: Recent Anti-Customer Changes to Desktop & Laptop Technology"
 date = 2023-08-16T11:23:07-08:00
 draft = false
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
+tags = ["DeceptiveDesign","Anti-consumer",""]
+categories = ["DeceptiveTechnology"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -19,9 +19,9 @@ aliases = ["/updates/update-deciptive-design-recent-computers-laptops"]
 I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my [home page](https://scottrlarson.com). 
 {{% /breakout %}}
 
-Very recently, OEM (Original Equipment Manufacturers of desktops and laptops, like Dell, HP and Sony, etc.) have been introducing new features into the Basic Input/Output System (the system that controls all the hardware in a computer).
+Very recently, OEM (Original Equipment Manufacturers of consumer desktops and laptops, like Dell, HP and Sony, etc.) have been introducing new features into the Basic Input/Output System (the system that controls all the hardware in a computer).
 
-These features are put in under the guise of protecting the consumer, but I think it's complicating the use of new computers, reducing ownership power and ownership privacy. The important point for me as a technology service provider is it's making my job harder to provide my services.
+These features are put in under the guise of protecting the consumer, but in practice they are unesssary and over-complicating the setup and experience, reducing ownership power and ownership privacy. As a technology service provider, these changes are making harder to provide services to you.
 
 I have decided that it's no longer a good business decision to have to conform to the limitations these changes place on my services.
 
@@ -34,3 +34,14 @@ If you plan on upgrading to, or purchasing a new desktop computer, I recommend, 
 This will affect some of my services to you. I can still handle most repair issues with OEM computers, but I will no longer be performing hardware upgrades to any OEM Models.
 
 I apologize if this inconveniences you in any way.
+
+---
+
+List of features or actions that are encumbering the setup and experiencing of consumer grade computers and laptops:
+
+- Secure Boot Certification Authorities (a setting used to prevent operating system alternatives from being installed)
+- Preventing or creating friction in disabling Secure Boot
+- Enabling/Disabling USB ports
+- Preventing or creating friction in detection of aftermarket parts
+- Physical system design which prevents, or creates friction in repairing, replacing or upgrading components.
+- Using market dominance to pressure repair shops, or third party component manufacturers to abide my anti-competitive practices by making it more difficult to find and obtain parts.

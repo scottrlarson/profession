@@ -16,4 +16,4 @@ caption = ""
 
 +++
 If you have an old piece of technology that you want to recycle or reuse, it's important that you have your data erased from the device before you send it off so your data does not fall into the wrong hands.
-{{% service-price item="$25" %}}
+{{% service-price item="$27" %}}

@@ -1,8 +1,8 @@
 +++
 title = "Technology Consultation"
 date = 2018-01-30T12:53:52-08:00
-draft = false
-
+draft = true
+updated = 2023-12-21T08:32:26-08:00
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Troubleshooting"]
@@ -28,3 +28,4 @@ I provide the following:
 <li>For larger projects, I provide an estimate of time, ,required parts and costs involved.</li>
 </ul>
 
+[comment]: <> (This page is replaced by the home page consulting information)

@@ -41,3 +41,5 @@ If you have a question or problem with your device, and your Internet connection
 	<li>Desktop</li>
 	<li>Laptop</li>
 </ul>
+
+{{% service-quote %}}

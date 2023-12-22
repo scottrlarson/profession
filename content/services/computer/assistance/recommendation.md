@@ -2,7 +2,7 @@
 title = "Recommendation (In-Office)"
 date = 2019-10-22T10:22:52-08:00
 draft = false
-
+updated = 2023-12-21T08:32:26-08:00
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -27,4 +27,4 @@ I provide the following:
 <li>I allot 20mins of my time for each recommendation to respond to after-purchase questions about the recommendation, or the device when the question is related to the recommendation specifics. (Subject to my time constraints.)</li>
 </ul>
 
-{{% service-rates-in-shop %}}{{% service-custom label="Recommendation" item="$75" %}}
+{{% service-custom label="Recommendation" item="$75" %}}

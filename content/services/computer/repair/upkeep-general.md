@@ -25,7 +25,4 @@ caption = ""
 <li><strong>Analyze current backup strategy and offer recommendations based on your current configuration</strong> (Prevents data loss and downtime)</li>
 </ul>
 
-<div class="service-price-table">
-  <div class="price-data-label">Service Price</div>
-  <div class="price-data-item">$128.00</div>
-</div>
+{{% service-quote %}}

@@ -39,4 +39,4 @@ caption = ""
 
 
 
-{{% service-price item="$150" %}}
+{{% service-price item="$165" %}}

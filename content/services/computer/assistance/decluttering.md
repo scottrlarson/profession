@@ -2,7 +2,7 @@
 title = "Windows Decluttering Service"
 date = 2020-02-27T08:04:26-08:00
 draft = false
-
+updated = 2023-12-21T08:32:26-08:00
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -28,7 +28,7 @@ In 2017, Microsoft implemented data collection into it's Windows 10 Operating Sy
 \* I do not guarantee any performance improvements as a result of any of these adjustments, but removing apps that run at boot-time, which many Microsoft built-in apps do, usually improves performance.  
 \** I do not guarantee that these settings will remain permanently. Microsoft's [Windows feature updates](updates/update-windows-feature-updates), certain features they deem necessary, might be re-enabled during an update, which might require a future decluttering service.   
 
-{{% service-price item="$112" %}}
+{{% service-price item="$125" %}}
 
 I can also customize any windows desktop feature, by removing features that get in the way of productivity, or adding ones that improve the user experience. 
 

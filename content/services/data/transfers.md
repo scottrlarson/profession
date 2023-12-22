@@ -25,28 +25,28 @@ A data transfer is a service that involves moving, or copying data from one, or 
 ## Migration Audit Report
 In some cases, an audit report of your applications, software, settings and data is performed to ascertain the specifics of data you want transferred. This service is for a customer that does not know what needs to be transferred.
 
-{{% service-price item="$57.00" %}}
+{{% service-price item="$63.00" %}}
 
 ## Drive Replacement
 If you require your storage device to be replaced or upgraded. This service is only required if your storage device has failed, or is running out of space.
 
-{{% service-price item="$57.00" %}}
+{{% service-price item="$63.00" %}}
 
 ## Drive Removal
 If one or more of my services depends on having the storage device removed, this service may need to be performed. In many cases, involving really old or non-functioning devices, I need to remove the storage device to perform a transfer or migration.
 
-{{% service-price item="$57.00" %}}
+{{% service-price item="$63.00" %}}
 
 ## System Transfer
 In most cases, operating systems, settings, and applications can be transferred to another device. [Call](/#contact) for more information.
 
-{{% service-range item-min="$127" item-max="$330" %}}
+{{% service-range item-min="$153" item-max="$330" %}}
 
 ## Files Transfer
 Transfer files and folders from one device to another. 
 {{% alert %}}The amount of date you have depends on the size of the folder/folders you want transferred. If you need help determining this [contact me](/#contact). As an example, there are about 40,000 photos in a set of files that equals 250gigs of data. {{% /alert %}}
 
-{{% service-custom label="Per 250gigs" item="$57" %}}
+{{% service-custom label="Per 250gigs" item="$63" %}}
 
 ## Email Transfer
 If you are having trouble moving your mail from one service to another, I have special tools and expertise in transferring POP and IMAP mail.
@@ -56,13 +56,13 @@ If you are having trouble moving your mail from one service to another, I have s
 ## Disk Transfer
 
 Floppy, Zip and Optical (DVD,and CD) first 5 disks:
-{{% service-price item="$30" %}}
+{{% service-price item="$32" %}}
 
 Floppy, Zip and Optical (DVD,and CD) 10 to 25:
-{{% service-price item="$20.00" %}}
+{{% service-price item="$21.00" %}}
 
 Floppy, Zip and Optical (DVD,and CD) 25 to 50:
-{{% service-price item="$10" %}}
+{{% service-price item="$11.00" %}}
 
 Floppy, Zip and Optical (DVD,and CD) 50 to 100:
-{{% service-price item="$5" %}}
+{{% service-price item="$6" %}}

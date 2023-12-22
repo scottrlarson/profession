@@ -64,7 +64,7 @@ weight = 1
   
 +++
 
-{{% alert title="I stand with Ukraine" %}} I support any people's right to freedom and sovereignty from repressive colonial systems through non-cooperation. Please speak out against tyranny in your own way as we all share this Earth. Using violence, or the threat of violence, to subjugate a people for political gain, or any other reason, is unacceptable. Humans were born with the right to be free from oppression.{{% /alert %}}
+{{% alert title="I stand with Ukraine & Palestine" %}} I support all people's right to freedom and sovereignty from repressive colonial systems through non-cooperation. Please speak out against tyranny in your own way as we all share this Earth. Using violence, or the threat of violence, to subjugate a people for political gain, or any other reason, is unacceptable. Humans were born with the right to be free from oppression.{{% /alert %}}
 
 {{% accordion title="Current Services" col="in" id="services" %}}
 I provide computer repair services at my office in <a href="#contact">downtown</a> Santa Rosa. When I am not repairing computers at my office, I devote some of my free operation time to home and office visits for individuals and small business (5 employees or less). I troubleshoot and offer recommendations on computer technologies related to productivity and entertainment. I also design and performance-tune hardware for gamers and creative artists that use computers for entertainment and professional productions. I also setup and configure desktops and workstations for office work.

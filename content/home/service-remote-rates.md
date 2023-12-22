@@ -14,7 +14,7 @@ weight = 115
 
 Remote Service happens online and it starts with a request from you. Depending on my service load, remote appointments usually carry a one hour scheduling buffer. [Contact me](/#contact) for more information. 
 
-{{% service-custom label="Per minute with $26.25 minimum per inquiry" item="$1.33" %}}
+{{% service-custom label="Per minute with $32.00 minimum per inquiry" item="$1.56" %}}
 
 In certain situations, where I know enough abut your problem there might be an initial flat-rate analysis fee that I will communicate to you before hand.
 

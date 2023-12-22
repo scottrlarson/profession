@@ -43,21 +43,21 @@ The chances of recovery depend on some factors: If you own a Laptop or Desktop w
 
 Under my Analysis/Handling fee, I will determine which category your data loss issue falls under in the following types of recovery. Please note for data recovery there is no charge (Except for the Analysis/Handling Fee) until the data you want is recovered.
 
-{{% service-custom label="Analysis/Handling" item="$127.00" %}}
+{{% service-custom label="Analysis/Handling" item="$140.00" %}}
 
 ### 1. Standard Recovery (No Hardware Failure/Damage) 
 Drives or disks that have data loss resulting from operations like deletions, formatting, or inadvertent file system damage. 
 
-{{% service-range item-min="$300" item-max="$600" %}}
+{{% service-range item-min="$400" item-max="$700" %}}
 Data recovery rates for a functioning device (device powers on, and is accessible via the hardware interface.)
 
 ### 2. Advanced Recovery (Minimal Hardware Damage)
 
-{{% service-range item-min="$800" item-max="$4000" %}}
+{{% service-range item-min="$1000" item-max="$4000" %}}
 Data recovery rates for a partially functioning device that powers up correctly but does not detect via the hardware interface, or does detect but is performing badly, or not reading correctly.
 
 ### 3. Catastrophic Recovery (Critical Hardware Damage)
-{{% service-range item-min="$1300" item-max="$5000" %}}
+{{% service-range item-min="$2000" item-max="$5000" %}}
 Data recovery rates for a non-functioning device. The device does not detect and/or does not power on. Or the device does power on but the data can not be read of the media in any meaningful way necessitating a mechanical failure recovery.
 
 ## Password/System Recovery
@@ -66,9 +66,9 @@ If you are unable to access your device or data, in many cases I can gain access
 
 For me to perform this service, you must own the equipment, or have power of attorney to act on the owner's behalf. I will need documentation confirming that you purchased the equipment, or a document stating that you have authority to act on behalf of the owner to allow me to service the equipment. 
 
-{{% service-custom label="System Recovery" item="$125.00" %}}
+{{% service-custom label="System Recovery" item="$132.00" %}}
 
 ## Product Key Recovery
 If you lose a product's product key, there is a chance that I can extract that information from the system.
 
-{{% service-custom label="Product Key Recovery" item="$75.00" %}}
+{{% service-custom label="Product Key Recovery" item="$132.00" %}}

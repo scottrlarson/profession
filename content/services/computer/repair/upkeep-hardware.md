@@ -42,7 +42,4 @@ Desktops and laptops can suffer from shutdowns, boot failures, errors, and syste
 <li>Return the Processor settings to a normal state of operation to prevent heat damage.</li>
 </ul>
 
-<div class="service-price-table">
-  <div class="price-data-label">Service Price:</div>
-  <div class="price-data-item">$112</div>
-</div>
+{{% service-quote %}}

@@ -2,7 +2,7 @@
 title = "Checkup"
 date = 2018-01-30T09:36:01-08:00
 draft = false
-
+updated = 2023-12-21T08:32:26-08:00
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
@@ -30,4 +30,4 @@ My comprehensive check-up includes:
 <li class="list">A check-up report detailing issues found, and recommended resolutions.</li>
 </ul>
 
-{{% service-custom label="Comprehensive Check-up" item="$75" %}}
+{{% service-custom label="Comprehensive Check-up" item="$82" %}}

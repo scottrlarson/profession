@@ -17,4 +17,4 @@ caption = ""
 +++
 If your device became infected by malware, I offer clean-up services that can resolve most infection related issues involving drive by attacks, trojans, adware, virus, rootkits, fake security solutions and more.
 
-{{% service-price item="$164" %}}
+{{% service-quote %}}

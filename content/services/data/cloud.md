@@ -17,4 +17,4 @@ caption = ""
 +++
 I setup cloud backup services, if you need special help in make sure files and folders are backed up.
 
-{{% service-range item-min="$50.00" item-max="$100.00" %}}
+{{% service-quote %}}

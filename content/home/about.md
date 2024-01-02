@@ -78,14 +78,14 @@ If you require an immediate response, it's best to reach me by [phone or text](#
 {{% out-of-office %}}
 {{% /accordion %}}
 
-{{% alert title="2023 OEM Computer Servicing Changes" url="/updates/update-deceptive-design-recent-computers-laptops/" %}}Orginal Equipment Manufacturers (OEM) recently have been making design changes to their products that impact my services to you. **If you plan on upgrading to, or purchasing a new computer**, I will recommend a custom-made computer, instead of an OEM Computer that you purchase from a computer store. This will affect some of my services to you. I can still handle most repair issues with OEM computers, but I will no longer be performing hardware upgrades to any OEM Models...[more](/updates/update-deceptive-design-recent-computers-laptops/){{% /alert %}}
+{{% alert title="2024 OEM Computer Service Changes" url="/updates/update-deceptive-design-recent-computers-laptops/" %}} Many current Original Equipment Manufacturers (OEM), Dell, HP, Lenovo, Sony, Toshiba, and Apple recently have been making design changes to their products that impact my services to you. **If you plan on upgrading to, or purchasing a new computer**, I will recommend a custom-made computer, instead of an OEM Computer that you purchase from a computer store. This will affect some of my services to you. I can still handle most repair issues with OEM computers, but I will no longer be performing hardware upgrades to any OEM Models...[more](/updates/update-deceptive-design-recent-computers-laptops/){{% /alert %}}
 
 
 {{% alert title="Apprenticeship Opportunity" url="/education/apprentice-opportunity" %}}I am interested in training an apprentice in my field. If you, or someone you know, are/is interested in an in-depth understanding of how hardware and software computer technology works to be able to troubleshoot your own computer problems, or build your own computer, this apprenticeship opportunity is for you. [...more](/education/apprentice-opportunity){{% /alert %}}
 
 {{% alert title="We Have the Right to Repair Everything We Own" url="https://www.ifixit.com/Right-to-Repair/Intro" %}}
   Once you’ve paid money for a product, the manufacturer shouldn’t be able to dictate how you use it—it’s yours. Ownership means you should be able to open, hack, repair, upgrade, or tie bells on it.
-Support sane [copyright legislation](https://www.fightforthefuture.org/fixcopyright/).{{% /alert %}}
+Support the [right to repair](https://www.repair.org/) and sane [copyright legislation](https://www.fightforthefuture.org/fixcopyright/).{{% /alert %}}
 
 {{% alert title="End Creative Monopolies" url="https://www.endcreativemonopolies.com/" %}}
 Big Tech and Big Content are oppressing creativity. It’s time to #EndCreativeMonopolies by reimagining our archaic copyright laws to put artists before Disney, Amazon, Spotify, &amp; News Corp. Take action in support of artists everywhere.{{% /alert %}}

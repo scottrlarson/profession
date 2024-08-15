@@ -25,7 +25,7 @@ Table of Contents:
 - [Payments](#payments)
 - [Remote Service](#remote-service)
 - [Protecting Your Data](#protecting-your-data)
-- [Service Limitations & Liability](#service-limitations-&-liability)
+- [Service Limitations & Liability](#service-limitations-liability)
 - [Equipment Left Behind](#equipment-left-behind)
 - [New Device Setup](#new-device-setup)
 - [Storage Encryption/Decryption](#storage-encryption-decryption)
@@ -114,9 +114,9 @@ In the process of providing services to you the following can occur updating sof
 <table>
 <tbody>
 <tr>
-<th></th>
+<th>Issue Type</th>
 <th><strong>Description</strong></th>
-<th><strong>Possible Examples Causes (But not limited to)</strong></th>
+<th><strong>Possible Example Causes (But not limited to)</strong></th>
 </tr>
 <tr>
 <td><strong>Mishandeling</strong></td>
@@ -151,9 +151,9 @@ In the process of providing services to you the following can occur updating sof
 </tbody>
 </table>
 
-If any of the above situations arise, additional costs outside the quoted or estimated fees might be required. My liability and responsibility stops at my [service guarantee](service-guarantee). If I fail to complete a specific piece of work, or I misconfigure/mishandle your device I will take responsibility.
+If any of the above situations arise, additional costs outside the quoted or estimated fees might be required. My liability and responsibility stops at my [service guarantee](#service-guarantee). If I fail to complete a specific piece of work, or I misconfigure/mishandle your device I will take responsibility.
 
-**Due to a small percentage of bad experiences with certain hardware configurations, like failing electronics, I reserve the right to recommend a replacement part instead of a repair, if a replacement part exists, otherwise, Ill recommend a full replacement of the product. Please be prepared to cover the costs for a replacement device and my time for migrating your data. The costs usually run around $1,000, or more depending on what requirements you have.** 
+**Due to a small percentage of bad experiences with certain hardware configurations, like failing electronics, I reserve the right to recommend a replacement part instead of a repair, if a replacement part exists. Otherwise, Ill recommend a full replacement of the product. This situation usually arises with computer hardware that has reached it's end of life, but other conditions may cause these issues. If this situation arises for you, and you want your issue resolved in a good way, please be prepared to cover the costs for a replacement device and my time for migrating your data. The costs usually run around $1,000, or more depending on what requirements you have.** 
 
 ## Software Licensing
 In the case of installing software, or licenses for software, in order to provide you the service you requested, I may need certain information (like login details, or software packages). I may also need to spend billable time gathering information to install any software, or licenses for which you do not have the correct information on hand. **To obtain this information on you behalf, you might agree to allow me to access to online accounts that contain this information and to make this process as seamless as possible, also I may ask you to provide your email credentials so that I can access your email account to perform password resets on accounts that have information that I require to continue the servicing. I take privacy very seriously, and I will only use what information I find in your email account to complete these services. Please see [my privacy section](#privacy-statement-communication) of this document for more information.** Price quotes and estimates are determined by the available information I have at hand at the time of intake. Please be aware that that prices quoted, or estimated are subject to change if new information is required or becomes available during the servicing. If you refuse to continue servicing after a price change, you agree to pay any and all outstanding quoted or estimated charges, regardless of the state of the device, or the status/progress of the work. 

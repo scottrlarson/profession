@@ -25,13 +25,12 @@ Table of Contents:
 - [Payments](#payments)
 - [Remote Service](#remote-service)
 - [Protecting Your Data](#protecting-your-data)
-- [Software Bugs - Hardware Wear & Tear](#software-bugs-hardware-wear-tear-end-of-life-hardware)
+- [Service Limitations & Liability](#service-limitations-&-liability)
 - [Equipment Left Behind](#equipment-left-behind)
 - [New Device Setup](#new-device-setup)
 - [Storage Encryption/Decryption](#storage-encryption-decryption)
 - [Privacy Statement - Communication](#privacy-statement-communication)
 - [Privacy Statement - Data](#privacy-statement-data)
-- [Software Licensing Limitations](#software-licensing-limitations)
 - [Responsibility](#responsibility)
 - [Self-Regulation](#self-regulation)
 - [Service Guarantee](#service-guarantee)
@@ -109,22 +108,60 @@ Please be aware that migrating to and from different technologies can result in 
 
 Your data is **your** responsibility. Please be sure that the data you want transferred actually exists on the device. If you have any special programs/data outside of written documents, music, videos and pictures, I may ask you to show me where this data is stored before I can proceed with any data transfer service. That being said, I cannot account for data I don't know you have. **Verify for yourself any important data exists on the device before requesting transfer services**. 
 
+## Service Limitations & Liability
+In the process of providing services to you the following can occur updating software, or making changes to the way software functions on your device, bugs and errors can be introduced by the way in which software interacts with the operating system. Also, failures in the functioning of hardware could be introduced as a result of my servicing. Some of the resulting failures could be related to, but not limited to: 
 
-## Software Bugs - Hardware Wear & Tear - End of Life Hardware
-In the process of updating software, or making changes to the way software functions on your device, bugs and errors can be introduced by the way in which software interacts with the operating system. Also, failures in the functioning of hardware could be introduced as a result of my servicing. Some of the resulting failures could be related to, but not limited to: 
-
-- Software, or hardware design flaws
-- Hardware wear and tear
-- Software, or hardware glitches (Glitches are usually the result of two pieces of incompatible hardware/software interacting that can, or may crop up at any point in the life of the software/hardware)
-- Software bugs 
-- Overclocking, or changing hardware settings that push the operating specifications beyond the tolerances of the hardware 
-- You or any third party mishandling of hardware/software, or improper maintenance prior to servicing. 
+<table>
+<tbody>
+<tr>
+<th></th>
+<th><strong>Description</strong></th>
+<th><strong>Possible Examples Causes (But not limited to)</strong></th>
+</tr>
+<tr>
+<td><strong>Mishandeling</strong></td>
+<td>Acting without the necessary care or skill to correctly operate or configure the equipment under your care.</td>
+<td>- Overclocking, or changing hardware settings that push the operating specifications beyond the tolerances of the hardware (Regardless of any prescribed limits recommended by the originating manufacturer or 3rd parties)  <br>  <br>- Improper Maintenance: changing or removing settings or compoents</td>
+</tr>
+<tr>
+<td><strong>Wear & Tear</strong></td>
+<td>Wear and tear is damage that naturally and inevitably occurs during the normal life cycle of a device. It is a form of depreciation, which is assumed to occur even when an item is used competently and with care and proper maintenance.</td>
+<td>- Laptop plastic casing can become brittle over time and get worse during handling  <br>  <br>- Eletronic compoents stop working or work incorrectly due to solder oxidation or circuit board aging</td>
+</tr>
+<tr>
+<td><strong>Design Flaw</strong></td>
+<td>A design defect refers to a flaw inherent in a hardware itself. The way it was designed or manufactured could cause the device to not perform or operate as expected, or cause it to fail in some way sooner than a the normal life expectancy of the product.</td>
+<td>- Laptops compoents have connecting cables that are folded in such a way that eventaully cause wear in the wiring</td>
+</tr>
+<tr>
+<td><strong>Bug</strong></td>
+<td>a flaw in a computer program that prevents a devuce from functioning properly, or opens the program to unauthorized manipulation</td>
+<td>- Communication between a computer and a printer stops working because a bug was introduced into a recently or currently installed driver.</td>
+</tr>
+<tr>
+<td><strong>Glitch</strong></td>
+<td>A glitch is a temporary malfunction or irregularity in a computer system, electronic device, or software. It often occurs unexpectedly and can cause unexpected behavior or minor errors within the system. Glitches may resolve spontaneously or require intervention to fix the issue.</td>
+<td>- A computer screen can flicker and return to normal, indicative of a failing compoent</td>
+</tr>
+<tr>
+<td><strong>Incompatibility</strong></td>
+<td>Software incompatibility is a characteristic of software components or systems which cannot operate satisfactorily together. They may be components or systems which are intended to operate cooperatively or independently. Software compatibility is a characteristic of software components or systems which can operate satisfactorily together. It is possible that some software components or systems may be compatible in one environment and incompatible in another.</td>
+<td>- A program designed for Windows XP no longer works with a current or more recent version of Windows  <br>  <br>- A fincial application like quickbooks stops talking to a PDF form Plug-in due to one of the vendors stopping their support of said productB3A1:C8</td>
+</tr>
+</tbody>
+</table>
 
 If any of the above situations arise, additional costs outside the quoted or estimated fees might be required. My liability and responsibility stops at my [service guarantee](service-guarantee). If I fail to complete a specific piece of work, or I misconfigure/mishandle your device I will take responsibility.
 
 **Due to a small percentage of bad experiences with certain hardware configurations, like failing electronics, I reserve the right to recommend a replacement part instead of a repair, if a replacement part exists, otherwise, Ill recommend a full replacement of the product. Please be prepared to cover the costs for a replacement device and my time for migrating your data. The costs usually run around $1,000, or more depending on what requirements you have.** 
 
-## Equipment Left Behind
+## Software Licensing
+In the case of installing software, or licenses for software, in order to provide you the service you requested, I may need certain information (like login details, or software packages). I may also need to spend billable time gathering information to install any software, or licenses for which you do not have the correct information on hand. **To obtain this information on you behalf, you might agree to allow me to access to online accounts that contain this information and to make this process as seamless as possible, also I may ask you to provide your email credentials so that I can access your email account to perform password resets on accounts that have information that I require to continue the servicing. I take privacy very seriously, and I will only use what information I find in your email account to complete these services. Please see [my privacy section](#privacy-statement-communication) of this document for more information.** Price quotes and estimates are determined by the available information I have at hand at the time of intake. Please be aware that that prices quoted, or estimated are subject to change if new information is required or becomes available during the servicing. If you refuse to continue servicing after a price change, you agree to pay any and all outstanding quoted or estimated charges, regardless of the state of the device, or the status/progress of the work. 
+
+In certain cases, when upgrading, or replacing computer hardware; or moving a software license to another computer hardware configuration, there are no absolute hard and fast rules regarding what will actually happen when a certain software product key/license is applied to different set of hardware from the original configuration the license was applied to. If the software product you depend on, Like the Windows Operating System, is not able to be re-activated after the hardware replacement, upgrade, or software license move, you may be obligated by the licensing of the product to purchase a new license. This may incur an additional expense outside of any quotes, estimates or fees that I specify in my communications to you about costs. Any licensing challenges that come up do not change the fees owed to me for the parts I order on your behalf, or the fees related to the service I provide to you. It also doesn't obligate me to provide you any free of charge services due to this issue.  If you have questions about this limitation, please let me know before agreeing to any fees.
+
+
+### Equipment Left Behind
 I am very proactive in keeping you in the loop on the status of your device. If for some reason I do not hear back from you on a communication for a period of 120 days, depending on my time constraints, I am assuming you do not want whatever equipment you have left behind, and your equipment will be irrevocably destroyed, or may be sold to cover any costs. I will do my best to secure erase your data to protect your privacy, but I am not liable for any results that occur from any kind of breach to your personal data from devices that are left behind though I excel at protecting your data.
 Even though I am not required to, I will make attempts to contact you before 120 days. This may involve all of the following during this 120 day period: a few calls, an email, a text message (If a mobile number is on file), and a post letter(IF I have an address for you, on file). 
 
@@ -160,11 +197,6 @@ When you bring your device to me for servicing, I make an encrypted safety backu
 I do this in case a issue occurs during, or after the service is complete, that would prevent you from accessing your device, or data. I keep this backup in encrypted form for around 4 months. This means that if my equipment were ever to become lost, or a theft occurred, the encryption method, 256 AES, serves as a significant deterrent against accessing your data stored in my backup. This safety backup is not a guarantee that I can provide to you a copy of your data, at your request, in the event you experience a loss, after the return your device. If you did not purchase a data-backup, and if I still have a backup of your data on hand, depending on my storage free space requirements at the time, I can provide you with a copy of your data under a data restore service.
 
 To provide to you a service such as, but not limited to, a data transfer service, I also may need to access certain areas of your device's file system or online accounts that could contain private information. I have strict principles against using information outside the services I provide to you, and I have processes in place to protect your private information from falling into the wrong hands. Some of those processes are communicated through this document, but if you have specific concerns, please reach out to me. That being said, I may share your personal/private information if it's to provide to you a specific service that I subcontract to another provider, such as, but not limited to, a data recovery service provider (By your request to have data recovered), or to comply with a lawful order from a common law court. In the case where I pass information to a 3rd party provider, they have their own privacy policies that your data, or information would fall under once the device/information is in their possession. If you have specific questions, or concerns, that are outside of these described scopes, please contact me to get clarification.
-
-## Software Licensing Limitations
-In the case of installing software, or licenses for software, in order to provide you the service you requested, I may need certain information (like login details, or software packages). I may also need to spend billable time gathering information to install any software, or licenses for which you do not have the correct information on hand. **To obtain this information on you behalf, you might agree to allow me to access to online accounts that contain this information and to make this process as seamless as possible, also I may ask you to provide your email credentials so that I can access your email account to perform password resets on accounts that have information that I require to continue the servicing. I take privacy very seriously, and I will only use what information I find in your email account to complete these services. Please see [my privacy section](#privacy-statement-communication) of this document for more information.** Price quotes and estimates are determined by the available information I have at hand at the time of intake. Please be aware that that prices quoted, or estimated are subject to change if new information is required or becomes available during the servicing. If you refuse to continue servicing after a price change, you agree to pay any and all outstanding quoted or estimated charges, regardless of the state of the device, or the status/progress of the work. 
-
-In certain cases, when upgrading, or replacing computer hardware; or moving a software license to another computer hardware configuration, there are no absolute hard and fast rules regarding what will actually happen when a certain software product key/license is applied to different set of hardware from the original configuration the license was applied to. If the software product you depend on, Like the Windows Operating System, is not able to be re-activated after the hardware replacement, upgrade, or software license move, you may be obligated by the licensing of the product to purchase a new license. This may incur an additional expense outside of any quotes, estimates or fees that I specify in my communications to you about costs. Any licensing challenges that come up do not change the fees owed to me for the parts I order on your behalf, or the fees related to the service I provide to you. It also doesn't obligate me to provide you any free of charge services due to this issue.  If you have questions about this limitation, please let me know before agreeing to any fees.
 
 ## Responsibility
 As a professional computer technician, I'm responsible for addressing operational related issues with technology at the time of servicing.

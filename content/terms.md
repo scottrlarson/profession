@@ -146,7 +146,7 @@ In the process of providing services to you the following can occur updating sof
 <tr>
 <td><strong>Incompatibility</strong></td>
 <td>Software incompatibility is a characteristic of software components or systems which cannot operate satisfactorily together. They may be components or systems which are intended to operate cooperatively or independently. Software compatibility is a characteristic of software components or systems which can operate satisfactorily together. It is possible that some software components or systems may be compatible in one environment and incompatible in another.</td>
-<td>- A program designed for Windows XP no longer works with a current or more recent version of Windows  <br>  <br>- A fincial application like quickbooks stops talking to a PDF form Plug-in due to one of the vendors stopping their support of said productB3A1:C8</td>
+<td>- A program designed for Windows XP no longer works with a current or more recent version of Windows  <br>  <br>- A financial application like Quickbooks stops talking to a PDF form Plug-in due to one of the vendors stopping their support of said product</td>
 </tr>
 </tbody>
 </table>

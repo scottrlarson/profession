@@ -135,7 +135,7 @@ In the process of providing services to you the following can occur updating sof
 </tr>
 <tr>
 <td><strong>Bug</strong></td>
-<td>a flaw in a computer program that prevents a devuce from functioning properly, or opens the program to unauthorized manipulation</td>
+<td>A flaw in a computer program that prevents a device from functioning properly, or opens the program to unauthorized manipulation</td>
 <td>- Communication between a computer and a printer stops working because a bug was introduced into a recently or currently installed driver.</td>
 </tr>
 <tr>
@@ -180,8 +180,13 @@ If you request a removal of an application, you will be liable for any ramificat
 Due to Windows 10/11 data collection practices and the impact it has on customer privacy, when I install, reinstall, or tune-up Windows 10/11 on any machine that enters this office, I remove and disable the unnecessary and in many cases unwanted functions listed below. You can opt to install or re-enable the app or feature in question yourself by launching the Microsoft Store App on your computer, doing a search for the missing App, and then installing it. (Please note that I do not guarantee any performance improvements on any of these adjustments.):
 
 - I disable all Telemetry and Data Collection services.
-- I uninstall all Microsoft Windows 10/11 apps, except the basic, or useful ones that would prevent the normal operation of the device: Mail, Microsoft Store, Calculator, Sticky, Windows.photos, Soundrecorder, MSpaint, Screensketch, Cortana.
+- I uninstall all Microsoft Windows 10/11 apps, except the basic, or useful ones that would prevent the normal operation of the device: Mail, Microsoft Store, Calculator, Sticky Notes, Windows.photos, Soundrecorder, MSpaint, Screensketch, Cortana.
 - I may Install new default applications to make use of: Photos(Fast Stone Image Viewer), Internet Browsing(Mozilla Firefox and Google Chrome), Email(Mozilla Thunderbird) Videos(VLC), and Media Creation(Burn Aware).
+- I uninstall and disable the Onedrive configuration by default. This prevents personal data from being sent to Microsoft cloud services without the customers knowledge. I do this mainly to avoid customer confusion about where personal/business data lives.
+- Unless you make a request, or I determine in our communication leading up to the service, I do not configure the Windows user account to be attached to a Microsoft account. This decision is to avoid customer confusion about how online services get used without the user's knowledge on the device.
+- I associate a web browser of your choice to minimize having to use the Edge browser. 
+
+Please note that the way in which Microsoft implements changes to the OS and their attempts to obfuscate customer choice is user hostile. These changes may be reverted by a future Microsoft update so I am unable to guarantee any specific configurations will continue to operating once the device leaves my office.
 
 I do this to give my customers a good experience with their device by decluttering the operation of the Windows operating system. This has the potential to improve the performance and user experience.
 

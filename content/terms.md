@@ -236,6 +236,7 @@ If you request software or a service to be setup, maintained, or repaired on you
 I operate on a first come, first serve basis. Unless you want a priory service. If you need a faster turn-around, see my priority [rates](/#service-repair-rates-turnaround).
 
 During my regular service schedule, I prioritize servicings based on the following: 
+
 1. Priority Customers (paid priority service 1-2 day turn-around) 
 2. 1st Class Customers (3-7 day turn around, regular visits)
 3. 2nd class customers (1 week+). 

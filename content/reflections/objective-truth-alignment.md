@@ -32,7 +32,7 @@ While researching for a project, I stumbled upon the [Flint Michigan water crisi
 
 We could say that this is one isolated incident, but if you look around, it's happening everywhere. Just take a look at the recent [Horizon Post Office scandal](https://www.computerweekly.com/feature/Post-Office-Horizon-scandal-explained-everything-you-need-to-know) or the [2001 U.S. invasion of Afghanistan](https://theintercept.com/2021/08/26/afghanistan-america-failures/) for reference.
 
-I'm often baffled by the concept of immortality. I'm not saying that everyone should adhere to the concepts behind moral behavior. What I am noticing is that some behaviors can be detrimental to society. The big scandals mentioned about seem to stem from idea of selfishness in the form of capitalism.
+I'm often baffled by the concept of immortality. I'm not saying that everyone should adhere to the concepts behind moral behavior. What I am noticing is that some behaviors can be detrimental to society. The big scandals mentioned above seem to stem from idea of selfishness in the form of capitalism.
 
 George Orwell believed capitalism incentivizes conditions of suffering leading to concentrations of power and wealth, which in my view, eventually leads to totalitarianism.
 

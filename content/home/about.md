@@ -68,6 +68,7 @@ weight = 1
 
 {{% accordion title="Current Services" col="in" id="services" %}}
 **I repair and provide solutions for**: 
+
 - Computers and software that are not performing as expected
 - Gamers and creative artists that need a quality experience with a custom built computer
 - Data loss due to accidental removal operations and hardware/software failures
@@ -75,11 +76,13 @@ weight = 1
 
 
 **I provide recommendations for**:
+
 - Quality Laptops and Custom PC's for Gamers and creative artists.
 - Productivity Software solutions
 - Disaster Recovery Backup solutions
 
 **I provide deployments for**:
+
 - Desktops and workstations for small office environments.
 - Gamers, creative artists and office professionals that require reliable and performance tuned Home/WiFi networking environments
 - Printing/Scanning and Virtual/Augmented Reality hardware

@@ -59,7 +59,7 @@ Unless my work schedule is nearing the end of the day, I will respond to communi
 
 **Repair fees** are usually in addition to any diagnostic fees and are paid when the repair is complete, before you pick up your device, or before I leave your location in cash or check form, with the option (at my discretion) of using your Venmo or Paypal mobile app at my office when you pick up your device.
 
-**Consultation fees** are per-hour, with a one hour minimum, REGARDLESS OF THE RESULTS of the service. Paid in cash or check form, with the option (at my discretion) of using your Venmo or Paypal mobile app before I leave your location.
+**Consultation fees** are per-hour, with a one hour minimum, REGARDLESS OF THE RESULTS of the service. Paid in cash or check form, with the option (at my discretion) of using your Venmo or Paypal mobile app before I leave your location. There are cases where because of some 3rd party issue is not resolve or if something  that is required for me to finish the service is not present at the time of the visit, I will either charge you a full visit fee and if I have to return on another busines day charge you a half-fee for that visit, or at my discretion charge you a half-fee for the initial visit and charge you the remainder when I return. The latter is usually done in cases where the location is at a very short distance (walking).
 
 **Research/Recommendation** fees cover my time in creating a estimate/quote, or communicating recommendation information at your request. The fees are charged per project or per request. Payment can be in cash or check form, with the option (at my discretion) of using Venmo or Paypal.
 

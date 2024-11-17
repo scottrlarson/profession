@@ -18,6 +18,8 @@ caption = ""
 
 Maybe this is a byproduct of cost savings decisions by replicating enterprise-grade hardware manufacturing design principles and using them to design consumer-grade technology. 
 
+![Dell Inspiron 16 Plus Image](https://scottrlarson.com/img/updates/TotalitarianismTechnology/static/img/updates/TotalitarianismTechnology/Inspiron16Plus7640.webp)
+
 Recently I received a Dell Inspiron 16 Plus 7640 that has options removed.  The storage section had no setting to change to a non-raid option. Because OEMs install bloatware on their systems, I choose to install the OS clean, or in most cases, I need to clone a system from dissimilar hardware.
 
 ![Dell Inspiron 16 Plus BIOS Storage Image](https://scottrlarson.com/img/updates/TotalitarianismTechnology/Dell-Inspiron16Plus-BIOS-Storage.jpg)

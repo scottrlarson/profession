@@ -54,7 +54,7 @@
       <li>
         <i class="fa-li fa-solid fa-message fa-2x" aria-hidden="true"></i>
         <span id="person-telephone" itemprop="telephone">
-        {{- if $autolink }}<a href="tel:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
+        {{- if $autolink }}<a href="sms:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
         </span>
     | Text
       </li>

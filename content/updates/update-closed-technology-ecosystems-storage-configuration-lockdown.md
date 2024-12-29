@@ -23,18 +23,18 @@ In the last few years, I have noticed a trend where Dell does not provide RST st
 
 I recently purchased a Dell Inspiron 16 Plus 7640 Laptop with a BIOS that does not have an option to change to an AHCI storage configuration. Without the RST storage driver not being made available on dells website, and no ability to switch to ACHI, you cannot reinstall Windows in a clean state from a installation disk because the install requires that the RST driver be manually loaded befoe it can see the storage device.  
 
-![Dell Inspiron 16plus bios storage configuration missing AHCI mode](/img/oem-rst-driver-debacle-or-intentional/dell-inspiron-16-plus-bios-storage-configuration-missing-ahci-mode.jpeg)
+![Dell Inspiron 16plus bios storage configuration missing AHCI mode](/img/publications/oem-rst-driver-debacle-or-intentional/dell-inspiron-16-plus-bios-storage-configuration-missing-ahci-mode.jpeg)
 
 Normally, you would see this screen that allows you to switch storage modes
-![Dell Inspiron 3030 bios storage configuration AHCI mode](/img/oem-rst-driver-debacle-or-intentional/dell-inspiron-3030-bios-storage-configuration.jpeg)
+![Dell Inspiron 3030 bios storage configuration AHCI mode](/img/publications/oem-rst-driver-debacle-or-intentional/dell-inspiron-3030-bios-storage-configuration.jpeg)
 
 I tried the key combinations to enable advanced BIOS configuration that worked on previous models, but no dice. Is it a coincidence that Dell has not been releasing the RST storage drivers for most of these models in the last couple of years, and now decided that the BIOS storage configuration should not be changable?
 
 If you check Dell's website for drivers, you probably will not see RST drivers for many models listed. I checked my system with a few different models and so far I don't see it.
 
-![Dell.com Support Storage Driver Listings Lack RST](/img/oem-rst-driver-debacle-or-intentional/dell.com-support-storage-driver-listings-lack-RST.resized.jpeg)
+![Dell.com Support Storage Driver Listings Lack RST](/img/publications/oem-rst-driver-debacle-or-intentional/dell.com-support-storage-driver-listings-lack-RST.resized.jpeg)
 
-![Dell.com Support Storage Driver Listings Lack RST Differnt Model](img/oem-rst-driver-debacle-or-intentional/dell.com-support-storage-driver-listings-lack-RST-different-model.jpeg)
+![Dell.com Support Storage Driver Listings Lack RST Differnt Model](img/publications/oem-rst-driver-debacle-or-intentional/dell.com-support-storage-driver-listings-lack-RST-different-model.jpeg)
 
 You can try to find drivers online, based on the hardware id's, especially from Intel's website, but they don't always work for your particular model. I even tried to extract the drivers from the OS but I wasn't able to find a .inf configuration profile to make it work.
 

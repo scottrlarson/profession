@@ -18,7 +18,7 @@ caption = ""
 
 I am a Computer Hardware professional. I started working with computer technology in the early eighties. I have seen the evolution of technology starting with closed platforms like the game console era and then the move toward open platforms like the [Home Computer Golden Age](https://www.scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-1/). In the last 5 or 10 years, I have witnessed technology changes that are slowly moving away from open hardware designs towards hardware that is locked down and can't be modified by the user.  For more articles on this subject, see my  [DeceptiveTechnology](https://www.scottrlarson.com/categories/deceptivetechnology/) section. 
 
-## Is Dell limiting access to drivers and design BIOS to minimize OS changes?
+## Is Dell limiting access to drivers and designing BIOS to minimize OS changes?
 In the last few years, I have noticed a trend where Dell does not provide RST storage drivers for NVME SSDs (the software that allows a user to cleanly install an operating system from media) on Laptops and Desktops. Normally, you can just go into the BIOS, switch from NVME Raid to ACHI, and be done with it—or can you?
 
 I recently purchased a Dell Inspiron 16 Plus 7640 Laptop with a BIOS that does not have an option to change to an AHCI storage configuration. Without the RST storage driver not being made available on dells website, and no ability to switch to ACHI, you cannot reinstall Windows in a clean state from a installation disk because the install requires that the RST driver be manually loaded befoe it can see the storage device.  

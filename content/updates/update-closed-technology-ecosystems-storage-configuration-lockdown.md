@@ -21,7 +21,7 @@ I am a Computer Hardware professional. I started working with computer technolog
 ## Is Dell limiting access to drivers and designing BIOS to minimize OS changes?
 In the last few years, I have noticed a trend where Dell does not provide RST storage drivers for NVME SSDs (the software that allows a user to cleanly install an operating system from media) on Laptops and Desktops. Normally, you can just go into the BIOS, switch from NVME Raid to ACHI, and be done with it—or can you?
 
-I recently purchased a Dell Inspiron 16 Plus 7640 Laptop with a BIOS that does not have an option to change to an AHCI storage configuration. Without the RST storage driver not being made available on dells website, and no ability to switch to ACHI, you cannot reinstall Windows in a clean state from a installation disk because the install requires that the RST driver be manually loaded befoe it can see the storage device.  
+I recently purchased a Dell Inspiron 16 Plus 7640 Laptop with a BIOS that does not have an option to change to an AHCI storage configuration. Without the RST storage driver not being made available on Dell's website, and no ability to switch to ACHI, you cannot reinstall Windows in a clean state from a installation disk because the install requires that the RST driver be manually loaded befoe it can see the storage device.  
 
 ![Dell Inspiron 16plus bios storage configuration missing AHCI mode](/img/publications/oem-rst-driver-debacle-or-intentional/dell-inspiron-16-plus-bios-storage-configuration-missing-ahci-mode.jpeg)
 

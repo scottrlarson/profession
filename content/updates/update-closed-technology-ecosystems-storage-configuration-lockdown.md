@@ -40,8 +40,10 @@ Here is a different model with no RST listing.
 
 You can try to find drivers online, based on the hardware id's, especially from Intel's website, but they don't always work for your particular model. I even tried to extract the drivers from the OS but I wasn't able to find a .inf configuration profile to make it work.
 
-These changes effectively prevents a user from reinstalling the operating system except from the install partition on the device, or from Dell's bios re-installation technology, which contains bloatware and targeted advertising/data collection.
+These changes effectively prevents a user from cleanly reinstalling the operating system from media. The only option, that I can see, is to install from the service partition on the device, or from Dell's BIOS re-installation technology, which contains bloatware, targeted advertising, and data collection.
 
-I'm open to being wrong, please let me know if I am missing something. Short of evidence to the contrary. I believe this is one small part of a bigger and long-term planned effort within the PC hardware and software industries to control the user experience for consumer hardware. Apple is also moving in this direction with the MacOS by limiting non-approved software from being installed. Yes, you can work around it, but it's getting harder and harder to do so with every iteration of the Operating System. 
+I'm open to being wrong, please let me know if I am missing something. 
+
+Short of evidence to the contrary. I believe this is one small part of a bigger and long-term planned effort within the PC hardware and software industries to control the user experience for consumer hardware. Apple is also moving in this direction with the MacOS by limiting non-approved software from being installed. Yes, you can work around it, but it's getting harder and harder to do so with every iteration of the Operating System. 
 
 We are slowly being boiled to the point of no return. We need some kind of consortium for users to represent our interests otherwise in 10 or 20 years we will have very limited choice when it comes to computer technology.

@@ -1,5 +1,5 @@
 +++
-title = "OEM Deceptive Design Practices: Recent Anti-Customer Changes to Desktop & Laptop Technology"
+title = "Recent Anti-Customer Changes to Desktop & Laptop Technology"
 date = 2023-08-16T11:23:07-08:00
 draft = false
 # Tags and categories
@@ -21,7 +21,7 @@ I repair computers and provide solutions to everyday computer challenges for hom
 
 Very recently, OEM (Original Equipment Manufacturers of consumer desktops and laptops, like Dell, HP and Sony, etc.) have been introducing new features into the Basic Input/Output System (the system that controls all the hardware in a computer).
 
-These features are put in under the guise of protecting the consumer, but in practice they are unnecessary and over-complicating the setup and experience, reducing ownership power and ownership privacy. As a technology service provider, these changes are making harder to provide services to you.
+These features are put in under the guise of protecting the consumer, but in practice they are unnecessary and over-complicating the setup and experience, reducing ownership power and ownership privacy. As a technology service provider, these changes are making it harder to provide services to you.
 
 I have decided that it's no longer a good business decision to have to conform to the limitations these changes place on my services.
 

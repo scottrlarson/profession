@@ -215,7 +215,7 @@ If I intuit that an issue is going to be systemic during a servicing, I reserve 
 ## Self-Regulation
 **All my rights as a service providing individual are reserved**. 
 
-When I provide you a service, or if an arrangement that benefits both you and I is agreed upon, or in the works, I reserve the right not to subject myself to background checks, licenses to provide services, be employed by another, or any process that subjects me to any authority other than my own.
+When I provide you a service, or if an arrangement that benefits both you and I is agreed upon, or in the works, I reserve the right not to subject myself to background checks, licenses to provide services, be employed by another, be classified into a status or standing that interferes with my rights, or any process that subjects me to any authority other than my own.
 
 Please note that this right is not a claim of lawlessness. I am responsible for my conduct in my personal and professional life. If there is a claim of wrong doing by an individual, I will answer that claim and take responsibility for any action I take that harms another living being. 
 

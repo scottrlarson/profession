@@ -251,7 +251,7 @@ I tend to order hardware from online suppliers, instead of relying on brick and 
 
 Items that get lost in shipping are handled under the courier's claim handling system. Only after completing the claim process, and waiting for that process to complete, will you be compensated for lost items. 
 
-Shipments that don't arrive on time, or are late requires resolution with the online vendor. In these cases I have to submit a case, and wait for the process to be complete for shipments to be redelivered. This process can take weeks, or in rare cases, months.
+Shipments that don't arrive on time, are wrong items, or are late requires resolution with the online vendor. In these cases I have to submit a case, or ship the wrong item back and wait for the process to be complete for shipments to be redelivered. This process can take weeks, or in rare cases, months.
 
 If you are not prepared to wait for packages to be delivered, which under normal circumstances can take 3-7 business days, and in rare cases, such as items shipped from out of the country, up to a month, so I can perform my services, please reach out to me to discuss alternatives. I am not liable, nor responsible for delay shipments. Should you wish to cancel any services related to delayed, or items lost in shipping, my service fees are not refundable.
 

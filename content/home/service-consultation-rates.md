@@ -19,11 +19,11 @@ I excel at repairing and resolving most technical issues in a timely and cost ef
 Consultations can happen in my office, or at your location. Depending on my service load, at-office/home appointments usually carry a scheduling buffer of 3 hours to 1 day. In many cases, 3 days to 1 week. [Contact me](/#contact) for more information. 
 
 <b>Please add 20% to the below fees if your service request is tied to an organization that involves 2 or more individuals. I reserve the right to change these fees depending on the situation. If you have questions about your particular situation, [contact me](/#contact)</b>
-{{% service-custom label="Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$137" %}}
-{{% service-custom label="Within 5 miles from Down Town SR (Per Hr/1Hr Min)" item="$165" %}}
+{{% service-custom label="Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$165" %}}
+{{% service-custom label="Within 5 miles from Down Town SR (Per Hr/1Hr Min)" item="$200" %}}
 {{% service-custom label="Weekends, Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$200" %}}
-{{% service-custom label="Weekends, Within 5 miles from Down Town SR (Per Hr/1Hr Min)" item="$265" %}}
-{{% service-custom label="After hours, Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$265" %}}
-{{% service-custom label="After hours, Within 5 miles from Down Town SR (Per Hr/1Hr Min)" item="$330" %}}
+{{% service-custom label="Weekends, Within 5 miles from Down Town SR (Per Hr/1Hr Min)" item="$300" %}}
+{{% service-custom label="After hours, Within 1 mile from Down Town SR (Per Hr/1Hr Min)" item="$300" %}}
+{{% service-custom label="After hours, Within 5 miles from Down Town SR (Per Hr/1Hr Min)" item="$350" %}}
 
 <a href="https://scheduling.scottrlarson.com/">Book an appointment</a> 

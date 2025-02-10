@@ -22,6 +22,11 @@ Update (2022/03/14): Due to Microsoft's anti-competitive practices, I can no lon
 Even though I think Windows 11 has potential in future releases, I strongly recommend **NOT INSTALLING** it until mid-2023 as it has major stability issues that can cause productivity concerns with your device.  Better yet, sign up for my [System Care Package](https://www.scottrlarson.com/care), where I perform the upgrade, and work out any issues in a **controlled environment**.
 {{% /alert %}}
 
+{{% breakout %}}
+2025/02/10: As Microsoft releases and deploys Windows 11 features that are anti-consumer, actively attempts to harm competing software, and anti-trust laws being ignored and not enforced. I suggest avoiding Windows 11 altogeather and moving towards open source software. Obviously moving to an open source operating system has its own pitfalls, but at the very least, its in your control. If you need help planning out how to migrate to an open source platform, <a href="https://scottrlarson.com/#contact">contact me</a>.
+{{% /breakout %}}
+
+
 What happened to the release of Windows 11? For those of you who follow Microsoft's Windows evolution, this feels like a **Windows Me**[^Windows-Me] release all over again. But just the way it was released and the bugs that prevented it from working correctly out-of-the-box. Windows 11 got a major facelift that was a long time coming and once the bugs are worked out, I think it's going to improve your workflow.
 
 You see, the problem started with Windows 8. Microsoft released the **Metro User Desktop Experience(MUDE)**[^MUDE], remember that full-screen start menu that nobody wanted to touch with a ten-foot pole? Yeah, that was Windows 8, a disaster waiting to happen, and for the number of times I downgraded Windows 8 to 7, it was. It was Microsoft's first attempt at entering the mobile market with Windows. With an "Almost There" approach, it attempts to combine mobile elements with the desktop look of Windows.

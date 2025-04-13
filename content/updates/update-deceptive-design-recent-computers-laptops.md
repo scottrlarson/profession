@@ -65,21 +65,11 @@ I apologize if this inconveniences you in any way.
 - Attempts to regulate access to parts obfuscating, or making 3rd party repair of hardware more difficult
 - Attempts to lock apple software developers into platform ecosystems that only benefits Apple
 
-### Dell
+### Dell, HP, Sony & Toshiba
 - Designs desktop and laptop hardware around closed design principles, obfuscating, or making 3rd party repair of hardware more difficult
 - Tricking consumers into service contracts when purchasing computers from the Dell store online
 - Pre-loads adware products that are a threat to the secure and reliable functioning of the computer or laptop
 
-### HP
-- Designs desktop and laptop hardware around closed design principles, obfuscating, or making 3rd party repair of hardware more difficult
+### HP Printers
 - Designs printer hardware and software around closed design principles, obfuscating, or making it difficult to obtain 3rd party manufacturing of ink
-- Tricking consumers into installing adware when installing software/driver packages to operating printers
-- Pre-loads adware products that are a threat to the secure and reliable functioning of the computer or laptop
-
-### Sony
-- Designs desktop and laptop hardware around closed design principles, obfuscating, or making 3rd party repair of hardware more difficult
-- Pre-loads adware products that are a threat to the secure and reliable functioning of the computer or laptop
-
-### Toshiba
-- Designs desktop and laptop hardware around closed design principles, obfuscating, or making 3rd party repair of hardware more difficult
-- Pre-loads adware products that are a threat to the secure and reliable functioning of the computer or laptop
+- Tricking consumers into installing adware when installing software/driver packages that are required for the correct functioning of their printers

@@ -35,7 +35,7 @@ I strongly believe that moving away from supporting these big players will impro
 
 This will affect some of my services to you. I can still handle most repair issues with OEM computers, but I will no longer be performing hardware upgrades to any OEM Models.
 
-**When purchasing one of my recommended computers or laptops, depending on your needs, plan on spending $1000 or more.**
+**When purchasing one of my custom computers or recommended laptops, depending on your needs, plan on spending $1000 or more.**
 
 I apologize if this inconveniences you in any way.
 

@@ -44,3 +44,5 @@ I'll leave you with this quote from the character Nemik in the Star Wars TV seri
 >Remember that. And know this, the day will come when all these skirmishes and battles, these moments of defiance will have flooded the banks of the Empires’s authority and then there will be one too many. One single thing will break the siege.
 
 >Remember this: Try.
+
+If you are a power user like me, Linux is getting closer to a real alternative to Windows and it's about time as more and more companies move to anti-competitive practices, harming public trust and individual choice. In the long run, the products we use should be in our control and not the other way around. [Do what you can to make it harder for shady companies like Microsoft to dominate markets](https://www.fightforthefuture.org/) and support the [end of creative monopolies](https://www.endcreativemonopolies.com/).

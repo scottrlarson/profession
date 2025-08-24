@@ -2,7 +2,7 @@
 title = "Looking back at my transition from Windows to Linux in an anti-customer age"
 date = 2025-08-24T12:37:05-07:00
 draft = false
-summary = "A follow-up on successful transition from Windows to Linux as my daily driver. Microsoft's increasingly anti-consumer practices with Windows 11 vindicated my decision to leave in 2023."
+summary = "A follow-up on my successful transition from Windows to Linux as my daily driver. Microsoft's increasingly anti-consumer practices with Windows 11 vindicated my decision to leave in 2023."
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []

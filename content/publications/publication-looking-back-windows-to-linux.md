@@ -45,4 +45,8 @@ I'll leave you with this quote from the character Nemik in the Star Wars TV seri
 
 >Remember this: Try.
 
-If you are a power user like me, Linux is getting closer to a real alternative to Windows and it's about time as more and more companies move to anti-competitive practices, harming public trust and individual choice. In the long run, the products we use should be in our control and not the other way around. [Do what you can to make it harder for shady companies like Microsoft to dominate markets](https://www.fightforthefuture.org/) and support the [end of creative monopolies](https://www.endcreativemonopolies.com/).
+Linux is a real alternative to Windows now and it's about time as more and more companies move to anti-competitive practices, harming public trust and individual choice. In the long run, the products we use should be in our control and not the other way around. 
+
+If you are interested in switching from Windows contact me to go over your needs. I specialize in all kinds of computer setups.
+
+Alternativey, [do what you can to make it harder for shady companies like Microsoft to dominate markets](https://www.fightforthefuture.org/) and support the [end of creative monopolies](https://www.endcreativemonopolies.com/).

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utilities on Scott Larson</title>
+    <link>http://scottrlarson.com/categories/utilities/</link>
+    <description>Recent content in Utilities on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 20 Dec 2018 14:49:14 -0800</lastBuildDate>
+    <atom:link href="/categories/utilities/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>File Copy Transfer Utilities</title>
+      <link>http://scottrlarson.com/links/utilities/link-file-folder-utilities/</link>
+      <pubDate>Thu, 20 Dec 2018 14:49:14 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/links/utilities/link-file-folder-utilities/</guid>
+      <description>&lt;p&gt;When copying a lot of files, sometimes you need an advanced utility. This is a list of tools I use for my services.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A good article on the history behind coping files in bulk and a tool that was created to meet that need. &lt;a href=&#34;http://www.tpcqpc.com/richcopy-microsofts-multi-threaded-file-copy-utility/&#34; target=&#34;_blank&#34;&gt;RichCopy – Microsoft’s Multi-Threaded File Copy Utility&lt;/a&gt; is a Windows copy utilities for IT professionals.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fpnet.fr/&#34; target=&#34;_blank&#34;&gt;Fab&amp;rsquo;s Autobackup&lt;/a&gt; utility is a good tool to migrate Windows account profile data from one computer to another. I copies profile data and helps you setup a new profile with many of the features that need to be working after a successful migration like Outlook Email, and Web Browser History.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

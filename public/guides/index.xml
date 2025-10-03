@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides on Scott Larson</title>
+    <link>http://scottrlarson.com/guides/</link>
+    <description>Recent content in Guides on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 16 Aug 2018 09:33:32 -0700</lastBuildDate>
+    <atom:link href="/guides/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EZ CD Audio Converter Guide (Convert Mp3)</title>
+      <link>http://scottrlarson.com/guides/guide-ezcd-audio-converter-convert-mp3/</link>
+      <pubDate>Mon, 09 Oct 2023 10:45:52 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/guides/guide-ezcd-audio-converter-convert-mp3/</guid>
+      <description>&lt;p&gt;This guide covers the basics of converting music files from your current format to mp3 using &lt;a href=&#34;https://www.poikosoft.com/&#34; target=&#34;_blank&#34;&gt;EZ Audio Converter&lt;/a&gt;. If you have questions about this guide, please &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact me&lt;/a&gt;. For more in-depth in formation on how to use particular features, visit the &lt;a href=&#34;https://www.poikosoft.com/support/viewforum.php?f=1&amp;amp;sid=e131ddd29837646cba2e647a165b4b42&#34; target=&#34;_blank&#34;&gt;support page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;EZ CD Audio Converter is a music converter software designed for highest quality audio format conversions. Easy-to-use, the most comprehensive audio file format converter trusted by home users, audio enthusiasts, professionals, studios, and radio stations worldwide.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Download &amp;amp; Install &lt;a href=&#34;https://www.poikosoft.com/download/ez_cd_audio_converter_setup.exe&#34; target=&#34;_blank&#34;&gt;EZ CD Audio Converter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Launch EZ CD Audio Converter&lt;/li&gt;
+&lt;li&gt;In the left pane, navigate to the drive or directory containing your music files&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/EZCD-Audio-Converter/2023-10-09 10_28_03-EZ CD Audio Converter.png&#34; alt=&#34;EZ CD Audio Converter Window Opening&#34; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Drag the folders containing the files you want to convert.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/EZCD-Audio-Converter/2023-10-09 10_42_37-EZ CD Audio Converter.png&#34; alt=&#34;EZ CD Audio Converter Window Convert&#34; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Select the .mp3 format in the file type drop downtown&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/EZCD-Audio-Converter/2023-10-09 10_36_08-EZ CD Audio Converter.png&#34; alt=&#34;EZ CD Audio Converter Window File Type Selection&#34; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Specify the Output folder (&lt;strong&gt;note it should be different from the folder you already have your music in, otherwise it will create duplicate folders&lt;/strong&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/EZCD-Audio-Converter/2023-10-09 10_37_26-EZ CD Audio Converter.png&#34; alt=&#34;EZ CD Audio Converter Window Output Selection&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/EZCD-Audio-Converter/2023-10-09 10_39_08-Select Folder.png&#34; alt=&#34;EZ CD Audio Converter Window Output Chose&#34; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Click on the convert button at the top right to process the files you selected&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/EZCD-Audio-Converter/2023-10-09 10_42_09-EZ CD Audio Converter.png&#34; alt=&#34;EZ CD Audio Converter Window Done&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/EZCD-Audio-Converter/2023-10-09 10_40_13-Converting files.png&#34; alt=&#34;EZ CD Audio Converter Window Progress&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When the progress is done for each file, the files have been converted.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Use the Enpass Password Manager</title>
+      <link>http://scottrlarson.com/guides/guide-enpass-password-manager/</link>
+      <pubDate>Tue, 01 Nov 2022 06:33:32 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/guides/guide-enpass-password-manager/</guid>
+      <description>
+
+&lt;p&gt;This guide covers the basics of &lt;a href=&#34;http://scottrlarson.com/guides/guide-enpass-password-manager/#downloading-enpass&#34;&gt;setting up a Enpass on a new device&lt;/a&gt;, &lt;a href=&#34;http://scottrlarson.com/guides/guide-enpass-password-manager/#browser-extension&#34;&gt;how to add new information to Enpass&lt;/a&gt; and &lt;a href=&#34;http://scottrlarson.com/guides/guide-enpass-password-manager/#enpass-features&#34;&gt;how to use Enpass to log into your accounts&lt;/a&gt;. If you have questions about this guide, please &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact me&lt;/a&gt;. For more in-depth in formation on how to use particular features, visit the &lt;a href=&#34;https://support.enpass.io/home.htm&#34; target=&#34;_blank&#34;&gt;support page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Enpass is &lt;a href=&#34;https://en.wikipedia.org/wiki/Cross-platform_software&#34; target=&#34;_blank&#34;&gt;cross-platform&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Password_manager&#34; target=&#34;_blank&#34;&gt;Password Manager&lt;/a&gt;. A password manager is a computer program that allows users to store, generate, and manage your passwords for local applications, online services and even for information that you need to store and retrieve for other purposes. Learn about &lt;a href=&#34;publicationspublication-why-password-managers.md&#34; target=&#34;_blank&#34;&gt;why using a Password Manager is important&lt;/a&gt; and &lt;a href=&#34;recommendationsrecommendation-password-managers.md&#34; target=&#34;_blank&#34;&gt;why I recommend everyone use one&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Enpass relies on 3rd party &lt;a href=&#34;http://scottrlarson.com/terms/term-cloud-service&#34;&gt;cloud services&lt;/a&gt; to sync your information between your devices such as a PC/Mac Desktop, a Tablet or a phone. I choose solutions that are tolerant to change as much as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Diagram-Enpass.png&#34; alt=&#34;Graph on how Enpass works&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;understanding-how-enpass-works&#34;&gt;Understanding how Enpass Works&lt;/h2&gt;
+
+&lt;p&gt;Enpass can appear complicated at first, but once you understand how to use it, it will become second nature.&lt;/p&gt;
+
+&lt;p&gt;Enpass relies on 3 parts to keep track of and make entering passwords easier for you.&lt;/p&gt;
+
+&lt;p&gt;The first important component is the &amp;ldquo;&lt;strong&gt;Password Vault&lt;/strong&gt;&amp;rdquo;. This is an encrypted file where your information is stored. Any time you use Enpass to grab or save information, you do so via the Password Vault. Normally this file is stored on your computer. Enpass makes use of a &lt;strong&gt;Cloud Service&lt;/strong&gt; to synchronize information in your Vault to cloud storage. That way, when you setup Enpass on another device such as a mobile device, and add information into it, that information gets synced between any device you have setup Enpass on.&lt;/p&gt;
+
+&lt;p&gt;Normally, you can open your Vault and view/add information similar to an excel file. Copying and Pasting information out of an excel into a website can be cumbersome, if you have multiple sites you visit frequently. That&amp;rsquo;s why Enpass uses a &lt;strong&gt;Extension&lt;/strong&gt; for a web browser, integrating your Vault information with the login form&amp;rsquo;s of any particular website you frequent. This way Enpass can automatically enter and save information into website login forms as you type it.&lt;/p&gt;
+
+&lt;h2 id=&#34;downloading-enpass&#34;&gt;Downloading Enpass&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Website-Download.png&#34; alt=&#34;Enpass-Website-Download&#34; /&gt;
+Download &lt;a href=&#34;https://www.enpass.io/&#34; target=&#34;_blank&#34;&gt;Enpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Website-Download-Selction.png&#34; alt=&#34;Enpass-Website-Download-Selction&#34; /&gt;
+Chose the particular version that corosponds with the platform you use.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Website-Open-File.png&#34; alt=&#34;Enpass-Website-Open-File&#34; /&gt;
+Open the file and follow the instructions for your particular platform.&lt;/p&gt;
+
+&lt;h2 id=&#34;installing-enpass&#34;&gt;Installing Enpass&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Program-Install.png&#34; alt=&#34;Enpass-Program-Install&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Program-Cloud-Sync.png&#34; alt=&#34;Enpass-Program-Cloud-Sync&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Connect Enpass to the Cloud service you currently use. At some point it should ask you to create a Master Password for your Password Vault. Create a Password and save it in a secure but easily accessible location as you will frequently need it to access your information.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Program-Cloud-Sign-in.png&#34; alt=&#34;Enpass-Program-Cloud-Sign-in&#34; /&gt;
+Log into your cloud service&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Program-Cloud-Auth.png&#34; alt=&#34;Enpass-Program-Cloud-Auth&#34; /&gt;
+Provide authorization for Enpass to use your Cloud Service to store your Vault.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Program-Cloud-Link.png&#34; alt=&#34;Enpass-Program-Cloud-Link&#34; /&gt;
+If you get a prompt to allow this site to open the enpassauth link with Enpass Password Manager, chose Yes. If you have to do this process again in  the future, choosing Yes will make this process easier.&lt;/p&gt;
+
+&lt;h2 id=&#34;setting-up-enpass&#34;&gt;Setting Up Enpass&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Program-Settings-Valut.png&#34; alt=&#34;Enpass-Program-Settings-Valut&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the connection is completed, you should see the &amp;ldquo;Vault Settings&amp;rdquo; panel. If not, you can use the three dots at the upper right to access the settings. Here you can see the cloud service you have connected to and you can also change your Master Password.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Program-Settings-Security.png&#34; alt=&#34;Enpass-Program-Settings-Security&#34; /&gt;
+Click on the &amp;ldquo;Security&amp;rdquo; tab at the bottom and review the settings. I recommend changing the &amp;ldquo;System inactive for XX Minutes from 1 to 20 as 1 Minute is way to short of a time.&amp;rdquo; This means that have that amount of time has passed. Enpass will lock the Value, requiring you to reenter your Master Password before gaining access to your information. You can setup a 4 digit pin to make entering that information easier. Be sure to save that PIN number somewhere else, or commit it to memory so you wont forget it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Program-Settings-Broswer-Install-Extensions.png&#34; alt=&#34;Enpass-Program-Settings-Broswer-Install-Extensions&#34; /&gt;
+Click on  the &amp;ldquo;Browser&amp;rdquo; tab and click on &amp;ldquo;Install Extensions&amp;rdquo;. This will run you through the process of downloading and enabling an Extension for the Browser of your choice (A Browser is an application you use to access websites)&lt;/p&gt;
+
+&lt;h2 id=&#34;browser-extension&#34;&gt;Browser Extension&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://support.enpass.io/app/extension/installing_browser_extension.htm&#34; target=&#34;_blank&#34;&gt;More information on installing the browser extension&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://support.enpass.io/app/extension/connecting_browser_extension_to_enpass.htm&#34; target=&#34;_blank&#34;&gt;More information on connecting the browser extension&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Website-Broswer-Extensions-Install.png&#34; alt=&#34;Enpass-Website-Broswer-Extensions-Install&#34; /&gt;
+Chose the browser to install the Extension. The entry at the top will be highlighted, that is the Browser that is set as Default. (A default browser is one that opens by default when even you use a program that relies on connecting to the web. If you use another browser more often then the one selected, chose the options below.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Addon-Auth-PassCode-Full.png&#34; alt=&#34;Enpass-Addon-Auth-PassCode-Full&#34; /&gt;
+Enpass wants to make sure that this process is being done by a human so enter the code that is display in the top-right box.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Website-Broswer-Extension-Success.png&#34; alt=&#34;Enpass-Website-Broswer-Extension-Success&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you get a prompt asking you to make Enpass the Default for saving passwords, click yes. Otherwise your browser will try to take over saving passwords for you which defeats the purpose of relying on Enpass to handle that information for you.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;enpass-features&#34;&gt;Enpass Features&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;This guide shows you how to use Enpass from sites you already visit, for more detailed information about this process, read &lt;a href=&#34;https://support.enpass.io/app/extension/capturing_and_saving_new_items_in_enpass_using_browser_extension.htm&#34; target=&#34;_blank&#34;&gt;Capturing and saving new items in Enpass using the browser extension&lt;/a&gt;. If you want to enter information the manual way read &amp;ldquo;&lt;a href=&#34;https://support.enpass.io/app/item/adding_items_in_enpass.htm&#34; target=&#34;_blank&#34;&gt;Adding Items to Enpass&lt;/a&gt;&amp;ldquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Website-Login-Unlock-Auto-Add.png&#34; alt=&#34;Enpass-Website-Login-Unlock-Auto-Add&#34; /&gt;
+Start by visiting a website that you frequent the most, one that you want Enpass to handle passwords for.
+&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Website-Login-Add-Details.png&#34; alt=&#34;Enpass-Website-Login-Add-Details&#34; /&gt;
+Type in your Username and Password.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Website-Login-Add-Entry.png&#34; alt=&#34;Enpass-Website-Login-Add-Entry&#34; /&gt;
+Click &amp;ldquo;Add to Enpass&amp;rdquo;
+&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Website-Login-Add-Item.png&#34; alt=&#34;Enpass-Website-Login-Add-Item&#34; /&gt;
+Verify the details are correct. Use the &amp;ldquo;Show More&amp;rdquo; option to add additional information.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/Enpass/Enpass-Website-Login.png&#34; alt=&#34;Enpass-Website-Login&#34; /&gt;
+The next time you visit your site, and are logged out of that site, you can select the option associated with the site and Enpass will Auto-type that information in the fields for you.&lt;/p&gt;
+
+&lt;p&gt;Enpass will ask to auto-type information and auto-generate passwords for you when you create accounts. Please have at least one other device besides your main computer, such as a mobile device, setup with Enpass, so you can access that information on the go. After you have set up all your devices. I recommend using Enpass to auto-generate passwords for any site you access, instead of relying on a password you created. Its safer and easier to use this method as the auto-generated passwords are harder to guess by attackers, and easier because Enpass handles the remembering for you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Check PC Hardware Temperatures</title>
+      <link>http://scottrlarson.com/guides/guide-checking-hardware-temperatures/</link>
+      <pubDate>Thu, 11 Feb 2021 16:02:41 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/guides/guide-checking-hardware-temperatures/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;You alone are responsible and liable for any action you take as a result of reading this information.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Occasionally, hardware problems like bluescreens and system or video errors can be related to too high of hardware temperatures. Problems related to hardware temperatures usually appear intermittent, but they usually start to happen after the computer has been running for awhile, or when a resource intensive application has been running for awhile.&lt;/p&gt;
+
+&lt;p&gt;This guide aims to show you how to identify heat problems with your computer to rule out hard to troubleshoot system errors. This guide assumes you are using Firefox to download this tool. If you are using another browser, the download part will be different.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-start-by-downloading-cpuid-s-hardware-monitor-tool&#34;&gt;1. Start by downloading CPUID&amp;rsquo;s hardware monitor tool.&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/checking-hardware-temp/hwmonitor-google-search.png&#34; alt=&#34;hwmonitor-google-search&#34; /&gt;
+&lt;img src=&#34;http://scottrlarson.com/img/guides/checking-hardware-temp/hwmonitor-softwares-cpuid.png&#34; alt=&#34;hwmonitor-softwares-cpuid&#34; /&gt;
+&lt;img src=&#34;http://scottrlarson.com/img/guides/checking-hardware-temp/downloading-hwmonitor.png&#34; alt=&#34;downloading-hwmonitor&#34; /&gt;
+&lt;img src=&#34;http://scottrlarson.com/img/guides/checking-hardware-temp/opening-hwmonitor.png&#34; alt=&#34;opening-hwmonitor&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-open-and-run-the-hwmonitor-installer&#34;&gt;2. Open and Run the HWMonitor Installer&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/checking-hardware-temp/downloads.png&#34; alt=&#34;downloads&#34; /&gt;
+&lt;img src=&#34;http://scottrlarson.com/img/guides/checking-hardware-temp/open-file-security-warning.png&#34; alt=&#34;open-file-security-warning&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-run-through-the-installation-of-the-product-and-run-the-application&#34;&gt;3. Run through the installation of the product and run the application&lt;/h2&gt;
+
+&lt;p&gt;You will be presented with a screen that shows some diagnostic information. Look at the three areas highlighted in yellow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For Desktops&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Desktop&#34;&gt;&lt;a href=&#34;#fn:Desktop&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/strong&gt; The &lt;strong&gt;Case Ambient Temp&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:CaseAmbientTemp&#34;&gt;&lt;a href=&#34;#fn:CaseAmbientTemp&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; &lt;strong&gt;Value&lt;/strong&gt; should not be higher than 70C and not higher than the Processor or Video Temp &lt;strong&gt;Value&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Value&#34;&gt;&lt;a href=&#34;#fn:Value&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. The &lt;strong&gt;Processor Temp&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:ProcessorTemp&#34;&gt;&lt;a href=&#34;#fn:ProcessorTemp&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/strong&gt; &lt;strong&gt;Value&lt;/strong&gt; should not be above 70C, although the &lt;strong&gt;Max Temp&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:MaxTemp&#34;&gt;&lt;a href=&#34;#fn:MaxTemp&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/strong&gt; might be close to 70C. The &lt;strong&gt;Video Temp&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:VideoTemp&#34;&gt;&lt;a href=&#34;#fn:VideoTemp&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/strong&gt; Value can be a bit higher then the Processor Temp Value, but no more than 90C.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For Laptops&lt;/strong&gt;, because of the less space between parts, are typically designed to run much warming than the temperatures I specified for Desktops. Add 20C-40C to each number for laptops. So for Laptops, The &lt;strong&gt;Case Ambient Temp&lt;/strong&gt; Value column should not be higher than 90C and not higher than the Processor or Video Temp Value. The &lt;strong&gt;Processor Temp&lt;/strong&gt; Value should not be above 90C, although the Max temp might be close to 120C. The &lt;strong&gt;Video Temp&lt;/strong&gt; Value can be a bit higher then the Processor temp, but no more than 120C.
+&lt;img src=&#34;http://scottrlarson.com/img/guides/checking-hardware-temp/cpuid-hwmonitor.png&#34; alt=&#34;cpuid-hwmonitor&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If any of these numbers are beyond the specifications I recommend having your device serviced ASAP. Otherwise instabilities or hardware damage can occur. I usually perform this service for my customers, but if you don&amp;rsquo;t have the means, you can do some analysis yourself. Please be aware that opening your case, and not being careful what you touch, can lead to damage. The case can be checked for air flow obstructions. If there is a lot of dust in the case, or around the components, it can be blown out using canned air. If there is no, or minimal dust then something else is the problem, thermal paste might need to be reapplied to the processor (Professional done), or there might be a faulty piece of hardware in your system like a improperly functioning fan that needs to be replaced (Professional done). If you have questions about this guide, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:Desktop&#34;&gt;A &lt;strong&gt;Desktop&lt;/strong&gt; computer is a Tower based computer.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Desktop&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:CaseAmbientTemp&#34;&gt;The &lt;strong&gt;Case Ambient Temperature&lt;/strong&gt; is the overall temperature that exists inside the case resulting from the heat that all the hardware components give off. If the ambient temperature is too high, that heat will increase the temperature of the resulting hardware components, causing instability and hardware damage.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:CaseAmbientTemp&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:Value&#34;&gt;&lt;strong&gt;Value&lt;/strong&gt; is the &lt;strong&gt;current and realtime temperature value&lt;/strong&gt; of the section that is being measured.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Value&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:ProcessorTemp&#34;&gt;The &lt;strong&gt;CPU or processor temperature&lt;/strong&gt;, which is the brain of your computer. Knowing the temperatures of the processor is important because if it gets to high, the processor has a sensor that will trigger an immediate shutdown of the computer.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:ProcessorTemp&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:MaxTemp&#34;&gt;The Max temperature column displays the highest number measurement of temperature at one point, but did not stay there.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:MaxTemp&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:VideoTemp&#34;&gt;The &lt;strong&gt;Video Temperature section&lt;/strong&gt; measures the Graphics Processing Unit. The GPU drives your monitor or display. Know the temperature of the GPU can help you troubleshooting video glitches or system errors related to the GPU.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:VideoTemp&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Managing Macrium Reflect Backups For Beginners</title>
+      <link>http://scottrlarson.com/guides/guide-macrium-reflect-basic-management/</link>
+      <pubDate>Wed, 23 Dec 2020 14:57:52 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/guides/guide-macrium-reflect-basic-management/</guid>
+      <description>
+
+&lt;p&gt;Macrium Software was founded in 2006 when CEO and Founder Nick Sills experienced a personal data disaster and in the process discovered existing backup tools were not as good as he expected. Wanting a software solution that was practical and easy to use, Nick and his team developed Macrium Reflect to create a safe and secure disk image with ultra-fast recovery times.&lt;/p&gt;
+
+&lt;p&gt;This is a guide to help beginners perform some operations of managing their own backups. It outlines the basics, If you want to learn more information about specific options, check the &lt;a href=&#34;https://knowledgebase.macrium.com/&#34; target=&#34;_blank&#34;&gt;user guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can monitor backup schedules, change the day/time backups run and the settings for each backup. Mostly, Macrium does all the work automatically, but on occasion you might need to observe that the backups are running correctly or change a setting.&lt;/p&gt;
+
+&lt;p&gt;The most important parts to focus on are: Backups, Restores, Scheduling backup jobs.&lt;/p&gt;
+
+&lt;p&gt;With disaster recovery solutions, backing up is the process of creating an image file&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:image-file&#34;&gt;&lt;a href=&#34;#fn:image-file&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; of the contents of your computer that can be restored from later in the event of data loss&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:data-loss&#34;&gt;&lt;a href=&#34;#fn:data-loss&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; or a catastrophe&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:disaster-recovery-catastrophe&#34;&gt;&lt;a href=&#34;#fn:disaster-recovery-catastrophe&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Macrium Reflect (When setup to perform backups) automatically backs up your data usually to an external device like a portable storage device&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:portable-storage-device&#34;&gt;&lt;a href=&#34;#fn:portable-storage-device&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, or network attached storage device&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:network-attached-storage-device&#34;&gt;&lt;a href=&#34;#fn:network-attached-storage-device&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; on a regular basis. To determine when your computer backs up, start Macrium Reflect.&lt;/p&gt;
+
+&lt;p&gt;Open your start menu and type the first few letters of &amp;ldquo;Macrium&amp;rdquo;, you should see a screen like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/MacriumReflect/start-search-menu-macrium-reflect.png&#34; alt=&#34;Start Menu Search: Macrium Reflect&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you start Reflect, you should see a screen like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/MacriumReflect/macrium-reflect-main-interface-outline.png&#34; alt=&#34;Macrium Reflect: Main Screen&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on option 4, the &amp;ldquo;&lt;strong&gt;Scheduled Backups&lt;/strong&gt;&amp;rdquo; tab. You will be presented with a screen that shows you a set of backup schedules with the &lt;strong&gt;Name&lt;/strong&gt;, type of backup (Full, Differential, and Incremental), &lt;strong&gt;Schedule&lt;/strong&gt; (day and time the backup will run), the &lt;strong&gt;Next Run Time&lt;/strong&gt;, the &lt;strong&gt;Last Run Time&lt;/strong&gt; (when the backup ran previously), The &lt;strong&gt;Status&lt;/strong&gt; of the backup (Ready - will run on the next run time, Running - Currently running), &lt;strong&gt;Last Result&lt;/strong&gt; (Successful, or Failed):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/guides/MacriumReflect/macrium-reflect-scheduled-backups-menu.png&#34; alt=&#34;Macrium Reflect: Schedule Backups&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Due to the complexity of maintaining disaster recovery backups, in many cases, I &lt;a href=&#34;http://scottrlarson.com/system-management&#34;&gt;remotely manage&lt;/a&gt; backups for you as a service. If you have an interest in setting up a disaster recovery backup to secure your data and your desktop environment, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:image-file&#34;&gt;&lt;strong&gt;Image File&lt;/strong&gt;: In terms of disaster recovery backup, an image file is a file container that stores data from a backup to make managing and retrieving the backup data easier to access.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:image-file&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:data-loss&#34;&gt;&lt;strong&gt;Data Loss&lt;/strong&gt;: In terms of backup and recovery, data loss is when you lose access to a file, or a set of files, though accidental deletion, or file corruption.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:data-loss&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:disaster-recovery-catastrophe&#34;&gt;&lt;strong&gt;Catastrophe&lt;/strong&gt;: A situation where you are unable to access your device stemming from: Accidental damage, theft, or a physical disaster.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:disaster-recovery-catastrophe&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:portable-storage-device&#34;&gt;A &lt;strong&gt;Portable Storage Device&lt;/strong&gt; is a storage unit that sits near your computer, connected via USB or by some other connection.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:portable-storage-device&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:network-attached-storage-device&#34;&gt;A &lt;strong&gt;Network Attached Storage Device&lt;/strong&gt;, or NAS, is a storage device that is accessible from a network location in your home or office, that multiple computers can share.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:network-attached-storage-device&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Removing Duplicate Photos from your PC.</title>
+      <link>http://scottrlarson.com/guides/technology/guide-removing-duplicate-photos-dupeguru/</link>
+      <pubDate>Thu, 16 Aug 2018 09:32:03 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/guides/technology/guide-removing-duplicate-photos-dupeguru/</guid>
+      <description>&lt;p&gt;This guide shows you how to scan and remove duplicate photos using the PC application &amp;ldquo;&lt;a href=&#34;https://dupeguru.voltaicideas.net/&#34; target=&#34;_blank&#34;&gt;dupeGuru&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Launch DupeGuru from the desktop icon. Select the application mode for the appropriate files you are going to be scanning for: Standard, Music, or Pictures.&lt;/p&gt;
+
+&lt;p&gt;Since this guide is going to be for Pictures choose that mode.
+&lt;img src=&#34;http://scottrlarson.com/img/guides/dupeGuru/dupeGuru-mode-selected.png&#34; alt=&#34;dupeGuru Application Mode Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tap on the plus icon to choose the folders to scan for duplicates.
+&lt;img src=&#34;http://scottrlarson.com/img/guides/dupeGuru/dg-add.png&#34; alt=&#34;dupeGuru Add Path Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the left column, choose &amp;ldquo;This PC&amp;rdquo; and then select your &amp;ldquo;Pictures&amp;rdquo; folder then click &amp;ldquo;Select Folder&amp;rdquo; at the bottom right.
+&lt;img src=&#34;http://scottrlarson.com/img/guides/dupeGuru/dupeGuru-folder-select.png&#34; alt=&#34;dupeGuru Folder Selection Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the window disappears you will see a path to your pictures appear in the scan window. Click that path and then click &amp;ldquo;Scan&amp;rdquo; at the bottom right.
+&lt;img src=&#34;http://scottrlarson.com/img/guides/dupeGuru/dupeGuru-scan-selected.png&#34; alt=&#34;dupeGuru Scan Selection Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After that a progress bar will appear as DupeGuru gets to work.
+&lt;img src=&#34;http://scottrlarson.com/img/guides/dupeGuru/dupeGuru-scan.png&#34; alt=&#34;dupeGuru Scan Progress Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You may have to wait some time, depending on the size of the selected folders.&lt;/p&gt;
+
+&lt;p&gt;Eventually a list of matches appears on screen. Original files are marked in blue, with duplicates underneath, so tick individual files or select Mark and Mark All to tick everything at once. Files can be deleted, or copied or moved to another location for checking.
+&lt;img src=&#34;http://scottrlarson.com/img/guides/dupeGuru/dupeGuru-Results.png&#34; alt=&#34;dupeGuru Results Screenshot&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

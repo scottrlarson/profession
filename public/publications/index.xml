@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Scott Larson</title>
+    <link>http://scottrlarson.com/publications/</link>
+    <description>Recent content in Publications on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publications/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Looking back at my transition from Windows to Linux in an anti-customer age</title>
+      <link>http://scottrlarson.com/publications/publication-looking-back-windows-to-linux/</link>
+      <pubDate>Sun, 24 Aug 2025 12:37:05 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-looking-back-windows-to-linux/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I am a computer professional that helps the public with technology. I have been troubleshooting computer problems for over 25 years. To find out more about me, visit my &lt;a href=&#34;https://scottRlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In August of 2023, I &lt;a href=&#34;http://scottrlarson.com/publications/publication-transition-windows-to-linux/&#34; target=&#34;_blank&#34;&gt;wrote&lt;/a&gt; about my switch to Linux as a Windows-centric professional. I&amp;rsquo;ve dabbled in Linux as a daily driver in the past, but it has always ended in some form of defeat. Eventually returning to my abuser, Windows. It was a hard road leaving it behind, but determination can work wonders when flying the freedom skies. Starting with the release of Windows 11, Microsoft&amp;rsquo;s shady tactics increased to the point where it&amp;rsquo;s no longer a viable option for an operating system, unless you don&amp;rsquo;t mind that your desktop is used as an advertising platform, or being forced to allow Copilot, Recall and OneDrive abuse the relationship to your data. Much of the commercial software industry invested into proprietary applications have descended into chaos in the last five years. Recently an intense feeding frenzy for control over the user experience rose to an all time high. Subscriptions replacing purchases of software products is the biggest example of this.&lt;/p&gt;
+
+&lt;p&gt;In my previous article I was worried that I might give up, and switch back. Did I make it this time? Yes! Yes, I did. It&amp;rsquo;s been two years now. I finally weaned myself off of Big Daddy.  I do everything in Linux now. Obviously, there are still some pain points that I have a hard time with, but isn&amp;rsquo;t that true with any operating system?&lt;/p&gt;
+
+&lt;p&gt;As a survivor of that dependency, I sometimes feel that I am making the problem worse by installing and supporting Windows 11 for my customers. A new violation of trust is always just around the corner, even though I work very hard to remove or circumvent these hostile features.  OneDrive even silently reinstalled itself and moved one customer&amp;rsquo;s data to the cloud, all without consent. One day their data was on the local drive and the next it became online-only files that had to be downloaded from Microsoft&amp;rsquo;s servers. I see an avalanche of justifications from people still stuck on Windows. &amp;ldquo;It&amp;rsquo;s just a bug&amp;rdquo;, &amp;ldquo;These things will get ironed out in time&amp;rdquo; But the truth is that the freedom to choose is slowly being eroded. When we live in a consumer society where anti-trust seems to mean nothing, what does one do?  &lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.stopkillinggames.com/&#34; target=&#34;_blank&#34;&gt;StopKillingGames&lt;/a&gt; movement is of a similar line. Someone decided enough is enough and went toe to toe with what I consider corporate culture run amok in the AAA game industry. And then we have our friends in Europe that passed the Digital Markets Act, challenging Apple&amp;rsquo;s stranglehold on the App Store. I think Europe is positioning itself as the last bastion of hope for customer rights worldwide. With digital commerce, when rights are upheld in one country, other countries can receive the downstream effects. We are also starting to see &lt;a href=&#34;https://pirg.org/campaigns/right-to-repair/&#34; target=&#34;_blank&#34;&gt;RightToRepair&lt;/a&gt; challenges with &lt;a href=&#34;https://www.youtube.com/watch?v=8EWAIlX5d1Y&#34; target=&#34;_blank&#34;&gt;3rd party equipment providers that attempt to prevent 1st party servicing using IP arguments&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So what have I learned through all this? I&amp;rsquo;ve learned that making myself free requires effort. The technical challenges of Linux are a bit steeper, but not impossible. Ownership and control over products I purchased are more important than I realized. When I lose control over something I purchased, it disrupts my freedom, and this disruption affects the relationship with myself and the world. It happens slowly. First, I brush off violations to my freedom as an annoyance that needs to be routed around. Then, when more violations occur, I start to get angry that I have to waste more of my time fixing something that I didn&amp;rsquo;t break.&lt;/p&gt;
+
+&lt;p&gt;I realized that this anger is directed at myself. It&amp;rsquo;s actually a form of resentment towards myself for sacrificing something important for a minor inconvenience that’s designed to become a major roadblock by each iteration.&lt;/p&gt;
+
+&lt;p&gt;And this is the major sticking point. I cannot ignore that slow boil any longer. It&amp;rsquo;s time to see these dark patterns for what they are: a slow movement towards a feudal system where I will own nothing and be happy.&lt;/p&gt;
+
+&lt;p&gt;This problem is not just happening with software ownership; it&amp;rsquo;s happening everywhere.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll leave you with this quote from the character Nemik in the Star Wars TV series &amp;ldquo;Andor&amp;rdquo;: &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Remember this, Freedom is a pure idea. It occurs spontaneously and without instruction. Random acts of insurrection are occurring constantly throughout the galaxy. There are whole armies, battalions that have no idea that they’ve already enlisted in the cause.&lt;/p&gt;
+
+&lt;p&gt;Remember that the frontier of the Rebellion is everywhere. And even the smallest act of insurrection pushes our lines forward.&lt;/p&gt;
+
+&lt;p&gt;And remember this: the Imperial need for control is so desperate because it is so unnatural. Tyranny requires constant effort. It breaks, it leaks. Authority is brittle. Oppression is the mask of fear.&lt;/p&gt;
+
+&lt;p&gt;Remember that. And know this, the day will come when all these skirmishes and battles, these moments of defiance will have flooded the banks of the Empires’s authority and then there will be one too many. One single thing will break the siege.&lt;/p&gt;
+
+&lt;p&gt;Remember this: Try.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Linux is a real alternative to Windows now and it&amp;rsquo;s about time as more and more companies move to anti-competitive practices, harming public trust and individual choice. In the long run, the products we use should be in our control and not the other way around.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in switching from Windows contact me to go over your needs. I specialize in all kinds of computer setups.&lt;/p&gt;
+
+&lt;p&gt;Alternativey, &lt;a href=&#34;https://www.fightforthefuture.org/&#34; target=&#34;_blank&#34;&gt;do what you can to make it harder for shady companies like Microsoft to dominate markets&lt;/a&gt; and support the &lt;a href=&#34;https://www.endcreativemonopolies.com/&#34; target=&#34;_blank&#34;&gt;end of creative monopolies&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My transition from Windows to Linux in an anti-customer age</title>
+      <link>http://scottrlarson.com/publications/publication-transition-windows-to-linux/</link>
+      <pubDate>Sun, 26 Dec 2021 11:09:55 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-transition-windows-to-linux/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;I am a computer professional that helps the public with technology. I have been troubleshooting computer problems for over 25 years. To find out more about me, visit my &lt;a href=&#34;https://scottRlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Here I am, back in Windows. I&amp;rsquo;m realizing that my journey to a Freedom-Of-Choice Desktop environment is riddled with traps from my past. My familiarity with the apps and processes of Windows haunts my every move. It&amp;rsquo;s challenging  to find replacements and workarounds for what I used to be able to do&amp;hellip; But then my determination kicked in. If I really think about it, would it be such a loss to switch to a Linux alternative? I rebooted back into Linux and got to work. Any hope for a Windows-centric  guy to transcend his limitations and biases? Only time will tell&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;windows-11-has-reached-the-height-of-anti-customer-practices&#34;&gt;Windows 11 has reached the height of anti-customer practices.&lt;/h2&gt;
+
+&lt;p&gt;In 2015 when Windows 10 rebooted my machine to automatically install an update, closing down an unsaved document I was in the middle of working on, I vowed to stop using it. What the hell was Microsoft thinking? What happened to customer choice? I wasn&amp;rsquo;t completely ready to switch away from Windows at that point, but the idea of forcing updates in that manner seemed inherently wrong. It wasn&amp;rsquo;t until recently, with the release of Windows 11 that I decided I needed to do something.&lt;/p&gt;
+
+&lt;p&gt;I had been in the process already from switching away from Adobe Acrobat for my form generation tools, I provide computer services to the public using PDF forms to handle data collection. I did some major research on Linux alternatives for Acrobat. Realizing the options were next to zero due to the proprietary nature of XFA technology, I decided to find another approach. My contact resource management (CRM) solution, which I used to track jobs was ten years out of date, and at the time, I considered switching to another open-source alternative. But I would have to manage and maintain a server. As a one-man show, I realized I didn&amp;rsquo;t have the time for that. So I decided to pay the $65 a month and to switch over to ZohoCRM. It&amp;rsquo;s not an open-source solution, but I vetted the company and the service over the years and so far I have found them customer-friendly, and service orientated from a security and reliability perspective.&lt;/p&gt;
+
+&lt;p&gt;Please note that if you are, or plan on being a customer of mine, I will always support Windows as long as it survives. I am concerned about the Windows 11 online login requirement. I feel that this switch is really about data gathering on Microsoft&amp;rsquo;s part. Many corporations like Apple, Dell, HP and others are making unethical decisions in the pursuit of profit. As more and more consolidation happens in the market of software and hardware technology, attempts are made to lock customers into platform-specific eco-systems by creating a perception of reduced choice, delivering ad-based content without consent while making it difficult to opt-out, and circumventing 3rd party applications that attempt to route around these issues. And yes ethics is important for any business, if you are one of those people that think that ethics and business don&amp;rsquo;t go together, good luck with that.&lt;/p&gt;
+
+&lt;p&gt;When I heard about &lt;a href=&#34;https://www.theverge.com/2021/12/2/22813733/microsoft-windows-edge-download-chrome-prompts&#34; target=&#34;_blank&#34;&gt;Microsoft’s new Windows prompts attempting to stop people from downloading Chrome&lt;/a&gt; and &lt;a href=&#34;https://borncity.com/win/2021/11/12/windows-11-microsoft-erzwingt-edge-browser-in-protokollen/&#34; target=&#34;_blank&#34;&gt;the changes they make to future builds of the OS to prevent browser choice workarounds&lt;/a&gt; I realized I had enough. If this is the direction Windows is heading, I will have no part in it. I have an obligation to myself to support freedom of choice, which Is why I wrote an &lt;a href=&#34;https://www.scottrlarson.com/publications/publication-future-of-repairability/&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; outlining the future of open hardware and highlighting organizations that support the &lt;a href=&#34;https://www.repair.org/stand-up&#34; target=&#34;_blank&#34;&gt;right to repair&lt;/a&gt; movement.&lt;/p&gt;
+
+&lt;p&gt;In the years past, making a permanent switch to the Linux desktop environment always ended in defeat, eventually requiring a switch back to windows. Recently I saw the Linus Tech Tips video &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=_Ua-d9OeUOg&#34; target=&#34;_blank&#34;&gt;Install Linux instead of Windows 11&lt;/a&gt;&amp;rdquo; , hosted by one of Linus tech guys &amp;ldquo;Anthony&amp;rdquo; (Great host btw), and I saw how far Gaming on Linux has come with SteamPlay (Thank you Valve) and decided it was time to try the &lt;a href=&#34;https://pop.system76.com/&#34; target=&#34;_blank&#34;&gt;PopOS&lt;/a&gt; Linux distribution.&lt;/p&gt;
+
+&lt;p&gt;Along with the improvements to Gaming, I found that navigating the PopOS was a breath of fresh air. The pre-loaded App Launcher is exactly what I needed. I needed more fine-grained tiling of windows so I went with a few customizations like &amp;ldquo;gTile&amp;rdquo; a plug-in for Gnome that gives you more fine control over window placement.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-s-improved-and-what-can-use-work&#34;&gt;What&amp;rsquo;s improved, and what can use work&lt;/h2&gt;
+
+&lt;p&gt;The Linux Operating System has come a long way over 10 years and I appreciate that it&amp;rsquo;s becoming more of an alternative to Windows. But it still has issues, and not the fault of the operating system specifically but probably more about the support it has from the hardware and software developers.&lt;/p&gt;
+
+&lt;p&gt;For instance, the biggest problem for me was printing to my Epson Work Force Multi-Function device. CUPS or the Epson Linux drivers are problematic. Certain settings like duplex printing failed to work. I couldn&amp;rsquo;t for the life of me get the option for duplex printing to stick by default for my print jobs, and even manually selecting the option from within whatever program I was printing from didn&amp;rsquo;t always yield accurate results. I did some research online and some instructions involved editing script files, but come on man, I don&amp;rsquo;t want to be editing scripts just to print a page on both sides of the paper.&lt;/p&gt;
+
+&lt;p&gt;I did encounter issues around which versions of software I should have installed, at least with Wine. Especially when trying to get some of my preferred Windows applications working. Sometimes everything just works having the right PPA&amp;rsquo;s configured and in other cases, I&amp;rsquo;m not so sure. The package management system in Linux seems to be evolving, which is a good thing, but it can cause headaches to know which version of a piece of software you need and how to install it.&lt;/p&gt;
+
+&lt;p&gt;On the other end, the installer for PopOS makes installing basic apps very simple. I even tested a situation where I had a Zoom call and did not have Zoom installed yet and I was up in running within minutes.&lt;/p&gt;
+
+&lt;p&gt;Gaming seems pretty flawless with SteamPlay so far. But don&amp;rsquo;t fall into the trap of thinking you can install games on your mounted-in-linux windows partition as I did, what was I thinking!?!&lt;/p&gt;
+
+&lt;p&gt;If you are a power user like me, Linux is getting closer to a real alternative to Windows and it&amp;rsquo;s about time as more and more companies move to anti-competitive practices, harming public trust and individual choice. In the long run, the products we use should be in our control and not the other way around. &lt;a href=&#34;https://www.fightforthefuture.org/&#34; target=&#34;_blank&#34;&gt;Do what you can to make it harder for shady companies like Microsoft to dominate markets&lt;/a&gt; and support the &lt;a href=&#34;https://www.endcreativemonopolies.com/&#34; target=&#34;_blank&#34;&gt;end of creative monopolies&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Will one repairable laptop change the world?</title>
+      <link>http://scottrlarson.com/publications/publication-future-of-repairability/</link>
+      <pubDate>Sun, 26 Dec 2021 11:09:55 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-future-of-repairability/</guid>
+      <description>
+
+&lt;p&gt;In the last couple of years, laptop technology has been advancing in a direction of portability. Reducing the weight and size of technology enriches how we live. We now have mobile devices that are ultra-portable, and with these advancements it makes it possible to connect with friends and family, or create works of art, anywhere in the world.&lt;/p&gt;
+
+&lt;p&gt;What hasn&amp;rsquo;t advanced along with the portability of technology is the ecological impact we are having on the environment under this current paradigm.&lt;/p&gt;
+
+&lt;p&gt;The fault lies somewhere in the middle. The symbiosis between our need for new technology (to improve our lives) and the systems that make and sell this technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://scottrlarson.com/img/publications/future-repairability/waste.jpg&#34; alt=&#34;E-Waste&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the pursuit of innovation, we are creating a vast waste footprint. Recycling devices only produce about &lt;a href=&#34;https://circleit.us/blogs/news/the-e-waste-crisis&#34; target=&#34;_blank&#34;&gt;20% of usable materials&lt;/a&gt; that can be put back into use for other products. This means that 80% has to be used in ways other than recycling. I think we all know where the rest goes, in the landfill. That means our planet. It&amp;rsquo;s a major problem and solving it is going to require the smartest people on the planet.
+&lt;img src=&#34;https://scottrlarson.com/img/publications/future-repairability/repair-difficulty.jpg&#34; alt=&#34;Repair Difficulty&#34; /&gt;
+Right now, most laptop and tablet manufacturers are not doing all they can to make these devices easier to repair and last. It&amp;rsquo;s not entirely their fault. For the most part, they are responding to forces that are driven by the needs of the market. Although manufacturers have a part to play in creating better options for recycling and re-use, it&amp;rsquo;s up to us to decide how this is going to play out by our purchasing and discarding decisions.&lt;/p&gt;
+
+&lt;p&gt;Recently, many of the laptops I get in for repairs have been difficult to upgrade and service. The reason for this, at least from the reports from manufacturers, is that to make technology smaller, sacrifices need to be made in the device&amp;rsquo;s &lt;strong&gt;repairability&lt;/strong&gt;. From my technology research and recommendation experience, I have found that design decisions boils down to cost savings, increasing profits.  In some cases, it&amp;rsquo;s cheaper for the manufacturer to design hardware that integrates many of its components, I.E does not have external &lt;strong&gt;components&lt;/strong&gt; that can be changed out. Additionally, from a support perspective it&amp;rsquo;s more cost effective to limit repair resources for the life of the product. Device&amp;rsquo;s also gain performance and reliability benefits (during the life of the product) if components are integrated, rather than being upgradable.  But if one component fails on an integrated platform, the whole device needs to be replaced. This puts a larger cost burden on the customer, which manufacturers knowingly make a profit from. Compared to designing technology that can be upgraded and reused, its my understanding that this approach also creates more waste over time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.scottrlarson.com/img/publications/future-repairability/repairability.jpg&#34; alt=&#34;Framework&#39;s Repair it yourself option&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year, the company &lt;a href=&#34;https://frame.work/&#34; target=&#34;_blank&#34;&gt;Framework&lt;/a&gt; designed a laptop that is easy to repair and upgrade. The potential of this laptop to change our understanding of upgrading, repairability and portability should not be underestimated. Its design brings me back to the days during the beginning of the home computer revolution, where expanding the functionality of the device was the center piece of every product, not a forethought, like many devices are today. Framework is the first company, that I know of, that could be in a position to change the upgrade and discard landscape. The fact that this particular laptop even exists cuts through the lies and puts to shame Apple&amp;rsquo;s &lt;a href=&#34;https://www.macrumors.com/2019/04/30/apple-right-to-repair-consumer-harm/&#34; target=&#34;_blank&#34;&gt;argument&lt;/a&gt; that from a security and reliability perspective, it&amp;rsquo;s not a good idea to make devices more repairable.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://scottrlarson.com/img/publications/future-repairability/modularability.jpg&#34; alt=&#34;Modularability&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If the Framework laptop is anything at all, it&amp;rsquo;s hard proof that you can build a thin and light laptop without sacrificing repairability and upgradability. This one idea could be the spark that changes this industry for good. In a world of devices that have horribly unfriendly designs, we sorely need this kind of innovation. I&amp;rsquo;m glad Framework took the risk, at the very least causing a shift in perspective. There is a hurricane of attention right now on the &lt;a href=&#34;https://www.repair.org/stand-up&#34; target=&#34;_blank&#34;&gt;Right to Repair&lt;/a&gt; movement, and Framework is right in the center of it.&lt;/p&gt;
+
+&lt;p&gt;If the Framework Laptop catches on, it&amp;rsquo;s one possibility that might be worth investing in. You can &lt;a href=&#34;https://frame.work/#laptop-configuration&#34; target=&#34;_blank&#34;&gt;purchase an assembled&lt;/a&gt; unit or an &lt;a href=&#34;https://frame.work/products/laptop-diy-edition/configuration/edit&#34; target=&#34;_blank&#34;&gt;assemble-it yourself&lt;/a&gt; option from Framework now. Starting at $1000, the cost of a Framework Laptop is about $200-$300 more than a comparable model that is currently on the market. None of Framework&amp;rsquo;s competition have anything close to the expandability and repairability of Framework&amp;rsquo;s offering. I see the increase in cost as an early adoption investment for any person who wants to support sustainability.&lt;/p&gt;
+
+&lt;h2 id=&#34;other-recycling-and-reuse-options&#34;&gt;Other Recycling and Reuse Options&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.globalstewards.org/donate-computers.htm&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Donate to charity&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;:&lt;/strong&gt; If you think your old PC is no longer usable and just taking up space, donate it to a charitable organization. There are quite a few non-profit organizations that use old computers for administrative or instructional purposes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www2.calrecycle.ca.gov/WhereToRecycle/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Recycle&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;:&lt;/strong&gt; If your computer is too old to be of use to someone or is damaged beyond repair, don’t throw it away—recycle it. Some computer manufacturers offer nationwide programs to help the environment by recycling used computers. Check with the waste and recycling service in your city to find out if there are any special instructions to follow regarding the disposal of old computer equipment.&lt;/p&gt;
+
+&lt;p&gt;No matter what you do with an obsolete computer, make sure you have your &lt;a href=&#34;https://scottrlarson.com/services/data/erasing&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;data securely erased&lt;/strong&gt;&lt;/a&gt; before it leaves your control.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-your-guide&#34;&gt;About your guide&lt;/h2&gt;
+
+&lt;p&gt;I have been working with and writing about technology for over 20 years. I offer &lt;a href=&#34;https://www.scottrlarson.com/&#34; target=&#34;_blank&#34;&gt;computer services&lt;/a&gt; to the people of Santa Rosa and the surrounding areas. I also provide &lt;a href=&#34;https://www.scottrlarson.com/services/computer/assistance/online/&#34; target=&#34;_blank&#34;&gt;remote solutions&lt;/a&gt; to anyone over the internet. To find out more about me, and my services, visit my &lt;a href=&#34;https://www.scottrlarson.com/&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;. To request a consultation, &lt;a href=&#34;https://www.scottrlarson.com/#contact&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taking Windows 11 For a Spin - The Good, the Bad and the Ugly</title>
+      <link>http://scottrlarson.com/publications/publication-win11-good-bad-ugly/</link>
+      <pubDate>Mon, 20 Dec 2021 07:40:54 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-win11-good-bad-ugly/</guid>
+      <description>
+
+&lt;div class=&#34;alert-container&#34;&gt;
+  &lt;p&gt;Update (2022/03/14): Due to Microsoft&amp;rsquo;s anti-competitive practices, I can no longer recommend Windows 11 for use. For the average computer user, there is not many alternatives right now so I will continue to support customers who install and use it. You can read more about my stance in &lt;a href=&#34;https://www.scottrlarson.com/publications/publication-transition-windows-to-linux/&#34;&gt;my transition to the Linux Operating System for my own use&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Even though I think Windows 11 has potential in future releases, I strongly recommend &lt;strong&gt;NOT INSTALLING&lt;/strong&gt; it until mid-2023 as it has major stability issues that can cause productivity concerns with your device.  Better yet, sign up for my &lt;a href=&#34;https://www.scottrlarson.com/care&#34; target=&#34;_blank&#34;&gt;System Care Package&lt;/a&gt;, where I perform the upgrade, and work out any issues in a &lt;strong&gt;controlled environment&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;breakoutBox1&#34;&gt;2025/02/10: As Microsoft releases and deploys Windows 11 features that are anti-consumer, actively attempts to harm competing software, and anti-trust laws being ignored and not enforced. I suggest avoiding Windows 11 altogeather and moving towards open source software. Obviously moving to an open source operating system has its own pitfalls, but at the very least, its in your control. If you need help planning out how to migrate to an open source platform, &lt;a href=&#34;https://scottrlarson.com/#contact&#34;&gt;contact me&lt;/a&gt;.&lt;/div&gt;
+
+&lt;p&gt;What happened to the release of Windows 11? For those of you who follow Microsoft&amp;rsquo;s Windows evolution, this feels like a &lt;strong&gt;Windows Me&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Windows-Me&#34;&gt;&lt;a href=&#34;#fn:Windows-Me&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; release all over again. But just the way it was released and the bugs that prevented it from working correctly out-of-the-box. Windows 11 got a major facelift that was a long time coming and once the bugs are worked out, I think it&amp;rsquo;s going to improve your workflow.&lt;/p&gt;
+
+&lt;p&gt;You see, the problem started with Windows 8. Microsoft released the &lt;strong&gt;Metro User Desktop Experience(MUDE)&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:MUDE&#34;&gt;&lt;a href=&#34;#fn:MUDE&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, remember that full-screen start menu that nobody wanted to touch with a ten-foot pole? Yeah, that was Windows 8, a disaster waiting to happen, and for the number of times I downgraded Windows 8 to 7, it was. It was Microsoft&amp;rsquo;s first attempt at entering the mobile market with Windows. With an &amp;ldquo;Almost There&amp;rdquo; approach, it attempts to combine mobile elements with the desktop look of Windows.&lt;/p&gt;
+
+&lt;p&gt;Microsoft improved the &lt;strong&gt;Metro User Desktop Experience&lt;/strong&gt; in Windows 10. I mean, the full-screen start menu went dark, but the simplistic tablet design of Metro lived on in the &lt;strong&gt;Windows 10 Settings Menu&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Win-10-settings&#34;&gt;&lt;a href=&#34;#fn:Win-10-settings&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. Still a half-approach, but getting better as time went on.&lt;/p&gt;
+
+&lt;p&gt;Finally matured in 11. Microsoft took all the best elements of &lt;strong&gt;MUDE&lt;/strong&gt; and combined them into your favorite desktop experience. It&amp;rsquo;s the little details that make all the difference, details that you will probably never notice. Real innovation works like that. Well-designed &lt;strong&gt;User Desktop Experience&amp;rsquo;s&lt;/strong&gt; are so seamless to your everyday use, if you do look back, you will wonder how you ever lived without it.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-good&#34;&gt;The Good&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-start-menu&#34;&gt;The Start Menu&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://scottrlarson.com/img/publications/windows-11/windows11-startmenu.png&#34; alt=&#34;The Start Menu&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The new start menu reminds me of what you would see on a web browser home page like Mozilla Firefox or Google Chrome. It&amp;rsquo;s similar to the Windows 10 Start Menu, but the placement of elements is what makes all the difference. It&amp;rsquo;s way more intuitive than its predecessor, as the things that matter are all combined in areas of the pop-up window that makes logical sense.&lt;/p&gt;
+
+&lt;p&gt;It looks like Microsoft took inspiration from a utility called &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_PowerToys&#34; target=&#34;_blank&#34;&gt;Powertoys&lt;/a&gt;. It&amp;rsquo;s a tool that incorporates features that stream-lines basic tasks like &lt;strong&gt;batch renaming files or resizing images&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:batch-operations&#34;&gt;&lt;a href=&#34;#fn:batch-operations&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;. But PowerToys also has this tool called Powertoys Run which feels very similar to the Windows 11 Start Menu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.scottrlarson.com/img/publications/windows-11/windows11-powerrun.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But Microsoft borrowed other features from Powertoys that makes using Windows 11 very cool but will get to that later.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-settings&#34;&gt;The Settings&lt;/h3&gt;
+
+&lt;p&gt;For now, I want to focus on the &lt;strong&gt;Windows Settings Menu&lt;/strong&gt; which is supposed to be a replacement for the &lt;strong&gt;Windows Control Panel&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Windows-Control-Panel&#34;&gt;&lt;a href=&#34;#fn:Windows-Control-Panel&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. Remember I said that Microsoft didn&amp;rsquo;t quite let Windows 8 die? Right well, Microsoft brought some features from that failure to Windows 10. Thus was born the Settings Menu. From my standpoint, it was an annoying feature because it duplicated what was in the Control Panel. I mean, why reinvent the wheel? If it ain&amp;rsquo;t broke, don&amp;rsquo;t fix it.  Well, I&amp;rsquo;m eating my words now because they fixed it. It&amp;rsquo;s a significant improvement from the Windows 10 Settings Menu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.scottrlarson.com/img/publications/windows-11/windows11-tray-settings.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So what they did is combine the settings that are similar into menus and made these menus accessible from areas in the &lt;strong&gt;system tray&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:taskbar&#34;&gt;&lt;a href=&#34;#fn:taskbar&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;. Where the options should belong in the first place.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.scottrlarson.com/img/publications/windows-11/windows11-taskbar-settings.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you right-click on the &lt;strong&gt;taskbar&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:taskbar&#34;&gt;&lt;a href=&#34;#fn:taskbar&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;, the date/time, the speaker, or the internet icon, you are presented with a unified look that is very simple to look at and know what the options do.&lt;/p&gt;
+
+&lt;h3 id=&#34;snapgrids-snapgroups&#34;&gt;SnapGrids &amp;amp; SnapGroups&lt;/h3&gt;
+
+&lt;p&gt;The other cool feature I like, because I am a power user and I need my windows arranged in a very concise and organized way is the windows &lt;strong&gt;Snap Grids&lt;/strong&gt; feature.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.scottrlarson.com/img/publications/windows-11/windows11-snapgrid.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you hover your mouse pointer over the Minimize/Maximize option of any window, a &lt;strong&gt;Snap Grid&lt;/strong&gt; pops up giving you some choice on how you want those windows to be laid out on your desktop. These grids are called &lt;strong&gt;Snap Groups&lt;/strong&gt; and can be accessed at any time from the context menu when you hover your mouse pointer over the corresponding application in the Taskbar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.scottrlarson.com/img/publications/windows-11/windows11-snaplayouts.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you look at these three pop-up tiles, you will notice that the third window to the right has windows arranged in a Snap Group. If you click on that tile, your Snap Group gets restored. This makes it easy to switch between applications with the Snap Groups saved between each application.&lt;/p&gt;
+
+&lt;p&gt;Not all is well with this release though, improvements are needed, at least, in my book. Since I am a power user, my criticisms below might be biased.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-bad&#34;&gt;The Bad&lt;/h2&gt;
+
+&lt;h3 id=&#34;widgets&#34;&gt;Widgets&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.scottrlarson.com/img/publications/windows-11/windows11-widgets.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ugh!! Ok, I didn&amp;rsquo;t like &lt;strong&gt;News &amp;amp; Interests Widget&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:widget&#34;&gt;&lt;a href=&#34;#fn:widget&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; all that much when Microsoft included that little panel on the taskbar in a recent release of Windows 10, but the Windows 11 iteration is worse than I ever imagined.  You still can&amp;rsquo;t customize this window with your own news channels. Who gets their news from Bing anyway?!?!  I&amp;rsquo;ll have to say that it&amp;rsquo;s improving, and Microsoft is soliciting feedback right from the Widget so I hope to see some more customization options that are not coming from Microsoft-approved sites.&lt;/p&gt;
+
+&lt;h3 id=&#34;chat&#34;&gt;Chat&lt;/h3&gt;
+
+&lt;p&gt;Microsoft includes their not so famous Chat tool, &amp;ldquo;Microsoft Teams&amp;rdquo;, into Windows 11. Once again, I&amp;rsquo;d rather use my own tools for this purpose, but at least you can turn it off from the taskbar settings.&lt;/p&gt;
+
+&lt;h3 id=&#34;signing-into-windows&#34;&gt;Signing Into Windows&lt;/h3&gt;
+
+&lt;p&gt;Windows 11 now requires creating and signing in with a &lt;strong&gt;Microsoft Account&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:microsoft-account&#34;&gt;&lt;a href=&#34;#fn:microsoft-account&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;. This is good from a security perspective if you are used to using &lt;strong&gt;2 Factor Authentication&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2-factor-authentication&#34;&gt;&lt;a href=&#34;#fn:2-factor-authentication&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;, bad for quick setup and customization, especially for technical guys like me who &lt;a href=&#34;https://www.scottrlarson.com/services/computer/repair/system-configuration-upgrade/&#34; target=&#34;_blank&#34;&gt;set up their customer&amp;rsquo;s devices&lt;/a&gt; for them. I&amp;rsquo;ll now need to interface with customers to create or set up login details every time I set up a new device. It slows down my setup services but it&amp;rsquo;s not a show stopper. Also, some people don&amp;rsquo;t really need an online account to sign into their devices.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-ugly&#34;&gt;The Ugly&lt;/h2&gt;
+
+&lt;h3 id=&#34;premature-release&#34;&gt;Premature Release&lt;/h3&gt;
+
+&lt;p&gt;Windows 11 early launch has some real issues that actually break currently installed apps. I had to &lt;a href=&#34;https://www.scottrlarson.com/services/computer/assistance/upgrades/&#34; target=&#34;_blank&#34;&gt;roll a customer&amp;rsquo;s computer back to Windows 10&lt;/a&gt; recently due to issues Windows 11 was causing with currently installed applications.&lt;/p&gt;
+
+&lt;h3 id=&#34;driver-issues&#34;&gt;Driver Issues&lt;/h3&gt;
+
+&lt;p&gt;There are also driver issues that can cause hardware to suddenly stop working, which requires the problematic option of rolling back a driver, which doesn&amp;rsquo;t always stick due to Microsoft&amp;rsquo;s auto-update service.&lt;/p&gt;
+
+&lt;h3 id=&#34;gamer-performance-issues&#34;&gt;Gamer Performance Issues&lt;/h3&gt;
+
+&lt;p&gt;It has also been &lt;a href=&#34;https://gamerant.com/windows-11-security-gaming-performance-worse/&#34; target=&#34;_blank&#34;&gt;reported&lt;/a&gt; that there are some &lt;strong&gt;performance issues&lt;/strong&gt; with &lt;strong&gt;gaming&lt;/strong&gt; that I have not been able to confirm.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-context-menu&#34;&gt;The Context Menu&lt;/h3&gt;
+
+&lt;p&gt;Right-clicking on a file or folder has a simpler list of options, which is nice for a basic user, but the advanced options are hidden away in a secondary advanced options menu. Imagine having to toggle a separate menu each time you have to do a simple operation of opening a file in a different application? Good luck with that Microsoft. I&amp;rsquo;m sure there will be a workaround for this soon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.scottrlarson.com/img/publications/windows-11/windows11-context-menu.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;default-apps-settings&#34;&gt;Default Apps Settings&lt;/h3&gt;
+
+&lt;p&gt;The biggest headache so far, at least for me, and I&amp;rsquo;m sure my customers are not going to like it as well, is the default settings for opening applications. In Windows 10, there was an easy way to change the defaults for your groups of file types related to things like your mail and applications, but now there is this convoluted settings panel that forces you to choose an app for every file type, making it very difficult, especially for average users, to change the way files open. Due to the way in which this tool was changed, I think it was a deliberate attempt by Microsoft to keep people on the Edge browser, and other default apps included with Windows to boost their own stats on how many people use their applications. It&amp;rsquo;s really a shame, and it makes be think twice about recommending Windows 11 to anyone, but hay, Windows 10 support ends in 2025 so you won&amp;rsquo;t have much of a choice anyway.&lt;/p&gt;
+
+&lt;p&gt;This hurts developers like Mozilla. Consider &lt;a href=&#34;https://www.fightforthefuture.org/news/2021-08-04-end-creative-monopolies-fight-for-the-future/&#34; target=&#34;_blank&#34;&gt;supporting the end of creative monopolies&lt;/a&gt; as they oppress developers and undermine social justice.  I am very wary of any company that attempts to lock their uses into &lt;strong&gt;software ecosystems&lt;/strong&gt;. Obviously, there are limitations to switching completely away from Windows, but I work to free myself from these limitations where I can. This is the main reason why I am switching away from Adobe products and working on open-source solutions.  In my view, coming from 20+ years in the technology industry, individual choice is vitally important to the development of technology for an open and transparent society. When you limit your customers from making choices, you no longer deserve trust. Hence why an open-source developers often design software alternatives to break away from these limitations.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-bottom-line&#34;&gt;The Bottom Line&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;d wait to purchase any new device with Windows, at least until the middle of 2022. If you do purchase a new device, check to see if there is a Windows 10 option before purchasing. If you are thinking of upgrading, my recommendation is to wait until the bugs have been worked out.&lt;/p&gt;
+
+&lt;p&gt;For now, Windows 11 is one step in the right direction, but a giant tumble in the other, with its unpolished and unfinished current state. That might change soon though. I&amp;rsquo;m really looking forward to the restoral of the default app options that Microsoft has removed to make my job of servicing you easier and less costly.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.scottrlarson.com/#contact&#34; target=&#34;_blank&#34;&gt;Let me know&lt;/a&gt; what you think about these new features yourself, or if you have any questions about your needs!&lt;/p&gt;
+
+&lt;h3 id=&#34;pros-and-cons&#34;&gt;Pros and Cons&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Clean and simplified new user desktop experience&lt;/li&gt;
+&lt;li&gt;Excellent new productivity options like Snap Layouts and Snap Groups&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Premature release causing issues for many businesses and users&lt;/li&gt;
+&lt;li&gt;The Widgets news feed is limited and only includes Microsoft&amp;rsquo;s services&lt;/li&gt;
+&lt;li&gt;The new Default Apps interface is anti-competitive&lt;/li&gt;
+&lt;li&gt;Windows 11 requires a Microsoft account and the device needs to be online to set it up&lt;/li&gt;
+&lt;li&gt;The taskbar needs work as you are unable to change many of its options&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:Windows-Me&#34;&gt;&lt;strong&gt;Windows Millennium Edition&lt;/strong&gt;, or &lt;strong&gt;Windows Me&lt;/strong&gt; is an &lt;a href=&#34;https://en.wikipedia.org/wiki/Operating_system&#34; target=&#34;_blank&#34;&gt;operating system&lt;/a&gt; developed by &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft&#34; target=&#34;_blank&#34;&gt;Microsoft&lt;/a&gt; as part of its &lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_9x&#34; target=&#34;_blank&#34;&gt;Windows 9x&lt;/a&gt; family of &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Windows&#34; target=&#34;_blank&#34;&gt;Microsoft Windows&lt;/a&gt; operating systems. It is the successor to &lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_98&#34; target=&#34;_blank&#34;&gt;Windows 98&lt;/a&gt;, and was released to manufacturing on June 19, 2000, and then to retail on September 14, 2000. It was Microsoft&amp;rsquo;s main operating system for home users until the introduction of its successor &lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_XP&#34; target=&#34;_blank&#34;&gt;Windows XP&lt;/a&gt; in 2001.[&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_Me#cite_note-6&#34; target=&#34;_blank&#34;&gt;6]&lt;/a&gt; Windows Me is viewed as one of the worst operating systems Microsoft has ever produced, being unfavorably compared to its immediate predecessor and successor.[&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_Me#cite_note-cwworstwindows-64&#34; target=&#34;_blank&#34;&gt;64]&lt;/a&gt; Due to its many bugs and glitches, Windows Me is considered one of the worst operating systems of all time. A &lt;em&gt;PC World&lt;/em&gt; article dubbed Windows Me the &amp;ldquo;Mistake Edition&amp;rdquo; and placed it 4th in their &amp;ldquo;Worst Tech Products of All Time&amp;rdquo; feature in 2006.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Windows-Me&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:MUDE&#34;&gt;A term I created to outline the Metro User Desktop Experience. The Metro UI (User Interface) was first developed with the release of Windows 8. It included features to simplify the user experience: Larger Icons, Removing extraneous information and streamlining the look and feel of the UI to appeal to casual users. This first iteration implemented in Windows 8 was a disaster because Windows has always been a desktop computing experience and many people preferred the original UI design. Eventually, Microsoft improved its design in Windows 10 and now in Windows 11, it has matured.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:MUDE&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:Win-10-settings&#34;&gt;Microsoft developed a new UI(User Interface) in Windows 10 that was based on the Metro User Desktop Experience from Windows 8. &lt;a href=&#34;https://en.wikipedia.org/wiki/Settings_(Windows)&#34; target=&#34;_blank&#34;&gt;The Windows 10 Settings User Interface&lt;/a&gt; was similar to The Windows 8 experience but it was improved to be more user friendly.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Win-10-settings&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:batch-operations&#34;&gt;A tool or method of applying a particular setting that you want to be applied across a group of files
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:batch-operations&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:Windows-Control-Panel&#34;&gt;The &lt;strong&gt;Control Panel&lt;/strong&gt; is a component of &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Windows&#34; target=&#34;_blank&#34;&gt;Microsoft Windows&lt;/a&gt; that provides the ability to view and change system settings. See the &lt;a href=&#34;https://en.wikipedia.org/wiki/Control_Panel_(Windows)&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt; article for more information.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Windows-Control-Panel&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:taskbar&#34;&gt;A &lt;strong&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Taskbar&#34; target=&#34;_blank&#34;&gt;taskbar&lt;/a&gt;&lt;/strong&gt; is an &lt;a href=&#34;https://en.wikipedia.org/wiki/Graphical_user_interface_elements&#34; target=&#34;_blank&#34;&gt;element&lt;/a&gt; of a &lt;a href=&#34;https://en.wikipedia.org/wiki/Graphical_user_interface&#34; target=&#34;_blank&#34;&gt;graphical user interface&lt;/a&gt; which has various purposes. It typically shows which &lt;a href=&#34;https://en.wikipedia.org/wiki/Computer_program&#34; target=&#34;_blank&#34;&gt;programs&lt;/a&gt; are currently running along with a system tray along the right of the taskbar that has the date &amp;amp; time with the controls for sound and networking. It also contains the options for apps running in the background.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:taskbar&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:widget&#34;&gt;A Widget is a little application that allows you to customize it to display personalized information or perform some action.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:widget&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:microsoft-account&#34;&gt;A Microsoft Account is a single sign-on user account for Microsoft customers to sign into online services related to Microsoft&amp;rsquo;s products. With the introduction of Windows 10 and 11, Microsoft introduced signing into your computer using a Microsoft Account. This makes it easier to change your password and you can sync custom settings and features between multiple devices. Microsoft has been pushing this feature aggressively in Windows 10, and now with it being required to set up Windows 11 it feels forced. Data collection concerns are a real problem for many people and this way of signing circumvents that.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:microsoft-account&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2-factor-authentication&#34;&gt;An a &lt;a href=&#34;https://en.wikipedia.org/wiki/Multi-factor_authentication&#34; target=&#34;_blank&#34;&gt;secondary authentication method&lt;/a&gt; used in conjunction with a sign-on password which aims to prevent access by an unauthorized third party that may have been able to discover the account password.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2-factor-authentication&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why everyone should use a password manager</title>
+      <link>http://scottrlarson.com/publications/publication-why-password-managers/</link>
+      <pubDate>Wed, 03 Mar 2021 11:00:52 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-why-password-managers/</guid>
+      <description>
+
+&lt;p&gt;We are in an age where password security is becoming very important to our ability to function in society, but not for the reasons you expect. The password strength, although a problem, isn&amp;rsquo;t the real problem. The real problem is having to remember passwords for the multitude of online accounts we are forced to create to survive in the modern age of technology. In a &lt;a href=&#34;https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic&#34; target=&#34;_blank&#34;&gt;survey&lt;/a&gt; performed last year by Digital Guardian, an average person or business associates their email address with 130 accounts.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s a lot of online accounts. Do you really want to try and remember that many passwords? Even worse, do you want to use the same couple of passwords for your all your online services? What if one of those sites has poor security and their password database gets compromised? That one password you use across many sites can be used by an attacker to access other accounts and make your life miserable.&lt;/p&gt;
+
+&lt;p&gt;I have talked to a few customers about using a password manager to circumvent this problem and the main fear is having their master password circumvented. Most password managers are not as easily accessible to online hackers (Depending on which solution you use) and it&amp;rsquo;s much more likely that one of your online accounts will be hacked instead. Plus password managers are designed to generate long, hard to guess passwords for each online service, and the application makes it easier to type those passwords into online accounts, so it&amp;rsquo;s not really a question of one of your passwords getting compromised (Unless you don&amp;rsquo;t use the password manager in the way it was intended.)&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-a-password-manager&#34;&gt;What is a password manager?&lt;/h2&gt;
+
+&lt;p&gt;A password manager is similar to an excel spread sheet that you might create yourself to store information with the option of using that spreadsheet to auto generate a complicated passwords and auto-type them for you when you visit your most frequented sites. Password managers help you secure all kinds of information for you and it&amp;rsquo;s designed to keep that information safe.&lt;/p&gt;
+
+&lt;h2 id=&#34;which-password-manager-should-you-use&#34;&gt;Which password manager should you use?&lt;/h2&gt;
+
+&lt;p&gt;Check out my &lt;a href=&#34;http://scottrlarson.com/recommendations/recommendation-password-managers/&#34;&gt;recommendations&lt;/a&gt; for password managers. If you have any questions about software tools like this &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact me&lt;/a&gt;, I can help you understand and use these tools that help you stay up to date with protecting your digital information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Data Recovery Works and the Technology Behind It</title>
+      <link>http://scottrlarson.com/publications/publication-how-data-recovery-works/</link>
+      <pubDate>Sat, 11 Jul 2020 13:41:40 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-how-data-recovery-works/</guid>
+      <description>
+
+&lt;p&gt;This publication focus on helping beginners understand if and when data can be recovered. This information is for understanding how the recovery process works and is not to be used as a guide for recovering data. If you don&amp;rsquo;t have the experience of recovering data you could make the problem worse. There are many factors that could prevent successful recovering of your data. I will not be held liable, or responsible for any actions you take as a result of using information.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-technology&#34;&gt;The Technology&lt;/h2&gt;
+
+&lt;p&gt;As of 2020, most devices have two &lt;a href=&#34;#terms&#34;&gt;storage&lt;/a&gt; technologies: &lt;a href=&#34;#terms&#34;&gt;Hard Disk (HDD)&lt;/a&gt; and &lt;a href=&#34;#terms&#34;&gt;Solid State (SSD)&lt;/a&gt; technology. Depending on which technology your device uses, the way in which the data has been lost, and the knowledge of what solutions are available determines the likelihood of data being recovered.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-plan&#34;&gt;The Plan&lt;/h2&gt;
+
+&lt;h3 id=&#34;identify-the-model&#34;&gt;Identify the Model&lt;/h3&gt;
+
+&lt;p&gt;Start with identifying your device&amp;rsquo;s model. That can be found on a sticker or plate attached to the device. Where this sticker or plate exists is determined by the &lt;a href=&#34;#terms&#34;&gt;form factor&lt;/a&gt; of the device. For Desktops it&amp;rsquo;s usually printed on one side of the computer case. You may have to shutdown the device to move it into a position to see the information. With laptops and tablets its usually printed on the back of the device. Sometimes the print is so small or non-existent, you may then need software from the manufacture to obtain the information. Or you could use the device&amp;rsquo;s operating system tools. With PC&amp;rsquo;s and Laptops running Windows you can use the &lt;a href=&#34;#terms&#34;&gt;System Information&lt;/a&gt;, for Mac&amp;rsquo;s its under &lt;a href=&#34;#terms&#34;&gt;System Preferences&lt;/a&gt;, and for tablets its under the device&amp;rsquo;s &lt;a href=&#34;#terms&#34;&gt;settings&lt;/a&gt; tools.&lt;/p&gt;
+
+&lt;h3 id=&#34;find-out-which-storage-device-your-device-uses&#34;&gt;Find out which storage device your device uses&lt;/h3&gt;
+
+&lt;p&gt;After you obtain the model information you can then use the Manufactures website to look up the storage device&amp;rsquo;s type. You need to find out if your device uses HDD or SSD technology. Or you could use the device&amp;rsquo;s operating system tools. With PC&amp;rsquo;s and Laptops running Windows you can use the &lt;a href=&#34;#terms&#34;&gt;System Information&lt;/a&gt;, for Mac&amp;rsquo;s its under &lt;a href=&#34;#terms&#34;&gt;System Preferences&lt;/a&gt;, and for tablets its under the device&amp;rsquo;s &lt;a href=&#34;#terms&#34;&gt;settings&lt;/a&gt; tools. The storage device type should be shown in the tool itself under storage drives or disks.&lt;/p&gt;
+
+&lt;p&gt;If your device uses a SSD and the information was erased using a delete file/folder or format command your data is gone. On the other hand if your device uses a HDD you can use a recovery tool to recovery that data, but you have to be sure that you stop writing to that drive (saving information, or using the device on a regular basis and go right into recovery mode. I will not recommend a product due to the limitations of each product. Put you can find a product online using a google search &amp;ldquo;Data Recovery Software&amp;rdquo;.&lt;/p&gt;
+
+&lt;h3 id=&#34;recovering-data&#34;&gt;Recovering Data&lt;/h3&gt;
+
+&lt;p&gt;If your data recovery situation meets the requirements in the storage device section. You can use a tool to scan for the information you lost and see what it finds, you can then select the data that is able to be recovered. You most definitely want to store this information on another storage device like a USB Flash drive or external HDD as overwriting information on the storage device you are trying to recover from can actually wipe out the data you are trying to recover.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Recovering data successfully can be tricky depending on the complexity of the loss itself. If you lost your own personal data, you own the device, and you need help recovering it, you can consult with me on a data recovery analysis. Please note that recovering data in a forensic situation requires a &lt;a href=&#34;#terms&#34;&gt;forensic recovery&lt;/a&gt; expert and there are legal constraints about recovering personal data from another person&amp;rsquo;s storage device.&lt;/p&gt;
+
+&lt;h2 id=&#34;terms&#34;&gt;terms&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hard Disk Drive Technology&lt;/strong&gt;: A hard disk drive (HDD), hard disk, hard drive, or fixed disk is an electro-mechanical data storage device that uses magnetic storage to store and retrieve digital data using one or more rigid rapidly rotating platters coated with magnetic material.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Solid State Drive Technology&lt;/strong&gt;: A solid-state drive (SSD) is a solid-state storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory, and functioning as secondary storage in the hierarchy of computer storage&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Form Factor&lt;/strong&gt;: The physical size and shape of a piece of computer hardware.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage Device&lt;/strong&gt;: A piece of computer equipment on which information can be stored.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Forensic Recovery&lt;/strong&gt;: Relating to or denoting the application of scientific methods and techniques to the investigation of crime.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Part 1 Scam Avoidance: How to Spot and Protect Yourself from Scams</title>
+      <link>http://scottrlarson.com/publications/publication-scam-avoidance/</link>
+      <pubDate>Wed, 15 Apr 2020 11:00:00 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-scam-avoidance/</guid>
+      <description>
+
+&lt;p&gt;This is the 1st part of a 3 part series in protecting yourself from on-line and of-line scams.&lt;/p&gt;
+
+&lt;p&gt;With the 2020 COVID-19 crisis causing many to work from home, it&amp;rsquo;s more important than ever to have a set of tools to deal with threats that come your way.&lt;/p&gt;
+
+&lt;p&gt;In this publication, I will help you &lt;strong&gt;identify threats&lt;/strong&gt; so that you can &lt;strong&gt;avoid being deceived&lt;/strong&gt; by malicious calls to action. If your &lt;strong&gt;device has been compromised&lt;/strong&gt; by a scam, its important to &lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#protecting-yourself-after-the-scam&#34;&gt;learn&lt;/a&gt; how to deal with an attack after the fact.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance#the-best-security-is-awareness&#34;&gt;The best security is awareness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance#the-psychology-behind-decision-making&#34;&gt;The psychology behind decision making&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance2#avoiding-scams&#34;&gt;Avoiding Scams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#protecting-yourself-after-the-scam&#34;&gt;Protecting yourself after the Scam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#protect-your-on-line-accounts&#34;&gt;Protect your on-line accounts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3/#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#updates&#34;&gt;Updates: Spying on the Scammers Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#terms&#34;&gt;Terms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-best-security-is-awareness&#34;&gt;The best security is awareness&lt;/h2&gt;
+
+&lt;p&gt;Many security measures can help protect your device, but when you become the target, awareness, and education is your best defense. In the last five or ten years, as computer security keeps getting better, many attackers have moved from computer infiltration to targeting &lt;em&gt;you&lt;/em&gt; through what&amp;rsquo;s called a &amp;ldquo;Social Engineering Attack&amp;rdquo;. A term used to encompass a broad range of malicious activities to extort money from you.&lt;/p&gt;
+
+&lt;p&gt;Social engineering attacks happen in one or more steps:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;An attacker does background research on a set of victims in a specific demographic. The goal is to target the most vulnerable people of society, like the elderly.&lt;/li&gt;
+&lt;li&gt;Vulnerabilities are discovered.&lt;/li&gt;
+&lt;li&gt;Armed with the necessary information from step one and two, the attacker uses psychological manipulation in the form of a pointed written message, or phone conversation, to trick you into giving away sensitive information.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Attackers will likely attempt to trick you with a message that conveys an &lt;strong&gt;illusion of authority&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:illusion-authority&#34;&gt;&lt;a href=&#34;#fn:illusion-authority&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, and a sense of urgency. As an example, you may get a pop-up on your screen that your computer has been compromised, asking you to urgently call a number. You might get an email stating that you are required by law to make contact with a government representative because the IRS didn&amp;rsquo;t receive your tax return, or you might even get a call from the attacker, without any action on your part, claiming to be working for Microsoft and that your computer is unprotected.&lt;/p&gt;
+
+&lt;p&gt;With any unfamiliar situation, remember to take a deep breath and relax. 99% of communications that attempt to compel you to act with the above tactics are false. These kinds of attacks are most successful when you are in a state of panic. Legitimate business dealings happen on their own with no outside coercion. If at any time you feel forced to perform an action, step back, regroup, and gather information from outside sources. In these circumstances, you never, ever, have to take an immediate action. You always have recourse, but it takes time and patience to find alternatives.&lt;/p&gt;
+
+&lt;p&gt;The most likely indicators of a social engineering attack include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Urgency&lt;/strong&gt;: A communication that expresses a tremendous sense of urgency, often through fear, intimidation, a crisis, or an important deadline. Attackers can be good at creating convincing messages that appear to come from an authority, or even someone you know.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pressure&lt;/strong&gt;:  A message that creates a sense of &amp;ldquo;No Option&amp;rdquo;. The language indicates that you must act right away, and many interactions will even attempt to get you to bypass or ignore security measures designed to protect you, such as giving out your password to your online bank account.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Illusion of Authority&lt;/strong&gt;: A author or caller who uses an authoritative tone of voice or a written strong-worded message. This kind of interaction can be framed in many ways, but it works best when an attacker impersonates an agent from a government establishment or a reputable company. The attacker will attempt to use language that sounds authoritative to gain a position of superiority over you. The ultimate goal is to get you to perform an action that, on the surface, appears to benefit you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-psychology-behind-decision-making&#34;&gt;The psychology behind decision making&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s good to learn a bit about your decision-making process. Recognize your particular temperament when it comes to obstacles and challenges. Ask yourself these questions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How do you hold up under pressure?&lt;/li&gt;
+&lt;li&gt;Do you need to avoid circumstances that lead you to make snap decisions?&lt;/li&gt;
+&lt;li&gt;Can you practice breathing, and walking away?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contemplate on these questions and make a reminder or a mental note for any future dealings with aggressive queries.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;My goal in the first part of this publication is to attempt to make you aware of some of the common ways in which a scammer operates. When dealing with solicited requests for information, don&amp;rsquo;t be afraid to err on the side of caution. It&amp;rsquo;s better to be safe, then sorry. In &lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance2&#34;&gt;part 2&lt;/a&gt; I will discuss techquies of avoiding being a victim of a Scam.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about this publication, or you would like help with your computer&amp;rsquo;s security, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact&lt;/a&gt; me. I can assess your protection, and offer suggestions to improve your online safeguards.&lt;/p&gt;
+
+&lt;h2 id=&#34;part-2-publications-publication-scam-avoidance2&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance2&#34;&gt;Part 2..&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:illusion-authority&#34;&gt;&lt;strong&gt;Illusion of authority&lt;/strong&gt; is a term to describe a psychological interaction between two individuals or a group. An author of a letter, email, call or in-person encounter attempts to put themselves in a position of authority by using psychological tactics against you in an attempt to get you acquiesce your freedom of choice.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:illusion-authority&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Part 2 Scam Avoidance: Avoiding Scams</title>
+      <link>http://scottrlarson.com/publications/publication-scam-avoidance2/</link>
+      <pubDate>Wed, 15 Apr 2020 11:00:00 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-scam-avoidance2/</guid>
+      <description>
+
+&lt;p&gt;This is the 2nd part of a 3 part series in protecting yourself from on-line and of-line scams. In &lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance&#34;&gt;part 1&lt;/a&gt; I attempted to make you aware of some of the common ways in which a scammer operates. In this part of series, I will talk about ways you can avoid scams by being aware what to look for, and using technology to help you avoid scamms altogeather.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance#the-best-security-is-awareness&#34;&gt;The best security is awareness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance#the-psychology-behind-decision-making&#34;&gt;The psychology behind decision making&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance2#avoiding-scams&#34;&gt;Avoiding Scams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#protecting-yourself-after-the-scam&#34;&gt;Protecting yourself after the Scam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#protect-your-on-line-accounts&#34;&gt;Protect your on-line accounts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3/#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#updates&#34;&gt;Updates: Spying on the Scammers Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#terms&#34;&gt;Terms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;avoiding-scams&#34;&gt;Avoiding Scams&lt;/h2&gt;
+
+&lt;h3 id=&#34;search-results&#34;&gt;Search Results&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Skipping Ads with an Adblocker&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To avoid Ad listings in search results entirely, you can use a reputable Adblocker. Be aware that not all adblockers are created equal, some disguise themselves as adblockers, but instead deliver Ad&amp;rsquo;s to your computer. I use the &lt;a href=&#34;https://adblockplus.org/&#34; target=&#34;_blank&#34;&gt;Adblock Plus&lt;/a&gt; add-on/extension in Firefox and Google Chrome. It strips out Ad related content from many search engine results. This is the most effective way to protect you from malicious search results. Do not worry about losing any important results. Ad results are only companions to organic search results. If a result shows up in an Ad. I will show up in the search result if it is relevant to the search term. You might run into an occasion where you might need to whitelist a particular site from being blocked, and you can do that through the settings of the adblocker.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Avoiding Ads with Knowledge&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you do not want to use an Adblocker you can avoid malicious Ad results by knowing what to look for. The image below shows how Google, Yahoo, and Bing layout their Ad based search results. Headings highlighted in red contain the Ad listings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/scam-avoidance/search-results-ads.png&#34; alt=&#34;Ad Laden Search Result Example 1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Search sites like those listed above have a platform for submitting Ads. This allows any &amp;ldquo;Joe&amp;rdquo; to create Ad campaigns that link directly to every day relevant search terms.&lt;/p&gt;
+
+&lt;div class=&#34;content-block-wrap&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/img/publications/scam-avoidance/google-advertising-policies.png&#34;&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/scam-avoidance/google-advertising-policies.png&#34; alt=&#34;Google&#39;s Advertising Policies Screenshot&#34;&gt;&lt;/a&gt; &lt;/div&gt;
+
+&lt;p&gt;Google has a reporting system for malicious Ads, but by the time Google gets around to correcting the problem, you can be tricked into visiting a malicious site, and if you interact with that site, by then it&amp;rsquo;s usually too late. In some cases, your device can be compromised without any interaction.&lt;/p&gt;
+
+&lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://scottrlarson.com/img/publications/scam-avoidance/Browly-scam.png&#34;&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/scam-avoidance/Browly-scam.png&#34; alt=&#34;Browly Scam Example 1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Search results that are labeled &amp;ldquo;Ad&amp;rdquo; (See screen-shot above) can be redirected to an alternate site. This means that if you click on a link that you know is reputable, Google inserts itself in the middle and hijacks that link to send you to another location on the Internet.&lt;/p&gt;
+
+&lt;p&gt;Ultimately you want to avoid any of the search results that fall under the label &amp;ldquo;Advertisement&amp;rdquo;. Watch out for changes, many search engines change the way Ads are delivered on the search results page. Ad labeled search results usually appear at the top, a list of results can appear under one heading labeled &amp;ldquo;Advertisements&amp;rdquo;, or the label is tagged to each result itself.&lt;/p&gt;
+
+&lt;p&gt;Organic search results are ones that are not commercially supported and as such are less likely to have shenanigans attached to them.&lt;/p&gt;
+
+&lt;h3 id=&#34;pop-up-warnings-or-error-messages&#34;&gt;Pop-up Warnings or Error Messages&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/scam-avoidance/eugjt.club-scam.jpg&#34; alt=&#34;Pop-Up Scam&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Within the scope of normal computer use, legitimate warnings or error messages never include phone numbers. Some specific business applications, like Quickbooks, are the exception.&lt;/p&gt;
+
+&lt;p&gt;If you receive an error message, or warning on your screen that you cannot get out of, do not interact with it in any way. Instead, you could immediately &lt;strong&gt;shutdown the computer&lt;/strong&gt; by way of the &lt;strong&gt;power button&lt;/strong&gt;. You can power down the computer by &lt;strong&gt;holding the power button down for 5-10 seconds and waiting until the screen goes black&lt;/strong&gt;. Please note that there is a slight chance of data loss when you shutdown your computer in this fashion, but if you cannot get your computer to respond to a shutdown or restart command, or use the Task Manager to kill the task in question, it is my understanding these are the only options.&lt;/p&gt;
+
+&lt;h3 id=&#34;call-based-scams&#34;&gt;Call-based Scams&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/scam-avoidance/health-center-call-center_759.jpg&#34; alt=&#34;Call center scam&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The trick to &lt;strong&gt;handling inbound call scams&lt;/strong&gt; is to realize that, under most circumstances, obtaining computer support requires that you initiate the contact by your own means. When you receive an unsolicited call from an unknown agent, claiming to be from any legitimate establishment with the intent to offer you any kind of support, hang up. It&amp;rsquo;s that simple. Remember to maintain awareness of your decision-making psychology and don&amp;rsquo;t put yourself into situations that cause you to make snap decisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do not make outbound calls&lt;/strong&gt; from any error or warning message that appears on any of your devices. Remember the 3 indicators of a social engineering attack: &lt;strong&gt;Urgency&lt;/strong&gt;, &lt;strong&gt;Pressure&lt;/strong&gt;, and &lt;strong&gt;Illusion of Authority&lt;/strong&gt;. If you need assistance, break away from the task at hand and ask a trusted person instead of blindly following a path that is laid out for you.&lt;/p&gt;
+
+&lt;h3 id=&#34;email-based-scams&#34;&gt;Email-based Scams&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/scam-avoidance/scam-email-thunderbird.png&#34; alt=&#34;Microsoft Office365 Email Scam&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Making decisions on how to respond to emails that ask you to perform an action can be tricky. There are two categories of inbound emails from any provider:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Legitimate requests to review information about your accounts or services.&lt;/li&gt;
+&lt;li&gt;Illegitimate scams that attempt to portray themselves as legitimate requests.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When you receive an email asking you to perform an action, keep in mind the three basic qualifiers of legitimacy:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Who&lt;/strong&gt; is the email sender? Are you receiving an email from Microsoft asking you about your email? Do you even have an email with Microsoft? Find out who your mail provider is. If it&amp;rsquo;s not Microsoft, delete the message. If you do have an Email with Microsoft move on to the next step.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What&lt;/strong&gt; is the message asking me to do? Depending on the request, you can sometimes tell that the message is suspect by the way the message is crafted, or by the nature of the request. If the email states that an account you own is on hold because of a billing problem and the message requests that you click on a link to remedy the problem, instead, open up your web browser and visit the site by using &lt;strong&gt;web browser&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:web-browser&#34;&gt;&lt;a href=&#34;#fn:web-browser&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to confirm that problem exists.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Where&lt;/strong&gt; will I land if I act? Without clicking on any links in the email, move your mouse over the link and look at the destination URL. If it doesn&amp;rsquo;t contain a recognizable location, you know you got a problem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;how-to-respond-to-calls-for-help-from-family-friends-or-colleagues&#34;&gt;How to respond to calls for help from family, friends, or colleagues.&lt;/h2&gt;
+
+&lt;p&gt;In some cases, you may encounter a situation, usually by email or social networking, where a contact looks to be someone close to you, who reaches out to you for help in some way. Many scammers steal the identity of a person to target the victims network of contacts. Once the identity has been compromised is some way, the attacker will trying to appeal to individuals in the victims network with a request of good will by crafting a message of help. The message will probably look like a request for money. The contact might mention a travel situation where the contact is in a bind and needs help. Then there might be a link to send that person money.&lt;/p&gt;
+
+&lt;p&gt;Another regular method of attack is to trick an individual from victims network into giving away personal details, like bank account information, or any site where your credit card is stored by convincing the target to click on a link that takes the victim to a page that looks like a legitimate website, but instead is a malicious site used to steal account credentials.&lt;/p&gt;
+
+&lt;p&gt;The best way to deal with these situations is to try to reach out using outside methods. Call the contact and verify via voice that the message is legit. If you cant reach the person, call or text a close friend and see if they know anything about the situation.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;My goal in this part of the series was to show you some ways in which a scammer might trick you into giving away personally identifying information with some ways you can avoid this. In &lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3&#34;&gt;part 3&lt;/a&gt; I will discuss ways to protect yourself after you have become a victim of a scam.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about this publication, or you would like help with your computer&amp;rsquo;s security, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact&lt;/a&gt; me. I can assess your protection, and offer suggestions to improve your online safeguards.&lt;/p&gt;
+
+&lt;h2 id=&#34;part-3-publications-publication-scam-avoidance3&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3&#34;&gt;Part 3..&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:web-browser&#34;&gt;A &lt;strong&gt;Web Browser&lt;/strong&gt; is software that allow you to interface with sites on the world wide web. Google Chrome, Firefox and Internet Explorer are a few popular examples. These applications make it so you can visit sites on the web.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:web-browser&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Part 3 Scam Avoidance: Protecting yourself after the Scam</title>
+      <link>http://scottrlarson.com/publications/publication-scam-avoidance3/</link>
+      <pubDate>Wed, 15 Apr 2020 11:00:00 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-scam-avoidance3/</guid>
+      <description>
+
+&lt;p&gt;This is 3rd part of a 3 part series in protecting yourself from on-line and of-line scams. In &lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance2&#34;&gt;part 2&lt;/a&gt; I discussed some ways you can avoid scams before you become a victum. In this part of the series I will outline some ways to handle yourself after the fact.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance#the-best-security-is-awareness&#34;&gt;The best security is awareness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance#the-psychology-behind-decision-making&#34;&gt;The psychology behind decision making&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance2#avoiding-scams&#34;&gt;Avoiding Scams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#protecting-yourself-after-the-scam&#34;&gt;Protecting yourself after the Scam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#protect-your-on-line-accounts&#34;&gt;Protect your on-line accounts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3/#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#updates&#34;&gt;Updates: Spying on the Scammers Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/publications/publication-scam-avoidance3#terms&#34;&gt;Terms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;protecting-yourself-after-the-scam&#34;&gt;Protecting yourself after the Scam&lt;/h2&gt;
+
+&lt;p&gt;If you have already been a victim of an scam. The first thing to do is to stop the interaction with the attacker. If you have given the attacker access to your technology, shutdown the device and contact me for free evaluation. In most cases its safer to &lt;strong&gt;factory restore&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:factory-restore&#34;&gt;&lt;a href=&#34;#fn:factory-restore&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; the device than to try and target the intrusion.&lt;/p&gt;
+
+&lt;h2 id=&#34;protect-your-on-line-accounts&#34;&gt;Protect your on-line accounts&lt;/h2&gt;
+
+&lt;p&gt;Change your passwords for important online accounts like your social networking, email and finical services.&lt;/p&gt;
+
+&lt;p&gt;Use a strong passwords, and do not use the same password for all of your important online accounts. Better yet, get to know and use a password manager. A &lt;a href=&#34;http://localhost:1313/recommendations/recommendation-password-managers/&#34; target=&#34;_blank&#34;&gt;password manager&lt;/a&gt; will help you create complicated passwords without having to remember them.&lt;/p&gt;
+
+&lt;p&gt;If you find that one or more of your accounts are repeatedly getting hacked, and your not sure where the breach is, one area that often gets overlooked is smart phone security. To find out more about security your smartphone, read my &amp;ldquo;&lt;a href=&#34;http://scottrlarson.com/publications/publication-smartphone-protection&#34;&gt;Protecting Your Smartphone From Being Hacked&lt;/a&gt;&amp;rdquo; which delves into advanced &lt;a href=&#34;http://scottrlarson.com/publications/publication-smartphone-protection#2-factor-authentication&#34;&gt;2 factor authentication methods&lt;/a&gt;. Many online services still use the insecure smartphone text based method, which is really a liability instead of a strength. If your thinking about purchasing an identity theft protection service, read my publication &amp;ldquo;&lt;a href=&#34;http://scottrlarson.com/publications/publication-id-theft-what-why/&#34;&gt;What is Identity Theft Protection, and do you need it?&lt;/a&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;protect-your-financial-information&#34;&gt;Protect your financial information&lt;/h2&gt;
+
+&lt;p&gt;Contact your financial institutions and let them know you have been a victim of a scam. Get your credit cards reissued&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;My goal in this publication was to attempt to make you aware of some of the common ways in which a scammer operates, but there may be other methods that are outside of its scope. When dealing with solicited requests for information, don&amp;rsquo;t be afraid to err on the side of caution. It&amp;rsquo;s better to be safe, then sorry.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about this publication, or you would like help with your computer&amp;rsquo;s security, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact&lt;/a&gt; me. I can assess your protection, and offer suggestions to improve your online safeguards.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2020/04/24**: There is a very interesting video called &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=le71yVPh4uk&amp;amp;feature=emb_title&#34; target=&#34;_blank&#34;&gt;Spying on the Scammers&lt;/a&gt;&amp;rdquo;  that was release on Youtube in March of 2020 detailing how these scamming operations run and outlines some of the tactics they use. For anyone that wants to avoid the headache and financial loss of becoming a victim of a phone scam (or any scam for that matter), I strongly advise watching this 4 part series. Knowing how these operations run creates awareness that you wouldn&amp;rsquo;t normally have.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/le71yVPh4uk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:factory-restore&#34;&gt;&lt;strong&gt;Factory Restore&lt;/strong&gt; is a method to restore the device to its factory state when you first purchase the device. This can assure that any actions that were performed on your device are erased.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:factory-restore&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scooters&#39; Laptop Buyers Guide</title>
+      <link>http://scottrlarson.com/publications/publication-laptop-buyers-guide/</link>
+      <pubDate>Wed, 29 Jan 2020 10:55:00 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-laptop-buyers-guide/</guid>
+      <description>
+
+&lt;p&gt;During my repairs, I receive quite a few  &lt;strong&gt;PC laptops&lt;/strong&gt; that are designed and constructed on the cheap. I speak to each of my customers about their purchasing choice, and if they can remember, it usually boils down to a purchase by marketing gimmick. While researching this publication, I looked up this phrase and the search results seem to think that performing a marketing gimmick is a great idea. Where I come from, marketing gimmicks are used to obfuscate the true colors of a product. It&amp;rsquo;s a bad idea to hide your product&amp;rsquo;s defects behind this tactic, and when &lt;strong&gt;electronics retailers&lt;/strong&gt; do not make it easy for the customer to make informed purchases, the people who make an honest living from selling products, suffer. This is not entirely the fault of shady marketing tactics though, understanding &lt;strong&gt;specifications&lt;/strong&gt; of computer technology can be a complicated process.&lt;/p&gt;
+
+&lt;p&gt;So that the buyer doesn&amp;rsquo;t get overwhelmed, retailers often choose to bury much of the technical information of a product. Since technology advances at such a fast rate, retailers and manufacturers work together to convince buyers to purchase models that have the strongest profit margin. This is done by lowering the specifications of the device, cutting corners on &lt;strong&gt;construction quality&lt;/strong&gt;, and hiding the details about both, slowing unwanted blowback to built-in limitations during the release of a new product. That way, the suspecting model can be retired before the negative feedback has time to do damage to the responsible parties.&lt;/p&gt;
+
+&lt;p&gt;I know this whole situation appears to just benefit the retailers and manufacturers, but this process also helps the manufacture make better products. When a manufacturer as a larger pool of cash, they have more money to focus on research and development. R&amp;amp;D that actually improves the quality of their products. This is partly why Apple&amp;rsquo;s products are so expensive, they use their high profit margins to drive innovation in future products. It really depends on the company&amp;rsquo;s values. Some company&amp;rsquo;s, even though, they obviously want to sell products, also want to have the best products that money can buy available to its customers. Others, especially ones that haven&amp;rsquo;t established a name for themselves might decide to turn a profit, then exit the market. This is why it&amp;rsquo;s important to be careful about the &lt;strong&gt;brand name&lt;/strong&gt; as well as the quality of the laptop, because if it&amp;rsquo;s from a company isn&amp;rsquo;t well established, they probably can&amp;rsquo;t afford to have good &lt;strong&gt;customer service&lt;/strong&gt;. If you cant reach a company to get your concerns met, you might as well have purchased a lemon.&lt;/p&gt;
+
+&lt;p&gt;My goal with this article is to help you cut through the crap when shopping for a new device, and help you avoid these pitfalls.&lt;/p&gt;
+
+&lt;h2 id=&#34;if-at-all-possible-do-your-shopping-or-at-the-very-least-your-research-on-line&#34;&gt;If at all possible, do your shopping, or at the very least, your research on-line.&lt;/h2&gt;
+
+&lt;p&gt;Better information about purchases can be found at sites like: &lt;a href=&#34;amazon.com&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Amazon&lt;/strong&gt;&lt;/a&gt; or &lt;strong&gt;&lt;a href=&#34;newegg.com&#34; target=&#34;_blank&#34;&gt;Newegg&lt;/a&gt;&lt;/strong&gt;. These sites do a better job at listing technical specifications. At the very least, use online resources to reference specs for a product you are thinking of purchasing at a brick and mortar store.&lt;/p&gt;
+
+&lt;p&gt;Update: I found this really cool &lt;a href=&#34;https://www.notebookcheck.net&#34; target=&#34;_blank&#34;&gt;site&lt;/a&gt; that has reviews of laptops, but also offers a &lt;a href=&#34;https://www.notebookcheck.net/Laptop-Buying-Guide-Tool.13212.0.html&#34; target=&#34;_blank&#34;&gt;buyers guide&lt;/a&gt; that allows a visitor to choose from a list of options like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I want to play demanding games?&lt;/li&gt;
+&lt;li&gt;The notebook should have a high performance rating&lt;/li&gt;
+&lt;li&gt;The laptop should have a graphics card optimized for CAD - and professional 3D applications.&lt;/li&gt;
+&lt;li&gt;I want to have a big screen&lt;/li&gt;
+&lt;li&gt;The screen of the laptop should be of a high quality&lt;/li&gt;
+&lt;li&gt;The laptop screen should be non glossy&lt;/li&gt;
+&lt;li&gt;The notebook should be lightweight&lt;/li&gt;
+&lt;li&gt;The notebook should have a good mobility rating (battery - runtime, weight, size)&lt;/li&gt;
+&lt;li&gt;The notebook should have a low emissions rating (low heat - and noise emmitted)&lt;/li&gt;
+&lt;li&gt;The workmanship rating should be high&lt;/li&gt;
+&lt;li&gt;Include only products of the top 10 manufacturers&lt;/li&gt;
+&lt;li&gt;The notebook should be new on the market&lt;/li&gt;
+&lt;li&gt;The notebook should be cheap&lt;/li&gt;
+&lt;li&gt;Show only devices that were tested by Notebookcheck&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then when you hit submit, you can see a list of laptops that this site reviewed that meets your criteria.
+Their buyers guide also has a matrix selection tool that filters results based on the specific hardware specifications.&lt;/p&gt;
+
+&lt;p&gt;Review sites like this are a really good tool for finding a model that you really want.&lt;/p&gt;
+
+&lt;h2 id=&#34;understanding-the-8-basic-food-groups&#34;&gt;Understanding the 8 basic food groups:&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The Dimensions (Physical): Is it going to be mobile, or a homebody?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Weight: Are you going to be lugging around a monstrosity, or a light weight?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Construction: Does it look and feel like cheap plastic? Or does it feel like a sleek air plane?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Speed: Are you going to be riding a slug, or a cheetah?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Capacity: Do you plan on have enough storage capacity for your stuff?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Visuals: Are you going to need prescriptions for that screen?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Life: How long can I survive without the power cord?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Response: What kind of  complaints is this baby getting?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/laptop-buyers-guide/acer-predator21.jpg&#34; alt=&#34;Acer Predator 21 Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-dimensions-physical-is-it-going-to-be-mobile-or-a-homebody&#34;&gt;The Dimensions (Physical): Is it going to be mobile, or a homebody?&lt;/h3&gt;
+
+&lt;p&gt;Size matters. But not in the way you might think. If you are someone that is, at many times, on the go, having a big lug of a laptop to carry around with you isn&amp;rsquo;t always the best idea. On the other hand, if the thing is not going to move much,  having a big unit might help. The reason to have a big unit is that, usually, the follow areas are improved: 1. There is plenty of room for &lt;strong&gt;airflow&lt;/strong&gt;, which increases the life of the unit. 2. A &lt;strong&gt;large screen&lt;/strong&gt;, which can be better on your eyes. 3. In many cases, size equates to better construction, and with better construction there is a tendency for the unit to last longer.&lt;/p&gt;
+
+&lt;p&gt;You might ask, &amp;ldquo;Why get a laptop in the first place if its not really going to be moved around?&amp;rdquo; Well, with a laptop, the first reason is that all the &lt;strong&gt;component&amp;rsquo;s&lt;/strong&gt; are within the unit itself, and that makes it easier to move around. With a &lt;strong&gt;desktop computer&lt;/strong&gt;, you have to unhook many &lt;strong&gt;peripherals&lt;/strong&gt;: The keyboard, mouse, display, and any other external devices just to move it.&lt;/p&gt;
+
+&lt;p&gt;Desktops are better from a longevity, expandability and reliability stand point, but you might not need those things. Anyways, this article is about laptops, so quit distracting me.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/laptop-buyers-guide/desktop-portable.jpg&#34; alt=&#34;Portable Desktop&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-weight-are-you-going-to-be-lugging-around-a-monstrosity-or-a-light-weight&#34;&gt;The Weight: Are you going to be lugging around a monstrosity, or a light weight?&lt;/h3&gt;
+
+&lt;p&gt;Weight matters. Three pounds versus five? It doesn&amp;rsquo;t seem like a huge difference right? After carrying a 5 pound device around with you on a regular basis, that extra weight adds up.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/laptop-buyers-guide/case-damage.webp&#34; alt=&#34;Case Damage Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-construction-does-it-look-and-feel-like-cheap-plastic-or-does-it-feel-like-a-sleek-air-plane&#34;&gt;The Construction: Does it look and feel like cheap plastic? Or does it feel like a sleek air plane?&lt;/h3&gt;
+
+&lt;p&gt;Construction characteristics of a laptop can matter depending on its use, and how long you want it to last. Cheap plastic can easily crack over time with normal use. This is especially important if the laptop is being moved around on a regular basis. It needs a solid construction, and good materials to live up to the abuse.  Also the kind of materials matter. Aluminum is stronger and more durable than plastic. There are new nanotechnologies like carbon fiber that weave plastic elements together to create a strong martials, so look out for those as well . The construction design of the device matters as well. Laptops are constructed with all the components packed together, producing a lot of heat. Figuring out how to produce the proper air flow to dissipate heat is always an issue for device manufactures. With this in mind, in my experience, business class laptops are a better choice, but are more expensive.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/laptop-buyers-guide/laptop-slug.jpg&#34; alt=&#34;Computer Slug Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-speed-are-you-going-to-be-riding-a-slug-or-a-cheetah&#34;&gt;The Speed: Are you going to be riding a slug, or a cheetah?&lt;/h3&gt;
+
+&lt;p&gt;You might not mind waiting around for your laptop to boot, or respond after opening an application, but for the rest of us speed is an important factor. For the lay person, the speed specifications can sometimes be very difficult to discover. Many retail stores only list the basic info and leave it up to you to figure out the rest. To help you become aware what to look for, there are a few factors that need to be considered:&lt;/p&gt;
+
+&lt;p&gt;Think of a computer as a nervous system in a body. It&amp;rsquo;s a collection of neurons(Wires) that transmit signals between different parts of the body. Computers are very similar, in that, they have parts (component&amp;rsquo;s) that all need to communicate with each other. Each part is dependent on the other for speedy communication, and when one of them lags behind, all the parts suffer. This is why you can have a laptop with a fast processor, but if the laptop has a limited amount of &lt;strong&gt;RAM  (Random Access Memory)&lt;/strong&gt; The system speed will be determined by the storage capacity of that part.&lt;/p&gt;
+
+&lt;p&gt;When thinking in terms of speed. Don&amp;rsquo;t just think of the speed of the &lt;strong&gt;Processor (CPU)&lt;/strong&gt; also think about the &lt;strong&gt;class&lt;/strong&gt; and &lt;strong&gt;generation&lt;/strong&gt; of the processor itself. Secondly, look at the &lt;strong&gt;storage capacity&lt;/strong&gt; of the  RAM, and the speed of the &lt;strong&gt;primary storage device&lt;/strong&gt;: &lt;strong&gt;Hard Disk Drives (HDD)&lt;/strong&gt; for the most part, are slower than &lt;strong&gt;Solid State Drive (SSD)&lt;/strong&gt;.  When looking at the model&amp;rsquo;s specifications, RAM is the amount of memory that the laptop has when purchased. RAM may, or may not be &lt;strong&gt;upgradable&lt;/strong&gt;. It&amp;rsquo;s likely that you will have to visit the manufacturers support resources for that model online to find out more information about &lt;strong&gt;upgradability&lt;/strong&gt; of the device.&lt;/p&gt;
+
+&lt;p&gt;Most devices now ship with the &lt;strong&gt;Windows 10 operating system&lt;/strong&gt;.  As of 2020, most lower end laptops ship with only &lt;strong&gt;4 gigs of ram&lt;/strong&gt;. For a smooth experience, &lt;strong&gt;8 gigs is my minimum&lt;/strong&gt;. Secondly, having a primary storage device that includes &lt;strong&gt;SSD&lt;/strong&gt; technology improves performance over HDD technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/laptop-buyers-guide/laptop-with-illustration-of-filing-cabinet.jpg&#34; alt=&#34;Laptop Filing Cabinet Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-capacity-do-you-plan-on-having-enough-storage-capacity-for-your-stuff&#34;&gt;The Capacity: Do you plan on having enough storage capacity for your stuff?&lt;/h3&gt;
+
+&lt;p&gt;Storage size might be important to you. Getting an SSD is great, but if its not big enough to store your data, that might be a problem. The larger that the SSD is, the more expensive it&amp;rsquo;s going to be. Some Laptops have SSD/HDD combinations to keep the cost down. THE SSD is the boot device, and the HDD is the storage device. But it makes it a bit more complicated to store information because then you have to remember to store your data on the HDD. You can also set your user folders to store information on the HDD. Generally, these combo configurations are still just as fast as a device with a single SSD, because most of the heavy lifting is done by the primary storage SSD and the secondary storage HDD is really just a storage option for your data, and storing personal data on a HDD isn&amp;rsquo;t not really a problem, as long as it is all that is doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/laptop-buyers-guide/CG318-4K_screen_size_1.jpg&#34; alt=&#34;Screen Dimensions Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-visuals-are-you-going-to-need-prescriptions-for-that-screen&#34;&gt;The Visuals: Are you going to need prescriptions for that screen?&lt;/h3&gt;
+
+&lt;p&gt;The size of the laptop&amp;rsquo;s &lt;strong&gt;screen&lt;/strong&gt; and the quality of the &lt;strong&gt;resolution&lt;/strong&gt; is also important. There are 17&amp;rsquo;, 15&amp;rsquo;, 13&amp;rsquo; and 11&amp;rsquo; laptops. The smaller the screen is, the harder it&amp;rsquo;s going to be to read text, and the less &lt;strong&gt;screen real estate&lt;/strong&gt; you will have to work with &lt;strong&gt;applications&lt;/strong&gt;. If you are just sending emails and writing docs on-the-go it might not be important. For a photo professional, that might be another story.&lt;/p&gt;
+
+&lt;p&gt;Depending on the size of the screen, there are two main areas of screen technology that you want to look out for: screen display resolution, and screen technology type.&lt;/p&gt;
+
+&lt;h3 id=&#34;screen-display-resolution&#34;&gt;Screen Display Resolution&lt;/h3&gt;
+
+&lt;p&gt;The &lt;strong&gt;higher the resolution&lt;/strong&gt; of a screen, the &lt;strong&gt;greater image detail&lt;/strong&gt;. Also you will often get an &lt;strong&gt;increased workspace&lt;/strong&gt;. The &lt;strong&gt;drawback&lt;/strong&gt; to high-resolution displays is that &lt;strong&gt;fonts tend to be smaller&lt;/strong&gt; and can be &lt;strong&gt;more difficult to read&lt;/strong&gt; without  &lt;strong&gt;font scaling&lt;/strong&gt;. This can be a particular problem for people with poor eyesight. While you can change the font size in the operating system,  this may have unintended results in some programs, especially legacy applications &lt;strong&gt;which might not scale&lt;/strong&gt;, or &lt;strong&gt;scale badly&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Acronym&lt;/th&gt;
+&lt;th&gt;Resolution&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;WXGA&lt;/td&gt;
+&lt;td&gt;1366x768 or 1280x800&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;SXGA&lt;/td&gt;
+&lt;td&gt;1280x1024&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;SXGA+&lt;/td&gt;
+&lt;td&gt;1400x1050&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;WXGA+&lt;/td&gt;
+&lt;td&gt;1440x900&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;WSXGA+&lt;/td&gt;
+&lt;td&gt;1600x900 or 1680x1050&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;UXGA&lt;/td&gt;
+&lt;td&gt;1600x1200&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;WUXGA&lt;/td&gt;
+&lt;td&gt;1920x1080 or 1920x1200&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;WQHD&lt;/td&gt;
+&lt;td&gt;2560x1440&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;WQXGA&lt;/td&gt;
+&lt;td&gt;2560x1600&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;WQXGA+&lt;/td&gt;
+&lt;td&gt;2880x1800&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;WQSXGA+&lt;/td&gt;
+&lt;td&gt;3800x1800&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;UHD&lt;/td&gt;
+&lt;td&gt;3840x2160 or 4096x2160&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;screen-technology-type&#34;&gt;Screen Technology Type&lt;/h3&gt;
+
+&lt;p&gt;While the screen size and resolution are the primary features that manufacturers mention, the &lt;strong&gt;screen technology&lt;/strong&gt; &lt;em&gt;type&lt;/em&gt; often gets buried in the details. Having the right screen technology makes a huge difference in the quality of visuals. &amp;ldquo;&lt;strong&gt;Type&lt;/strong&gt;&amp;rdquo; refers to the LCD panel and the coating over the screen.&lt;/p&gt;
+
+&lt;h4 id=&#34;tn-and-ips&#34;&gt;TN and IPS&lt;/h4&gt;
+
+&lt;p&gt;There are two major technologies used in LCD panels for laptops: &lt;strong&gt;TN&lt;/strong&gt; and &lt;strong&gt;IPS&lt;/strong&gt;. TN display technology is the most common, as they are the least expensive and also tend to offer &lt;strong&gt;faster refresh rates&lt;/strong&gt;.  &lt;strong&gt;TN display technology has narrow viewing angles and colors&lt;/strong&gt;. I also notice that these displays are &lt;strong&gt;not as bright&lt;/strong&gt;.  TN panels offer less overall color, but this typically only matters for graphics designers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IPS&lt;/strong&gt; offers &lt;strong&gt;better color and viewing angles&lt;/strong&gt;, but these screens tend to cost more, have &lt;strong&gt;slower refresh rates&lt;/strong&gt;, and are not as suited for gaming  or fast video.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IPS&lt;/strong&gt; offers higher color and viewing angles, but these screens tend to cost more, have slower refresh rates, and are not as suited for gaming  or fast video.&lt;/p&gt;
+
+&lt;h4 id=&#34;touchscreens&#34;&gt;Touchscreens&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Touchscreens&lt;/strong&gt; are becoming an important feature of many Windows-based laptops.  Unless its a laptop that converts to a tablet, or you are purchasing a tablet like device, I do not see any reason to get a laptop with touch screen capability.&lt;/p&gt;
+
+&lt;p&gt;Many modern laptops come with touch screen capability. If you do not want that functionality, be sure to check the specifications as it does increase the cost of the device and there is more power draw from the battery.&lt;/p&gt;
+
+&lt;h4 id=&#34;coatings&#34;&gt;Coatings&lt;/h4&gt;
+
+&lt;p&gt;The majority of consumer laptops tend to use glossy coatings over LCD displays. These screens are brighter, but the glare is very bad on the eyes. In most cases, you can work around this by purchasing a screen protector that meets your needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/laptop-buyers-guide/laptop-battery-960x480.jpg&#34; alt=&#34;Laptop Battery Status Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-life-how-long-can-i-survive-without-the-power-cord&#34;&gt;&lt;strong&gt;The Life: How long can I survive without the power cord?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Battery life&lt;/strong&gt; might be important to you if you are always on the go. Typically, &lt;strong&gt;the slimmer the laptop&lt;/strong&gt;, &lt;strong&gt;the better battery life&lt;/strong&gt; it will have since it&amp;rsquo;s not powering components that require a lot of power, such as a HDD, or [optical drive](). Check the specifications of the device. If it has a really fast processor like a i7, battery life will suffer. There will usually be a line that says, &amp;ldquo;Up to X hours battery life on a single charge&amp;rdquo; It&amp;rsquo;s been my experience that if you take that number and cut in half that will be your real-world battery operating time.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-response-what-kind-of-complaints-is-this-baby-getting&#34;&gt;The Response: What kind of  complaints is this baby getting?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Look at reviews&lt;/strong&gt; of the model you want to purchase on Amazon.com, or Newegg.com. Newer models tend to have less reviews that ones that have been on the marking for awhile. Look at the type of reviews that exist for a model, if possible, how many are in support, and how many are against it. Also look at the quality of the review. If many of the reviews have a short one-line statement, that tells you nothing about the experience, its usually not a good measure of quality.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Overall these tips should help you make a more informed decision, if you want to put the time into it. Many times, you might not have as much time as you would like to make an informed decision on purchasing a laptop. If that is the case, you can &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;hire me&lt;/a&gt; to do the searching for you. I utilize my 20+ years of knowledge to find you the best model that meets your expectations.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-terms-terms-a&#34;&gt;&lt;strong&gt;&lt;a name=&#34;Terms&#34;&gt;Terms&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Brand Name&lt;/strong&gt;: A familiar or widely known name.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Component&lt;/strong&gt;:  A basic physical element that&amp;rsquo;s required by the computer to function.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Construction Quality&lt;/strong&gt;: Laptops are built with materials, some materials are better than others, also the design of the way in which the laptop is constructed factors into the life expectancy of the unit.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Customer Service&lt;/strong&gt;: The kind of response you get when you call a company with a question or issue.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Desktop&lt;/strong&gt;: The area of a display screen where images, windows, icons and other graphical items appear.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Desktop Computer&lt;/strong&gt;:  A desktop computer is a personal computer that fits on or under a desk. It has a monitor or another display, keyboard, mouse, and either a horizontal or vertical (tower) form factor. Unlike a laptop, which is portable, a desktop computer is meant to stay at one location.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Hard Disk Drive (HDD)&lt;/strong&gt;: A an electro-mechanical &lt;a href=&#34;https://en.wikipedia.org/wiki/Data_storage_device&#34; target=&#34;_blank&#34;&gt;data storage device&lt;/a&gt; that uses &lt;a href=&#34;https://en.wikipedia.org/wiki/Magnetic_media&#34; target=&#34;_blank&#34;&gt;magnetic storage&lt;/a&gt; to store and retrieve &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_data&#34; target=&#34;_blank&#34;&gt;digital&lt;/a&gt; information using one or more rigid rapidly rotating disks (&lt;a href=&#34;https://en.wikipedia.org/wiki/Hard_disk_platter&#34; target=&#34;_blank&#34;&gt;platters&lt;/a&gt;) coated with magnetic material.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;PC laptop&lt;/strong&gt;: A Personal Computer (PC) Laptop versus a Apple Macbook.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Peripheral&lt;/strong&gt;: A peripheral or peripheral device is an ancillary device used to put information into and get information out of the computer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Operating System&lt;/strong&gt;: The software that supports a computer&amp;rsquo;s basic  functions, such as scheduling tasks, executing applications, and  controlling peripherals.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Processor (CPU)&lt;/strong&gt;: A central processing unit (CPU), also called a central processor or main processor, is the electronic circuitry within a computer that executes instructions that make up a computer program.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;RAM&lt;/strong&gt;: Random-access memory (or simply RAM) is the temporary memory or information storage location in a computer that is used to store running programs and data for the programs. Data (information) in the RAM can be read and written quickly in any order.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Optical Drive&lt;/strong&gt;: A drive that can read optical disk, like a CD, DVD, or Blueray.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Screen Refresh Rate&lt;/strong&gt;: How often the screen draws the information visible on the display. The faster the refresh, the better it is on your eyes.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Screen Resolution&lt;/strong&gt;: The display resolution or display modes of a &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_television&#34; target=&#34;_blank&#34;&gt;digital television&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Computer_monitor&#34; target=&#34;_blank&#34;&gt;computer monitor&lt;/a&gt; or &lt;a href=&#34;https://en.wikipedia.org/wiki/Display_device&#34; target=&#34;_blank&#34;&gt;display device&lt;/a&gt; is the number of distinct &lt;a href=&#34;https://en.wikipedia.org/wiki/Pixel&#34; target=&#34;_blank&#34;&gt;pixels&lt;/a&gt; in each dimension that can be displayed.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Screen Workspace&lt;/strong&gt;: Refers to the grouping of windows on your desktop.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Solid State Drive (SSD)&lt;/strong&gt;:  An &lt;em&gt;SSD&lt;/em&gt; is a type of mass storage device similar to a hard disk &lt;em&gt;drive&lt;/em&gt; (HDD). It supports reading and writing data and maintains stored data in a permanent &lt;em&gt;state&lt;/em&gt; even without power. Internal SSDs connect to a computer like a hard &lt;em&gt;drive&lt;/em&gt;, using standard IDE or SATA connections.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: Technical descriptions of the computer&amp;rsquo;s components and capabilities.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Touchscreen&lt;/strong&gt;: A screen with touch capability, sometimes replacing a trackpad or a mouse.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Restoring your digital life from backup after a disaster</title>
+      <link>http://scottrlarson.com/publications/publication-restoring-life-backup-disaster/</link>
+      <pubDate>Sat, 21 Dec 2019 14:44:47 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-restoring-life-backup-disaster/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Learn why solely backing up your data isn&amp;rsquo;t always enough to recover from a disaster.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In this publication, you will learn about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#what-is-disaster-recovery-backup-and-why-should-i-care&#34;&gt;What is disaster recovery backup, and why should I care?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#how-a-little-planning-can-drive-a-successful-disaster-recovery&#34;&gt;How a little planning can drive a successful disaster recovery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#why-waiting-for-a-disaster-to-happen-before-you-plan-is-a-bad-idea&#34;&gt;Why waiting for a disaster to happen before you plan is a bad idea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#terms&#34;&gt;Understanding technology terms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Knowing the difference between backup and disaster recovery, understanding key technology terms, and evaluating software along with storage options can help you develop an effective plan for avoiding the consequences of data loss and downtime after a catastrophe strikes.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-disaster-recovery-backup-and-why-should-i-care&#34;&gt;What is disaster recovery backup, and why should I care?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Backup&lt;/strong&gt; is the process of making an extra copy (or multiple copies) of data. You might need to restore data from a backup if you accidentally delete a file, or folder, or when a file, or folder becomes corrupted.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disaster Recovery&lt;/strong&gt; is having all tools in place to recover from a loss of data. Do you just need to recover one file, a set of files, or your entire computer? If your entire computer needs to be recovered, will you lose anything recently saved? How do you perform a full recovery of your computer? Knowing the answers to these questions is essential to your recovery plan.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disaster Recovery Backup&lt;/strong&gt;, on the other hand, refers to the plan and processes for quickly reestablishing access to your data after a catastrophe. If your computer, or applications fail catastrophically, become lost, or stolen, your &lt;strong&gt;Desktop environment&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:desktop-env&#34;&gt;&lt;a href=&#34;#fn:desktop-env&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; can be restored to a previous working condition, minimizing downtime.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I am prepared for the worst, but hope for the best.” - Benjamin Disraeli&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/digital-life/storage-options.jpg&#34; alt=&#34;Backup storage options photo&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;what-are-the-strengths-and-weaknesses-of-different-storage-options-and-locations&#34;&gt;What are the strengths and weaknesses of different storage options and locations&lt;/h3&gt;
+
+&lt;p&gt;A backup and a disaster recovery backup are similar in that they both need a location to store a copy of the data that is needed for a restoration.&lt;/p&gt;
+
+&lt;p&gt;In a &lt;strong&gt;Cloud Storage&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:cloud-storage&#34;&gt;&lt;a href=&#34;#fn:cloud-storage&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; scenario, data is stored outside the home, or small office. This off-site location protects your data from being destroyed by a tragedy, like a fire, or loss from a theft of your equipment. The speed and reliability of the &lt;strong&gt;Cloud Backup&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:cloud-backup&#34;&gt;&lt;a href=&#34;#fn:cloud-backup&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; service, as well as the internet connection to your home, or office, is a factor in determining the length of time needed for a data restoration.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Network Storage&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:NetworkStorage&#34;&gt;&lt;a href=&#34;#fn:NetworkStorage&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, or a &lt;strong&gt;Network Attached Storage Device (NAS)&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:NetworkStorage&#34;&gt;&lt;a href=&#34;#fn:NetworkStorage&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; are &lt;strong&gt;storage locations&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:storage-location&#34;&gt;&lt;a href=&#34;#fn:storage-location&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; that give you Cloud like storage in your home. Network Storage gives you the ability to store files onto it from any device in your home that is connected to your home, or business network. The speed in which data can be transferred to, and from a NAS is largely dependent on the kind of hardware (&lt;strong&gt;Network Router&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:router&#34;&gt;&lt;a href=&#34;#fn:router&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;, &lt;strong&gt;WiFi Access Point&lt;/strong&gt;[^-wifi-access-point], &lt;strong&gt;Network Switch&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:network-switch&#34;&gt;&lt;a href=&#34;#fn:network-switch&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;, &lt;strong&gt;Network Cabling&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:network-cabling&#34;&gt;&lt;a href=&#34;#fn:network-cabling&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;) you have, and the connection between the NAS and your devices (Wired or Wireless). In my experience, Network Storage Devices are less susceptible to physical connection problems and damage due to the fact that they are rarely moved from their physical location. Wired connections are typically faster than Wireless connections. There are many types of Wired and Wireless connections. Having the latest technology insures that you will have the fastest transfer speeds between two or more devices. Transfer speeds between devices is really important. The less time it takes for data to transfer to and from devices the less likely a problem will occur in the transfer, or backup.&lt;/p&gt;
+
+&lt;p&gt;The benefit of using a &lt;strong&gt;Local Storage&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:local-storage&#34;&gt;&lt;a href=&#34;#fn:local-storage&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; device over Cloud or Network storage is speed, convenience, and ease of use. But moving the storage device around, regularly disconnecting/reconnect it, often in situations that require it, like bringing a laptop with you on the go, may eventually cause damage to, or cause a connection problem with the storage device. In many cases, when a connection problem shows up, the backup software cannot do its job, and you may not know that there is a problem until it&amp;rsquo;s too late.&lt;/p&gt;
+
+&lt;p&gt;In most cases, drawbacks of each technology cannot be avoided. It’s best to choose two, or more storage options that work best for your needs and make redundancy your friend. If one storage device, or location fails, have another, and another. Three &lt;strong&gt;storage locations&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:storage-location&#34;&gt;&lt;a href=&#34;#fn:storage-location&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; are optimal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/digital-life/disaster-recovery-choice.jpg&#34; alt=&#34;planning to recovery your digital life&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;how-a-little-planning-can-drive-a-successful-disaster-recovery&#34;&gt;How a little planning can drive a successful disaster recovery&lt;/h2&gt;
+
+&lt;h3 id=&#34;identifying-the-best-technologies-for-achieving-your-backup-and-disaster-recovery-goals-for-home-and-small-businesses&#34;&gt;Identifying the best technologies for achieving your backup and disaster recovery goals for home and small businesses&lt;/h3&gt;
+
+&lt;p&gt;The important thing to understand first is what kind of computer user you are: &lt;strong&gt;Basic&lt;/strong&gt;, &lt;strong&gt;Intermediate&lt;/strong&gt;, or &lt;strong&gt;Advanced&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I just do email and docs..”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As a &lt;strong&gt;Basic&lt;/strong&gt; user you might not need much of a backup solution. The trick is to find out what you do with your device most of the time, and see if you actually need a backup solution. If you view your mail online using Gmail, Yahoo Mail, or Microsoft (Hotmail,or Outlook Mail) you are agreeing to let that provider store your mail for you. Be aware that just having a Cloud based Email provider store your Email for you may not shield you from mail loss. Even using an Email application like Outlook, or Thunderbird, your mail is stored on the mail server (Not on your device. It might be important to you to archive mail to some other location within your possession. Mail applications usually have archiving functionality which allows you to store a copy of your mail on your device’s storage drive.&lt;/p&gt;
+
+&lt;p&gt;Documents are usually stored on your device’s storage drive unless you are using a Cloud Storage service. If you do not use a Cloud Storage service like &lt;a href=&#34;https://www.dropbox.com/&#34;&gt;Dropbox&lt;/a&gt; or &lt;a href=&#34;https://www.google.com/drive/&#34;&gt;Google Drive&lt;/a&gt;, then your documents are stored on your device’s storage drive. Having a backup solution safeguards that data in case you lose your device, or it becomes damaged.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I know enough just to get myself into trouble…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As an &lt;strong&gt;Intermediate&lt;/strong&gt; user, you probably use your device professionally, or for education purposes and you work with more than just mail and documents. You might also save files like music, pictures, and videos. You may use non-standard applications like Turbotax, or Quickbooks. In a case like this, regular automatic backups using &lt;strong&gt;backup software&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:backup-software&#34;&gt;&lt;a href=&#34;#fn:backup-software&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; might be preferable to you.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I know my stuff, but I don&amp;rsquo;t really do backup that well…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As an &lt;strong&gt;Advanced&lt;/strong&gt; user, the way you use your device, the placement of everything stored on the device, and the programs you use are all vital to your everyday activities. If you  lost access to your device for too long, it would probably cause a problem for you. In a case like this, using &lt;strong&gt;Disaster Recovery Backup software&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:backup-software&#34;&gt;&lt;a href=&#34;#fn:backup-software&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; to backup a full copy of your &lt;strong&gt;system drive&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:system-drive&#34;&gt;&lt;a href=&#34;#fn:system-drive&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; might be preferable to you.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-kind-of-backup-software-do-i-need&#34;&gt;What kind of backup software do I need?&lt;/h2&gt;
+
+&lt;p&gt;There are a host of backup software solutions on the market. For &lt;strong&gt;local backups&lt;/strong&gt;, Windows 10 comes with its own backup solution called &lt;a href=&#34;https://blogs.msdn.microsoft.com/b8/2012/07/10/protecting-user-files-with-file-history/&#34; target=&#34;_blank&#34;&gt;File History&lt;/a&gt;. If you are a &lt;strong&gt;Basic&lt;/strong&gt;, or &lt;strong&gt;Intermediate&lt;/strong&gt; user this might work for you. You would need to purchase an external hard drive and set up File History to perform regular backups of your important &lt;strong&gt;storage locations&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:storage-location&#34;&gt;&lt;a href=&#34;#fn:storage-location&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. If you find that you require more control over the way your data is backed up than what File History offers, commercial third party products such as &lt;a href=&#34;https://www.easeus.com/backup-software/tb-enterprise.html?ad&amp;amp;gclid=EAIaIQobChMImPS1-ea65gIVth6tBh0thgM9EAAYAiAAEgKfgvD_BwE&#34; target=&#34;_blank&#34;&gt;EaseUS ToDo Backup&lt;/a&gt;, and &lt;a href=&#34;https://www.paragon-software.com/backup-recovery/&#34; target=&#34;_blank&#34;&gt;Paragon Backup and Recovery&lt;/a&gt; can offer more options.&lt;/p&gt;
+
+&lt;p&gt;For &lt;strong&gt;Intermediate&lt;/strong&gt; and &lt;strong&gt;Advanced&lt;/strong&gt; users, who cannot be without access to their programs and data for too long, and want to minimize the time in recovering from a disaster, I recommend Disaster Recovery Backup software like &lt;a href=&#34;https://www.macrium.com/reflectfree&#34; target=&#34;_blank&#34;&gt;Macirum Reflect&lt;/a&gt;, or &lt;a href=&#34;https://www.acronis.com&#34; target=&#34;_blank&#34;&gt;Acronis True Image&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-waiting-for-a-disaster-to-happen-before-you-plan-is-a-bad-idea&#34;&gt;Why waiting for a disaster to happen before you plan is a bad idea&lt;/h2&gt;
+
+&lt;p&gt;Many things can happen in the process of using your device. The place where you store your device could be involved in a catastrophe, your device could be stolen, your device’s internal storage drive could fail, you could accidentally delete a file, or a file could become corrupted in the process of using your device.&lt;/p&gt;
+
+&lt;p&gt;Don’t wait until it’s too late to devise a plan to protect your data. Protecting your data is like having insurance, you don&amp;rsquo;t know when, or if, you will need it, but when you do, boy can it be a lifesaver.
+Having a plan also builds confidence, so when your data becomes inaccessible, you have actions you can take to restore your access. Just having a plan alone can help you improve your knowledge about what you know, and don’t know about your device and your data.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;With a disaster recovery solution in place you can protect yourself from:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Downtime&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:downtime&#34;&gt;&lt;a href=&#34;#fn:downtime&#34;&gt;12&lt;/a&gt;&lt;/sup&gt;, by avoiding lengthy repairs to your device.&lt;/li&gt;
+&lt;li&gt;High repair, or data recovery costs when a device fails catastrophically.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Malware&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:malware&#34;&gt;&lt;a href=&#34;#fn:malware&#34;&gt;13&lt;/a&gt;&lt;/sup&gt;, or &lt;strong&gt;ransomeware&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:ransomeware&#34;&gt;&lt;a href=&#34;#fn:ransomeware&#34;&gt;14&lt;/a&gt;&lt;/sup&gt; infections by being able to restore from a previous backup.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://scottrlarson.com/#contact&#34; target=&#34;_blank&#34;&gt;Contact me&lt;/a&gt; for more information about developing a backup plan. I can help you identify what backup solution you need, and help you manage it.&lt;/p&gt;
+
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:desktop-env&#34;&gt;A desktop environment is the settings, customizations, applications, and personal data of your computer.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:desktop-env&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:cloud-storage&#34;&gt;&lt;strong&gt;Cloud Storage&lt;/strong&gt; is a data center that is accessed via a cloud software service.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:cloud-storage&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:cloud-backup&#34;&gt;&lt;strong&gt;Cloud Backup&lt;/strong&gt; backs up and stores files with a cloud service. In the event of data loss, you can restore files your files. Cloud backup is different then cloud storage because you must manually select files you want to store in the cloud, while cloud backup services work automatically to save and sync files stored on your computer.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:cloud-backup&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:NetworkStorage&#34;&gt;&lt;strong&gt;Network Storage&lt;/strong&gt;, or a &lt;strong&gt;Network Attached Storage (NAS)&lt;/strong&gt; is a device that contains a storage drive and can be connected to an existing home, or office network.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:NetworkStorage&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:storage-location&#34;&gt;A &lt;strong&gt;Storage Location&lt;/strong&gt; is a local drive or a cloud based service that stores files.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:storage-location&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:router&#34;&gt;A &lt;strong&gt;Network Router&lt;/strong&gt; is a network device that helps provide internet access to multiple devices in the home, or small office.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:router&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:network-switch&#34;&gt;&lt;strong&gt;Network Switch&lt;/strong&gt; is a device that allows you to connect multiple devices to a network allowing those devices to either talk to the internet, or to each other.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:network-switch&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:network-cabling&#34;&gt;&lt;strong&gt;Network Cabling&lt;/strong&gt;&lt;/a&gt; are the cords that are used in connecting or hard wiring devices to a network.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:network-cabling&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:local-storage&#34;&gt;&lt;strong&gt;Local storage&lt;/strong&gt; is a hard, or solid state storage drive that is either mounted the device, or connected to the device externally via USB or SATA. Network storage is a storage device that is connected to your computer via your modem or router using an Ethernet or Wireless connection.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:local-storage&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:backup-software&#34;&gt;&lt;strong&gt;Backup Software&lt;/strong&gt; takes over the job of backing up your data to a &lt;strong&gt;storage location&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:storage-location&#34;&gt;&lt;a href=&#34;#fn:storage-location&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. It can be executed manually, or setup to run automatically and regular intervals. Disaster Recovery Backup software backs up your system drive and can restore your desktop environment to its original working state before a disaster.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:backup-software&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:system-drive&#34;&gt;&lt;strong&gt;System Drive&lt;/strong&gt; is the drive that your device boots and operates from. In most cases all of your settings: What applications you have installed, and the look and feel of your desktop and even your personal/business data are stored on the system drive.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:system-drive&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:downtime&#34;&gt;&lt;strong&gt;Downtime&lt;/strong&gt; is the length of time when you are unable to access your device, or any data that is stored on that device.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:downtime&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:malware&#34;&gt;&lt;strong&gt;Malware&lt;/strong&gt; is software that is specifically designed to disrupt, damage, or gain unauthorized access to a computer system.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:malware&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:ransomeware&#34;&gt;&lt;strong&gt;Ransomware&lt;/strong&gt; is a type of malware from cryptovirology that threatens to publish the victim&amp;rsquo;s data or perpetually block access to it unless a ransom is paid.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:ransomeware&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is Identity Theft Protection, and do you need it?</title>
+      <link>http://scottrlarson.com/publications/publication-id-theft-what-why/</link>
+      <pubDate>Sat, 09 Nov 2019 12:33:54 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-id-theft-what-why/</guid>
+      <description>
+
+&lt;p&gt;It is relatively easy from the standpoint of a thief to impersonate your online identity and assume your financial standing. Using your identity, a thief can open up a line of credit under your name and go on a shopping spree making you assume all of the responsibility until you rectify the problem. As more and more of our personal information gets warehoused online, protecting information against theft is a continuing challenge on both sides of the fence, customers and financial institutions alike. Just recently, an IRS employee stole $70,000 from the government using identities of a few taxpayers and went on a &lt;a href=&#34;https://qz.com/1723855/an-irs-employee-stole-identities-went-on-spending-spree/&#34; target=&#34;_blank&#34;&gt;2-year long spending spree&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;New &lt;a href=&#34;http://www.scottrlarson.com/updates/update-smartphone-protection/&#34; target=&#34;_blank&#34;&gt;online security measures&lt;/a&gt; now exist that make it very difficult to assume a person&amp;rsquo;s digital identity, but each institution that hosts online services to their customers needs to implement it. I touch on this at the end of this article. On the one hand, they want to, and do respond to threats after the fact pretty well. On the other hand, real security is about  preventing attacks in the first place.  Most well established financial institutions are large behemoths and do not like change. In most cases many will most likely play the “wait and see” game to assess which of these security measures becomes a standard. While outdated security implementations exist (Which become weak points of attack over time), thieves are taking advantage of the situation while they can. This is where Identity Theft Protection (ITP) Services come in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/updates/identity-protection-services/identity-theft-protection-services.jpg&#34; alt=&#34;Identity Theft Protection Services Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the surface, ITP services like Lifelock seem to act as an intermediary that aims to preemptively protect against theft of personal information, and respond to suspicious activity at the source, usually a bank or financial institution. Personal information like your name, address, mobile number, social security number, and birth date can be stored with these third parties. The information is used by financial institutions to provide you with corresponding services. This is why these institutions are often under attack.&lt;/p&gt;
+
+&lt;p&gt;At $120 a year, ITP Services use these online systems (already accessible to the public) and further automate them to provide you with regular updates under one account controlled by the ITP service. The idea is that the ITP service acts on your behalf, interacting with your bank, or financial institution, to correct personal information inaccuracies, or act on an instance of fraud activity.&lt;/p&gt;
+
+&lt;p&gt;I have found that in the world of information security, there are business minded people that use fear to profit on the uninformed, and there are security minded people who try to educate. I definitely fall into the latter camp. I would rather people become better informed on how to protect their information, than to support a system that puts many of its customers in the passenger seat of information security.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, information security can be complex, especially if you have multiple accounts with multiple financial institutions. Due to your financial solvency, if you are finding that your information is constantly being compromised, or that you might be a good target for an attacker, it might be worth it for you to pay an ITP service to help you protect your identity. The drawback is that you have to trust another third party (and its employees) with all of your personal identifying information. This could be another angle of attack for some, but if you have already become accustomed to giving out your personal information to any service that asks for it, without question, or you are required to, then it might benefit you to have one more link in the chain work for you.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-strong-points-of-itp-services&#34;&gt;The Strong Points of ITP Services&lt;/h2&gt;
+
+&lt;p&gt;ITP services attempt to be proactive by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Flagging all three credit bureaus with a fraud alert on a regular basis. This forces financial institutions to contact you personally before a line of credit gets opened in your name. This makes it harder for criminals to impersonate you.&lt;/li&gt;
+&lt;li&gt;As a secondary benefit to the fraud alerts, these services may also collate important about changes to your personal information from various sources in an account that you can view at-a-glance. Focusing on your current credit report, changes to your stored contact information, and any data-mining campaigns that you have been opted into. Thus, making it easier to opt-out of any programs you have been opted into with or without your knowledge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-weak-points-of-itp-services&#34;&gt;The Weak Points of ITP Services&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;For the most part, ITP services seem slow to respond to real-time fraud activity.&lt;/li&gt;
+&lt;li&gt;Due to ITP services’ dependence on outside automated systems, the information the service gathers can often contain inaccurate data. This requires a manual review by you, or the ITP service&amp;rsquo;s own staff, increasing the length of time it takes to act on a discrepancy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;My research has shown, based on the experience of customers that have tried and reviewed these services, that ITP services do not offer much beyond what financial services already offer except to babysit your accounts for you, however slowly. You can protect yourself by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Using &lt;a href=&#34;https://en.wikipedia.org/wiki/Multi-factor_authentication&#34; target=&#34;_blank&#34;&gt;2FA (two-factor authentication)&lt;/a&gt; paired with an authenticator app using &lt;a href=&#34;https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm&#34; target=&#34;_blank&#34;&gt;TOTP (Time-based One-time Password)&lt;/a&gt; and/or a USB/NFC device that uses &lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_2nd_Factor&#34; target=&#34;_blank&#34;&gt;U2F (Universal 2nd Factor)&lt;/a&gt; for sites that support it wherever possible. Replace text based two-factor authentication with the above as soon as you can, and when you do disable text based two-factor on your account. If your smartphone gets compromised, the text-messaging based two-factor authentication can be easily circumvented, or redirected to an attackers mobile by &lt;a href=&#34;https://en.wikipedia.org/wiki/Social_engineering_(security)&#34; target=&#34;_blank&#34;&gt;social engineering&lt;/a&gt; your mobile provider to get them to swap your mobile account to another sim card. You can read more about how to secure your mobile phone and online accounts in my article &amp;ldquo;&lt;a href=&#34;http://www.scottrlarson.com/updates/update-smartphone-protection/&#34; target=&#34;_blank&#34;&gt;Protecting Your Smartphone From Being Hacked&lt;/a&gt;&amp;rdquo;.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Using a web browser with some kind of scripting protection. I use Firefox with the &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/noscript/&#34; target=&#34;_blank&#34;&gt;Noscript Addon&lt;/a&gt;, but there is a Chrome &lt;a href=&#34;https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm&#34; target=&#34;_blank&#34;&gt;noscript extension&lt;/a&gt; as well now. This prevents sites from using aggressive forms of tracking techniques to steal information (&lt;a href=&#34;https://en.wikipedia.org/wiki/Cross-site_scripting&#34; target=&#34;_blank&#34;&gt;Like Cross-Site Scripting (XSS)&lt;/a&gt; or &lt;a href=&#34;https://en.wikipedia.org/wiki/Clickjacking&#34; target=&#34;_blank&#34;&gt;Clickjacking&lt;/a&gt;). These add-ons/extensions help prevent your computer from leaking information about you, but they might also change your browsing experience in such a way that might prevent you from accessing certain areas of specific websites. Depending the amount of scripting a site uses, many of these types of sites do not react well when the scripting becomes disabled.  In these cases having scripting protection depends on your ability to white-list sites that you know are safe.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.stopdatamining.me/opt-out-list/&#34; target=&#34;_blank&#34;&gt;Opting out of data mining practices with the major data brokers&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you have been victim of identity theft already, you can:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.consumer.ftc.gov/articles/0497-credit-freeze-faqs#place&#34; target=&#34;_blank&#34;&gt;Freeze your credit report&lt;/a&gt; If you have been a victim of ID theft.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.identitytheft.gov/&#34; target=&#34;_blank&#34;&gt;File a ID theft report with the Federal Trade Commission&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Being aware of exactly what, or how much information about you is online, and closing out, or making an effort to remove information you do not want online. If you want to see how much of your personal info is available online, you can pay a site such as &lt;a href=&#34;https://radaris.com/&#34; target=&#34;_blank&#34;&gt;Radaris&lt;/a&gt;, &lt;a href=&#34;https://www.advancedbackgroundchecks.com/&#34; target=&#34;_blank&#34;&gt;Advanced Background Checks&lt;/a&gt;, or &lt;a href=&#34;https://www.publicrecordsnow.com/&#34; target=&#34;_blank&#34;&gt;Public Records Now&lt;/a&gt; to search out what is available about you. Please note these sites are not exactly legal and they may disappear and reappear under different names, at will.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Developing a mindset of data protection at all times. Always resist attempts to put your information in a computer system. Don&amp;rsquo;t let your dentist have your SSN without a fight. Don&amp;rsquo;t let them have your real birthday without asking why they need it and &lt;strong&gt;asking if it&amp;rsquo;s required&lt;/strong&gt;, or more importantly: &amp;ldquo;By what authority are you obligating me to provide YOU with this information?&amp;rdquo; Obviously this is going to slow down your intake process and you might get denied service by some providers. If a service requires too much personally identifiable information from you that can be used in a way to steal your identity, is it really worth it to use that service?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Activating a fraud alert by contacting (by phone, or online, one of the major credit bureaus: (No need to contact all three, as they are required to communicate fraud alerts with each other. Remember to renew the fraud alert every 90 days.)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.alerts.equifax.com/AutoFraud_Online/jsp/fraudAlert.jsp&#34; target=&#34;_blank&#34;&gt;Equifax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.experian.com/fraud/center.html&#34; target=&#34;_blank&#34;&gt;Experian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.transunion.com/fraud-alerts&#34; target=&#34;_blank&#34;&gt;TransUnion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;These three major credit bureaus are required to provide you with a free credit report once a year, apply for a report using the respective bureaus websites.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;about-me&#34;&gt;About Me:&lt;/h2&gt;
+
+&lt;p&gt;This article was created with the intent of educating my customers who have had questions about ITP services. I have been working in the computer industry for over 20 years, educating the public about best practices with information security. &lt;a href=&#34;http://scottrlarson.com/#contact&#34; target=&#34;_blank&#34;&gt;Contact me&lt;/a&gt; when you have questions about any computer or information related services.&lt;/p&gt;
+
+&lt;h2 id=&#34;notice&#34;&gt;Notice&lt;/h2&gt;
+
+&lt;p&gt;I am not liable, or responsible for any result derived from any action you take on behalf of what you read in this update.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Protecting Your Smartphone From Being Hacked</title>
+      <link>http://scottrlarson.com/publications/publication-smartphone-protection/</link>
+      <pubDate>Wed, 07 Aug 2019 11:21:57 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-smartphone-protection/</guid>
+      <description>
+
+&lt;p&gt;Smartphones are much more than simple tools to make calls and take pictures. They have become our personal assistants. Storing everything about us. On the one hand, using a smartphone for our day to day living makes life much more convenient. On the other hand, storing all that info about our life on one device that we take with us on the go, opens us up to data theft. It&amp;rsquo;s nothing to be afraid of, its important for our society to be open. But its also good to be cautious.  When a unwanted stranger gets ahold of your smartphone, or is able to siphon out your credit card information to make purchases in your name, it effects the trusted systems we have come to rely on. You can do something about that, you can protect yourself, and in the process, make our technology safer to rely on.  Personal details about you, like your name, address, and phone number are like children, they become attached to your identity for a long, long time. If a shady character gains access to your mobile account or smartphone, they can gain access to other areas of your life as well.&lt;/p&gt;
+
+&lt;p&gt;When your bank asks you for your mobile phone number, to text you a code to view your dollars online, what happens if that message gets diverted? If some pilferer has a reason to do you in, your mobile account information can be a gateway for a smash and grab. One way this theft is perpetrated on you is through what&amp;rsquo;s called a &amp;ldquo;Sim Card Swap&amp;rdquo;. (No, this is not related to your Sim Game Character) If this looser gains access to your smartphone, details about you become a weapon. Then it becomes possible to attack your mobile carrier, and get them to transfer your mobile account to a new owner, a smartphone account thief. A &lt;a href=&#34;https://www.issms2fasecure.com/assets/sim_swaps-01-10-2020.pdf&#34; target=&#34;_blank&#34;&gt;Princeton study&lt;/a&gt; in 2020 found that all the &lt;a href=&#34;https://www.engadget.com/2020/01/12/princeton-study-sim-swap/&#34; target=&#34;_blank&#34;&gt;five major US mobile phone carriers are vulnerable to SIM-swapping tactics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;During a assessment of a smartphone security breach, I spoke to a identity theft victim. The victim wanted to know if it was possible to gain access to a email account that was taken over by an identity thief. One night, over a period of a few hours, the victim had lost access to a smartphone. Later on, it turned up, but something strange started happening. Someone was attempting to impersonate the victim by posting messages to the victim&amp;rsquo;s Facebook account. The messages were self-damaging to the victims character. It turned out that the likely culprit was another party in a court case the victim was connected to. It&amp;rsquo;s a good chance the other party wanted to convince the court to question the victims character by making discrediting remarks through the victims online presence.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-factor-authentication&#34;&gt;2-Factor Authentication&lt;/h2&gt;
+
+&lt;p&gt;After &lt;a href=&#34;https://www.coindesk.com/att-fails-to-win-dismissal-in-24-million-crypto-sim-swap-lawsuit&#34; target=&#34;_blank&#34;&gt;AT&amp;amp;T lost a $24 million lawsuit&lt;/a&gt;, many in the online services industry started questioning the use of text messaging for account access.&lt;/p&gt;
+
+&lt;p&gt;Smartphones are too easy to hack. Setup alternate 2-factor methods of authentication like the ones below and avoid text-messaging methods altogether.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/updates/smartphone-protection/titan-security-keys.png&#34; alt=&#34;Google&#39;s Titian Security Keys&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Two new technologies were release early this year to combat theses kinds of attacks, under the umbrella of what&amp;rsquo;s called 2-factor authentication: A Smartphone app called an &amp;ldquo;Authenticator App&amp;rdquo;, and a USB/Bluetooth flash-drive called a Security Key. The Smartphone app works by installing a authenticator app on your smart-phone. A few developers have release authenticator apps that you can find in your app store: &lt;a href=&#34;https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Google Authenticator App&lt;/a&gt;, &lt;a href=&#34;https://www.microsoft.com/en-us/account/authenticator&#34; target=&#34;_blank&#34;&gt;Microsoft&amp;rsquo;s Authenticator&lt;/a&gt; and &lt;a href=&#34;https://freeotp.github.io/&#34; target=&#34;_blank&#34;&gt;FreeOTP&lt;/a&gt;. The USB/Bluetooth Security Key works by plugging in a flash-drive looking device into the USB port of your desktop, or laptop. Other security keys on the market work by pairing your smartphone to a bluetooth device, and using it to log-in to your accounts by pressing a button. These devices work in conjunction with your password, so if a thief gains access to it, they will need your password as well. These tools work well if a attacker gains access to you smartphone or mobile account. Those text message codes wont help the thief if the security key is not present for the secondary authentication.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/updates/smartphone-protection/google-security-key-prompt.png&#34; alt=&#34;Google&#39;s Titian Security Keys&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In my mind both of these technologies are twins in terms of how they protect your identity, so you do not get locked out of your account, if your forget one of the two. Not all Security Key packages offer the same choices, so it&amp;rsquo;s a good idea to &lt;a href=&#34;https://www.theverge.com/2019/2/22/18235173/the-best-hardware-security-keys-yubico-titan-key-u2f&#34; target=&#34;_blank&#34;&gt;look at the options&lt;/a&gt; each package provides, to be sure the key you purchase is going to work with your particular setup. If you need help deciding, I can help you evaluate your options with a &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;free 20 minute consultation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Securing your smartphone is a insurance policy. You might never get attacked, but if you do, having a security key or an authenticator app in addition to you single password sign-on is a smart idea. Because of your password gets changed by an attacker you wont have much recourse to recover your account and you might have to spent a lot of time changing your passwords and setting up a new mobile account. As we put more and more of our life on-line, protecting your identity is going to increasingly become an issue.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-protect-your-smartphone-from-being-attacked&#34;&gt;How to protect your Smartphone from being attacked:&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-don-t-break-up-with-your-smartphone&#34;&gt;1. Don’t break-up with your smartphone&lt;/h3&gt;
+
+&lt;p&gt;Don&amp;rsquo;t walk away from your Smartphone and leave it unattended. If you plan on upgrading to a new smartphone, or you just want to leave the smartphone high-life behind, check out my &lt;a href=&#34;#other-tips&#34;&gt;other tips&lt;/a&gt; on recycling your smartphone. If you do plan on continuing the high-life however, configure your smartphone to lock automatically after five minutes, or less. Don&amp;rsquo;t lend your smartphone to friends, family, or your cat. I know you trust your cat, but lending your smartphone out for even a few minutes, or hours adds to that &amp;ldquo;I lost something&amp;rdquo; feeling. No person is as careful with your stuff, as you are. If you need to demo a photo, video, or otherwise, make your smartphone a physical extension of your arm. I&amp;rsquo;m totally not kidding here, well mostly.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-mix-those-passwords-up&#34;&gt;2. Mix those passwords up&lt;/h3&gt;
+
+&lt;p&gt;Create a unique password, or PIN for your smartphone, don&amp;rsquo;t be a copycat. And make sure it&amp;rsquo;s one that you do not use anywhere else. Or better yet if you have a lot of password dementia going on in your life, consider hiring a manager, well I really mean getting a application called a &lt;a href=&#34;http://www.scottrlarson.com/recommendations/recommendation-password-managers&#34; target=&#34;_blank&#34;&gt;Password Manager&lt;/a&gt;. Password Manager&amp;rsquo;s help minimize password dementia. These apps can generate complex passwords that you do not have to remember. I know, I know it sounds complicated. But think of a password manager as a typing assistant. It can type those pesky passwords of you. Many can type and remember passwords for you on your PC, Desktop, or mobile device. &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;Contact me&lt;/a&gt; if you need help choosing, or setting up one of these baby&amp;rsquo;s.&lt;/p&gt;
+
+&lt;h3 id=&#34;3-maintain-your-up-to-date-ness&#34;&gt;3. Maintain your up-to-date-ness&lt;/h3&gt;
+
+&lt;p&gt;Your mobile device is like your car. It only runs well when you keep it fine-tuned. Mobile OS&amp;rsquo;s and applications are updated on a regular basis. Ensure that you follow though with those updates.&lt;/p&gt;
+
+&lt;h3 id=&#34;4-public-hotspots-are-public&#34;&gt;4. Public hotspots are public&lt;/h3&gt;
+
+&lt;p&gt;Be smart about how you use a unprotected network like a hotspot. It&amp;rsquo;s great for checking news, maybe not so great for logging into your bank. Unless you have a secondary way to authenticate using a authenticator app, or Security Key.&lt;/p&gt;
+
+&lt;h3 id=&#34;5-stick-to-the-tried-and-true&#34;&gt;5. Stick to the tried and true&lt;/h3&gt;
+
+&lt;p&gt;Don&amp;rsquo;t Jailbreak you smartphone, or let a friend convince that you need some rogue app that is not part of your app store.&lt;/p&gt;
+
+
+&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div style=&#34;border: none; padding-left:0; padding-top: 0;&#34; class=&#34;panel-heading&#34;&gt;
+      &lt;h3 class=&#34;&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-list-othersmartphoneprotection&#34;&gt;6. Other Smartphone protection tips&lt;/a&gt;
+      &lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-list-othersmartphoneprotection&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Do not modify the smartphone’s security settings&lt;/strong&gt;: Check what permissions are required before installing any apps, and be careful that access to sensitive information is not being granted if it&amp;rsquo;s not necessary for the app in question.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apply encryption&lt;/strong&gt; to the internal memory card and – if possible – to any sensitive data held; If you back-up your device to another location, make sure that backup is encrypted.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ensure ‘Bluetooth’ is switched off if not required.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Think before clicking&lt;/strong&gt; on web links, or attachments in emails, or text messages – if you are not sure who the message is coming from, or the message is coming from someone you know that would never send you that kind of information, or that person would never make this kind of contact with you, ignore the message and delete it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secure Erase that Old Device&lt;/strong&gt;: Ensure that the smartphone is securely recycled, donated or disposed of – e.g. erase all data first, reset it to the factory settings; remove the SIM card.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Report a lost or stolen phone ASAP&lt;/strong&gt;: If the smartphone is lost or stolen, report it  as soon as possible to your mobile provider.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Set a PIN on your SIM card&lt;/strong&gt;: Most smartphones have the ability to set a PIN code on the SIM card itself. If your SIM card, or smartphone gets compromised, the attacker will be required to enter a PIN code to unlock the capabilities of the SIM card, unless the smartphone is powered on and unlocked at the time it has been compromised. (Shutting down or restarting your smartphone will require you to enter in this PIN in addition to whatever password you have setup on the smartphone itself.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;In my experience, the best security (Smartphone or otherwise) is awareness. Being aware of what you know (and don&amp;rsquo;t know) about your technology is one step for man, and one giant leap for mankind. Have some peace of mind about where you stand with security. If you don&amp;rsquo;t know how to proceed on any of these areas, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact me&lt;/a&gt; and I can help you formulate a master plan. My goal is to is to be that troubleshooter for you, so you don&amp;rsquo;t have to figure things thing&amp;rsquo;s out yourself..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Regular Device Maintenance</title>
+      <link>http://scottrlarson.com/publications/publication-regular-maintenance/</link>
+      <pubDate>Thu, 02 May 2019 14:48:33 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-regular-maintenance/</guid>
+      <description>&lt;p&gt;We live in an age of mobile devices. We are accustom to replacing a device before it needs maintenance with the exception of laptop&amp;rsquo;s and desktops.
+If you have a device that you want to keep as long as possible, maintenance is the glue that holds the operation of your device together.
+Just like your prized automobile, changing out the tires and oil keeps it operational for your most important trips.&lt;/p&gt;
+
+&lt;p&gt;In a way, computers physically operate much like an automobile. Many times there are moving parts, but most of the time there is heat from the electrical operation of the components. And there are features like drivers that bridge the gap between two components. Usually between the CPU (Brain) and the Storage Device (Long Term Memory). Dusting your device usually tackles the heat problem, and updating drivers keeps the communication between components operating smoothly. Over time as your computer is updated, and as programs are added these new features require smooth operation of your device. Otherwise you have failures that cause downtime and loss of data.&lt;/p&gt;
+
+&lt;p&gt;Backups become important if you have data on your device that you do not want to lose. A &lt;a href=&#34;http://scottrlarson.com/publications/publication-disaster-recovery-backup&#34;&gt;disaster recover solution&lt;/a&gt; is the most robust solution for people that want limited down time. But you can get by with just a cloud backup solution, or copying files by hand to a flash drive.&lt;/p&gt;
+
+&lt;p&gt;You can hire me to dust your computer, update software, check your security and drivers once a year if you are one of those people who value your up time, and do not want to have to replace your device by surprise.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;Contact me&lt;/a&gt; for more information on how I can help you avoid down time and the unexpected loss of your device due to unnecessary wear and tear.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is a Disaster Recovery Backup Solution?</title>
+      <link>http://scottrlarson.com/publications/publication-disaster-recovery-backup/</link>
+      <pubDate>Sat, 08 Sep 2018 15:16:49 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-disaster-recovery-backup/</guid>
+      <description>
+
+&lt;p&gt;A disaster recovery backup solution preserves a local copy of all data: Desktop
+Settings, Programs, and personal/business data like (Documents, Pictures
+or Music) onto a local, network, or cloud based storage device. If any
+of your working device components fail catastrophically, your system
+state (all data related to the functioning of your device and your
+productivity) can be restored to a previous state (before the disaster)
+in full running condition with minimal down time. Depending on the
+particular situation, having to rebuild your system state involves a
+significant amount of time and money. A disaster recovery solution is
+like insurance, it protects you when a disaster strikes.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;I am prepared for the worst, but hope for the best.&amp;rdquo; - Benjamin
+Disraeli&lt;/p&gt;
+
+&lt;h3 id=&#34;quick-tips-to-help-you-recover-from-a-disaster&#34;&gt;Quick tips to help you recover from a disaster&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Most devices have what&amp;rsquo;s called the &amp;ldquo;Recovery or Installation
+Media&amp;rdquo; on the internal hard disk. You will need a copy of that
+recovery or installation media if the storage component of your
+device fails. Usually a tool is installed on your device by the
+manufacturer of that device to make a physical copy of that media.
+To find out how to access that tool do a search on your device or on
+google for your device&amp;rsquo;s manufacturer&amp;rsquo;s name like &amp;ldquo;dell&amp;rdquo; or
+&amp;ldquo;hp&amp;rdquo; plus the words &amp;ldquo;recovery&amp;rdquo; and &amp;ldquo;media&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Make a list specific applications that might need to be reinstalled
+and reconfigured to return to normal business.&lt;/li&gt;
+&lt;li&gt;If you have a current backup now have you tested it to make sure you
+can recover the data you want to preserve?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;case-example&#34;&gt;Case Example&lt;/h3&gt;
+
+&lt;p&gt;Recently a customer called me about a computer disaster. The customer
+explained that Windows 10 decided to update itself right in the middle
+of authoring a critical document. The worst part about this situation
+was this customer was completely locked out of the device and had been
+waiting hours for the update to complete before the call. Sometimes its
+not entirely clear when these updates will complete. Windows updates can
+sometimes take all night, or sometimes get completely stuck forcing you
+to take drastic measures.&lt;/p&gt;
+
+&lt;p&gt;With a disaster recovery solution in place you can protect yourself
+from:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Downtime by avoiding lengthy repairs to your data or system
+configuration.&lt;/li&gt;
+&lt;li&gt;Costly repairs or recovery of the data on your device when it fails.&lt;/li&gt;
+&lt;li&gt;Malware or Ransomeware infections by being able to restore from a
+previous backup.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;See my &lt;a href=&#34;http://scottrlarson.com/management&#34;&gt;remote system management service packages&lt;/a&gt; for more information about keeping your device protected from a data loss situation.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;how-the-disaster-recovery-process-works-and-what-to-expect-additional-material&#34;&gt;How the disaster recovery process works and what to expect (Additional Material)&lt;/h2&gt;
+
+&lt;p&gt;[]{#local-disaster-recovery-service}&lt;/p&gt;
+
+&lt;h3 id=&#34;local-disaster-recovery-service .center&#34;&gt;Local Disaster Recovery Service&lt;/h3&gt;
+
+&lt;p&gt;A local disaster recovery solution backs up your device by transferring
+your system state and all data to a local external storage media
+connected to the device on a scheduled basis. The schedule is determined
+by the retention policy (A method to set how often backups are being
+perform and for how long they are stored before they are cleaned up).
+The retention policy and schedule will be set based on your needs that I
+will discuss with you before I setup the solution.&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;Below is a diagram showing how the process works:&lt;/dt&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;::: {.header-image}
+&lt;img src=&#34;http://www.scottrlarson.com/img/articles/disaster-recovery/External-Disaster-Recovery-Map.png&#34; alt=&#34;Network Disaster Recovery
+Map&#34; /&gt;
+:::&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[]{#network-disaster-recovery-service}&lt;/p&gt;
+
+&lt;p&gt;Network Disaster Recovery Service&lt;/p&gt;
+
+&lt;p&gt;A network disaster recovery solution is very similar to a local disaster
+recovery solution except that it backs up your device&amp;rsquo; data by
+transferring your system state and all data to a network attached
+storage device (An appliance device containing storage devices connected
+to a network). Devices that are connected to your home network will see
+the NAS device and transfer backup data to it on a scheduled basis.&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;Below is a diagram showing how the process works:&lt;/dt&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;::: {.header-image}
+&lt;img src=&#34;http://www.scottrlarson.com/img/articles/disaster-recovery/Network-Disaster-Recovery-Map.png&#34; alt=&#34;Network Disaster Recovery
+Map&#34; /&gt;
+:::&lt;/p&gt;
+
+&lt;h4 id=&#34;network-attached-storage-device-features .headingAttributes&#34;&gt;Network Attached Storage Device Features&lt;/h4&gt;
+
+&lt;p&gt;The NAS Device includes a cloud storage feature so all of multiple users
+can store, access and sync important files in one place minimizing file
+duplication across all devices.&lt;/p&gt;
+
+&lt;h4 id=&#34;network-speed-limitations&#34;&gt;[Network Speed Limitations]&lt;/h4&gt;
+
+&lt;p&gt;The speed of disaster recovery solution is important. If the backups
+take to long to complete this slows down your ability to work and
+creates more room for failures in the backup process to happen.
+Depending on your current network hardware (Modem and Router) an upgrade
+to that hardware may be required to meet the minimum speed requirements
+of a backup completing successfully in a reasonable amount of time. In
+the case of a network disaster recovery service I need to spend some
+additional time performing a network site survey of your home network
+environment to make sure it&amp;rsquo;s up to speed with any solution I put into
+place. Site surveys typically cost \$250.00 flat rate for a 4 users
+network.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

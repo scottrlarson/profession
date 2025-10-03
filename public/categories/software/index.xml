@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Scott Larson</title>
+    <link>http://scottrlarson.com/categories/software/</link>
+    <description>Recent content in Software on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 14:51:36 -0800</lastBuildDate>
+    <atom:link href="/categories/software/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Remote Utilities</title>
+      <link>http://scottrlarson.com/recommendations/recommendation-remote-utilities/</link>
+      <pubDate>Mon, 30 Dec 2019 14:51:36 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/recommendation-remote-utilities/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-remote-utilities.png&#34; alt=&#34;Remote Utilities Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.remoteutilities.com/&#34; target=&#34;_blank&#34;&gt;Remote Utilities&lt;/a&gt; is remote desktop software. I have tried many products and many of them work great, are simple to use, but expensive, or cloud based.
+I use to use Team Viewer, its worked really good, but they charge $1200 a year for a license, and there terms of service transparency regarding their polices around subscription billing in my mind is unethical. If you do not cancel the subscription 30days before you want to cancel it, your locked into another subscription for the following year.
+I have tried gotomypc and that works good but its cloud based. I do not like supporting cloud based applications if can avoid it. Cloud remote support applications like GOTOMYPC are hosted directly from the cloud, and they pretty much control everything about the application due to the subscription based model many companies use.&lt;/p&gt;
+
+&lt;p&gt;I finally sat down one day and did some real research on finding a remote desktop application that would suit my needs. I was looking for the ability to connect to my own, and customers computers remotely, either in unattended mode or by permission, which ever the customer opted for. I also wanted portability as I often load all my tools on a USB flash drive, so that I can repair computers at my office, or in the field without having to install software on a customer&amp;rsquo;s computer. Avoiding applications that require an install minimizes risk of damage to the customer&amp;rsquo;s device.&lt;/p&gt;
+
+&lt;p&gt;I found that Remote Utilities works reliably, is cost effective, and has features that are far ahead of the competition. The most important feature to me is 2-Factor Authentication that is natively built into the application.  &lt;a href=&#34;http://scottrlarson.com/updates/update-smartphone-protection.md&#34;&gt;2-Factor Authentication&lt;/a&gt; is a security measure that minimizes risk of having your credentials hacked.&lt;/p&gt;
+
+&lt;p&gt;Remote Utilities is affordable as well. The company offers a &lt;a href=&#34;https://www.remoteutilities.com/buy/free.php&#34; target=&#34;_blank&#34;&gt;free license&lt;/a&gt; for up to 10 PC. 20 licenses is around $100 dollars (Non-Subscription Based). I just wanted to thank the developers of this software, they are very fair in their dealings and with all these remote desktop companies going subscription based, this is a breath of fresh air. I only which I knew about this product before I purchase a Teamviewer license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Password Managers</title>
+      <link>http://scottrlarson.com/recommendations/recommendation-password-managers/</link>
+      <pubDate>Thu, 15 Aug 2019 15:17:37 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/recommendation-password-managers/</guid>
+      <description>
+
+&lt;p&gt;Here is my recommendations for &lt;a href=&#34;http://scottrlarson.com/terms/term-password-manager&#34;&gt;Password Managers&lt;/a&gt;. I look for solutions that are &lt;a href=&#34;http://scottrlarson.com/terms/term-cross-platform&#34;&gt;cross-platform&lt;/a&gt;, reliable, and since many of them store your private information on a &lt;a href=&#34;http://scottrlarson.com/terms/term-cloud-service&#34;&gt;cloud service&lt;/a&gt;, the provider needs to have good security practices. Also, the password manager should not have too many features that complicate the use and performance of the solution. The solution should also have the ability to sync your passwords in an &lt;a href=&#34;http://scottrlarson.com/terms/term-encryption&#34;&gt;encrypted&lt;/a&gt; form to a 3rd party cloud service, instead of including its own cloud solution. This is so you can access and sync your passwords across multiple devices, and not have all of your eggs in one basket. Similar to investing, this practice spreads your risk across multiple solutions, minimizing the impact on your life if the provider ever happens to change their policies, or suffer outages. The draw back is that is a bit more complicated to setup since you have to link your password manager to your cloud service. I have also found that all-in-one products tend to be very loose when it comes to privacy. In my experience, combining the software into a service, sold by the same company is to prevent the user from controlling their own information. Many times, you will see indemnifying language in relationship to your data in their privacy statement.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-enpass.png&#34; alt=&#34;Enpass Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-enpass-https-www-enpass-io&#34;&gt;&lt;a href=&#34;https://www.enpass.io/&#34; target=&#34;_blank&#34;&gt;1. Enpass&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Supported Platforms:&lt;/strong&gt; PC, Mac, iOS, Android&lt;br /&gt;
+&lt;strong&gt;Cloud Support:&lt;/strong&gt; Dropbox Integration&lt;br /&gt;
+&lt;strong&gt;Ease of Use:&lt;/strong&gt; Intermediate&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-awallet.png&#34; alt=&#34;Awallet Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-awallet-http-www-awallet-org&#34;&gt;2. &lt;a href=&#34;http://www.awallet.org/&#34; target=&#34;_blank&#34;&gt;Awallet&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Supported Platforms:&lt;/strong&gt; iOS, Android&lt;br /&gt;
+&lt;strong&gt;Cloud Support:&lt;/strong&gt; Dropbox Integration&lt;br /&gt;
+&lt;strong&gt;Ease of Use:&lt;/strong&gt; Intermediate&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-keepass.png&#34; alt=&#34;Keepass Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-keepass-https-keepass-info&#34;&gt;3. &lt;a href=&#34;https://keepass.info/&#34; target=&#34;_blank&#34;&gt;Keepass&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Supported Platforms:&lt;/strong&gt; PC&lt;br /&gt;
+&lt;strong&gt;3rd Party Platform Support:&lt;/strong&gt; MacOS, iOS, Android&lt;br /&gt;
+&lt;strong&gt;Sync Support:&lt;/strong&gt; Remote Folder (Manual)
+&lt;strong&gt;Ease of Use:&lt;/strong&gt; Hard&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>File Copy Transfer Utilities</title>
+      <link>http://scottrlarson.com/links/utilities/link-file-folder-utilities/</link>
+      <pubDate>Thu, 20 Dec 2018 14:49:14 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/links/utilities/link-file-folder-utilities/</guid>
+      <description>&lt;p&gt;When copying a lot of files, sometimes you need an advanced utility. This is a list of tools I use for my services.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A good article on the history behind coping files in bulk and a tool that was created to meet that need. &lt;a href=&#34;http://www.tpcqpc.com/richcopy-microsofts-multi-threaded-file-copy-utility/&#34; target=&#34;_blank&#34;&gt;RichCopy – Microsoft’s Multi-Threaded File Copy Utility&lt;/a&gt; is a Windows copy utilities for IT professionals.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fpnet.fr/&#34; target=&#34;_blank&#34;&gt;Fab&amp;rsquo;s Autobackup&lt;/a&gt; utility is a good tool to migrate Windows account profile data from one computer to another. I copies profile data and helps you setup a new profile with many of the features that need to be working after a successful migration like Outlook Email, and Web Browser History.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

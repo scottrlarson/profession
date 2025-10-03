@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Glossary on Scott Larson</title>
+    <link>http://scottrlarson.com/glossary/</link>
+    <description>Recent content in Technical Glossary on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Wed, 07 Mar 2018 11:21:15 -0800</lastBuildDate>
+    <atom:link href="/glossary/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ransomware</title>
+      <link>http://scottrlarson.com/glossary/ransomware/</link>
+      <pubDate>Mon, 05 Jul 2021 11:38:02 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/glossary/ransomware/</guid>
+      <description>&lt;p&gt;A type of malicious software designed to block access to a computer system or a data location until a sum of money is paid.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart Device</title>
+      <link>http://scottrlarson.com/glossary/smart-device/</link>
+      <pubDate>Sat, 19 Jun 2021 09:01:14 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/glossary/smart-device/</guid>
+      <description>&lt;p&gt;A smart device is an electronic device, generally connected to other devices or networks via different wireless protocols such as Bluetooth, Wi-Fi, or cellular networks that can operate to some extent interactively and autonomously. Several notable types of smart devices are smartphones, smart vehicles , smart thermostats, smart doorbells, smart locks, smart refrigerators, and tablets, smartwatches, smart bands, smart key chains, and even a PC or Mac can act as a smart device depend on the application installed. The term can also refer to a device that exhibits some properties of ubiquitous computing, including—although not necessarily—artificial intelligence.&lt;/p&gt;
+
+&lt;p&gt;Smart devices can be designed to support a variety of form factors, a range of properties pertaining to ubiquitous computing and to be used in three main system environments: physical world, human-centered environments and distributed computing environments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legacy</title>
+      <link>http://scottrlarson.com/glossary/legacy/</link>
+      <pubDate>Wed, 17 Oct 2018 08:50:13 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/glossary/legacy/</guid>
+      <description>&lt;p&gt;Denoting software or hardware that has been superseded but is difficult to replace because of its wide use. Also legacy hardware or software can cause unforeseen problems if a operating system depends on new and current features that are part of upgrading. For instance, running legacy software on a new computer with a current operating system might prevent that software from working as expected.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

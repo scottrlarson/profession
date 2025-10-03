@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Scott Larson</title>
+    <link>http://scottrlarson.com/updates/</link>
+    <description>Recent content in Updates on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 22 Feb 2018 18:16:33 -0800</lastBuildDate>
+    <atom:link href="/updates/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Windows 11 Backup OneDrive Forced Setup</title>
+      <link>http://scottrlarson.com/updates/update-windows11-oobe-backup-onedrive-forced-setup/</link>
+      <pubDate>Sat, 09 Aug 2025 14:46:46 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-windows11-oobe-backup-onedrive-forced-setup/</guid>
+      <description>&lt;p&gt;Microsoft is enabling OneDrive by default which will sync your data to the cloud, put your data in offline mode and this setup can prevent you from accessing your data if something happens with the cloud provider. Its strongly advised not to setup a new PC yourself but to have a professional set it up without this feature.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/updates/windows11-oobe-backup-onedrive-forced-setup/one-drive-prompt-start-backup.jpg&#34; alt=&#34;Screenshot of prompt that may trick you into setting up one drive&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Microsoft might try to trick you into setting up one drive again with a prompt like this. If you click start, it will move your files to a OneDrive Folder on your computer and start syncing your data without your consent. If you dont want your file location changed or your data moved into the cloud, do not act on this prompt. There are also reports of Microsoft silently installing OneDrive for Office customers who have installed Office365 and performing this setup without user interaction or consent.&lt;/p&gt;
+
+&lt;p&gt;If you find that your PC has been setup with OneDrive, your data has been moved to the cloud and want your data returned to your computer, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact&lt;/a&gt; me to set up an appointment for a service to restore your data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Antimalware Security Is Now Bloatware</title>
+      <link>http://scottrlarson.com/updates/update-antimalware-security-bloatware/</link>
+      <pubDate>Tue, 05 Aug 2025 12:19:12 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-antimalware-security-bloatware/</guid>
+      <description>&lt;p&gt;The primary purpose of installing a third-party security product is to protect the computer from unwanted and unnecessary software that can confuse and complicate the customer experience. Since 2023, or even before, consumer security products have undergone changes. From products that protect you from malicious software and unwanted access, to products that attempt to sell you add-ons that you don&amp;rsquo;t need, like VPN services.&lt;/p&gt;
+
+&lt;p&gt;It is for these reasons that I no longer recommend any 3rd party security products. The best way to protect yourself from threats on your computer and online is to stick with Windows&amp;rsquo; built-in product &amp;ldquo;Windows Defender&amp;rdquo; and go with a browser like &lt;a href=&#34;https://www.firefox.com&#34; target=&#34;_blank&#34;&gt;Firefox&lt;/a&gt; that has the Ublock Origin add-on. Ublock protects the browser from malicious Ad networks, and Windows Defender does a pretty good job of protecting you from email threats and files that find their way to your computer.&lt;/p&gt;
+
+&lt;p&gt;Stay away from the 3rd party vendors like McAfee and Norton, and all the other 3rd party providers. I have yet to encounter a security provider that doesn&amp;rsquo;t include some kind of notification system that tries to get you to purchase and install add-ons.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Are PC Hardware Companies Slowly Driving Technology into Restricted Closed Ecosystems?</title>
+      <link>http://scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/</link>
+      <pubDate>Sat, 28 Dec 2024 21:14:04 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/</guid>
+      <description>
+
+&lt;p&gt;I am a Computer Hardware professional. I started working with computer technology in the early eighties. I have seen the evolution of technology starting with closed platforms like the game console era and then the move toward open platforms like the &lt;a href=&#34;https://www.scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-1/&#34; target=&#34;_blank&#34;&gt;Home Computer Golden Age&lt;/a&gt;. In the last 5 or 10 years, I have witnessed technology changes that are slowly moving away from open hardware designs towards hardware that is locked down and can&amp;rsquo;t be modified by the user.  For more articles on this subject, see my  &lt;a href=&#34;https://www.scottrlarson.com/categories/deceptivetechnology/&#34; target=&#34;_blank&#34;&gt;DeceptiveTechnology&lt;/a&gt; section.&lt;/p&gt;
+
+&lt;h2 id=&#34;is-dell-limiting-access-to-drivers-and-designing-bios-to-minimize-os-changes&#34;&gt;Is Dell limiting access to drivers and designing BIOS to minimize OS changes?&lt;/h2&gt;
+
+&lt;p&gt;In the last few years, I have noticed a trend where Dell does not provide RST storage drivers for NVME SSDs (the software that allows a user to cleanly install an operating system from media) on Laptops and Desktops. Normally, you can just go into the BIOS, switch from NVME Raid to ACHI, and be done with it—or can you?&lt;/p&gt;
+
+&lt;p&gt;I recently purchased a Dell Inspiron 16 Plus 7640 Laptop with a BIOS that does not have an option to change to an AHCI storage configuration. Without the RST storage driver not being made available on Dell&amp;rsquo;s website, and no ability to switch to ACHI, you cannot reinstall Windows in a clean state from a installation disk because the install requires that the RST driver be manually loaded befoe it can see the storage device.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell-inspiron-16-plus-bios-storage-configuration-missing-ahci-mode.jpeg&#34; alt=&#34;Dell Inspiron 16plus bios storage configuration missing AHCI mode&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Normally, you would see this screen that allows you to switch storage modes
+&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell-inspiron-3030-bios-storage-configuration.jpeg&#34; alt=&#34;Dell Inspiron 3030 bios storage configuration AHCI mode&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I tried the key combinations to enable advanced BIOS configuration that worked on previous models, but no dice. Is it a coincidence that Dell has not been releasing the RST storage drivers for most of these models in the last couple of years, and is now deciding that the BIOS storage configuration should not be changable?&lt;/p&gt;
+
+&lt;p&gt;If you check Dell&amp;rsquo;s website for drivers, you probably will not see RST drivers for many models listed. I checked the driver listing for my model and so far I don&amp;rsquo;t see it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell.com-support-storage-driver-listings-lack-RST.resized.jpeg&#34; alt=&#34;Dell.com Support Storage Driver Listings Lack RST&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a different model with no RST listing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell.com-support-storage-driver-listings-lack-RST-different-model.jpeg&#34; alt=&#34;Dell.com Support Storage Driver Listings Lack RST Differnt Model&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can try to find drivers online, based on the hardware id&amp;rsquo;s, especially from Intel&amp;rsquo;s website, but they don&amp;rsquo;t always work for your particular model. I even tried to extract the drivers from the OS but I wasn&amp;rsquo;t able to find a .inf configuration profile to make it work.&lt;/p&gt;
+
+&lt;p&gt;These changes effectively prevents a user from cleanly reinstalling the operating system from media. The only option, that I can see, is to install from the service partition on the device, or from Dell&amp;rsquo;s BIOS re-installation technology, which contains bloatware, targeted advertising, and data collection.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m open to being wrong, please let me know if I am missing something.&lt;/p&gt;
+
+&lt;p&gt;Short of evidence to the contrary. I believe this is one small part of a bigger and long-term planned effort within the PC hardware and software industries to control the user experience for consumer hardware. Apple is also moving in this direction with the MacOS by limiting non-approved software from being installed. Yes, you can work around it, but it&amp;rsquo;s getting harder and harder to do so with every iteration of the Operating System.&lt;/p&gt;
+
+&lt;p&gt;We are slowly being boiled to the point of no return. We need some kind of consortium for users to represent our interests otherwise in 10 or 20 years we will have very limited choice when it comes to computer technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Are Hardware Manufacturers Trying to Lock Down Consumer Hardware?</title>
+      <link>http://scottrlarson.com/updates/update-hardware-manufactures-consumer-hardware-lockdown/</link>
+      <pubDate>Sun, 17 Nov 2024 10:22:25 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-hardware-manufactures-consumer-hardware-lockdown/</guid>
+      <description>&lt;p&gt;Maybe this is a byproduct of cost savings decisions by replicating enterprise-grade hardware manufacturing design principles and using them to design consumer-grade technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://scottrlarson.com/img/updates/TotalitarianismTechnology/Inspiron16Plus7640.webp&#34; alt=&#34;Dell Inspiron 16 Plus Image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Recently I received a Dell Inspiron 16 Plus 7640 that has options removed.  The storage section had no setting to change to a non-raid option. Because OEMs install bloatware on their systems, I choose to install the OS clean, or in most cases, I need to clone a system from dissimilar hardware.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://scottrlarson.com/img/updates/TotalitarianismTechnology/Dell-Inspiron16Plus-BIOS-Storage.jpg&#34; alt=&#34;Dell Inspiron 16 Plus BIOS Storage Image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The default Windows Install won&amp;rsquo;t see the storage device when you try to reinstall a clean copy of Windows from media if you can&amp;rsquo;t switch the storage to &amp;ldquo;non-raid&amp;rdquo; without loading the driver manually. So I thought, ok I&amp;rsquo;ll download the driver from Dell&amp;rsquo;s support website.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://scottrlarson.com/img/updates/TotalitarianismTechnology/Dell-Inspiron16Plus-Support-Website-RST-Drivers-Missing.jpg&#34; alt=&#34;Dell Inspiron 16 Plus Support Website RST Drivers Missing Image&#34; /&gt;
+But lo and behold, they don&amp;rsquo;t make it available. By the way, this is not just an isolated occurrence, in the last few years I have seen other Dell models driver listings without the RST driver.&lt;/p&gt;
+
+&lt;p&gt;I could pull the drivers from the factory OS, but, I&amp;rsquo;m sorry, that shouldn&amp;rsquo;t be required and its time consuming for me to have to do that.&lt;/p&gt;
+
+&lt;p&gt;If you have experienced this, let me know in the Hacker News comments. I believe that hardware manufacturers are slowly moving towards a model where you can&amp;rsquo;t customize the hardware you buy. I strongly encourage people not to purchase products and return products that don&amp;rsquo;t have the needed BIOS options and the proper drivers available for their hardware.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m thinking about getting a ThinkBook 16 Gen 7 (16″ Intel) Laptop as a replacement. I&amp;rsquo;m pretty sure that Lenovo Makes RST drives available or the BIOS options are as such I can customize the OS the way I want, if you know of a better model that is designed and released without these anti-competitive changes, let me know.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Update Chrome Security Flaw</title>
+      <link>http://scottrlarson.com/updates/update-chrome-security-flaw/</link>
+      <pubDate>Fri, 29 Sep 2023 10:27:54 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-chrome-security-flaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Anti-Customer Changes to Desktop &amp; Laptop Technology</title>
+      <link>http://scottrlarson.com/updates/update-deceptive-design-recent-computers-laptops/</link>
+      <pubDate>Wed, 16 Aug 2023 11:23:07 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-deceptive-design-recent-computers-laptops/</guid>
+      <description>
+
+&lt;div class=&#34;breakoutBox1&#34;&gt;I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my &lt;a href=&#34;https://scottrlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/div&gt;
+
+&lt;p&gt;Very recently, OEM (Original Equipment Manufacturers of consumer desktops and laptops, like Dell, HP, and Sony, etc.) have been introducing new features into the Basic Input/Output System (the system that controls all the hardware in a computer).&lt;/p&gt;
+
+&lt;p&gt;These features are put in under the guise of protecting the consumer, but in practice, they are unnecessary and over-complicating the setup and experience, reducing ownership power and ownership privacy. As a technology service provider, these changes are making it harder to provide services to you.&lt;/p&gt;
+
+&lt;p&gt;I have decided that it&amp;rsquo;s no longer a good business decision to have to conform to the limitations these changes place on my services.&lt;/p&gt;
+
+&lt;p&gt;Because of the evolution of the internet, the computer industry has been going through a lot of changes in the last couple of years. Some of these changes are good for society, and some are not. For now, manufacturers, who design and sell off-the-shelf consumer computer parts, parts that go into making a computer, are not affected by the anti-customer changes OEM providers are currently making to consumer-grade computers. But there is mounting pressure to design hardware around a closed security model where the market-dominating companies can dictate how hardware is developed.&lt;/p&gt;
+
+&lt;p&gt;Original Equipment Manufacturers (OEMs) are not required to follow certain standards like the rest of the computer industry that sells computer parts. They can, and do, make for-profit changes to the equipment they design, negatively impacting the sale and use of computing products. These kinds of changes, that are made to hardware and preloaded software, such as the Windows operating system, run counter to open design/development standards. These OEMs make these changes in an attempt to monopolize a market or gather data from their customers without informed consent. To read more about this topic, see my articles on &amp;ldquo;&lt;a href=&#34;https://www.scottrlarson.com/categories/deceptivetechnology/&#34;&gt;&amp;ldquo;DeceptiveTechnology&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you plan on upgrading to, or purchasing a new desktop computer, I recommend and will build a custom-made computer that meets your specific needs, instead of recommending a pre-built OEM Computer that you purchase from a computer store. For laptops, I recommend a &lt;a href=&#34;https://frame.work/&#34; target=&#34;_blank&#34;&gt;Framework&lt;/a&gt; Laptop. Framework builds laptops around sustainability. Their design choices reflect open standards. As the current throw-away computer industry continues to make these cost-saving but anti-customer changes, Computers and Laptops, built around open standards, levels the playing field for everyone, but they also have different price points (Usually a few hundred dollars more) and slightly longer ordering and shipment windows.&lt;/p&gt;
+
+&lt;p&gt;I strongly believe that moving away from supporting these big players will improve customer choice and, in the long run, create a healthy marketplace that isn&amp;rsquo;t dominated by companies that abuse their &lt;a href=&#34;https://www.endcreativemonopolies.com/&#34; target=&#34;_blank&#34;&gt;monopolistic&lt;/a&gt; position. If you are a distributor of desktops and laptops, consider adopting changes that support the &lt;a href=&#34;https://repair.org&#34; target=&#34;_blank&#34;&gt;right to repair&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This will affect some of my services to you. I can still handle most repair issues with OEM computers, but I will no longer be performing hardware upgrades to any OEM Models.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When purchasing one of my custom computers or recommended laptops, depending on your needs, plan on spending $1000 or more.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I apologize if this inconveniences you in any way.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features-or-actions-that-are-encumbering-the-setup-and-experience-of-consumer-grade-computers-and-laptops&#34;&gt;Features, or actions, that are encumbering the setup and experience of consumer-grade computers and laptops&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;(Please note that these features can be helpful for business environments, but they are not necessary and are a cause for concern in consumer environments)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Secure Boot Certification Authorities (A setting used to prevent operating system alternatives from being installed)&lt;/li&gt;
+&lt;li&gt;Preventing or creating friction in disabling Secure Boot&lt;/li&gt;
+&lt;li&gt;Enabling/Disabling USB ports&lt;/li&gt;
+&lt;li&gt;Preventing or creating friction in the detection of aftermarket parts&lt;/li&gt;
+&lt;li&gt;Any physical system design characteristic that prevents, or creates friction in repairing, replacing, or upgrading components (using glue to mount components, hiding mounting screws, or making casing more difficult to disassemble).&lt;/li&gt;
+&lt;li&gt;Using market dominance to pressure repair shops or third-party component manufacturers to abide by anti-competitive practices by making it more difficult to find and obtain parts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;list-of-corporations-that-are-involved-in-harmful-actions-against-the-computer-industry&#34;&gt;List of corporations that are involved in harmful actions against the computer industry:&lt;/h2&gt;
+
+&lt;h3 id=&#34;microsoft&#34;&gt;Microsoft&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs the Windows operating system to obfuscate customer choice when choosing to install 3rd party applications&lt;/li&gt;
+&lt;li&gt;Integrates services and applications into the operating system, obfuscating customer choice of 3rd party applications&lt;/li&gt;
+&lt;li&gt;Collects data about customers&amp;rsquo; habits without consent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;apple&#34;&gt;Apple&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs hardware around closed standards, obfuscating, or making 3rd party repair of hardware more difficult&lt;/li&gt;
+&lt;li&gt;Attempts to regulate access to parts obfuscating, or making 3rd party repair of hardware more difficult&lt;/li&gt;
+&lt;li&gt;Attempts to lock Apple software developers into platform ecosystems that only benefit Apple&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;dell-hp-sony-toshiba&#34;&gt;Dell, HP, Sony &amp;amp; Toshiba&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs desktop and laptop hardware around closed design principles, obfuscating, or making 3rd party repair of hardware more difficult&lt;/li&gt;
+&lt;li&gt;Tricking consumers into service contracts when purchasing computers from the Dell store online&lt;/li&gt;
+&lt;li&gt;Pre-loads adware products that are a threat to the secure and reliable functioning of the computer or laptop&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;hp-printers&#34;&gt;HP Printers&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs printer hardware and software around closed design principles, obfuscating, or making it difficult to obtain 3rd party manufacturing of ink&lt;/li&gt;
+&lt;li&gt;Tricking consumers into installing adware when installing software/driver packages that are required for the correct functioning of their printers&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Computers as a Life Experience</title>
+      <link>http://scottrlarson.com/updates/update-building-computer-life-experience/</link>
+      <pubDate>Fri, 10 Mar 2023 11:23:07 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-building-computer-life-experience/</guid>
+      <description>
+
+&lt;p&gt;Having a computer opens doors, and building one will open even more. I built my first computer in 2020, and it opened my eyes to this. As a kid, I always had a fixation with disassembling different electronics and trying to see how they worked. Often when I would take something apart and put it back together it would no longer work, and it was a bit of a disappointment, but when it worked it was incredible. Building a computer gave me this feeling on a massive scale. It gave me so much confidence that I had been able to make something that seemed so complicated to work. Since then, I have built 2 more computers and the feeling stays the exactly same, and each time I learn new skills by learning from my past mistakes.&lt;/p&gt;
+
+&lt;p&gt;So why not encourage your descendants to build their own computer? It may seem like a very daunting task at first. But if you work with them, as my friends worked with me on my first computer, it will be a ton of fun. At best, you&amp;rsquo;ll have a core memory with your descendants. I&amp;rsquo;ll never forget my first-time computer build and my friends who were with me.&lt;/p&gt;
+
+&lt;p&gt;A computer can be an almost magical tool in the modern world. It allows you to create all kinds of different art, edit videos, contact people all around the world, access nearly infinite resources and articles to learn from, and help you to learn and develop skills. Understanding its inner workings develop knowledge to troubleshoot problems not just with computers, but in all areas of life.&lt;/p&gt;
+
+&lt;p&gt;Technology is moving fast and becoming more and more complicated. Every year, new devices are being released, spawning new ways for humans to interact with their world.  Having a head start in a world of developing technology by understanding the inner workings creates confidence and hope for children.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-this-article&#34;&gt;About This Article&lt;/h2&gt;
+
+&lt;p&gt;This article was written by Ethan while interning with me at my office. Ethan is a high school senior that is also attending the JC. Back in 2020, Ethan built his very first computer and since then he has built two more. If you are interested in having a computer built for your descendants, or you have questions about the process of building a computer, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Working with Mr. Larson has been a wonderful learning experience and has helped me to dive deeper into technology and expand my understanding of it.&amp;rdquo; - Ethan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t wait to be locked-out of your free email account</title>
+      <link>http://scottrlarson.com/updates/update-free-services-lockout-debacle/</link>
+      <pubDate>Thu, 29 Dec 2022 11:28:58 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-free-services-lockout-debacle/</guid>
+      <description>&lt;p&gt;&lt;div&gt;
+  &lt;img style=&#34;margin-bottom: 5px;&#34; src=&#34;http://scottrlarson.com/img/publications/free-services-lockout-debacle/sign-in-lockout-max.jpg&#34;
+       alt=&#34;Google Sign-in Page - Lockout Example&#34;&gt;
+  &lt;center style=&#34;margin-bottom: 60px;&#34; class=&#34;image-caption-title&#34;&gt;Google Sign-in Page - Lockout Example&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;em&gt;I am a computer professional that helps the public with technology. I have been troubleshooting computer problems for over 25 years. To find out more about me, visit my &lt;a href=&#34;https://scottRlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Many criminal activities are moving online. The cost of cybercrime is predicted to reach 8 trillion in 2023 and for the next five years, it&amp;rsquo;s going to increase by 15%. Some main targets will be account holders of free online services like Gmail, but other services will also be affected. These free services store a lot of information about you, that&amp;rsquo;s why these services are free, &lt;strong&gt;you are the product&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;These services have a vested interest in protecting your data, many services combat account fraud by strengthening login security, I.E the page that you visit to log into your account. While many of these security changes reduce account hacking, they are so pervasive that they also make it more difficult for you to gain access to your account. One example is forcing you to use mobile phone text messaging to send security codes as an extra step before gaining access to your account. If you switch mobile numbers, what then?  If the service doesn&amp;rsquo;t recognize you, or you forget your password, how will you gain access to your account? Free services have very limited support in these situations, usually relying on a single FAQ (Frequently Asked Questions) Page that contains pre-made steps to regain access to your account. If your situation falls outside of these steps, in many cases you&amp;rsquo;re out of luck.&lt;/p&gt;
+
+&lt;p&gt;More and more of our daily life is dependent on access to these important systems, and important things are worth paying for. You can purchase a paid email hosting package for around $50 a year with a direct line of support to an actual human.&lt;/p&gt;
+
+&lt;p&gt;Free online security measures are only going to continue to get more complex in the future, you need a reliable service provider to depend on when things go wrong.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re using free products as your primary services, don&amp;rsquo;t wait for this to happen to you, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact me&lt;/a&gt; to talk about a paid service migration path. If you do find that you are locked out of your account, you can also &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact&lt;/a&gt; me for a consultation to see what your options are.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Avoiding pitfalls of data loss</title>
+      <link>http://scottrlarson.com/updates/update-avoiding-data-loss/</link>
+      <pubDate>Tue, 20 Dec 2022 08:38:47 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-avoiding-data-loss/</guid>
+      <description>
+
+&lt;div class=&#34;alert-container&#34;&gt;
+  &lt;p&gt;These are my beliefs based on my experiences. I cannot take into account every situation that might cause data loss. Do your own research if you have any doubts about storage capabilities. By reading this information, you agree that if you experience a loss based on actions you took based on my understanding of hardware and or software, you and you alone are responsible.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I run into situations that fall outside of my efforts to help protect custom data. These tips might help you avoid loss by understanding how the computer saves your infomration and what happens when data is stored for longe periods of time.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;h2 id=&#34;backups&#34;&gt;Backups&lt;/h2&gt;
+
+&lt;p&gt;Please be aware that backups only work when files are in a saved state, meaning that if you are working on a document and you forget to save it, your changes will &lt;strong&gt;NOT&lt;/strong&gt; be backed up. Here are tips that can help you avoid losing your work. Anything can happen when you are working with files: The power might go out, you might accidentally wipe the contents of your work with a keystroke you were not aware of, or you might using the undo/redo feature that might bring you to a point where you cannot recover previous work.&lt;/p&gt;
+
+&lt;p&gt;If you are working with data in any application:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Save often, at least hourly, but sometimes you might need to save every 5 or 10 minutes depending on how important it is not to re-work previously created content.&lt;/li&gt;
+&lt;li&gt;Save As, with a different file name each time you save. I often combine number one with this habit. I&amp;rsquo;ll save every 10 minutes, then when I reached a significant point in my progress, I&amp;rsquo;ll select the &amp;ldquo;Save As&amp;rdquo; option and specify a new file name. This way, the old file will be saved under the old name, and my new file will have the old changes plus anything new that I add to it.&lt;/li&gt;
+&lt;li&gt;Know where your fields are saved. In fact, get into the habit of loading your documents from explorer/finder. Relying on the quick access locations in an application to open your most recently used documents is great, until you forget the name of the file or the shortcut disappears due to some unexpected glitch.&lt;/li&gt;
+&lt;li&gt;After you are done working on document for the day, or for good, make a copy of that file in another location. Use your computers file explorer/finder to perform copy operations.&lt;/li&gt;
+&lt;li&gt;If you are working on a big project, break your work content into separate files to reduce the changes of the entire document becoming lost. You can always combine these files later.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;I am a computer professional that helps the public with technology. I have been troubleshooting computer problems for over 25 years. To find out more about me, visit my &lt;a href=&#34;https://scottRlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;archiving-data&#34;&gt;Archiving Data&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s a common belief that data lives forever. That is usually not the case. Data is dependent on the hardware that is used to store information.&lt;/p&gt;
+
+&lt;p&gt;As computer technology advances, new ways to store information becomes more compact and useful.&lt;/p&gt;
+
+&lt;p&gt;Back in the eighties, we stored data on Cassette Tapes and Floppy Disks. Then we transitioned to Hard Disk Drives. Then Optical Disks (CD Media). Recently, we transitioned to Solid State Media, which is a sort of long-term memory solution on a chip. Hard Disk Drives are still used today for long-term backups and archives.&lt;/p&gt;
+
+&lt;h2 id=&#34;storage-media-archival-characteristics&#34;&gt;Storage Media Archival Characteristics&lt;/h2&gt;
+
+&lt;p&gt;Computer storage media manufacturers will usually print the estimated life expectancy of the product you are purchasing on their website in the form of a white paper, or in the details of the specifications. Remember, most of these numbers are rough estimates. Other factors may cause these estimates to decrease or increase.  Electronics are susceptible to damage and/or decreased life expediencies depending on the kind of use the device gets, or wear that might happen due to the conditions the device operates in.  Operating/Non-Operating temperatures also have a big impact. If the ambient temperature is too cold, or in most cases too hot, above 80 degrees, the life expectancy can drop significantly.&lt;/p&gt;
+
+&lt;h3 id=&#34;hard-disk-technology&#34;&gt;Hard Disk Technology&lt;/h3&gt;
+
+&lt;p&gt;Currently the gold standard for long-term archival data storage.
+HDD technology stores information on a circular platter similar to a record. Magnetics are used to read and write information. Once the electric current is removed, the data storage is permanent until the media itself physically decays. It&amp;rsquo;s been my experience that, drives stored in a 60-70 degree temperature environment can last around 20–30 years, but the life expectancy can increase or decrease depending on the use, and design characteristics of the device. It&amp;rsquo;s good to power on drives periodically if stored for long periods of time (5-7 years) so that the bearings that allow the platters to spin, don&amp;rsquo;t lock up. Furthermore, it&amp;rsquo;s also a good idea to refresh the data on the drive every 7–10 years to prevent magnetic field deterioration. Refreshing data usually consists of copying the data to a new drive.&lt;/p&gt;
+
+&lt;h2 id=&#34;optical-discs-cd-dvd&#34;&gt;Optical Discs (CD/DVD)&lt;/h2&gt;
+
+&lt;p&gt;CD and DVD writable media has a life of 10–20 years if stored in a safe location under the above temperature specifications.&lt;/p&gt;
+
+&lt;h2 id=&#34;solid-state-technology&#34;&gt;Solid State Technology&lt;/h2&gt;
+
+&lt;p&gt;SSD and flash media (flash drives) fall under this category. Memory cells of Solid State devices degrade over time if there isn&amp;rsquo;t electrical current applied on a regular basis, in my experience at least once or twice a year, if not sooner.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;All computer storage media degrades over time. Before making a purchase, keep in mind what you plan on using the storage for:
+1.  If your computer comes with a Solid State Drive, plan ahead. Replace the device or storage before the expiration date to prevent data loss. Make frequent backups to storage media that has a longer life expectancy.
+2. Check and refresh your media every so often. Most media (except optical disks) require some form of exercise to maintain the life of the device if you want to use it for storage purposes.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about Storage or Backup, &lt;a href=&#34;https://scottrlarson.com/#contact&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gamer&#39;s Friday - Mordheim - City of the Damned</title>
+      <link>http://scottrlarson.com/updates/update-mordheim-city-of-the-damned/</link>
+      <pubDate>Fri, 19 Aug 2022 11:57:44 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-mordheim-city-of-the-damned/</guid>
+      <description>
+
+&lt;p&gt;In 2018 my Mordheim play-through ended abruptly. A quarter of the way in, I suffered a brain hemorrhage. My miraculous recovery changed my life for the better and you can read about my experience in my &lt;a href=&#34;https://www.scottrlarson.com/books/book-most-improved/&#34; target=&#34;_blank&#34;&gt;book&lt;/a&gt;, but now I am finally getting back into gaming.&lt;/p&gt;
+
+&lt;p&gt;I find 1st/3rd person perspective strategy games interesting. Maybe because I prefer unconventional gameplay. This one is Turn-based, which is an interesting take on a game that has fighting elements in various locations of Mordheim. Once a great imperial city, now overrun with corruption of the magical and divine.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/gamers-friday/mordheim-wyrestone-collection.jpg&#34; alt=&#34;Wyrestone Campfire&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The game puts you as a commander of a Warband bent on gathering precious Wyrestone to keep your Barron happy. There are story missions weaved through the game, appearing to loosely follow the Book &amp;ldquo;&lt;a href=&#34;https://www.amazon.com/Gotrek-Felix-Damned-David-Guymer/dp/1849705291&#34; target=&#34;_blank&#34;&gt;City of the Damned&lt;/a&gt;&amp;rdquo;, based on the Warhammer Universe.&lt;/p&gt;
+
+&lt;p&gt;Your Warband gains experience fighting battles and collecting Wyrestone on the streets of Mordheim. Encounters require patience and careful planning.&lt;/p&gt;
+
+&lt;p&gt;Interesting side note: See the game &lt;a href=&#34;https://store.steampowered.com/app/624970/Battlezone_Combat_Commander/&#34; target=&#34;_blank&#34;&gt;Battlezone II&lt;/a&gt; for the king of the real-time strategy genre.&lt;/p&gt;
+
+&lt;p&gt;Missions are a grind though and made terribly slow when you have to manually issue commands to each Warrior every round, even when they are not engaged in any actions, some automation would have been nice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/gamers-friday/mordheim-consoles-03.jpg&#34; alt=&#34;Tank&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t mind your Warband&amp;rsquo;s &amp;ldquo;Hired Swords&amp;rdquo; falling in battle, or becoming maimed, affecting combat effectiveness, then this game is for you.&lt;/p&gt;
+
+&lt;p&gt;The game is well done in my view even for its shortcomings. With so many AAA titles trying to be everything to everyone, any game that puts survival front a center deserves my respect.  I wholeheartedly recommend trying this &lt;a href=&#34;https://store.steampowered.com/app/276810/Mordheim_City_of_the_Damned/&#34; target=&#34;_blank&#34;&gt;game&lt;/a&gt; out. Let me know what you think of it on &lt;a href=&#34;https://twitter.com/scottrlarson/status/1560708175799541760&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-custom-gaming-service-plug&#34;&gt;My Custom Gaming Service Plug&lt;/h2&gt;
+
+&lt;p&gt;I am a gamer a heart, I started gaming when I was 12.  I want other gamers to know that I take a special interest in &lt;a href=&#34;https://www.scottrlarson.com/services/computer/multimedia-gaming/&#34; target=&#34;_blank&#34;&gt;customizing gaming builds and hardware upgrades&lt;/a&gt; for hardcore and average gamers. If you or someone you know is interested in purchasing a new gaming machine, instead of going the pre-built route, get the proper built quality with support from a &lt;a href=&#34;https://www.scottrlarson.com/&#34; target=&#34;_blank&#34;&gt;experienced hardware professional&lt;/a&gt;. Don&amp;rsquo;t take the risk of getting a built that suffers from quality assurance mishaps or inexperienced build designing by companies that don&amp;rsquo;t have your particular best interests at heart.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why backing up your data matters</title>
+      <link>http://scottrlarson.com/updates/update-why-backing-up-your-data-matters/</link>
+      <pubDate>Mon, 14 Feb 2022 07:08:24 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-why-backing-up-your-data-matters/</guid>
+      <description>
+
+&lt;p&gt;There are many reasons why backing up matters. In my experience, the most important reason is sudden damage to the main storage device. When the main storage device fails, your computer or laptop becomes inaccessible, preventing access to your data. If the loss is catastrophic, this can result in a total and unrecoverable loss of your important files like documents, pictures, and music.&lt;/p&gt;
+
+&lt;p&gt;Having backup software automate regular backups prevents you from having to think about, or remember to do it yourself. Automation of backups has many benefits but has it also has potential problems. Automation typically leads to a false sense of security and that is why it&amp;rsquo;s important to test the backups regularly by manually restoring some files from the backup from time to time.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-a-backup-is-and-is-not&#34;&gt;What a backup is, and is not&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Backup&lt;/strong&gt; is the process of making an extra copy (or multiple copies) of data. In many cases, this coping happens on an external device to protect against a situation that can cause loss. If you accidentally delete a file, or your data becomes corrupted, it&amp;rsquo;s a good idea to have a system that regularly copies your data to a secondary storage device before that happens.&lt;/p&gt;
+
+&lt;p&gt;Backups protect data like documents, pictures, and music. It does not protect programs or customizations you have made over the lifetime of your device. This might not matter to you if you have simple needs. This might include only using your device for internet and mail.&lt;/p&gt;
+
+&lt;p&gt;If you run a business or are a professional that depends on mission-critical applications being up with minimal downtime, consider having a &lt;a href=&#34;https://www.scottrlarson.com/publications/publication-restoring-life-backup-disaster/&#34; target=&#34;_blank&#34;&gt;disaster recovery solution&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-kind-of-backup-is-for-you&#34;&gt;What kind of backup is for you&lt;/h2&gt;
+
+&lt;p&gt;Different backup options exist and choosing one that is right for you can be complicated depending on your needs and knowledge.  I can help you select an option without all of the leg work, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;Contact me&lt;/a&gt; for a free 10-minute phone consultation about your needs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5 reasons why upgrading every 5 years enriches your life</title>
+      <link>http://scottrlarson.com/updates/update-5-reasons-5years-upgrading/</link>
+      <pubDate>Tue, 15 Jun 2021 11:22:36 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-5-reasons-5years-upgrading/</guid>
+      <description>
+
+&lt;p&gt;Computers should just last forever, right?&lt;/p&gt;
+
+&lt;p&gt;Automobiles don&amp;rsquo;t last forever, and neither do computers. Computers are much more likely to break down or cause issues due to wear and tear because they are much more complicated. Just like automobiles, they require regular upkeep and eventually, yes, they need to be upgraded.&lt;/p&gt;
+
+&lt;p&gt;Here are 5 reasons why you should upgrade your computer every five years.&lt;/p&gt;
+
+&lt;h3 id=&#34;file-corruption-due-to-wait-times&#34;&gt;File Corruption Due to Wait Times&lt;/h3&gt;
+
+&lt;p&gt;Lengthy delays opening resource intensive applications like Outlook creates the illusion of slow or no response. Closing an application that is in the process of opening a file for reading, or writing, can cause data loss. Applications can appear to be hanging up, but in actuality, its waiting on underperforming hardware to respond to commands. As applications evolve, the programming code underlining the application is developed to make use of improvements embedded in modern hardware. New applications can run on older hardware, but at a cost of performance. This performance cost can make an application appear to be non-responsive and you can be tricked into thinking your applications are not working any more.&lt;/p&gt;
+
+&lt;h3 id=&#34;increased-productivity&#34;&gt;Increased productivity&lt;/h3&gt;
+
+&lt;p&gt;Today we have faster memory, faster storage drives, increased graphics capabilities, and more processing power – With these increased resources the processing of workloads improves dramatically. There is a joke in technical circles that using an outdated computer, as it gets slower and slower, is like being boiled in a pot of water with the temperature slowing being turned up, you don&amp;rsquo;t notice the heat until it&amp;rsquo;s too late.&lt;/p&gt;
+
+&lt;h3 id=&#34;reduced-cost-over-time&#34;&gt;Reduced cost over time&lt;/h3&gt;
+
+&lt;p&gt;Upgrading sounds expensive, but the truth is that older systems have more issues – and consequently more costs. The cost of dealing with a disruption caused by an unstable system, or faulty software can very quickly become an investment nightmare.&lt;/p&gt;
+
+&lt;h3 id=&#34;better-security&#34;&gt;Better security&lt;/h3&gt;
+
+&lt;p&gt;Because aging systems are not actively updated, they are vulnerable to having information stolen or compromised. Newer technology in many cases can have better security checking. Of course, upgrading to newer hardware is not a replacement for awareness, read my &lt;a href=&#34;https://www.scottrlarson.com/tags/security/&#34; target=&#34;_blank&#34;&gt;articles&lt;/a&gt; on security to stay up to date on the latest threats.&lt;/p&gt;
+
+&lt;h3 id=&#34;declining-support&#34;&gt;Declining Support&lt;/h3&gt;
+
+&lt;p&gt;IT professionals can’t productively support technology that has reached it&amp;rsquo;s end of life. It costs more for the technician to service older hardware because of the time it takes to boot and interact with software.&lt;/p&gt;
+
+&lt;p&gt;If you are a professional that has a PC that is over five years old, or you are an average computer user that has a computer over seven years old &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact&lt;/a&gt; me for a quote &amp;amp; recommendation on new hardware. I provide comprehensive and cost saving packages that cover every aspect of the upgrade process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Check Xfinity Internet Status</title>
+      <link>http://scottrlarson.com/updates/xfinity-internet-status/</link>
+      <pubDate>Wed, 03 Feb 2021 14:36:52 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/xfinity-internet-status/</guid>
+      <description>
+
+&lt;p&gt;If you find that your internet service is down, you can take these steps first before you reach out for my technical service. In most cases, if internet access is not working in your home or office (all computers are not able to surf the internet) The modem may need to be restarted, or there is an outage in your area. Comcast allows you to manage restarting your gateway/modem and check for outages from its website.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-visit-xfinity-com-and-log-in-with-your-xfinity-id&#34;&gt;1. Visit xfinity.com and log in with your Xfinity ID.&lt;/h2&gt;
+
+&lt;h2 id=&#34;2-click-on-support&#34;&gt;2. Click on &amp;ldquo;Support&amp;rdquo;&lt;/h2&gt;
+
+&lt;h2 id=&#34;3-check-to-see-if-your-modem-gateway-is-online-if-so-scroll-down-and-check-for-outages&#34;&gt;3. Check to see if your modem/gateway is online, if so scroll down and check for outages.&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/updates/xfinity-internet-status/Xfinity_Status_Center_Check_for_Service_Outages_In_Your_Area.png&#34; alt=&#34;Check for outages&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;4-if-there-are-no-outages-try-restarting-your-modem-gateway-the-process-takes-around-7-10-minutes&#34;&gt;4. If there are no outages try restarting your modem/gateway. The process takes around 7-10 minutes.&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/updates/xfinity-internet-status/Xfinity_Status_Center_Restart_Gateway.png&#34; alt=&#34;Restart your modem/gateway&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;5-if-the-above-steps-do-not-fix-the-problem-you-can-reach-out-contact-to-me-for-a-consultation-to-trouble-shoot-the-connection-problem-consultations-rates-are-based-on-location-and-distance-and-starts-at-125-an-hour-with-a-one-hour-minimum-my-availability-depends-on-the-level-of-my-in-shop-repair-priority-service&#34;&gt;5. If the above steps do not fix the problem you can &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;reach out&lt;/a&gt; to me for a consultation to trouble-shoot the connection problem. Consultations rates are based on location and distance and starts at $125 an hour with a one hour minimum. My availability depends on the level of my in-shop repair priority service.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to check Battery level via Command line</title>
+      <link>http://scottrlarson.com/updates/update-battery-life-via-cmd-line/</link>
+      <pubDate>Thu, 13 Feb 2020 09:00:53 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-battery-life-via-cmd-line/</guid>
+      <description>
+
+&lt;p&gt;Sometimes, the battery indicator in Windows 10 stops working, fails to respond, or disappears. In this case you might need to check your battery life, until that problem gets fixed.&lt;/p&gt;
+
+&lt;h2 id=&#34;check-battery-level-using-command-line&#34;&gt;Check Battery level using command line&lt;/h2&gt;
+
+&lt;p&gt;Open Windows Command Prompt and execute the following command:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/updates/update-battery-life-via-cmd-line/cmd-line-WMIC-command.png&#34; alt=&#34;Command Line Window: WMIC Command Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;WMIC PATH Win32_Battery Get EstimatedChargeRemaining
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The output for that command would look something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;EstimatedCharge&lt;/p&gt;
+
+&lt;p&gt;Remaining&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You can see the estimated battery charge remaining.&lt;/p&gt;
+
+&lt;p&gt;In my next update I will show you a possible fix to this problem.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scooters&#39; Preferred Windows Tweaks</title>
+      <link>http://scottrlarson.com/updates/update-scooters-windows-tweaks/</link>
+      <pubDate>Wed, 12 Feb 2020 08:37:16 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-scooters-windows-tweaks/</guid>
+      <description>
+
+&lt;div class=&#34;alert-container&#34;&gt;
+  These are tweaks that I make to my Windows configuration that improves my productivity.  Performing these kinds of changes to Windows requires a careful understanding of programming, the Windows registry, and how to protect Windows from damage by making and restoring backups. Don&#39;t perform any of these tweaks unless you know what your doing. I am not liable, nor responsible for any action you take on behalf of this information.
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;file-explorer-tweaks&#34;&gt;File Explorer Tweaks&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/updates/scooters-windows-tweaks/Tweaks-Scooters-File-Explorer.png&#34; alt=&#34;Scooter&#39;s File Explorer Tweaks Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;1-disable-remove-quick-access&#34;&gt;1. Disable &amp;amp; Remove Quick Access&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.techinline.com/2018/11/30/how-to-disable-quick-access-in-windows-10-file-explorer/&#34; target=&#34;_blank&#34;&gt;How to Disable Quick Access in Windows 10 File Explorer&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Open File Explorer and go to View tab &amp;gt; Options &amp;gt; Change folder and search options.&lt;/li&gt;
+&lt;li&gt;Choose This PC from the top drop-down menu.&lt;/li&gt;
+&lt;li&gt;Uncheck both boxes under the Privacy section.&lt;/li&gt;
+&lt;li&gt;Press Clear to clear all of your Quick Access history. (optional)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://community.spiceworks.com/how_to/166304-removing-quick-access-from-windows-10-file-explorer&#34; target=&#34;_blank&#34;&gt;How to: Removing Quick Access from Windows 10 File Explorer&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Add DWORD HubMode 1&lt;/p&gt;
+
+&lt;p&gt;The .reg files below will modify the DWORD value in the registry key below.&lt;/p&gt;
+
+&lt;h3 id=&#34;reorder-libraries-folder-above-this-pc&#34;&gt;Reorder &amp;ldquo;Libraries&amp;rdquo; folder above &amp;ldquo;This PC&amp;rdquo;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.tenforums.com/tutorials/72210-move-libraries-above-pc-navigation-pane-windows-10-a.html&#34; target=&#34;_blank&#34;&gt;https://www.tenforums.com/tutorials/72210-move-libraries-above-pc-navigation-pane-windows-10-a.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;HKEY_CLASSES_ROOT\CLSID\{031E4825-7B94-4dc3-B131-E946B44C8DD5}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Add DWORD SortOrderIndex&lt;/p&gt;
+
+&lt;p&gt;Use one of the below numbers to complete the DWORD Entry:&lt;/p&gt;
+
+&lt;p&gt;54 (hex) = Below This PC&lt;br /&gt;
+42 (hex) = Above This PC&lt;/p&gt;
+
+&lt;h3 id=&#34;remove-onedrive&#34;&gt;Remove OneDrive&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;HKEY_CLASSES_ROOTCLSID{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Add DWORD System.IsPinnedToNameSpaceTree 1&lt;/p&gt;
+
+&lt;h3 id=&#34;remove-dlna-media-servers&#34;&gt;Remove DLNA Media Servers&lt;/h3&gt;
+
+&lt;p&gt;Remove HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\DelegateFolders{289AF617-1CC3-42A6-926C-E6A863F0E3BA}&lt;/p&gt;
+
+&lt;p&gt;Remove HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\DelegateFolders{289AF617-1CC3-42A6-926C-E6A863F0E3BA}&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

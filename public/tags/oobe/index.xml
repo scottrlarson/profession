@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OOBE on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/oobe/</link>
+    <description>Recent content in OOBE on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Sat, 09 Aug 2025 14:46:46 -0700</lastBuildDate>
+    <atom:link href="/tags/oobe/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Windows 11 Backup OneDrive Forced Setup</title>
+      <link>http://scottrlarson.com/updates/update-windows11-oobe-backup-onedrive-forced-setup/</link>
+      <pubDate>Sat, 09 Aug 2025 14:46:46 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-windows11-oobe-backup-onedrive-forced-setup/</guid>
+      <description>&lt;p&gt;Microsoft is enabling OneDrive by default which will sync your data to the cloud, put your data in offline mode and this setup can prevent you from accessing your data if something happens with the cloud provider. Its strongly advised not to setup a new PC yourself but to have a professional set it up without this feature.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/updates/windows11-oobe-backup-onedrive-forced-setup/one-drive-prompt-start-backup.jpg&#34; alt=&#34;Screenshot of prompt that may trick you into setting up one drive&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Microsoft might try to trick you into setting up one drive again with a prompt like this. If you click start, it will move your files to a OneDrive Folder on your computer and start syncing your data without your consent. If you dont want your file location changed or your data moved into the cloud, do not act on this prompt. There are also reports of Microsoft silently installing OneDrive for Office customers who have installed Office365 and performing this setup without user interaction or consent.&lt;/p&gt;
+
+&lt;p&gt;If you find that your PC has been setup with OneDrive, your data has been moved to the cloud and want your data returned to your computer, &lt;a href=&#34;http://scottrlarson.com/#contact&#34;&gt;contact&lt;/a&gt; me to set up an appointment for a service to restore your data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

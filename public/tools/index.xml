@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Index on Scott Larson</title>
+    <link>http://scottrlarson.com/tools/</link>
+    <description>Recent content in _Index on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Tue, 21 Dec 2021 09:20:12 -0800</lastBuildDate>
+    <atom:link href="/tools/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stability Testing</title>
+      <link>http://scottrlarson.com/tools/stability-testing/</link>
+      <pubDate>Tue, 21 Dec 2021 09:24:50 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/tools/stability-testing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.guru3d.com/files-details/prime95-download.html&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Prime95&lt;/strong&gt;&lt;/a&gt;
+Prime95 is a handy tool for overclockers and system stability checkers, Prime95 has a feature called &amp;ldquo;Torture Test&amp;rdquo; that allows maximum stress testing on the CPU and RAM. There are several options allowing the stress test to focus on the memory, processor, or a balance of both.&lt;/p&gt;
+
+&lt;p&gt;Usually Prime95 will detect an error within a matter of minutes if an overclock is not stable, however many people like to let the system &amp;ldquo;burn-in&amp;rdquo; overnight to ensure long-term stability. FPrime95 is a small and easy to use application that allows you to find Mersenne Prime numbers. Mersenne numbers can be proved composite (not prime) by either finding a factor or by running a Lucas-Lehmer primality test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance Testing</title>
+      <link>http://scottrlarson.com/tools/performance-testing/</link>
+      <pubDate>Tue, 21 Dec 2021 09:18:14 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/tools/performance-testing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.resplendence.com/latencymon&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;LatencyMon&lt;/strong&gt;&lt;/a&gt;
+LatencyMon checks if a system running Windows is suitable for processing real-time audio and other tasks. LatencyMon analyzes the possible causes of buffer underruns by measuring kernel timer latencies and reporting DPC and ISR execution times as well as hard pagefaults. It will provide a comprehensible report and find the kernel modules and processes responsible for causing audio latencies which result in drop outs. It also provides the functionality of an ISR monitor, DPC monitor and a hard pagefault monitor.&lt;/p&gt;
+
+&lt;p&gt;LatencyMon will display the highest latencies of a kernel timer and report the highest execution times of ISR and DPC routines as well as hard pagefaults. In most cases it will also find the drivers and processes responsible for executing them. It will create a comprehensible report which also displays all sampled data in a detailed manner allowing you to perform in-depth analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

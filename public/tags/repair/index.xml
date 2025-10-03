@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repair on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/repair/</link>
+    <description>Recent content in Repair on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Wed, 12 Sep 2018 17:15:50 -0700</lastBuildDate>
+    <atom:link href="/tags/repair/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Right to Repair</title>
+      <link>http://scottrlarson.com/updates/update-right-to-repair/</link>
+      <pubDate>Wed, 12 Sep 2018 17:15:50 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-right-to-repair/</guid>
+      <description>&lt;p&gt;Technology Providers like Apple, Nikon, Verizon often prevent, or make it hard for customers to obtain information about a product or service. They have been known to even lock out repair facilities, like mine, from making repairs on many new electronic devices. Please support choice by supporting independent repair technician&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Electronics_right_to_repair&#34; target=&#34;_blank&#34;&gt;right to repair&lt;/a&gt; these products in our own way, under our own conditions, given that we honor practices that make products reliable and safe to use. Find out more at &lt;a href=&#34;https://ifixit.org/right&#34; target=&#34;_blank&#34;&gt;ifixit.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

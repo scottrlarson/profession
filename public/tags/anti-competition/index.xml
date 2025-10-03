@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anti-Competition on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/anti-competition/</link>
+    <description>Recent content in Anti-Competition on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Sat, 28 Dec 2024 21:14:04 -0800</lastBuildDate>
+    <atom:link href="/tags/anti-competition/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Are PC Hardware Companies Slowly Driving Technology into Restricted Closed Ecosystems?</title>
+      <link>http://scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/</link>
+      <pubDate>Sat, 28 Dec 2024 21:14:04 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/</guid>
+      <description>
+
+&lt;p&gt;I am a Computer Hardware professional. I started working with computer technology in the early eighties. I have seen the evolution of technology starting with closed platforms like the game console era and then the move toward open platforms like the &lt;a href=&#34;https://www.scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-1/&#34; target=&#34;_blank&#34;&gt;Home Computer Golden Age&lt;/a&gt;. In the last 5 or 10 years, I have witnessed technology changes that are slowly moving away from open hardware designs towards hardware that is locked down and can&amp;rsquo;t be modified by the user.  For more articles on this subject, see my  &lt;a href=&#34;https://www.scottrlarson.com/categories/deceptivetechnology/&#34; target=&#34;_blank&#34;&gt;DeceptiveTechnology&lt;/a&gt; section.&lt;/p&gt;
+
+&lt;h2 id=&#34;is-dell-limiting-access-to-drivers-and-designing-bios-to-minimize-os-changes&#34;&gt;Is Dell limiting access to drivers and designing BIOS to minimize OS changes?&lt;/h2&gt;
+
+&lt;p&gt;In the last few years, I have noticed a trend where Dell does not provide RST storage drivers for NVME SSDs (the software that allows a user to cleanly install an operating system from media) on Laptops and Desktops. Normally, you can just go into the BIOS, switch from NVME Raid to ACHI, and be done with it—or can you?&lt;/p&gt;
+
+&lt;p&gt;I recently purchased a Dell Inspiron 16 Plus 7640 Laptop with a BIOS that does not have an option to change to an AHCI storage configuration. Without the RST storage driver not being made available on Dell&amp;rsquo;s website, and no ability to switch to ACHI, you cannot reinstall Windows in a clean state from a installation disk because the install requires that the RST driver be manually loaded befoe it can see the storage device.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell-inspiron-16-plus-bios-storage-configuration-missing-ahci-mode.jpeg&#34; alt=&#34;Dell Inspiron 16plus bios storage configuration missing AHCI mode&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Normally, you would see this screen that allows you to switch storage modes
+&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell-inspiron-3030-bios-storage-configuration.jpeg&#34; alt=&#34;Dell Inspiron 3030 bios storage configuration AHCI mode&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I tried the key combinations to enable advanced BIOS configuration that worked on previous models, but no dice. Is it a coincidence that Dell has not been releasing the RST storage drivers for most of these models in the last couple of years, and is now deciding that the BIOS storage configuration should not be changable?&lt;/p&gt;
+
+&lt;p&gt;If you check Dell&amp;rsquo;s website for drivers, you probably will not see RST drivers for many models listed. I checked the driver listing for my model and so far I don&amp;rsquo;t see it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell.com-support-storage-driver-listings-lack-RST.resized.jpeg&#34; alt=&#34;Dell.com Support Storage Driver Listings Lack RST&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a different model with no RST listing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell.com-support-storage-driver-listings-lack-RST-different-model.jpeg&#34; alt=&#34;Dell.com Support Storage Driver Listings Lack RST Differnt Model&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can try to find drivers online, based on the hardware id&amp;rsquo;s, especially from Intel&amp;rsquo;s website, but they don&amp;rsquo;t always work for your particular model. I even tried to extract the drivers from the OS but I wasn&amp;rsquo;t able to find a .inf configuration profile to make it work.&lt;/p&gt;
+
+&lt;p&gt;These changes effectively prevents a user from cleanly reinstalling the operating system from media. The only option, that I can see, is to install from the service partition on the device, or from Dell&amp;rsquo;s BIOS re-installation technology, which contains bloatware, targeted advertising, and data collection.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m open to being wrong, please let me know if I am missing something.&lt;/p&gt;
+
+&lt;p&gt;Short of evidence to the contrary. I believe this is one small part of a bigger and long-term planned effort within the PC hardware and software industries to control the user experience for consumer hardware. Apple is also moving in this direction with the MacOS by limiting non-approved software from being installed. Yes, you can work around it, but it&amp;rsquo;s getting harder and harder to do so with every iteration of the Operating System.&lt;/p&gt;
+
+&lt;p&gt;We are slowly being boiled to the point of no return. We need some kind of consortium for users to represent our interests otherwise in 10 or 20 years we will have very limited choice when it comes to computer technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Anti-Customer Changes to Desktop &amp; Laptop Technology</title>
+      <link>http://scottrlarson.com/updates/update-deceptive-design-recent-computers-laptops/</link>
+      <pubDate>Wed, 16 Aug 2023 11:23:07 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-deceptive-design-recent-computers-laptops/</guid>
+      <description>
+
+&lt;div class=&#34;breakoutBox1&#34;&gt;I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my &lt;a href=&#34;https://scottrlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/div&gt;
+
+&lt;p&gt;Very recently, OEM (Original Equipment Manufacturers of consumer desktops and laptops, like Dell, HP, and Sony, etc.) have been introducing new features into the Basic Input/Output System (the system that controls all the hardware in a computer).&lt;/p&gt;
+
+&lt;p&gt;These features are put in under the guise of protecting the consumer, but in practice, they are unnecessary and over-complicating the setup and experience, reducing ownership power and ownership privacy. As a technology service provider, these changes are making it harder to provide services to you.&lt;/p&gt;
+
+&lt;p&gt;I have decided that it&amp;rsquo;s no longer a good business decision to have to conform to the limitations these changes place on my services.&lt;/p&gt;
+
+&lt;p&gt;Because of the evolution of the internet, the computer industry has been going through a lot of changes in the last couple of years. Some of these changes are good for society, and some are not. For now, manufacturers, who design and sell off-the-shelf consumer computer parts, parts that go into making a computer, are not affected by the anti-customer changes OEM providers are currently making to consumer-grade computers. But there is mounting pressure to design hardware around a closed security model where the market-dominating companies can dictate how hardware is developed.&lt;/p&gt;
+
+&lt;p&gt;Original Equipment Manufacturers (OEMs) are not required to follow certain standards like the rest of the computer industry that sells computer parts. They can, and do, make for-profit changes to the equipment they design, negatively impacting the sale and use of computing products. These kinds of changes, that are made to hardware and preloaded software, such as the Windows operating system, run counter to open design/development standards. These OEMs make these changes in an attempt to monopolize a market or gather data from their customers without informed consent. To read more about this topic, see my articles on &amp;ldquo;&lt;a href=&#34;https://www.scottrlarson.com/categories/deceptivetechnology/&#34;&gt;&amp;ldquo;DeceptiveTechnology&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you plan on upgrading to, or purchasing a new desktop computer, I recommend and will build a custom-made computer that meets your specific needs, instead of recommending a pre-built OEM Computer that you purchase from a computer store. For laptops, I recommend a &lt;a href=&#34;https://frame.work/&#34; target=&#34;_blank&#34;&gt;Framework&lt;/a&gt; Laptop. Framework builds laptops around sustainability. Their design choices reflect open standards. As the current throw-away computer industry continues to make these cost-saving but anti-customer changes, Computers and Laptops, built around open standards, levels the playing field for everyone, but they also have different price points (Usually a few hundred dollars more) and slightly longer ordering and shipment windows.&lt;/p&gt;
+
+&lt;p&gt;I strongly believe that moving away from supporting these big players will improve customer choice and, in the long run, create a healthy marketplace that isn&amp;rsquo;t dominated by companies that abuse their &lt;a href=&#34;https://www.endcreativemonopolies.com/&#34; target=&#34;_blank&#34;&gt;monopolistic&lt;/a&gt; position. If you are a distributor of desktops and laptops, consider adopting changes that support the &lt;a href=&#34;https://repair.org&#34; target=&#34;_blank&#34;&gt;right to repair&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This will affect some of my services to you. I can still handle most repair issues with OEM computers, but I will no longer be performing hardware upgrades to any OEM Models.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When purchasing one of my custom computers or recommended laptops, depending on your needs, plan on spending $1000 or more.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I apologize if this inconveniences you in any way.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features-or-actions-that-are-encumbering-the-setup-and-experience-of-consumer-grade-computers-and-laptops&#34;&gt;Features, or actions, that are encumbering the setup and experience of consumer-grade computers and laptops&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;(Please note that these features can be helpful for business environments, but they are not necessary and are a cause for concern in consumer environments)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Secure Boot Certification Authorities (A setting used to prevent operating system alternatives from being installed)&lt;/li&gt;
+&lt;li&gt;Preventing or creating friction in disabling Secure Boot&lt;/li&gt;
+&lt;li&gt;Enabling/Disabling USB ports&lt;/li&gt;
+&lt;li&gt;Preventing or creating friction in the detection of aftermarket parts&lt;/li&gt;
+&lt;li&gt;Any physical system design characteristic that prevents, or creates friction in repairing, replacing, or upgrading components (using glue to mount components, hiding mounting screws, or making casing more difficult to disassemble).&lt;/li&gt;
+&lt;li&gt;Using market dominance to pressure repair shops or third-party component manufacturers to abide by anti-competitive practices by making it more difficult to find and obtain parts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;list-of-corporations-that-are-involved-in-harmful-actions-against-the-computer-industry&#34;&gt;List of corporations that are involved in harmful actions against the computer industry:&lt;/h2&gt;
+
+&lt;h3 id=&#34;microsoft&#34;&gt;Microsoft&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs the Windows operating system to obfuscate customer choice when choosing to install 3rd party applications&lt;/li&gt;
+&lt;li&gt;Integrates services and applications into the operating system, obfuscating customer choice of 3rd party applications&lt;/li&gt;
+&lt;li&gt;Collects data about customers&amp;rsquo; habits without consent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;apple&#34;&gt;Apple&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs hardware around closed standards, obfuscating, or making 3rd party repair of hardware more difficult&lt;/li&gt;
+&lt;li&gt;Attempts to regulate access to parts obfuscating, or making 3rd party repair of hardware more difficult&lt;/li&gt;
+&lt;li&gt;Attempts to lock Apple software developers into platform ecosystems that only benefit Apple&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;dell-hp-sony-toshiba&#34;&gt;Dell, HP, Sony &amp;amp; Toshiba&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs desktop and laptop hardware around closed design principles, obfuscating, or making 3rd party repair of hardware more difficult&lt;/li&gt;
+&lt;li&gt;Tricking consumers into service contracts when purchasing computers from the Dell store online&lt;/li&gt;
+&lt;li&gt;Pre-loads adware products that are a threat to the secure and reliable functioning of the computer or laptop&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;hp-printers&#34;&gt;HP Printers&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs printer hardware and software around closed design principles, obfuscating, or making it difficult to obtain 3rd party manufacturing of ink&lt;/li&gt;
+&lt;li&gt;Tricking consumers into installing adware when installing software/driver packages that are required for the correct functioning of their printers&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

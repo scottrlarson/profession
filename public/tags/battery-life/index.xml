@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Battery Life on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/battery-life/</link>
+    <description>Recent content in Battery Life on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 13 Feb 2020 09:00:53 -0800</lastBuildDate>
+    <atom:link href="/tags/battery-life/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to check Battery level via Command line</title>
+      <link>http://scottrlarson.com/updates/update-battery-life-via-cmd-line/</link>
+      <pubDate>Thu, 13 Feb 2020 09:00:53 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-battery-life-via-cmd-line/</guid>
+      <description>
+
+&lt;p&gt;Sometimes, the battery indicator in Windows 10 stops working, fails to respond, or disappears. In this case you might need to check your battery life, until that problem gets fixed.&lt;/p&gt;
+
+&lt;h2 id=&#34;check-battery-level-using-command-line&#34;&gt;Check Battery level using command line&lt;/h2&gt;
+
+&lt;p&gt;Open Windows Command Prompt and execute the following command:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/updates/update-battery-life-via-cmd-line/cmd-line-WMIC-command.png&#34; alt=&#34;Command Line Window: WMIC Command Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;WMIC PATH Win32_Battery Get EstimatedChargeRemaining
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The output for that command would look something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;EstimatedCharge&lt;/p&gt;
+
+&lt;p&gt;Remaining&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You can see the estimated battery charge remaining.&lt;/p&gt;
+
+&lt;p&gt;In my next update I will show you a possible fix to this problem.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

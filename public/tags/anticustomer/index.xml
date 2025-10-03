@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anticustomer on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/anticustomer/</link>
+    <description>Recent content in Anticustomer on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Tue, 05 Aug 2025 12:19:12 -0700</lastBuildDate>
+    <atom:link href="/tags/anticustomer/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Antimalware Security Is Now Bloatware</title>
+      <link>http://scottrlarson.com/updates/update-antimalware-security-bloatware/</link>
+      <pubDate>Tue, 05 Aug 2025 12:19:12 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-antimalware-security-bloatware/</guid>
+      <description>&lt;p&gt;The primary purpose of installing a third-party security product is to protect the computer from unwanted and unnecessary software that can confuse and complicate the customer experience. Since 2023, or even before, consumer security products have undergone changes. From products that protect you from malicious software and unwanted access, to products that attempt to sell you add-ons that you don&amp;rsquo;t need, like VPN services.&lt;/p&gt;
+
+&lt;p&gt;It is for these reasons that I no longer recommend any 3rd party security products. The best way to protect yourself from threats on your computer and online is to stick with Windows&amp;rsquo; built-in product &amp;ldquo;Windows Defender&amp;rdquo; and go with a browser like &lt;a href=&#34;https://www.firefox.com&#34; target=&#34;_blank&#34;&gt;Firefox&lt;/a&gt; that has the Ublock Origin add-on. Ublock protects the browser from malicious Ad networks, and Windows Defender does a pretty good job of protecting you from email threats and files that find their way to your computer.&lt;/p&gt;
+
+&lt;p&gt;Stay away from the 3rd party vendors like McAfee and Norton, and all the other 3rd party providers. I have yet to encounter a security provider that doesn&amp;rsquo;t include some kind of notification system that tries to get you to purchase and install add-ons.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

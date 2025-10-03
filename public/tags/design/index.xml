@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/design/</link>
+    <description>Recent content in Design on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 26 Feb 2018 12:58:35 -0800</lastBuildDate>
+    <atom:link href="/tags/design/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>norcalssc.com website development</title>
+      <link>http://scottrlarson.com/projects/websites/norcalssc.com/</link>
+      <pubDate>Mon, 26 Feb 2018 12:58:35 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/websites/norcalssc.com/</guid>
+      <description>&lt;p&gt;I customized the design of Norcal Specialty Surgery Center website with the aesthetics of the building, the colors the staff use for their scrubs and the rock and roll wall hanging pictures. I wanted a clean, elegant and simple design to make it easy for the public to find information about their services. I made this site very search engine friendly by sticking strictly with HTML and CSS for all of the content.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ericashane.net IWEB to Wordpress Migration </title>
+      <link>http://scottrlarson.com/projects/websites/ericashane.net/</link>
+      <pubDate>Tue, 27 Feb 2007 11:44:46 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/websites/ericashane.net/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/demos/ericashane.net.png&#34; alt=&#34;Image of ericashane.net website conversion and design&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Originally ericashane.net was hosted with a now defunct apple website platform called IWEB. I converted the content for this site over to the Wordpress content management system so it would be easy to update and maintain for the customer. Wordpress is a very easy to use content system that offers auto updating to keep the technology behind the platform current. I also added a lightbox image viewer for the photos on the site to make the images easier to view.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

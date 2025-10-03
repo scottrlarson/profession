@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletters on Scott Larson</title>
+    <link>http://scottrlarson.com/newsletters/</link>
+    <description>Recent content in Newsletters on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Fri, 02 Mar 2018 19:02:10 -0800</lastBuildDate>
+    <atom:link href="/newsletters/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scooter&#39;s Fall Newsletter: Whats your backup plan?, Solid State Storage Technology, and Scott&#39;s New Office</title>
+      <link>http://scottrlarson.com/newsletters/2018-oct/</link>
+      <pubDate>Thu, 27 Sep 2018 15:08:19 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/newsletters/2018-oct/</guid>
+      <description>&lt;div class=&#34;cs-page-body&#34;&gt;
+  &lt;p&gt;Hi, this is Scott Larson you signed up for my quarterly Scooter newsletter from a previous engagement. I also had a class at my office location on learning the basics of the Windows 10 desktop in June of 2018. If you missed it you can check out the &lt;a href=&#34;http://www.scottrlarson.comhttps://www.dropbox.com/s/9slyv1y2owymk88/Windows10lifebuoy-basic-notes.pdf?dl=0&#34;&gt;slides&lt;/a&gt; on my &lt;a href=&#34;http://www.scottrlarson.comhttp://www.scottrlarson.com&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+  &lt;p&gt;In these &lt;a href=&#34;http://www.scottrlarson.com/newsletters/&#34;&gt;newsletters&lt;/a&gt; I write about new technologies I discover and use in the field. I also deliver solutions based on these discoveries to my customers. You benefit from these discoveries as I write about how they improve my customer’s lives.&lt;/p&gt;
+  &lt;p&gt;If you have any questions about these technologies and how they could improve your life, please [contact](/#contact) me.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;cs-article-header-containor&#34;&gt;
+  &lt;div class=&#34;cs-image-containor&#34;&gt;
+    &lt;img src=&#34;http://www.scottrlarson.com/img/newsletter/2018-oct/backup-plan.jpg&#34; width=&#34;100%&#34; title=&#34;Screenshot of the Apple touchid login popup window&#34; authentication=&#34;&#34; image”=&#34;&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;cs-article-title&#34;&gt;
+    &lt;h3&gt;Planning ahead, is your most important data being backed up?&lt;/h3&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;cs-article-body&#34;&gt;
+  &lt;p&gt;Did you know that some financial software is built on technology so out dated that it actually prevents modern backup solutions from backing up it’s financial data?&lt;/p&gt;
+  &lt;p&gt;This actually happened to a customer of mine. The legacy application the customer was using did not allow access to the financial data while the application was in use. This means that when the customer was using the application (which ways most of the time), the backup solution would skip those files as the legacy application was not able to release its lock on those particular files.&lt;/p&gt;
+  &lt;p&gt;Your best bet when dealing with financial data is to use the backup tool that is built into the application on a scheduled basis. If you have to put up a reminder to do it once every month then do it. Some times you have to perform manual backups to prevent these kinds of problems from getting in the way of having a recent backup of your data. If your hard drive crashes and that data becomes lost, think about how that will effect your operations.&lt;/p&gt;
+  &lt;p&gt;Also note that email stored in the cloud is not backed up. If there is a disaster at the facility, or you accidentally delete an email you wanted to save, no backup will be stored on your devices. In this case you need a email &lt;a href=&#34;http://www.scottrlarson.com/updates/update-email-archiving&#34;&gt;archiving solution&lt;/a&gt;.&lt;/p&gt;
+  &lt;p&gt;For more information about backup’s check out my article &lt;a href=&#34;http://www.scottrlarson.com/updates/update-disaster-recovery-fire-insurance/&#34;&gt;“Disaster Recovery Backup, Your Fire Insurance.”&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;cs-article-header-containor&#34;&gt;
+  &lt;div class=&#34;cs-image-containor&#34;&gt;
+    &lt;img src=&#34;http://www.scottrlarson.com/img/newsletter/2018-oct/hdd-vs-ssd.jpg&#34; width=&#34;100%&#34; title=&#34;Screenshot of the Apple touchid login popup window&#34; authentication=&#34;&#34; image”=&#34;&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;cs-article-title&#34;&gt;
+    &lt;h3&gt;Solid State Storage Technology: Does deleting data mean it’s gone for good?&lt;/h3&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;cs-article-body&#34;&gt;
+  &lt;p&gt;Solid State Storage Devices are like Hard Drives but they don’t having any moving parts, they’re significantly faster and use less power than HDD’s and are used in most mobile devices. With Desktops and Laptops, SSD’s are replacing HDD’s quickly. In a couple of years most new desktops and laptops will probably ship with only a Solid State Drive. SSD’s contain memory chips that permanently store information until you tell it to do something else. When you delete a file from a SSD the technology has features that clean the area that the deleted file was stored in to make room for something else. As such, the file is gone and cannot be recovered unless you used your system’s “recycle” or “trash” feature.&lt;/p&gt;
+  &lt;p&gt;A good thing to keep in mind is unlike Hard Drives, deleting files on a Solid State Drive does not reset the pointer leaving the file intact until you write over it with another file. When you delete a file from a SSD, its gone forever unless your system moves that file to the recycle bin or trash. Please keep in mind that the trash or recycle bin has limited space to store files, so if you move something to the trash or recycle bin, it might not be there months or years down the road. Always have a good &lt;a href=&#34;http://www.scottrlarson.com/packages/backup-management/&#34;&gt;backup solution&lt;/a&gt; that retains a archive copy of your data for a period of time from 6 months to a year in case you need to go back and retrieve a file you forgot you deleted, you never know.&lt;/p&gt;
+  &lt;p&gt;For more in-depth information about how SSD’s work see my &lt;a href=&#34;http://www.scottrlarson.com/updates/update-file-recovery-ssd/&#34;&gt;SSD File UnRecovery&lt;/a&gt; article.&lt;/p&gt;
+  &lt;p&gt;If you are interested in knowing more about the pricing and features of an SSD see my &lt;a href=&#34;http://www.scottrlarson.com/updates/update-ssd-3d-nand-tech/&#34;&gt;SSD performance and cost&lt;/a&gt; article&lt;/p&gt;
+  &lt;p&gt;If you were thinking about upgrading your Hard Disk Drive to a Solid State Drive I can &lt;a href=&#34;http://www.scottrlarson.com/services/computer/repair/upgrade/&#34;&gt;upgrade&lt;/a&gt; for you.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;cs-article-header-containor&#34;&gt;
+  &lt;div class=&#34;cs-image-containor&#34;&gt;
+    &lt;img src=&#34;http://www.scottrlarson.com/img/newsletter/2018-oct/office-work-bench-me-what-int-mid-small.jpg&#34; width=&#34;100%&#34; title=&#34;Screenshot of the Apple touchid login popup window&#34; authentication=&#34;&#34; image”=&#34;&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;cs-article-title&#34;&gt;
+    &lt;h3&gt;Scott’s New Office&lt;/h3&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;cs-article-body&#34;&gt;
+  &lt;p&gt;For those that don’t know yet, I have a &lt;a href=&#34;http://www.scottrlarson.com/updates/update-new-office-downtown/&#34;&gt;new office&lt;/a&gt; downtown on 5th Street at co-op work place called “Share Space”. Stop by and say hi, just ring the door bell or call me up. 707-536-1527.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div class=&#34;cs-article-header-containor&#34;&gt;
+  &lt;div class=&#34;cs-article-title&#34;&gt;
+    &lt;h2&gt;About Me&lt;/h2&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class=&#34;cs-article-body&#34;&gt;
+  &lt;p&gt;I provide one on one personal technology support to help you simplify your computer life. From backups to email help, I will be there for you. Save yourself the headache of solving these challenges alone. Your time is too important to waste. You can also contact me by phone at 707-536-1527 or text me at 707-416-5811.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scooters June 2018 Newsletter: Finger Print Sign-In, Duplicate Files, and Tracking Customer History</title>
+      <link>http://scottrlarson.com/newsletters/2018-june/</link>
+      <pubDate>Fri, 01 Jun 2018 17:12:31 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/newsletters/2018-june/</guid>
+      <description>
+
+&lt;p&gt;Hi, this is Scott Larson you signed up for my quarterly Scooter newsletter from a previous engagement. I had a class on learning the basics of the Windows 10 desktop. If you missed it you can check out the &lt;a href=&#34;https://www.dropbox.com/s/9slyv1y2owymk88/Windows10lifebuoy-basic-notes.pdf?dl=0&#34;&gt;slides&lt;/a&gt; on my &lt;a href=&#34;http://www.scottrlarson.com&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In these &lt;a href=&#34;http://www.scottrlarson.com/newsletters/&#34;&gt;newsletters&lt;/a&gt; I write about new technologies I discover and use in the field. I also deliver solutions based on these discoveries to my customers. You benefit from these discoveries as I write about how they improve my customer’s lives.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about these technologies and how they could improve your life please let me know by email at inquiries@scottrlarson.com, phone at 707-536-1527 or text at 707-416-5811.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/newsletter/2018-june/example-touchid.PNG&#34; width=&#34;25%&#34; title=“Apple TouchID Authentication Image”&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;use-touch-id-to-log-into-your-websites&#34;&gt;Use Touch ID to log into your websites.&lt;/h2&gt;
+
+&lt;p&gt;Did you know that many online services offer apps that allow you to sign-in using your finger print? &lt;a href=&#34;https://en.wikipedia.org/wiki/Touch_ID&#34; target=&#34;_blank&#34;&gt;TouchID&lt;/a&gt; from Apple is becoming a very popular tool to sign into your websites. This technology makes it easier for my senior citizen customers who have an iPad or an iPhone to log-in to their bank and check their account history, or log into Netflix and watch movies by simply using their finger print to make the authentication happen. &lt;a href=&#34;www.scottrlarson.com/#contact&#34; target=&#34;_blank&#34;&gt;Contact&lt;/a&gt; me if you have or thinking about getting a Apple mobile device and need help setting up this very useful feature.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/newsletter/2018-june/example-dupeguru.JPG&#34; width=&#34;25%&#34; title=“DupeGuru Application Screen Image”&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;find-and-clean-duplicate-files-using-dupeguru&#34;&gt;Find and clean duplicate files using DupeGuru.&lt;/h2&gt;
+
+&lt;p&gt;Tired of wading though the nightmare of duplicate files? &lt;a href=&#34;https://www.hardcoded.net/dupeguru/&#34; target=&#34;_blank&#34;&gt;DupGuru&lt;/a&gt; is free software for PC, Mac, or Linux that helps you find and get rid of all types of duplicate files from photos to music and many other type of files. It has fuzzy logic to match files not just by file name, but also by file size.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/newsletter/2018-june/example-cj.png&#34; width=&#34;25%&#34; title=“Contacts Journal Promo Image”&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;simplify-customer-history-tracking-using-contacts-journal-for-the-mac-and-ios&#34;&gt;Simplify customer history tracking using Contacts Journal for the Mac and iOS.&lt;/h2&gt;
+
+&lt;p&gt;A customer consulted with me that wanted to track customer business interactions and history. Most of the Contact Resource Management (CRM) solutions like Salesforce are designed for Business to Business interactions and have a very complicated feature set that is overkill for independent service providers. Since this customer switched to a PC from a Mac recently Contacts Journal wouldn’t be an option since the product is only available for Mac and iOS devices.  Instead I set the customer up with Notepad for Windows and a file management regiment as a replacement solution. What was great about the research I did on this subject was I was able to find a simple solution for my own business. I use iPads to manage my business on the go and Contacts Journal works perfect to maintain the history of each interaction I have with my customers so I can track and improve upon provided solutions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.contactsjournal.com/&#34; target=&#34;_blank&#34;&gt;Contacts Journal&lt;/a&gt; uses your existing contacts saved on your Mac or in iOS to create journal histories for each contact that you import into the app. You can track email communications, tasks, and create notes on calls. You can also schedule to-dos and appointments. What’s cool about Contacts Journal is that all of these actions are attached to the contact you already have in your contact application so you can easily find information about a particular customer that you already created a contact entry for. It also has a map feature that allows you to get from appointment to appointment with ease. It’s 39.99 for the Mac and 19.99 for iOS.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+
+&lt;p&gt;I provide one on one personal technology support to help you simplify your computer life. From backups to email help, I will be there for you.  Save yourself the headache of solving these challenges alone. Your time is too important to waste. You can also contact me by phone at 707-536-1527 or text me at 707-416-5811.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

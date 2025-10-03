@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memorials on Scott Larson</title>
+    <link>http://scottrlarson.com/memorials/</link>
+    <description>Recent content in Memorials on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Sun, 24 Jul 2022 10:40:52 -0700</lastBuildDate>
+    <atom:link href="/memorials/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reflections on the Home Computer Golden Age - Part 1: My First Computer</title>
+      <link>http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-1/</link>
+      <pubDate>Sun, 24 Jul 2022 11:00:52 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-1/</guid>
+      <description>
+
+&lt;div class=&#34;breakoutBox1&#34;&gt;&lt;p&gt;I have been a technology enthusiast since I was 10 years old, today I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my &lt;a href=&#34;https://scottrlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you want reach out to me about this article, use retrogaming O scottrlarson.com&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This article is the first part of a three part series:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Part 1: My First Computer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-2/&#34;&gt;Part 2: The C64 &amp;amp; A500&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-3/&#34;&gt;Part 3: Amiga Games, The BBS Days &amp;amp; 3d Modeling&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;This article is about my experience with the first home computers. My history starts with gaming on the consoles of the time, starting with the Atari 2600. I played games like &amp;ldquo;Raiders of the Lost Ark&amp;rdquo; and &amp;ldquo;Donkey Kong&amp;rdquo;. When the first Home Computers were released, I played one of the first dungeon crawlers, &amp;ldquo;Tunnels of Doom&amp;rdquo; on the TI99/4A. After the Commodore 64 was released, I played games like &amp;ldquo;Wasteland&amp;rdquo; and &amp;ldquo;Ultima IV&amp;rdquo;.  Most of my surviving memories center around the Commodore Amiga. What memories of your game history has survived the aging process? Games like &amp;ldquo;Another World&amp;rdquo; and &amp;ldquo;Flashback&amp;rdquo; bring me back to a time of story-driven 2D side-scrollers, with the first use of cinematic cut scenes. I also touch on the era of the BBS.  Computers hosting Bulletin Board System software were the first forum like experience allowing enthusiasts to communicate with each other. Finally, I recall my experiences with the first 3d Modeling applications on the Amiga.&lt;/p&gt;
+
+&lt;p&gt;Take a journey back in history with me. The year is 1982, just after one of the first home computers was released, the Texas Instruments TI-99/4A. I was about 12 years old. Relatively expensive, but affordable to many middle-class families, Home Computers ranged around a thousand dollars in value.&lt;/p&gt;
+
+&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-heading-clean&#34;&gt;
+      &lt;h2 class=&#34;panel-title-clean&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-ti994a-specs&#34;&gt;Texas Instruments TI-99/4A&lt;/a&gt;
+      &lt;/h2&gt;
+      &lt;div class=&#34;panel-subtitle-clean&#34;&gt;Click title to view specifications&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-ti994a-specs&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;&lt;table class=&#34;infobox hproduct vevent&#34;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td colspan=&#34;2&#34; class=&#34;infobox-image&#34;&gt;
+        &lt;a href=&#34;http://scottrlarson.com/wiki/File:TI99-IMG_7132_(filter_levels_crop).jpg&#34; class=&#34;image&#34;&gt;&lt;img alt=&#34;TI99-IMG 7132 (filter levels crop).jpg&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TI99-IMG_7132_%28filter_levels_crop%29.jpg/220px-TI99-IMG_7132_%28filter_levels_crop%29.jpg&#34; decoding=&#34;async&#34; srcset=&#34;//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TI99-IMG_7132_%28filter_levels_crop%29.jpg/330px-TI99-IMG_7132_%28filter_levels_crop%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TI99-IMG_7132_%28filter_levels_crop%29.jpg/440px-TI99-IMG_7132_%28filter_levels_crop%29.jpg 2x&#34; data-file-width=&#34;5181&#34; data-file-height=&#34;2167&#34; width=&#34;220&#34; height=&#34;92&#34;&gt;&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Manufacturer&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;Texas Instruments&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Type&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Home_computer&#34; title=&#34;Home computer&#34;&gt;Home computer&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Release date&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;June&amp;nbsp;1981&lt;span style=&#34;display:none&#34;&gt;&amp;nbsp;(&lt;span class=&#34;bday dtstart published updated&#34;&gt;1981-06&lt;/span&gt;)&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Introductory price&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;span style=&#34;white-space: nowrap&#34;&gt;US$525&lt;/span&gt; (equivalent to $1,560 in 2021)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Discontinued&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;March 1984&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Units shipped&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;2.8 million&lt;sup id=&#34;cite_ref-oldcomputers_1-0&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#cite_note-oldcomputers-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Media&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;
+        &lt;style data-mw-deduplicate=&#34;TemplateStyles:r979066050&#34;&gt;
+          .mw-parser-output ul.cslist,
+          .mw-parser-output ul.sslist {
+            margin: 0;
+            padding: 0;
+            display: inline-block;
+            list-style: none
+          }
+
+          .mw-parser-output ul.cslist-embedded {
+            display: inline
+          }
+
+          .mw-parser-output .cslist li,
+          .mw-parser-output .sslist li {
+            margin: 0;
+            padding: 0 0.25em 0 0;
+            display: inline-block
+          }
+
+          .mw-parser-output .cslist li:after {
+            content: &#34;, &#34;
+          }
+
+          .mw-parser-output .sslist li:after {
+            content: &#34;; &#34;
+          }
+
+          .mw-parser-output .cslist li:last-child:after,
+          .mw-parser-output .sslist li:last-child:after {
+            content: none
+          }
+        &lt;/style&gt;
+        &lt;ul class=&#34;cslist&#34;&gt;
+          &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/ROM_cartridge&#34; title=&#34;ROM cartridge&#34;&gt;ROM cartridge&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Cassette_tape#Data_recording&#34; title=&#34;Cassette tape&#34;&gt;cassette&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Floppy_disk&#34; title=&#34;Floppy disk&#34;&gt;floppy disk&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Operating_system&#34; title=&#34;Operating system&#34;&gt;Operating system&lt;/a&gt;&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/TI_BASIC_(TI_99/4A)&#34; title=&#34;TI BASIC (TI 99/4A)&#34;&gt;TI BASIC&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Central_processing_unit&#34; title=&#34;Central processing unit&#34;&gt;CPU&lt;/a&gt;&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Texas_Instruments_TMS9900&#34; title=&#34;Texas Instruments TMS9900&#34;&gt;TMS9900&lt;/a&gt; @ 3 MHz&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Memory&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;16 &lt;a href=&#34;http://scottrlarson.com/wiki/Kilobyte&#34; title=&#34;Kilobyte&#34;&gt;KB&lt;/a&gt; RAM&lt;br&gt;256 bytes scratchpad RAM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Graphics&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Texas_Instruments_TMS9918&#34; title=&#34;Texas Instruments TMS9918&#34;&gt;TMS9918A&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Predecessor&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;TI-99/4&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/memorials/personal-computers/ti994a2.jpg&#34; alt=&#34;Texas Instruments TI-99/4A Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During the introduction of the first models, my family and I did not have a home computer, but fortunately, I had friends. A friend&amp;rsquo;s mother, who wanted to keep her son out of trouble, purchased the 99/4a for him.&lt;/p&gt;
+
+&lt;p&gt;My friend Rob and I would visit Andy&amp;rsquo;s house on the weekends and act like we knew all about computers. The game I vividly remember playing, &amp;ldquo;&lt;strong&gt;Tunnels of Doom&lt;/strong&gt;&amp;rdquo; became the hot title at the time. As far as I know, it was the first multi-player turn-based &lt;a href=&#34;https://en.wikipedia.org/wiki/Dungeon_crawl&#34; target=&#34;_blank&#34;&gt;dungeon crawler&lt;/a&gt;. We started our morning loading our previously save game data from cassette tape.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/memorials/personal-computers/ti994a-program-recorder.jpg&#34; alt=&#34;PHP2700 Program Recorder&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At dinner time our game would be loaded. We each took our respective turns exploring a procedurally generated dungeon, engaging in battles with monsters, and restoring fallen comrades. I remember it being the first continuous game experience where I learned to cooperate with other players to complete objectives that spanned more than one sitting.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/oa7MYYmB4XQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;A few years after my experience with the TI994a, my parents noticed my enthusiasm for computing. I think they saw the home computer as a step up from my childhood dream of getting myself into trouble at school.&lt;/p&gt;
+
+&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-heading-tooltip&#34;&gt;
+      &lt;span class=&#34;panel-title-tooltip&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-electronics-history&#34;&gt;Did you know?: My Uncle introduced me to electronics theory and practicalities?&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-electronics-history&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;&lt;p&gt;I had a brief introduction into electronics theory and practicalities by my Uncle Jim, who worked as an electrician in WWII, and later became a city electrician. When my parents went away on vacation, they would ship me to Chicago to visit my Uncle. He showed me the basics of AC/DC. A few years of my life were spent in his basement, building small electronic devices together. Maybe that&amp;rsquo;s why I jump at the prospect of getting my hands on newly released gadgets today.&lt;/p&gt;
+
+&lt;p&gt;As far as electronics go, the computer is a different beast. The inner workings of a computer operate on the same principles of electric current. But what makes home computers different from electronics is the software programming aspect of it. Programming is like creating a list of instructions for something to happen. At the end of the day, is all about flipping switches. Flipping a sequence of switches actually, in a way the computer can understand.&lt;/p&gt;
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;This enthusiasm got me my first computer, a Commodore 64. I&amp;rsquo;m skipping the part where my real first computer was a TRS-80.  Back then, it was considered the &lt;a href=&#34;https://dfarq.homeip.net/trash-80-what-it-meant-and-why-it-stuck/&#34; target=&#34;_blank&#34;&gt;Trash-80&lt;/a&gt; by my compadres. It was as good of a computer as any during that time, except for its initial limitations that could be expanded with add-on hardware, making the cost significantly larger than the original price of the product. It&amp;rsquo;s very similar to how computer games ship nowadays, half-completed, then sold the completed parts of the game in expansions. This half-computer developed a bad reputation for not being a complete experience. You couldn&amp;rsquo;t do much with it without upgrading the hardware and I convinced my mom to upgrade the computer, lots.&lt;/p&gt;
+
+&lt;p&gt;Anyways, forget I ever said anything about the Trash-80, we move on to big and better things in the &lt;a href=&#34;http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-2/&#34;&gt;next part&lt;/a&gt; of this series.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reflections on the Home Computer Golden Age - Part 2: The C64 &amp; A500</title>
+      <link>http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-2/</link>
+      <pubDate>Sun, 24 Jul 2022 11:00:52 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-2/</guid>
+      <description>
+
+&lt;div class=&#34;breakoutBox1&#34;&gt;&lt;p&gt;I have been a technology enthusiast since I was 10 years old, today I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my &lt;a href=&#34;https://scottrlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you want reach out to me about this article, use retrogaming O scottrlarson.com&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This article is the second part of a three part series:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-1/&#34;&gt;Part 1: My First Computer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Part 2: The C64 &amp;amp; A500&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-3/&#34;&gt;Part 3: Amiga Games, The BBS Days &amp;amp; 3d Modeling&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-heading-clean&#34;&gt;
+      &lt;h2 class=&#34;panel-title-clean&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-commodore64-specs&#34;&gt;Commodore 64&lt;/a&gt;
+      &lt;/h2&gt;
+      &lt;div class=&#34;panel-subtitle-clean&#34;&gt;Click title to view specifications&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-commodore64-specs&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;&lt;table class=&#34;infobox hproduct vevent&#34;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td colspan=&#34;2&#34; class=&#34;infobox-image&#34;&gt;
+        &lt;a href=&#34;http://scottrlarson.com/wiki/File:Commodore_64.svg&#34; class=&#34;image&#34;&gt;&lt;img alt=&#34;Commodore 64.svg&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Commodore_64.svg/220px-Commodore_64.svg.png&#34; decoding=&#34;async&#34; srcset=&#34;//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Commodore_64.svg/330px-Commodore_64.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Commodore_64.svg/440px-Commodore_64.svg.png 2x&#34; data-file-width=&#34;512&#34; data-file-height=&#34;51&#34; width=&#34;220&#34; height=&#34;22&#34;&gt;&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan=&#34;2&#34; class=&#34;infobox-image&#34;&gt;
+        &lt;a href=&#34;http://scottrlarson.com/wiki/File:Commodore-64-Computer-FL.jpg&#34; class=&#34;image&#34;&gt;&lt;img alt=&#34;C64 hardware&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Commodore-64-Computer-FL.jpg/220px-Commodore-64-Computer-FL.jpg&#34; decoding=&#34;async&#34; srcset=&#34;//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Commodore-64-Computer-FL.jpg/330px-Commodore-64-Computer-FL.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Commodore-64-Computer-FL.jpg/440px-Commodore-64-Computer-FL.jpg 2x&#34; data-file-width=&#34;4600&#34; data-file-height=&#34;2600&#34; width=&#34;220&#34; height=&#34;124&#34;&gt;&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Manufacturer&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Commodore_Business_Machines&#34; class=&#34;mw-redirect&#34; title=&#34;Commodore Business Machines&#34;&gt;Commodore Business Machines&lt;/a&gt; (CBM)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Type&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Home_computer&#34; title=&#34;Home computer&#34;&gt;Home computer&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Release date&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;August&amp;nbsp;1982&lt;span class=&#34;noprint&#34;&gt;; 39&amp;nbsp;years ago&lt;/span&gt;&lt;span style=&#34;display:none&#34;&gt;&amp;nbsp;(&lt;span class=&#34;bday dtstart published updated&#34;&gt;1982-08&lt;/span&gt;)&lt;/span&gt;&lt;sup id=&#34;cite_ref-woc1983_1-0&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#cite_note-woc1983-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Introductory price&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;span style=&#34;white-space: nowrap&#34;&gt;US$595&lt;/span&gt; (equivalent to $1,670 in 2021)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Discontinued&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;April&amp;nbsp;1994&lt;span class=&#34;noprint&#34;&gt;; 28&amp;nbsp;years ago&lt;/span&gt;&lt;span style=&#34;display:none&#34;&gt;&amp;nbsp;(&lt;span class=&#34;dtend&#34;&gt;1994-04&lt;/span&gt;)&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Units sold&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;12.5&lt;sup id=&#34;cite_ref-PageTable_2-0&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#cite_note-PageTable-2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt; – 17&lt;sup id=&#34;cite_ref-Reimer1_3-0&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#cite_note-Reimer1-3&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt; million&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Operating_system&#34; title=&#34;Operating system&#34;&gt;Operating system&lt;/a&gt;&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;
+        &lt;div class=&#34;plainlist&#34;&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;span class=&#34;nowrap&#34;&gt;Commodore &lt;a href=&#34;http://scottrlarson.com/wiki/KERNAL&#34; title=&#34;KERNAL&#34;&gt;KERNAL&lt;/a&gt;/&lt;a href=&#34;http://scottrlarson.com/wiki/Commodore_BASIC&#34; title=&#34;Commodore BASIC&#34;&gt;BASIC 2.0&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/GEOS_(8-bit_operating_system)&#34; title=&#34;GEOS (8-bit operating system)&#34;&gt;GEOS&lt;/a&gt; (optionally)&lt;/span&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Central_processing_unit&#34; title=&#34;Central processing unit&#34;&gt;CPU&lt;/a&gt;&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/MOS_Technology_6510&#34; title=&#34;MOS Technology 6510&#34;&gt;MOS Technology 6510&lt;/a&gt;/&lt;a href=&#34;http://scottrlarson.com/wiki/MOS_Technology_6510#MOS_8500&#34; title=&#34;MOS Technology 6510&#34;&gt;8500&lt;/a&gt;
+        &lt;div class=&#34;plainlist&#34;&gt;
+          &lt;ul&gt;
+            &lt;li&gt;@ &lt;span class=&#34;nowrap&#34;&gt;1.023 MHz&lt;/span&gt; (&lt;a href=&#34;http://scottrlarson.com/wiki/NTSC&#34; title=&#34;NTSC&#34;&gt;NTSC&lt;/a&gt; version)&lt;/li&gt;
+            &lt;li&gt;@ &lt;span class=&#34;nowrap&#34;&gt;0.985 MHz&lt;/span&gt; (&lt;a href=&#34;http://scottrlarson.com/wiki/PAL&#34; title=&#34;PAL&#34;&gt;PAL&lt;/a&gt; version)&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Memory&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;span class=&#34;nowrap&#34;&gt;64 &lt;a href=&#34;http://scottrlarson.com/wiki/Kilobyte&#34; title=&#34;Kilobyte&#34;&gt;KB&lt;/a&gt; (65,536 bytes) &lt;i&gt;(IEC: &lt;a href=&#34;http://scottrlarson.com/wiki/Kibibyte&#34; class=&#34;mw-redirect&#34; title=&#34;Kibibyte&#34;&gt;KiB&lt;/a&gt;)&lt;/i&gt; &lt;a href=&#34;http://scottrlarson.com/wiki/Random-access_memory&#34; title=&#34;Random-access memory&#34;&gt;RAM&lt;/a&gt;&lt;/span&gt; + &lt;span class=&#34;nowrap&#34;&gt;20 KB &lt;a href=&#34;http://scottrlarson.com/wiki/Read-only_memory&#34; title=&#34;Read-only memory&#34;&gt;ROM&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Graphics&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/MOS_Technology_VIC-II&#34; title=&#34;MOS Technology VIC-II&#34;&gt;VIC-II&lt;/a&gt; (&lt;span class=&#34;nowrap&#34;&gt;320×200&lt;/span&gt;, &lt;span class=&#34;nowrap&#34;&gt;16 colors&lt;/span&gt;, &lt;a href=&#34;http://scottrlarson.com/wiki/Sprite_(computer_graphics)&#34; title=&#34;Sprite (computer graphics)&#34;&gt;sprites&lt;/a&gt;, &lt;span class=&#34;nowrap&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Raster_interrupt&#34; title=&#34;Raster interrupt&#34;&gt;raster interrupt&lt;/a&gt;&lt;/span&gt;)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Sound&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/MOS_Technology_6581&#34; title=&#34;MOS Technology 6581&#34;&gt;SID 6581/8580&lt;/a&gt; (&lt;span class=&#34;nowrap&#34;&gt;3× &lt;a href=&#34;http://scottrlarson.com/wiki/Electronic_oscillator&#34; title=&#34;Electronic oscillator&#34;&gt;osc&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;nowrap&#34;&gt;4× &lt;a href=&#34;http://scottrlarson.com/wiki/Waveform&#34; title=&#34;Waveform&#34;&gt;wave&lt;/a&gt;&lt;/span&gt;, &lt;a href=&#34;http://scottrlarson.com/wiki/Electronic_filter&#34; title=&#34;Electronic filter&#34;&gt;filter&lt;/a&gt;, &lt;a href=&#34;http://scottrlarson.com/wiki/Attack-decay-sustain-release_envelope&#34; class=&#34;mw-redirect&#34; title=&#34;Attack-decay-sustain-release envelope&#34;&gt;ADSR&lt;/a&gt;, &lt;a href=&#34;http://scottrlarson.com/wiki/Ring_modulation&#34; title=&#34;Ring modulation&#34;&gt;ring&lt;/a&gt;)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Connectivity&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;
+        &lt;div class=&#34;plainlist&#34;&gt;
+          &lt;ul&gt;
+            &lt;li&gt;2× &lt;a href=&#34;http://scottrlarson.com/wiki/MOS_Technology_CIA&#34; title=&#34;MOS Technology CIA&#34;&gt;CIA 6526&lt;/a&gt; (&lt;a href=&#34;http://scottrlarson.com/wiki/Joystick&#34; title=&#34;Joystick&#34;&gt;joystick&lt;/a&gt;, &lt;a href=&#34;http://scottrlarson.com/wiki/General-purpose_input/output&#34; title=&#34;General-purpose input/output&#34;&gt;GPIO&lt;/a&gt;/&lt;a href=&#34;http://scottrlarson.com/wiki/RS-232&#34; title=&#34;RS-232&#34;&gt;RS-232&lt;/a&gt;/keyboard)&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#Input/output_(I/O)_ports_and_power_supply&#34;&gt;Power&lt;/a&gt; (+5V DC &amp;amp; 9V AC)&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/ROM_cartridge&#34; title=&#34;ROM cartridge&#34;&gt;ROM cartridge&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;Video/audio (&lt;a href=&#34;http://scottrlarson.com/wiki/RF_modulator&#34; title=&#34;RF modulator&#34;&gt;RF&lt;/a&gt;/&lt;a href=&#34;http://scottrlarson.com/wiki/S-Video&#34; title=&#34;S-Video&#34;&gt;A/V&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Commodore_bus&#34; title=&#34;Commodore bus&#34;&gt;Serial IEEE 488 bus&lt;/a&gt; (&lt;a href=&#34;http://scottrlarson.com/wiki/Commodore_1541&#34; title=&#34;Commodore 1541&#34;&gt;floppy disk&lt;/a&gt;/&lt;a href=&#34;http://scottrlarson.com/wiki/Commodore_64_peripherals#Printers&#34; title=&#34;Commodore 64 peripherals&#34;&gt;printer&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Commodore_Datasette&#34; title=&#34;Commodore Datasette&#34;&gt;Digital tape&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Predecessor&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;
+        &lt;div class=&#34;hlist hlist-separated&#34;&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Commodore_VIC-20&#34; title=&#34;Commodore VIC-20&#34;&gt;Commodore VIC-20&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Commodore_MAX_Machine&#34; title=&#34;Commodore MAX Machine&#34;&gt;Commodore MAX Machine&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Successor&lt;/th&gt;
+      &lt;td class=&#34;infobox-data&#34;&gt;
+        &lt;div class=&#34;hlist hlist-separated&#34;&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Commodore_128&#34; title=&#34;Commodore 128&#34;&gt;Commodore 128&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Amiga&#34; title=&#34;Amiga&#34;&gt;Amiga&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/memorials/personal-computers/commodore64-perpective-view-blue-background.jpg&#34; alt=&#34;Commodore 64 Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Commodore, instrumental in launching the Home Computer movement forward, focused on low-cost alternatives to the mainframe/supercomputer, high-priced market that the juggernauts HP and IBM were involved in at the time. Many people in the business world considered home computers toys and they would never gain the status and profitability of designing computers for the corporate world. Because of this mindset, there was a lot of controversy around the introduction of the home computer, with back-biting executives sabotaging projects to CEOs running projects into the ground.&lt;/p&gt;
+
+&lt;p&gt;It took people like Commodore&amp;rsquo;s Founder Jack Tramiel who understood where technology was heading to shift the tide.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;We build computers for the masses, not the classes&lt;/em&gt;.&lt;br /&gt;
+- Jack Tramiel (Commodore&amp;rsquo;s Founder).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;div class=&#34;breakoutBox1&#34;&gt;For more commodore gushiness on the impact of Commodore and it&amp;rsquo;s how its home Computer revolution affected the computers of today, read an introduction: &amp;ldquo;&lt;a href=&#34;https://www.bitmapbooks.com/blogs/news/back-to-basic-understanding-the-dazzling-legacy-of-the-commodore-64&#34; target=&#34;_blank&#34;&gt;Understanding the dazzling legacy of the C64&lt;/a&gt;&amp;ldquo;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;The C64 was my first computer, if you were using computers at the time, it was likely your first computer too. Simplicity, low cost, superior graphics, quality sound, good game software, and aggressive marketing made the C64 the perfect home computer for enthusiasts like me and many others.&lt;/p&gt;
+
+&lt;p&gt;Tinkering communities formed around the C64&amp;rsquo;s simple design and broad software support. It was a bit like the cassette tape area. We became fascinated with the C64&amp;rsquo;s capabilities by testing the limits of hardware, playing with software that did cool things, and sharing it with the community.&lt;/p&gt;
+
+&lt;p&gt;The C64 inspired a whole slew of independent software designed by people for people, who ultimately just wanted to share their creations.&lt;/p&gt;
+
+&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-heading-clean&#34;&gt;
+      &lt;h2 class=&#34;panel-title-clean&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-commodoreAmiga500-specs&#34;&gt;Commodore Amiga 500&lt;/a&gt;
+      &lt;/h2&gt;
+      &lt;div class=&#34;panel-subtitle-clean&#34;&gt;Click title to view specifications&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-commodoreAmiga500-specs&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;&lt;table class=&#34;infobox hproduct vevent&#34;&gt;
+            &lt;caption class=&#34;infobox-title fn summary&#34;&gt;Amiga 500&lt;/caption&gt;
+            &lt;tbody&gt;
+              &lt;tr&gt;
+                &lt;td colspan=&#34;2&#34; class=&#34;infobox-image&#34;&gt;
+                  &lt;a href=&#34;http://scottrlarson.com/wiki/File:Commodore_Amiga_500_logo.svg&#34; class=&#34;image&#34;&gt;&lt;img alt=&#34;Commodore Amiga 500 logo.svg&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Commodore_Amiga_500_logo.svg/220px-Commodore_Amiga_500_logo.svg.png&#34; decoding=&#34;async&#34; srcset=&#34;//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Commodore_Amiga_500_logo.svg/330px-Commodore_Amiga_500_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Commodore_Amiga_500_logo.svg/440px-Commodore_Amiga_500_logo.svg.png 2x&#34; data-file-width=&#34;1200&#34; data-file-height=&#34;255&#34; width=&#34;220&#34; height=&#34;47&#34;&gt;&lt;/a&gt;
+                &lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;td colspan=&#34;2&#34; class=&#34;infobox-image&#34;&gt;
+                  &lt;a href=&#34;http://scottrlarson.com/wiki/File:Amiga500_system.jpg&#34; class=&#34;image&#34;&gt;&lt;img alt=&#34;Amiga500 system.jpg&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amiga500_system.jpg/220px-Amiga500_system.jpg&#34; decoding=&#34;async&#34; srcset=&#34;//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amiga500_system.jpg/330px-Amiga500_system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amiga500_system.jpg/440px-Amiga500_system.jpg 2x&#34; data-file-width=&#34;2531&#34; data-file-height=&#34;1965&#34; width=&#34;220&#34; height=&#34;171&#34;&gt;&lt;/a&gt;
+                  &lt;div class=&#34;infobox-caption&#34;&gt;A500 with 1084S monitor and Amiga 1010 external second floppy drive&lt;/div&gt;
+                &lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Developer&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Commodore_International&#34; title=&#34;Commodore International&#34;&gt;Commodore International&lt;/a&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Product family&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Amiga&#34; title=&#34;Amiga&#34;&gt;Amiga&lt;/a&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Type&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Home_computer&#34; title=&#34;Home computer&#34;&gt;Home computer&lt;/a&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Release date&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;April 1987 (&lt;a href=&#34;http://scottrlarson.com/wiki/Netherlands&#34; title=&#34;Netherlands&#34;&gt;Netherlands&lt;/a&gt;)&lt;br&gt;May 1987 (Europe)&lt;br&gt;October 1987 (US/UK)&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Introductory price&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;
+                  &lt;div class=&#34;plainlist&#34;&gt;
+                    &lt;ul&gt;
+                      &lt;li&gt;US$699 (equivalent to $1,670 in 2021)&lt;/li&gt;
+                      &lt;li&gt;£499 (equivalent to £1,490 in 2021)&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/div&gt;
+                &lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Discontinued&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;1992&lt;span style=&#34;display:none&#34;&gt;&amp;nbsp;(&lt;span class=&#34;dtend&#34;&gt;1992&lt;/span&gt;)&lt;/span&gt;
+                &lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Units sold&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;4 to 5 million&lt;sup id=&#34;cite_ref-IM-OG_1-0&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#cite_note-IM-OG-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Media&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;880&amp;nbsp;&lt;a href=&#34;http://scottrlarson.com/wiki/Kilobyte&#34; title=&#34;Kilobyte&#34;&gt;KB&lt;/a&gt; floppy disks&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Operating_system&#34; title=&#34;Operating system&#34;&gt;Operating system&lt;/a&gt;&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/AmigaOS&#34; title=&#34;AmigaOS&#34;&gt;AmigaOS&lt;/a&gt; v1.2 – 1.3 (upgradable to current version if enough RAM is installed)&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Central_processing_unit&#34; title=&#34;Central processing unit&#34;&gt;CPU&lt;/a&gt;&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Motorola_68000&#34; title=&#34;Motorola 68000&#34;&gt;Motorola 68000&lt;/a&gt; @ &lt;span class=&#34;nowrap&#34;&gt;7.16 MHz (&lt;a href=&#34;http://scottrlarson.com/wiki/NTSC&#34; title=&#34;NTSC&#34;&gt;NTSC&lt;/a&gt;)&lt;/span&gt;&lt;br&gt; &lt;span class=&#34;nowrap&#34;&gt;7.09 MHz (&lt;a href=&#34;http://scottrlarson.com/wiki/PAL&#34; title=&#34;PAL&#34;&gt;PAL&lt;/a&gt;)&lt;/span&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Memory&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;512 or 1024&amp;nbsp;&lt;a href=&#34;http://scottrlarson.com/wiki/Kilobyte&#34; title=&#34;Kilobyte&#34;&gt;KB&lt;/a&gt; 150&amp;nbsp;ns (maximum 9 to 138&amp;nbsp;MB, depending on upgrades)&lt;sup id=&#34;cite_ref-binpre_2-0&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#cite_note-binpre-2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;cite_ref-3&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#cite_note-3&#34;&gt;[a]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Display&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;736×567i 4&amp;nbsp;&lt;a href=&#34;http://scottrlarson.com/wiki/Color_depth&#34; title=&#34;Color depth&#34;&gt;bpp&lt;/a&gt; (&lt;a href=&#34;http://scottrlarson.com/wiki/PAL&#34; title=&#34;PAL&#34;&gt;PAL&lt;/a&gt;)&lt;br&gt;736×483i 4&amp;nbsp;bpp (&lt;a href=&#34;http://scottrlarson.com/wiki/NTSC&#34; title=&#34;NTSC&#34;&gt;NTSC&lt;/a&gt;)&lt;br&gt;368×567i 6&amp;nbsp;bpp (PAL)&lt;br&gt;368×483i 6&amp;nbsp;bpp (NTSC)&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Graphics&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Denise_(computer_chip)&#34; class=&#34;mw-redirect&#34; title=&#34;Denise (computer chip)&#34;&gt;Denise&lt;/a&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Sound&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;4× 8-bit channels &lt;a href=&#34;http://scottrlarson.com/wiki/Pulse-code_modulation&#34; title=&#34;Pulse-code modulation&#34;&gt;PCM&lt;/a&gt; at max. &lt;span class=&#34;nowrap&#34;&gt;28 &lt;a href=&#34;http://scottrlarson.com/wiki/KHz&#34; class=&#34;mw-redirect&#34; title=&#34;KHz&#34;&gt;kHz&lt;/a&gt;&lt;/span&gt; with 6-bit volume in stereo&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Predecessor&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Amiga_1000&#34; title=&#34;Amiga 1000&#34;&gt;Amiga 1000&lt;/a&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Successor&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;
+                  &lt;div class=&#34;plainlist&#34;&gt;
+                    &lt;ul&gt;
+                      &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Amiga_500_Plus&#34; class=&#34;mw-redirect&#34; title=&#34;Amiga 500 Plus&#34;&gt;Amiga 500 Plus&lt;/a&gt;&lt;/li&gt;
+                      &lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Amiga_600&#34; title=&#34;Amiga 600&#34;&gt;Amiga 600&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/div&gt;
+                &lt;/td&gt;
+              &lt;/tr&gt;
+            &lt;/tbody&gt;
+          &lt;/table&gt;
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/memorials/personal-computers/commodore-amiga-500-old-school.webp&#34; alt=&#34;Commodore Amiga 500 Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Like the first mission to the moon, the technology behind the Amiga 500 Home Computer changed everything. The A500 had its beginnings at Atari. An engineer, Jay Miner, had an idea to develop a computer that would revolutionize games and make them much easier to develop.&lt;/p&gt;
+
+&lt;p&gt;Too afraid of losing money, Atari corporate executives of that time put little-to-no energy into paradigm-shifting innovations. This decline was in the process of causing the game console industry to collapse. Game development relied heavily on licensing expensive hardware. Due to the fear of losing those licensing deals, Atari prohibited Jay from perusing this new platform.&lt;/p&gt;
+
+&lt;p&gt;Realizing the writing on the wall, Jay left Atari. A previous co-worker contacted him and eventually helped him revive the idea under a new company. The technology behind the A500&amp;rsquo;s hardware design was revolutionary, beyond anything that was developed at the time.&lt;/p&gt;
+
+&lt;p&gt;One could say it felt like technology from a future time, as it took years for the rest of the industry to catch up. Suddenly, no longer bound to monochrome displays and single-tone beeps, studio-quality video, and sound became a reality.  Eventually, Commodore bought the platform and marketed the Amiga to creative people. The A500 became a big hit with computer enthusiasts and entertainment professionals all over the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-heading-tooltip&#34;&gt;
+      &lt;span class=&#34;panel-title-tooltip&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-electronics-history&#34;&gt;Did you know &amp;#34;Innovation Stagnation&amp;#34; still happens today in many other fields of computer technology?&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-electronics-history&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;Like the almost-lost home computer revolution, there are other areas in technology today that are stagnating. One such area is how proprietary software is preventing the evolution of technology. &lt;a href=&#34;https://ipwatchdog.com/2022/08/28/software-ownership-is-killing-innovation-controversial-author-calls-for-a-reboot/id=151077/&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; is an interesting source on this subject. I plan on writing a future article about this subject and for now, this is a placeholder for that content.&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;expandability&#34;&gt;Expandability&lt;/h3&gt;
+
+&lt;p&gt;One of the big selling points of Home Computers was upgradability. Game consoles purchased for the home during that time were solid units, meaning the design principles were static and the hardware couldn&amp;rsquo;t be changed after the unit was manufactured.&lt;/p&gt;
+
+&lt;p&gt;The A500 was one of the first computers released with an open design principle, allowing expandability. It had two expansion slots that accepted hardware expansion devices like hard drives and other peripherals. Also, instead of all the chips being soldiered into the mainboard directly, the chips were mounted onto bases so they could be easily removed and replaced when improved chips became available.&lt;/p&gt;
+
+&lt;p&gt;This kind of open architecture was a first for computer enthusiasts, similar to the concept of modularity, parts could be removed, replaced, and upgraded.&lt;/p&gt;
+
+&lt;p&gt;For me, that was what really made home computers interesting. I increased my understanding of electronics by exploring its inner workings and expanding its capabilities. This kind of tinkering spurred my continued computer knowledge over the years.&lt;/p&gt;
+
+&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-heading-tooltip&#34;&gt;
+      &lt;span class=&#34;panel-title-tooltip&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-&#34;&gt;Did you ever wonder if we are doomed to repeat the past?&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;Without this kind of open access to the hardware, I would have never learned how to service computers. Currently, some current mobile technology like phones, tablets, and laptops are being designed around the static and unchanging aspects of the  1980s console era, creating a throw-away culture, completely dependent on for-profit companies that have no interest in open platforms. Consider supporting the &lt;a href=&#34;https://www.repair.org/stand-up&#34; target=&#34;_blank&#34;&gt;right to repair&lt;/a&gt; movement and &lt;a href=&#34;https://www.endcreativemonopolies.com/&#34; target=&#34;_blank&#34;&gt;ending creative monopolies&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;the-graphical-user-interface-gui&#34;&gt;The Graphical User Interface (GUI)&lt;/h3&gt;
+
+&lt;p&gt;The Graphical User Interface changed how a computer is operated. It was the first time I realized I could be creative without having to code. I realized that I could create art with a computer through the gestures of my hand.&lt;/p&gt;
+
+&lt;p&gt;When I experienced the GUI for the Amiga OS for the first time, I immediately shifted directions. I like the concepts of programming and electronics, but I am much more of a visual person so I started getting familiar with the new graphics, 3d modeling, and audio tools that were being released at the time.&lt;/p&gt;
+
+&lt;p&gt;Using a GUI to interact with a computer is like an extension of human perception. As humans, we interact with our environment through the senses. Like an extension between the body and mind, the more intuitive the tool, the more fluid and imaginative one can be with the tool.&lt;/p&gt;
+
+&lt;p&gt;Imagination and creativity impact how the world is perceived. The A500 inspired a whole slew of &lt;a href=&#34;https://www.indiegamewebsite.com/2018/10/19/the-complete-history-of-indie-games/&#34; target=&#34;_blank&#34;&gt;creative endeavors&lt;/a&gt; in more creative fields than I can count. Because of this innovation, modern computer technology owes its beginnings to The Amiga platform.&lt;/p&gt;
+
+&lt;p&gt;If we go back to the C64 days, computers received instructions from a Command Line Interface (CLI), I.E typing commands to launch programs and work with everyday tasks. There were some limited GUI interfaces that you could load on top of the CLI, but nothing on the scale that the A500 implemented into its operating system.&lt;/p&gt;
+
+&lt;p&gt;The whole OS was grounded in a GUI from start to finish, way before the release of Microsoft&amp;rsquo;s Windows. It&amp;rsquo;s difficult to quantify the impact the GUI had on my life, but switching from a lifetime of CLI to a GUI is like miraculously being able to see after years of being blind.&lt;/p&gt;
+
+&lt;p&gt;This innovation accelerated the adoption of computers.  For many people that might have been put off by the command line, Graphic User Interface systems made using computers more intuitive and helped to spawn a golden age of digital art and sound.&lt;/p&gt;
+
+&lt;div class=&#34;breakoutBox1&#34;&gt;If you want to read more about the history of the Commodore Amiga, there is a good series on the Commodore Amiga at Ars Tecnica &amp;ldquo;&lt;a href=&#34;https://arstechnica.com/series/history-of-the-amiga/&#34; target=&#34;_blank&#34;&gt;The History of the Amiga&lt;/a&gt;&amp;rdquo; by the technology historian, Jeremy Reimer.&lt;/div&gt;
+
+&lt;p&gt;On to the &lt;a href=&#34;http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-3/&#34;&gt;last part&lt;/a&gt; of this series.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reflections on the Home Computer Golden Age - Part 3: Amiga Games, The BBS Days &amp; 3d Modeling</title>
+      <link>http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-3/</link>
+      <pubDate>Sun, 24 Jul 2022 11:00:52 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-3/</guid>
+      <description>
+
+&lt;div class=&#34;breakoutBox1&#34;&gt;&lt;p&gt;I have been a technology enthusiast since I was 10 years old, today I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my &lt;a href=&#34;https://scottrlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you want reach out to me about this article, use retrogaming O scottrlarson.com&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This article is the third and final part of a three part series:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-1/&#34;&gt;Part 1: My First Computer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-2/&#34;&gt;Part 2: The C64 &amp;amp; A500&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Part 3: Amiga Games, The BBS Days &amp;amp; 3d Modeling&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The Amiga platform brought amazing capabilities in visuals and sound, beyond anything I experienced beforehand. Since I am a big fan of Science Fiction, and I believe that art informs humanity about our past and future, the games created during this time ignited my imagination with possibilities for the future of society.&lt;/p&gt;
+
+&lt;p&gt;My gaming experience on the Amiga platform inspired me to invest my time and energy into graphic design.  When the first 3D modeling software was released for the Amiga Platform, I was one of its first adopters. Later in life, this field engaged my interest in film and finally writing for film.&lt;/p&gt;
+
+&lt;h2 id=&#34;amiga-games-that-influenced-my-life&#34;&gt;Amiga games that influenced my life&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;The days of Future Wars, Another World &amp;amp; Flashback&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/memorials/games/delphine-software/future-wars/futurewars-cover.jpg&#34; alt=&#34;Future Wars&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In 1989 I played &lt;strong&gt;Future Wars&lt;/strong&gt;, a science fiction adventure game released on the Amiga Platform. I was never a big fan of point-and-click adventure games, but the science-fictional aspects of the game captivated me and brought the world of storytelling into focus at a time when most games were about high scores and shooting.&lt;/p&gt;
+
+&lt;p&gt;Future Wars might not have been an amazing success like other games at the time, but I love exploring the concept of time travel. What inspired me about the game is the sound, made possible by the Amiga platform. Sound was a big thing for games back then, which was very limited by the hardware.&lt;/p&gt;
+
+&lt;p&gt;For some reason, sound and storytelling helped me to continue to explore my interests in science, leading to interpersonal contemplation of what the future might be like. Great for my own storytelling as I developed an interest in writing for film. I developed an interest in temporal mechanics and cognitive theory, both of which helps shape my understanding of the world today.&lt;/p&gt;
+
+&lt;p&gt;The subjects I write about all have their roots in how objective reality and perception have effects on the human mind.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/GGNTiMET244&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Three years later &lt;strong&gt;Another World&lt;/strong&gt; came out. I was in a game store at the time. I picked up this title and looked at the front and back cover. It looked something like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/memorials/games/delphine-software/another-world/amiga-anotherworld-front.jpg&#34; alt=&#34;Another World Amiga Game Box Front Cover Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/memorials/games/delphine-software/another-world/amiga-anotherworld-back.jpg&#34; alt=&#34;Another World Amiga Game Box Back Cover Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The idea of some guy lost and stranded on a foreign planet resonated with me. Probably because I feel that way sometimes on earth :P.&lt;/p&gt;
+
+&lt;p&gt;It was the first time I saw three dimensional perspective used in a game. Later I found out the developer used rotoscoping to create the cut-scenes. Remember this is a 2d scrolling game mind you. If my memory serves me correctly, 3D perspective in 2d scrolling games was something not even considered at the time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/memorials/games/delphine-software/another-world/another-world-4-shot.jpg&#34; alt=&#34;Another World In-Game Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/0iz9PJbs5rE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;A few years later, &lt;strong&gt;Flashback&lt;/strong&gt;, a game by the same publisher was released that had a similar feel to Another World, but in its own right, it was its own game. The game followed a similar theme that I was attracted to, A single protagonist, stranded somewhere, must find his way back to himself. Again, both of these games are side scrollers with mixed cutscenes. I enjoyed playing these games for the cut-scenes as the story elements were similar to movies I had seen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/memorials/games/delphine-software/flashback/flashback-in-game-screenshot.jpg&#34; alt=&#34;Flashback&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;10 FANTASTIC Flashback Facts
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/kl7C3DwjTd8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Flashback Soundtrack
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/3VXBjg7Nxto&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Both Another World and Flashback had great instrumental soundtracks. Music, with atmospheric sound effects, helped me focus on the action in the game, but it also helped me connect with my surroundings, and from that point on, I used music to help me focus on my creative efforts.&lt;/p&gt;
+
+&lt;p&gt;Playing these particular games was the first time I experienced linear storytelling and that helped me figure out why I was so inspired by stories. I realized that storytelling, in the way it was presented in games, as interactive pieces, was a way for me to focus my own decision-making in life. As I learned how to make decisions in games, I realized with the right focus and intention, I could make sound choices in my own life.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SWgXz2PRrTk&#34; target=&#34;_blank&#34;&gt;The Fallout 3 Ambient Soundtrack&lt;/a&gt; is a perfect example of how ambiance can focus attention&lt;/p&gt;
+
+&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-heading-clean&#34;&gt;
+      &lt;h2 class=&#34;panel-title-clean&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-commodoreAmiga2000-specs&#34;&gt;Commodore Amiga 2000&lt;/a&gt;
+      &lt;/h2&gt;
+      &lt;div class=&#34;panel-subtitle-clean&#34;&gt;Click title to view specifications&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-commodoreAmiga2000-specs&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;&lt;table class=&#34;infobox hproduct vevent&#34;&gt;
+            &lt;caption class=&#34;infobox-title fn summary&#34;&gt;Commodore Amiga 2000&lt;/caption&gt;
+            &lt;tbody&gt;
+              &lt;tr&gt;
+                &lt;td colspan=&#34;2&#34; class=&#34;infobox-image&#34;&gt;
+                  &lt;a href=&#34;http://scottrlarson.com/wiki/File:Amiga_2000_computer_(filtered_sharpened).jpg&#34; class=&#34;image&#34;&gt;&lt;img alt=&#34;Amiga 2000 computer (filtered sharpened).jpg&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Amiga_2000_computer_%28filtered_sharpened%29.jpg/220px-Amiga_2000_computer_%28filtered_sharpened%29.jpg&#34; decoding=&#34;async&#34; srcset=&#34;//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Amiga_2000_computer_%28filtered_sharpened%29.jpg/330px-Amiga_2000_computer_%28filtered_sharpened%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Amiga_2000_computer_%28filtered_sharpened%29.jpg/440px-Amiga_2000_computer_%28filtered_sharpened%29.jpg 2x&#34; data-file-width=&#34;1870&#34; data-file-height=&#34;1069&#34; width=&#34;220&#34; height=&#34;126&#34;&gt;&lt;/a&gt;
+                &lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Type&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Personal_computer&#34; title=&#34;Personal computer&#34;&gt;Personal computer&lt;/a&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Release date&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;March&amp;nbsp;1987&lt;span class=&#34;noprint&#34;&gt;; 35&amp;nbsp;years ago&lt;/span&gt;&lt;span style=&#34;display:none&#34;&gt;&amp;nbsp;(&lt;span class=&#34;bday dtstart published updated&#34;&gt;1987-03&lt;/span&gt;)&lt;/span&gt;
+                &lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Introductory price&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;USD 1,495 (1987)&lt;br&gt;USD 3,600 (2022 equivalent)&lt;sup id=&#34;cite_ref-im87_1-0&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#cite_note-im87-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Discontinued&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;1991&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Operating_system&#34; title=&#34;Operating system&#34;&gt;Operating system&lt;/a&gt;&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/AmigaOS&#34; title=&#34;AmigaOS&#34;&gt;Amiga OS&lt;/a&gt; 1.2/1.3 or 2.0&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Central_processing_unit&#34; title=&#34;Central processing unit&#34;&gt;CPU&lt;/a&gt;&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Motorola_68000&#34; title=&#34;Motorola 68000&#34;&gt;Motorola 68000&lt;/a&gt;&lt;/span&gt; &lt;span class=&#34;nowrap&#34;&gt;@ 7.16&amp;nbsp;MHz (&lt;a href=&#34;http://scottrlarson.com/wiki/NTSC&#34; title=&#34;NTSC&#34;&gt;NTSC&lt;/a&gt;)&lt;/span&gt; &lt;span class=&#34;nowrap&#34;&gt;7.09&amp;nbsp;MHz (&lt;a href=&#34;http://scottrlarson.com/wiki/PAL&#34; title=&#34;PAL&#34;&gt;PAL&lt;/a&gt;)&lt;/span&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Memory&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;1 &lt;a href=&#34;http://scottrlarson.com/wiki/Megabyte&#34; title=&#34;Megabyte&#34;&gt;MB&lt;/a&gt; &lt;span class=&#34;nowrap&#34;&gt;(9 &lt;a href=&#34;http://scottrlarson.com/wiki/Megabyte&#34; title=&#34;Megabyte&#34;&gt;MB&lt;/a&gt; maximum)&lt;/span&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Predecessor&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Amiga_1000&#34; title=&#34;Amiga 1000&#34;&gt;Amiga 1000&lt;/a&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;th scope=&#34;row&#34; class=&#34;infobox-label&#34;&gt;Successor&lt;/th&gt;
+                &lt;td class=&#34;infobox-data&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/wiki/Amiga_3000&#34; title=&#34;Amiga 3000&#34;&gt;Amiga 3000&lt;/a&gt;&lt;/td&gt;
+              &lt;/tr&gt;
+            &lt;/tbody&gt;
+          &lt;/table&gt;
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/memorials/personal-computers/amiga2k1-1.jpg&#34; alt=&#34;Commodore Amiga 2000 Photo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Upon realizing the power of the Amiga platform for graphics and sound, I wanted to do more with the technology than just play games. So I purchased an Amiga 2000 with some inheritance money I had to explore the cutting-edge capabilities of the platform.&lt;/p&gt;
+
+&lt;p&gt;During that time, Commodore shifted its marketing strategies to appeal directly to creative small businesses. In the early 1990s, many independent professionals started to take notice of the platform when the &lt;a href=&#34;https://en.wikipedia.org/wiki/Video_Toaster&#34; target=&#34;_blank&#34;&gt;Video Toaster&lt;/a&gt; was released.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/seznQmDp2pU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;The toaster allowed you to combine graphic capabilities with real-world captured video, something TV stations were moving toward anyway. Before the release of the Toaster, a TV station would spend at least 10,000 if not more on hardware to make this dream a reality. But now, it was being put into the hands of independent artists. This move spawned a whole new era of creative markets.&lt;/p&gt;
+
+&lt;h3 id=&#34;3d-modeling-on-the-amiga-2000&#34;&gt;3D modeling on the Amiga 2000&lt;/h3&gt;
+
+&lt;p&gt;My interests in 3d modeling and animation (Now called special effects) centered around the work behind the games Another World and Flashback. I purchased an Amiga 2000 solely for that purpose. &lt;strong&gt;Caligari&lt;/strong&gt; which was later renamed to &lt;strong&gt;Truespace 3d&lt;/strong&gt; was the application at the time designed for this purpose.&lt;/p&gt;
+
+&lt;p&gt;I wanted to recreate in 3d what I saw in those 2d side-scrolling games.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img style=&#34;margin-bottom: 5px;&#34; src=&#34;http://scottrlarson.com/img/memorials/models/rylon-head.png.jpg&#34;
+       alt=&#34;My rendition of the Another World Creature&#34;&gt;
+  &lt;center style=&#34;margin-bottom: 60px;&#34; class=&#34;image-caption-title&#34;&gt;My rendition of the Another World Creature&lt;/center&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;With the realization that special effects would become the future of film and other forms of creative projects, being a part of this movement would be important for my artistic development. But when I saw the kind of work environments that were created around these industries, the long work hours and the destructive corporate culture, I decided to take the byway of self-development.&lt;/p&gt;
+
+&lt;p&gt;As I was already somewhat knowledgeable about hardware I figured my skills were more marketable as a one-man show. Besides, at the time, I didn&amp;rsquo;t work well with others. In hindsight, the judgments I made about the world, stunted my artistic growth. Or at least the impact I might have made on society by being a part of something bigger than what my mind could imagine. But its never too late for anything.&lt;/p&gt;
+
+&lt;p&gt;Work in this type of isolation did have strong points, It helped me shape my ideas and bring some of my ideas to life, which inspired me to get into writing for film, instead of creating works of art that revolved around the creations of others.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.etwright.org/cghist/a3d_intro.html&#34; target=&#34;_blank&#34;&gt;More information on Amiga 3D modeling&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;bulletin-board-system-bbs-the-modem&#34;&gt;Bulletin Board System (BBS) &amp;amp; The Modem&lt;/h3&gt;
+
+&lt;p&gt;In the 1980s, we used our traditional phone lines to dial-in and connect to Bulletin Board Systems. BBSs were the first forums of the day. The Dial-ups of the time were usually single connection based but improved over time. One call after the other, users imprinted themselves upon the walls of life in this early digital stratosphere.  Before the Internet became a reality, BBS systems were our knowledge centers. Built by the users, for the users, of the users.&lt;/p&gt;
+
+&lt;p&gt;I became a user of Bulletin Board Systems during my early C64 days, I was around 13 years of age.  Probably because my parents were in the process of splitting up, I sometimes found it hard to reign in my emotions and be civil. At the time, I found myself in trouble with the social contracts on some of the BBSs I was a member of. Back then, codes of conduct still applied in the digital world and I would find my account suspended for a time which tended to cut me off from online socialization.&lt;/p&gt;
+
+&lt;p&gt;But I got on with life and grew up somewhat. After a while, I purchased a Commodore 128 and ran my BBS, and became a SysOP (Systems Operator).&lt;/p&gt;
+
+&lt;p&gt;If you were a SysOp at the time, you had a unique glimpse into the future of online communication. Because of the time we were in, society was still in its early stages of individual expression. Much of our way of life was affected by our social mores and peer pressure to maintain a facade of being something everyone expected us to be. To fit into society, that&amp;rsquo;s what we did, at least in America. But as an early SysOP, I noticed that BBS users would drop these disguises and reveal who they truly were, or at least who they wanted to be.&lt;/p&gt;
+
+&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-heading-tooltip&#34;&gt;
+      &lt;span class=&#34;panel-title-tooltip&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-&#34;&gt;The Lost Civilization of Dial-Up Bulletin Board Systems - By Benj Edwards&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;&lt;p&gt;Ben recalls having a vivid, recurring dream. He climbs the stairs in his parent&amp;rsquo;s house to see his old bedroom. In the back corner, he hears a faint humming.&lt;/p&gt;
+
+&lt;p&gt;In this dream, his old computer, still running his 1990s-era bulletin board system (BBS, for short), “The Cave.”. He had thought he had shut it down ages ago, but somehow it was still chugging away all this time without him realizing it. People continued calling his BBS to play games, post messages, and upload files. To his astonishment, it never shut down after all&amp;hellip; &lt;a href=&#34;https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/&#34; target=&#34;_blank&#34;&gt;Read more about his experience with the BBS era&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Maybe this understanding started me down the path of being able to remain authentic to who I was even under extreme pressure from the outside world.&lt;/p&gt;
+
+&lt;p&gt;The early BBS&amp;rsquo;s were the first type of systems where there was real interaction between people online, way before the internet. Connecting and sharing your innermost dreams happened at a turtle&amp;rsquo;s pace because only one person was able to connect to a BBS at a time.&lt;/p&gt;
+
+&lt;p&gt;It was unique because you could leave something behind of yourself in a post, and someone might comment on your post hours or days later. It helped me develop my thoughts about the world using a methodical and deterministic model, which sometimes I think we lack in the modern era.&lt;/p&gt;
+
+&lt;p&gt;BBSs continued to be used during the revolution of the Amiga platform. Although I vaguely remember any significant changes to BBS systems after the C64/128 days, except for the multi-user communication aspect which I lost touch with for a time, not much seemed to change. Being a SysOP helped me connect with other people that had similar interests. I met two people Henry Tilton and Tom Knox, both of who have made their own way into our modern world of computers. I became lifelong friends with these guys, even though I lost track of them over the years, but recently have been getting reacquainted with them, I will never forget their contribution to my learning. Thank you guys, you taught me so much about programming and computers.&lt;/p&gt;
+
+&lt;p&gt;There was this feeling of strangers working together to make the world a better place and to create cool things. It was the beginning and in some ways, the end of an era, all at once.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dial a BBS from an Amiga in 2016&lt;/strong&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/MxcjnV-WhnQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;the-fall-of-commodore&#34;&gt;The fall of Commodore&lt;/h2&gt;
+
+&lt;p&gt;At the end of the 1980&amp;rsquo;s Commodore, as a company, was struggling to keep up with the technological advancements being made by the competition. Commodore&amp;rsquo;s corporate internal problems prevented them from making the innovations necessary to stay ahead. You can read more about that in the Ars Series &amp;ldquo;&lt;a href=&#34;https://arstechnica.com/series/history-of-the-amiga/&#34; target=&#34;_blank&#34;&gt;History of the Amiga&lt;/a&gt;&amp;rdquo;. Eventually, Apple and the PC clones of the world started to catch up to our little alternate reality. I remember that the platform wasn&amp;rsquo;t evolving.&lt;/p&gt;
+
+&lt;p&gt;Software development was be being limited by the available hardware at the time. Getting tired of waiting for Commodore to get its act together, I switched over to a PC platform and never looked back, until now. I hope to devote some of my time to checking out the &lt;a href=&#34;https://www.youtube.com/watch?v=0Vivn-ek8WY&#34; target=&#34;_blank&#34;&gt;Amiga A500 Mini&lt;/a&gt; with my friend Tom when I visit in Dec and I hope to get more involved in preserving computer history.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading. If you have any comments, reach out to me at retrogaming at scottrlarson.com&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

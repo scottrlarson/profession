@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planning on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/planning/</link>
+    <description>Recent content in Planning on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Sat, 21 Dec 2019 14:44:47 -0800</lastBuildDate>
+    <atom:link href="/tags/planning/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Restoring your digital life from backup after a disaster</title>
+      <link>http://scottrlarson.com/publications/publication-restoring-life-backup-disaster/</link>
+      <pubDate>Sat, 21 Dec 2019 14:44:47 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-restoring-life-backup-disaster/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Learn why solely backing up your data isn&amp;rsquo;t always enough to recover from a disaster.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In this publication, you will learn about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#what-is-disaster-recovery-backup-and-why-should-i-care&#34;&gt;What is disaster recovery backup, and why should I care?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#how-a-little-planning-can-drive-a-successful-disaster-recovery&#34;&gt;How a little planning can drive a successful disaster recovery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#why-waiting-for-a-disaster-to-happen-before-you-plan-is-a-bad-idea&#34;&gt;Why waiting for a disaster to happen before you plan is a bad idea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#terms&#34;&gt;Understanding technology terms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Knowing the difference between backup and disaster recovery, understanding key technology terms, and evaluating software along with storage options can help you develop an effective plan for avoiding the consequences of data loss and downtime after a catastrophe strikes.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-disaster-recovery-backup-and-why-should-i-care&#34;&gt;What is disaster recovery backup, and why should I care?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Backup&lt;/strong&gt; is the process of making an extra copy (or multiple copies) of data. You might need to restore data from a backup if you accidentally delete a file, or folder, or when a file, or folder becomes corrupted.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disaster Recovery&lt;/strong&gt; is having all tools in place to recover from a loss of data. Do you just need to recover one file, a set of files, or your entire computer? If your entire computer needs to be recovered, will you lose anything recently saved? How do you perform a full recovery of your computer? Knowing the answers to these questions is essential to your recovery plan.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disaster Recovery Backup&lt;/strong&gt;, on the other hand, refers to the plan and processes for quickly reestablishing access to your data after a catastrophe. If your computer, or applications fail catastrophically, become lost, or stolen, your &lt;strong&gt;Desktop environment&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:desktop-env&#34;&gt;&lt;a href=&#34;#fn:desktop-env&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; can be restored to a previous working condition, minimizing downtime.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I am prepared for the worst, but hope for the best.” - Benjamin Disraeli&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/digital-life/storage-options.jpg&#34; alt=&#34;Backup storage options photo&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;what-are-the-strengths-and-weaknesses-of-different-storage-options-and-locations&#34;&gt;What are the strengths and weaknesses of different storage options and locations&lt;/h3&gt;
+
+&lt;p&gt;A backup and a disaster recovery backup are similar in that they both need a location to store a copy of the data that is needed for a restoration.&lt;/p&gt;
+
+&lt;p&gt;In a &lt;strong&gt;Cloud Storage&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:cloud-storage&#34;&gt;&lt;a href=&#34;#fn:cloud-storage&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; scenario, data is stored outside the home, or small office. This off-site location protects your data from being destroyed by a tragedy, like a fire, or loss from a theft of your equipment. The speed and reliability of the &lt;strong&gt;Cloud Backup&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:cloud-backup&#34;&gt;&lt;a href=&#34;#fn:cloud-backup&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; service, as well as the internet connection to your home, or office, is a factor in determining the length of time needed for a data restoration.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Network Storage&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:NetworkStorage&#34;&gt;&lt;a href=&#34;#fn:NetworkStorage&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, or a &lt;strong&gt;Network Attached Storage Device (NAS)&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:NetworkStorage&#34;&gt;&lt;a href=&#34;#fn:NetworkStorage&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; are &lt;strong&gt;storage locations&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:storage-location&#34;&gt;&lt;a href=&#34;#fn:storage-location&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; that give you Cloud like storage in your home. Network Storage gives you the ability to store files onto it from any device in your home that is connected to your home, or business network. The speed in which data can be transferred to, and from a NAS is largely dependent on the kind of hardware (&lt;strong&gt;Network Router&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:router&#34;&gt;&lt;a href=&#34;#fn:router&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;, &lt;strong&gt;WiFi Access Point&lt;/strong&gt;[^-wifi-access-point], &lt;strong&gt;Network Switch&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:network-switch&#34;&gt;&lt;a href=&#34;#fn:network-switch&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;, &lt;strong&gt;Network Cabling&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:network-cabling&#34;&gt;&lt;a href=&#34;#fn:network-cabling&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;) you have, and the connection between the NAS and your devices (Wired or Wireless). In my experience, Network Storage Devices are less susceptible to physical connection problems and damage due to the fact that they are rarely moved from their physical location. Wired connections are typically faster than Wireless connections. There are many types of Wired and Wireless connections. Having the latest technology insures that you will have the fastest transfer speeds between two or more devices. Transfer speeds between devices is really important. The less time it takes for data to transfer to and from devices the less likely a problem will occur in the transfer, or backup.&lt;/p&gt;
+
+&lt;p&gt;The benefit of using a &lt;strong&gt;Local Storage&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:local-storage&#34;&gt;&lt;a href=&#34;#fn:local-storage&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; device over Cloud or Network storage is speed, convenience, and ease of use. But moving the storage device around, regularly disconnecting/reconnect it, often in situations that require it, like bringing a laptop with you on the go, may eventually cause damage to, or cause a connection problem with the storage device. In many cases, when a connection problem shows up, the backup software cannot do its job, and you may not know that there is a problem until it&amp;rsquo;s too late.&lt;/p&gt;
+
+&lt;p&gt;In most cases, drawbacks of each technology cannot be avoided. It’s best to choose two, or more storage options that work best for your needs and make redundancy your friend. If one storage device, or location fails, have another, and another. Three &lt;strong&gt;storage locations&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:storage-location&#34;&gt;&lt;a href=&#34;#fn:storage-location&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; are optimal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/digital-life/disaster-recovery-choice.jpg&#34; alt=&#34;planning to recovery your digital life&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;how-a-little-planning-can-drive-a-successful-disaster-recovery&#34;&gt;How a little planning can drive a successful disaster recovery&lt;/h2&gt;
+
+&lt;h3 id=&#34;identifying-the-best-technologies-for-achieving-your-backup-and-disaster-recovery-goals-for-home-and-small-businesses&#34;&gt;Identifying the best technologies for achieving your backup and disaster recovery goals for home and small businesses&lt;/h3&gt;
+
+&lt;p&gt;The important thing to understand first is what kind of computer user you are: &lt;strong&gt;Basic&lt;/strong&gt;, &lt;strong&gt;Intermediate&lt;/strong&gt;, or &lt;strong&gt;Advanced&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I just do email and docs..”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As a &lt;strong&gt;Basic&lt;/strong&gt; user you might not need much of a backup solution. The trick is to find out what you do with your device most of the time, and see if you actually need a backup solution. If you view your mail online using Gmail, Yahoo Mail, or Microsoft (Hotmail,or Outlook Mail) you are agreeing to let that provider store your mail for you. Be aware that just having a Cloud based Email provider store your Email for you may not shield you from mail loss. Even using an Email application like Outlook, or Thunderbird, your mail is stored on the mail server (Not on your device. It might be important to you to archive mail to some other location within your possession. Mail applications usually have archiving functionality which allows you to store a copy of your mail on your device’s storage drive.&lt;/p&gt;
+
+&lt;p&gt;Documents are usually stored on your device’s storage drive unless you are using a Cloud Storage service. If you do not use a Cloud Storage service like &lt;a href=&#34;https://www.dropbox.com/&#34;&gt;Dropbox&lt;/a&gt; or &lt;a href=&#34;https://www.google.com/drive/&#34;&gt;Google Drive&lt;/a&gt;, then your documents are stored on your device’s storage drive. Having a backup solution safeguards that data in case you lose your device, or it becomes damaged.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I know enough just to get myself into trouble…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As an &lt;strong&gt;Intermediate&lt;/strong&gt; user, you probably use your device professionally, or for education purposes and you work with more than just mail and documents. You might also save files like music, pictures, and videos. You may use non-standard applications like Turbotax, or Quickbooks. In a case like this, regular automatic backups using &lt;strong&gt;backup software&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:backup-software&#34;&gt;&lt;a href=&#34;#fn:backup-software&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; might be preferable to you.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I know my stuff, but I don&amp;rsquo;t really do backup that well…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As an &lt;strong&gt;Advanced&lt;/strong&gt; user, the way you use your device, the placement of everything stored on the device, and the programs you use are all vital to your everyday activities. If you  lost access to your device for too long, it would probably cause a problem for you. In a case like this, using &lt;strong&gt;Disaster Recovery Backup software&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:backup-software&#34;&gt;&lt;a href=&#34;#fn:backup-software&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; to backup a full copy of your &lt;strong&gt;system drive&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:system-drive&#34;&gt;&lt;a href=&#34;#fn:system-drive&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; might be preferable to you.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-kind-of-backup-software-do-i-need&#34;&gt;What kind of backup software do I need?&lt;/h2&gt;
+
+&lt;p&gt;There are a host of backup software solutions on the market. For &lt;strong&gt;local backups&lt;/strong&gt;, Windows 10 comes with its own backup solution called &lt;a href=&#34;https://blogs.msdn.microsoft.com/b8/2012/07/10/protecting-user-files-with-file-history/&#34; target=&#34;_blank&#34;&gt;File History&lt;/a&gt;. If you are a &lt;strong&gt;Basic&lt;/strong&gt;, or &lt;strong&gt;Intermediate&lt;/strong&gt; user this might work for you. You would need to purchase an external hard drive and set up File History to perform regular backups of your important &lt;strong&gt;storage locations&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:storage-location&#34;&gt;&lt;a href=&#34;#fn:storage-location&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. If you find that you require more control over the way your data is backed up than what File History offers, commercial third party products such as &lt;a href=&#34;https://www.easeus.com/backup-software/tb-enterprise.html?ad&amp;amp;gclid=EAIaIQobChMImPS1-ea65gIVth6tBh0thgM9EAAYAiAAEgKfgvD_BwE&#34; target=&#34;_blank&#34;&gt;EaseUS ToDo Backup&lt;/a&gt;, and &lt;a href=&#34;https://www.paragon-software.com/backup-recovery/&#34; target=&#34;_blank&#34;&gt;Paragon Backup and Recovery&lt;/a&gt; can offer more options.&lt;/p&gt;
+
+&lt;p&gt;For &lt;strong&gt;Intermediate&lt;/strong&gt; and &lt;strong&gt;Advanced&lt;/strong&gt; users, who cannot be without access to their programs and data for too long, and want to minimize the time in recovering from a disaster, I recommend Disaster Recovery Backup software like &lt;a href=&#34;https://www.macrium.com/reflectfree&#34; target=&#34;_blank&#34;&gt;Macirum Reflect&lt;/a&gt;, or &lt;a href=&#34;https://www.acronis.com&#34; target=&#34;_blank&#34;&gt;Acronis True Image&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-waiting-for-a-disaster-to-happen-before-you-plan-is-a-bad-idea&#34;&gt;Why waiting for a disaster to happen before you plan is a bad idea&lt;/h2&gt;
+
+&lt;p&gt;Many things can happen in the process of using your device. The place where you store your device could be involved in a catastrophe, your device could be stolen, your device’s internal storage drive could fail, you could accidentally delete a file, or a file could become corrupted in the process of using your device.&lt;/p&gt;
+
+&lt;p&gt;Don’t wait until it’s too late to devise a plan to protect your data. Protecting your data is like having insurance, you don&amp;rsquo;t know when, or if, you will need it, but when you do, boy can it be a lifesaver.
+Having a plan also builds confidence, so when your data becomes inaccessible, you have actions you can take to restore your access. Just having a plan alone can help you improve your knowledge about what you know, and don’t know about your device and your data.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;With a disaster recovery solution in place you can protect yourself from:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Downtime&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:downtime&#34;&gt;&lt;a href=&#34;#fn:downtime&#34;&gt;12&lt;/a&gt;&lt;/sup&gt;, by avoiding lengthy repairs to your device.&lt;/li&gt;
+&lt;li&gt;High repair, or data recovery costs when a device fails catastrophically.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Malware&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:malware&#34;&gt;&lt;a href=&#34;#fn:malware&#34;&gt;13&lt;/a&gt;&lt;/sup&gt;, or &lt;strong&gt;ransomeware&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:ransomeware&#34;&gt;&lt;a href=&#34;#fn:ransomeware&#34;&gt;14&lt;/a&gt;&lt;/sup&gt; infections by being able to restore from a previous backup.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://scottrlarson.com/#contact&#34; target=&#34;_blank&#34;&gt;Contact me&lt;/a&gt; for more information about developing a backup plan. I can help you identify what backup solution you need, and help you manage it.&lt;/p&gt;
+
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:desktop-env&#34;&gt;A desktop environment is the settings, customizations, applications, and personal data of your computer.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:desktop-env&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:cloud-storage&#34;&gt;&lt;strong&gt;Cloud Storage&lt;/strong&gt; is a data center that is accessed via a cloud software service.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:cloud-storage&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:cloud-backup&#34;&gt;&lt;strong&gt;Cloud Backup&lt;/strong&gt; backs up and stores files with a cloud service. In the event of data loss, you can restore files your files. Cloud backup is different then cloud storage because you must manually select files you want to store in the cloud, while cloud backup services work automatically to save and sync files stored on your computer.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:cloud-backup&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:NetworkStorage&#34;&gt;&lt;strong&gt;Network Storage&lt;/strong&gt;, or a &lt;strong&gt;Network Attached Storage (NAS)&lt;/strong&gt; is a device that contains a storage drive and can be connected to an existing home, or office network.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:NetworkStorage&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:storage-location&#34;&gt;A &lt;strong&gt;Storage Location&lt;/strong&gt; is a local drive or a cloud based service that stores files.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:storage-location&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:router&#34;&gt;A &lt;strong&gt;Network Router&lt;/strong&gt; is a network device that helps provide internet access to multiple devices in the home, or small office.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:router&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:network-switch&#34;&gt;&lt;strong&gt;Network Switch&lt;/strong&gt; is a device that allows you to connect multiple devices to a network allowing those devices to either talk to the internet, or to each other.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:network-switch&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:network-cabling&#34;&gt;&lt;strong&gt;Network Cabling&lt;/strong&gt;&lt;/a&gt; are the cords that are used in connecting or hard wiring devices to a network.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:network-cabling&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:local-storage&#34;&gt;&lt;strong&gt;Local storage&lt;/strong&gt; is a hard, or solid state storage drive that is either mounted the device, or connected to the device externally via USB or SATA. Network storage is a storage device that is connected to your computer via your modem or router using an Ethernet or Wireless connection.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:local-storage&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:backup-software&#34;&gt;&lt;strong&gt;Backup Software&lt;/strong&gt; takes over the job of backing up your data to a &lt;strong&gt;storage location&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:storage-location&#34;&gt;&lt;a href=&#34;#fn:storage-location&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. It can be executed manually, or setup to run automatically and regular intervals. Disaster Recovery Backup software backs up your system drive and can restore your desktop environment to its original working state before a disaster.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:backup-software&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:system-drive&#34;&gt;&lt;strong&gt;System Drive&lt;/strong&gt; is the drive that your device boots and operates from. In most cases all of your settings: What applications you have installed, and the look and feel of your desktop and even your personal/business data are stored on the system drive.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:system-drive&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:downtime&#34;&gt;&lt;strong&gt;Downtime&lt;/strong&gt; is the length of time when you are unable to access your device, or any data that is stored on that device.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:downtime&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:malware&#34;&gt;&lt;strong&gt;Malware&lt;/strong&gt; is software that is specifically designed to disrupt, damage, or gain unauthorized access to a computer system.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:malware&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:ransomeware&#34;&gt;&lt;strong&gt;Ransomware&lt;/strong&gt; is a type of malware from cryptovirology that threatens to publish the victim&amp;rsquo;s data or perpetually block access to it unless a ransom is paid.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:ransomeware&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Scott Larson</title>
+    <link>http://scottrlarson.com/projects/</link>
+    <description>Recent content in Projects on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 26 Feb 2018 12:59:37 -0800</lastBuildDate>
+    <atom:link href="/projects/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Andrei Sakharov Ebook Conversion Project</title>
+      <link>http://scottrlarson.com/projects/ebooks/project-ebook-conversion-world-sakharov/</link>
+      <pubDate>Thu, 01 Mar 2018 10:54:02 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/ebooks/project-ebook-conversion-world-sakharov/</guid>
+      <description>&lt;div id=&#34;imgCompareContainer&#34;&gt;
+	&lt;div class=&#34;imgCompareLeft&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/img/projects/ebook-original-version-example.png&#34;&gt;&lt;img class=&#34;imgCompare&#34; src=&#34;http://scottrlarson.com/img/projects/ebook-original-version-example-small.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/div&gt;
+	&lt;div class=&#34;imgCompareRight&#34;&gt;&lt;a href=&#34;http://scottrlarson.com/img/projects/ebook-improved-version-example.png&#34;&gt;&lt;img class=&#34;imgCompare&#34; src=&#34;http://scottrlarson.com/img/projects/ebook-improved-version-example-small.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I converted this PDF to EPUB to make it easier to read and find information as a reference book. The PDF format is great for maintaining the size and dimensions of paperwork, the format is not so good for scaling content to meet the size of different mobile screens. The EPUB format is an open TEXT/HTML based format that makes it very easy to reformat content for every screen size.&lt;/p&gt;
+
+&lt;p&gt;If you have a book that is in print or PDF format you may want to have it converted to a more dynamic digital format that makes it easier on your readers eyes. Its also more convenient to read a book in EPUB format as you don&amp;rsquo;t need to zoom in to read the text and images can be reflowed to fit different size screens. Also EPUB has a great dynamic table of contents that can make it very easy to jump back and forth between chapters, book mark pages, copy text, and write comments.&lt;/p&gt;
+
+&lt;p&gt;Check out my &lt;a href=&#34;http://scottrlarson.com/services/content/publishing/ebook&#34;&gt;ebook publishing service&lt;/a&gt; for more information&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>norcalssc.com website development</title>
+      <link>http://scottrlarson.com/projects/websites/norcalssc.com/</link>
+      <pubDate>Mon, 26 Feb 2018 12:58:35 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/websites/norcalssc.com/</guid>
+      <description>&lt;p&gt;I customized the design of Norcal Specialty Surgery Center website with the aesthetics of the building, the colors the staff use for their scrubs and the rock and roll wall hanging pictures. I wanted a clean, elegant and simple design to make it easy for the public to find information about their services. I made this site very search engine friendly by sticking strictly with HTML and CSS for all of the content.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ericashane.net IWEB to Wordpress Migration </title>
+      <link>http://scottrlarson.com/projects/websites/ericashane.net/</link>
+      <pubDate>Tue, 27 Feb 2007 11:44:46 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/websites/ericashane.net/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/demos/ericashane.net.png&#34; alt=&#34;Image of ericashane.net website conversion and design&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Originally ericashane.net was hosted with a now defunct apple website platform called IWEB. I converted the content for this site over to the Wordpress content management system so it would be easy to update and maintain for the customer. Wordpress is a very easy to use content system that offers auto updating to keep the technology behind the platform current. I also added a lightbox image viewer for the photos on the site to make the images easier to view.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tantra.com: Diagnose &amp; Repair: HTML Website Loading Stuck Issue</title>
+      <link>http://scottrlarson.com/projects/network/tantra.com/</link>
+      <pubDate>Sat, 10 Mar 2001 13:49:14 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/projects/network/tantra.com/</guid>
+      <description>&lt;p&gt;Legacy HTML image caching code caused site to stop loading on certain modern web browsers - tracked down from client side using web load tools and reported problem to developer&amp;rsquo;s allowing them to remove legacy code that was causing the issue.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

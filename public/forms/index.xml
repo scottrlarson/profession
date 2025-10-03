@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forms on Scott Larson</title>
+    <link>http://scottrlarson.com/forms/</link>
+    <description>Recent content in Forms on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 05 Apr 2018 17:43:56 -0700</lastBuildDate>
+    <atom:link href="/forms/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

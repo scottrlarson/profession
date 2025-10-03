@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Scott Larson</title>
+    <link>http://scottrlarson.com/categories/security/</link>
+    <description>Recent content in Security on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 15 Aug 2019 15:17:37 -0700</lastBuildDate>
+    <atom:link href="/categories/security/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Password Managers</title>
+      <link>http://scottrlarson.com/recommendations/recommendation-password-managers/</link>
+      <pubDate>Thu, 15 Aug 2019 15:17:37 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/recommendation-password-managers/</guid>
+      <description>
+
+&lt;p&gt;Here is my recommendations for &lt;a href=&#34;http://scottrlarson.com/terms/term-password-manager&#34;&gt;Password Managers&lt;/a&gt;. I look for solutions that are &lt;a href=&#34;http://scottrlarson.com/terms/term-cross-platform&#34;&gt;cross-platform&lt;/a&gt;, reliable, and since many of them store your private information on a &lt;a href=&#34;http://scottrlarson.com/terms/term-cloud-service&#34;&gt;cloud service&lt;/a&gt;, the provider needs to have good security practices. Also, the password manager should not have too many features that complicate the use and performance of the solution. The solution should also have the ability to sync your passwords in an &lt;a href=&#34;http://scottrlarson.com/terms/term-encryption&#34;&gt;encrypted&lt;/a&gt; form to a 3rd party cloud service, instead of including its own cloud solution. This is so you can access and sync your passwords across multiple devices, and not have all of your eggs in one basket. Similar to investing, this practice spreads your risk across multiple solutions, minimizing the impact on your life if the provider ever happens to change their policies, or suffer outages. The draw back is that is a bit more complicated to setup since you have to link your password manager to your cloud service. I have also found that all-in-one products tend to be very loose when it comes to privacy. In my experience, combining the software into a service, sold by the same company is to prevent the user from controlling their own information. Many times, you will see indemnifying language in relationship to your data in their privacy statement.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-enpass.png&#34; alt=&#34;Enpass Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-enpass-https-www-enpass-io&#34;&gt;&lt;a href=&#34;https://www.enpass.io/&#34; target=&#34;_blank&#34;&gt;1. Enpass&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Supported Platforms:&lt;/strong&gt; PC, Mac, iOS, Android&lt;br /&gt;
+&lt;strong&gt;Cloud Support:&lt;/strong&gt; Dropbox Integration&lt;br /&gt;
+&lt;strong&gt;Ease of Use:&lt;/strong&gt; Intermediate&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-awallet.png&#34; alt=&#34;Awallet Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-awallet-http-www-awallet-org&#34;&gt;2. &lt;a href=&#34;http://www.awallet.org/&#34; target=&#34;_blank&#34;&gt;Awallet&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Supported Platforms:&lt;/strong&gt; iOS, Android&lt;br /&gt;
+&lt;strong&gt;Cloud Support:&lt;/strong&gt; Dropbox Integration&lt;br /&gt;
+&lt;strong&gt;Ease of Use:&lt;/strong&gt; Intermediate&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-keepass.png&#34; alt=&#34;Keepass Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-keepass-https-keepass-info&#34;&gt;3. &lt;a href=&#34;https://keepass.info/&#34; target=&#34;_blank&#34;&gt;Keepass&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Supported Platforms:&lt;/strong&gt; PC&lt;br /&gt;
+&lt;strong&gt;3rd Party Platform Support:&lt;/strong&gt; MacOS, iOS, Android&lt;br /&gt;
+&lt;strong&gt;Sync Support:&lt;/strong&gt; Remote Folder (Manual)
+&lt;strong&gt;Ease of Use:&lt;/strong&gt; Hard&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web of Trust</title>
+      <link>http://scottrlarson.com/recommendations/security/recommendation-wot/</link>
+      <pubDate>Wed, 04 Apr 2018 21:51:31 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/security/recommendation-wot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.mywot.com&#34; target=&#34;_blank&#34;&gt;Web of Trust&lt;/a&gt; is a unique community-based safe surfing tool that uses an intuitive traffic-light rating system to help Web users stay safe as they search, surf and shop online. The WOT add-on tells you which sites you can trust when using Google, Yahoo!, Bing, Wikipedia and other popular sites. Web site ratings are powered by a global community of millions of trustworthy users who have rated millions of websites based on their experiences. The free add-on works with Firefox, Google Chrome and Internet Explorer and is a free download.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp?hl=en&#34; target=&#34;_blank&#34;&gt;Chrome Extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/wot-safe-browsing-tool/&#34; target=&#34;_blank&#34;&gt;Firefox Add-on&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NoScript Web Browser Plugin</title>
+      <link>http://scottrlarson.com/recommendations/security/recommendation-noscript/</link>
+      <pubDate>Wed, 04 Apr 2018 21:23:05 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/security/recommendation-noscript/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://noscript.net/&#34; target=&#34;_blank&#34;&gt;NoScript&lt;/a&gt; provides essential protection for Firefox, and other Mozilla-based browsers. Most web browsers, by default, do not give you the option to customize what kind of web site content you want to be viewed in your browser. This causes major problems because sites often use 3rd party code to insert multimedia content and ads. Many of these 3rd parties can be compromised resulting in your computer becoming a victim of a security attack.&lt;/p&gt;
+
+&lt;p&gt;This free, open source add-on allows &lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JavaScript&#34; rel=&#34;nofollow external&#34;&gt;JavaScript&lt;/a&gt;, &lt;a href=&#34;http://en.wikipedia.org/wiki/Java&#34; rel=&#34;nofollow external&#34;&gt;Java&lt;/a&gt; and &lt;a href=&#34;http://en.wikipedia.org/wiki/Adobe_Flash&#34; rel=&#34;nofollow external&#34;&gt;Flash&lt;/a&gt; and other &lt;a href=&#34;http://hackademix.net/2009/02/07/browser-plugins-add-ons-and-security-advisers/&#34;&gt;plugins&lt;/a&gt;&lt;/strong&gt; to be executed only by &lt;strong&gt;trusted web sites of your choice&lt;/strong&gt; (e.g. your online bank), and provides &lt;strong&gt;the most powerful
+&lt;a href=&#34;http://noscript.net/features#xss&#34;&gt;Anti-XSS protection&lt;/a&gt;&lt;/strong&gt; available in a browser. NoScript&amp;rsquo;s unique &lt;strong&gt;whitelist based pre-emptive script blocking&lt;/strong&gt; approach prevents exploitation of &lt;strong&gt;security vulnerabilities&lt;/strong&gt; (known and &lt;strong&gt;even not known yet&lt;/strong&gt;!) with no loss of functionality&amp;hellip; You can enable JavaScript, Java and plugin execution for sites you trust with a simple left-click on the &lt;a href=&#34;http://noscript.net/features&#34;&gt;&lt;strong&gt;NoScript status bar icon&lt;/strong&gt;&lt;/a&gt; (look at the picture), or using the contextual menu, for easier operation in popup status bar-less windows.&lt;/p&gt;
+
+&lt;p&gt;Check out this &lt;a href=&#34;https://www.ghacks.net/2018/08/13/noscript-guide-for-firefox-57/&#34; target=&#34;_blank&#34;&gt;guide&lt;/a&gt; on how to use Noscript from ghacks.net. Also if you need a visual walk though, check out this &lt;a href=&#34;https://www.youtube.com/watch?v=UhJTwCFFzrE&#34;&gt;video tutorial&lt;/a&gt; on how to use this plug-in.&lt;/p&gt;
+
+&lt;p&gt;As Noscript blocks all script related content on a web site, the site you visit may not fuction in the way you are used to until you learn how to use Noscript. Its well worth your time to understand a little bit about blocking 3rd party content on a web site you visit because you want to be in control of what content is displayed on your computer, instead of an arbitrary company being in control of your browsing experience. Many well established sites like &amp;ldquo;CNN&amp;rdquo; and even online shopping sites do not have your best interest at heart when it comes to the security of your device.&lt;/p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/noscript/&#34; target=&#34;_blank&#34;&gt;NoScript Firefox Plugin&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Update: 2019/12/30: A developer recently released a Noscript &lt;a href=&#34;https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm?hl=en&#34; target=&#34;_blank&#34;&gt;extension&lt;/a&gt; for Chrome.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

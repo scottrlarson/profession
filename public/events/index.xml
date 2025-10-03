@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Scott Larson</title>
+    <link>http://scottrlarson.com/events/</link>
+    <description>Recent content in Events on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 30 Apr 2018 14:46:40 -0700</lastBuildDate>
+    <atom:link href="/events/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

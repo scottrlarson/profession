@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommendations on Scott Larson</title>
+    <link>http://scottrlarson.com/recommendations/</link>
+    <description>Recent content in Recommendations on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Wed, 07 Mar 2018 11:24:53 -0800</lastBuildDate>
+    <atom:link href="/recommendations/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Framework Laptop</title>
+      <link>http://scottrlarson.com/recommendations/laptops/framework-laptop/</link>
+      <pubDate>Fri, 28 Oct 2022 10:43:11 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/laptops/framework-laptop/</guid>
+      <description>&lt;p&gt;Recently, many of the laptops I get in for repairs have been difficult to upgrade and service. The reason for this, at least from the reports from manufacturers, is that to make technology smaller, sacrifices need to be made in the device&amp;rsquo;s &lt;strong&gt;repairability&lt;/strong&gt;. From my technology research and recommendation experience, I have found that design decisions boil down to cost savings to increase profits.  In some cases, it&amp;rsquo;s cheaper for the manufacturer to design hardware that integrates many of its components, I.E does not have external &lt;strong&gt;components&lt;/strong&gt; that can be changed out. Additionally, from a support perspective, it&amp;rsquo;s more cost-effective to limit repair resources for the life of the product. The device also gains performance and reliability benefits (during the life of the product) if components are integrated.  But if one component fails on an integrated platform, the whole device needs to be replaced. This puts a larger cost burden on the customer, having to replace their entire device, which manufacturers knowingly make a profit from and it has an impact on our planet with more waste.
+&lt;img src=&#34;https://www.scottrlarson.com/img/publications/future-repairability/framework-laptop.jpg&#34; alt=&#34;Framework&#39;s Repair it yourself option&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://frame.work/&#34; target=&#34;_blank&#34;&gt;Framework&lt;/a&gt; designs laptops that are easy to repair, upgrade and maintain. It is also the first laptop that has swapable ports. The USB or Video ports can be moved around or replaced by other modules.&lt;/p&gt;
+
+&lt;p&gt;I recommend these laptops for anyone concerned about our ecological footprint, or for any user that wants a slim and light laptop and doesn&amp;rsquo;t want to completely replace their device when it fails. For instance. Apple&amp;rsquo;s new Macbooks, 2018 and forward, integrate the storage unit directly into the device. If your laptop hardware fails in a way that prevents you from booting it, you have to completely replace it with a new model, and, most importantly, if you don&amp;rsquo;t have a recent backup, it&amp;rsquo;s really difficult to recover and restore that data from the device. I don&amp;rsquo;t believe that every component (memory, storage, etc.) needs to be integrated into the device to create better portability options. The Framework laptop has demonstrated that.&lt;/p&gt;
+
+&lt;p&gt;Framework laptops are PC compatible so you cannot run a MacOS on this laptop without a lot of work. But if you are thinking about switching away from Apple&amp;rsquo;s ecosystem, and you have the concerns above, then it might be a good choice for you.&lt;/p&gt;
+
+&lt;p&gt;I have been also reluctant to recommend Microsoft Windows recently due to the direction Microsoft is taking the Windows Operating system. You can read more about that in my article, &lt;a href=&#34;http://scottrlarson.com/publications/publication-win-11-requirements-caused-linux-switch.md&#34;&gt;&amp;ldquo;My transition from Windows to Linux in an anti-customer age&amp;rdquo;&lt;/a&gt;. For many, there is not much that can be done at this point. If you are looking for an alternative, Linux can work for some, but most people will need an ongoing support contract.&lt;/p&gt;
+
+&lt;p&gt;Entry models start at around $1000. You can find laptops of the same specifications at less cost, but with Dell, HP, Lenovo, Apple, and others, you are buying into a market that is over-saturated with eco-unfriendly choices. When businesses become unable to make significant changes to how they think about the future, it&amp;rsquo;s time to reconsider investing in this current market. The Framework business model represents a paradigm shift in designing technology for the future. If you are concerned for the planet, consider if this offering is the right choice for you. If you don&amp;rsquo;t know or are sitting on the fence about purchasing your next laptop, reach out to me and I can answer any questions that you have. My goal is to get you the right device that fits your needs, and I will always put your needs first.&lt;/p&gt;
+
+&lt;p&gt;Framework laptop has a &lt;a href=&#34;https://www.ifixit.com/News/51614/framework-laptop-teardown-10-10-but-is-it-perfect&#34; target=&#34;_blank&#34;&gt;10 out of 10&lt;/a&gt; score from &lt;a href=&#34;https://www.ifixit.com/&#34; target=&#34;_blank&#34;&gt;IFIXIT&lt;/a&gt; for repairability. Ifixit is an industry leader in providing repair information to technicians like me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Authenticator App</title>
+      <link>http://scottrlarson.com/recommendations/security/recommendation-auth-app/</link>
+      <pubDate>Sat, 19 Jun 2021 08:41:49 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/security/recommendation-auth-app/</guid>
+      <description>
+
+&lt;p&gt;An Authenticator App is a app that you install on a &lt;a href=&#34;http://scottrlarson.com/glossary/smart-device&#34;&gt;smart device&lt;/a&gt;, in most cases a mobile smart phone, that turns your smart device into a electronic authorization device for your on-line accounts. It does not replace the password sign-in part of the authentication, rather, the Authenticator App acts as a secondary conformation that -you- are in-fact the person who is signing in with your associated password. Many sites are including this feature as part of their 2-factor authentication processes. When you enable this feature, after you sign-in with your user-name and password, you are then asked to enter an unique Security Key which is generated by the Authenticator App. The Security Key changes every 30 seconds to prevent hacking of the key itself. You can also check out my article &lt;a href=&#34;http://scottrlarson.com/publications/publication-smartphone-protection/&#34;&gt;&amp;ldquo;protecting your smart phone from be hacked&amp;rdquo;&lt;/a&gt; if you want to learn more about securing your Authenticator Device.&lt;/p&gt;
+
+&lt;p&gt;Please note that if you lose your smart device, or do not have it with you when you attempt to sign into a service that has this feature enabled, you will be prevented from signing in unless you use a backup method. Every service has different backup methods. Its been my experience that backup methods are a security vulnerability and I recommend that you only use the most strict backup methods possible: Backup codes are better than security questions.&lt;/p&gt;
+
+&lt;p&gt;Below are some Authenticator Apps. Most Authenticator Apps only work on one device. But having a backup device might be preferable in case you lose access to your primary. I recommend Authy for the following reasons: 1. Its not tied to a parent conglomerate that has a history of weakening privacy or security for financial incentives and 2. You can install Authy on multipole smart devices and share you codes across those devices. This ability acts as a backup in case of a loss of a primary device.&lt;/p&gt;
+
+&lt;h3 id=&#34;google-authenticator&#34;&gt;Google Authenticator&lt;/h3&gt;
+
+&lt;h3 id=&#34;authy&#34;&gt;Authy&lt;/h3&gt;
+
+&lt;h3 id=&#34;microsoft-authenticator&#34;&gt;Microsoft Authenticator&lt;/h3&gt;
+
+&lt;h3 id=&#34;1password&#34;&gt;1Password&lt;/h3&gt;
+
+&lt;h3 id=&#34;lastpass&#34;&gt;LastPass&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HitmanPro</title>
+      <link>http://scottrlarson.com/recommendations/security/recommendation-hitmanpro/</link>
+      <pubDate>Wed, 11 Mar 2020 11:43:18 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/security/recommendation-hitmanpro/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/hitmanpro.alert.jpg&#34; alt=&#34;Attack Intercepted Screenshot&#34; /&gt;
+&lt;a href=&#34;https://www.hitmanpro.com/en-us/alert.aspx&#34; target=&#34;_blank&#34;&gt;HitmanPro.Alert&lt;/a&gt; is a tool that works in the background to protect your private information by encrypting private communications and minimizing ransomeware attacks. HitmanPro.Alert also works to protect vulnerable applications from leaking information about you, and works to minimize command and control aspects of malware.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Remote Utilities</title>
+      <link>http://scottrlarson.com/recommendations/recommendation-remote-utilities/</link>
+      <pubDate>Mon, 30 Dec 2019 14:51:36 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/recommendation-remote-utilities/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-remote-utilities.png&#34; alt=&#34;Remote Utilities Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.remoteutilities.com/&#34; target=&#34;_blank&#34;&gt;Remote Utilities&lt;/a&gt; is remote desktop software. I have tried many products and many of them work great, are simple to use, but expensive, or cloud based.
+I use to use Team Viewer, its worked really good, but they charge $1200 a year for a license, and there terms of service transparency regarding their polices around subscription billing in my mind is unethical. If you do not cancel the subscription 30days before you want to cancel it, your locked into another subscription for the following year.
+I have tried gotomypc and that works good but its cloud based. I do not like supporting cloud based applications if can avoid it. Cloud remote support applications like GOTOMYPC are hosted directly from the cloud, and they pretty much control everything about the application due to the subscription based model many companies use.&lt;/p&gt;
+
+&lt;p&gt;I finally sat down one day and did some real research on finding a remote desktop application that would suit my needs. I was looking for the ability to connect to my own, and customers computers remotely, either in unattended mode or by permission, which ever the customer opted for. I also wanted portability as I often load all my tools on a USB flash drive, so that I can repair computers at my office, or in the field without having to install software on a customer&amp;rsquo;s computer. Avoiding applications that require an install minimizes risk of damage to the customer&amp;rsquo;s device.&lt;/p&gt;
+
+&lt;p&gt;I found that Remote Utilities works reliably, is cost effective, and has features that are far ahead of the competition. The most important feature to me is 2-Factor Authentication that is natively built into the application.  &lt;a href=&#34;http://scottrlarson.com/updates/update-smartphone-protection.md&#34;&gt;2-Factor Authentication&lt;/a&gt; is a security measure that minimizes risk of having your credentials hacked.&lt;/p&gt;
+
+&lt;p&gt;Remote Utilities is affordable as well. The company offers a &lt;a href=&#34;https://www.remoteutilities.com/buy/free.php&#34; target=&#34;_blank&#34;&gt;free license&lt;/a&gt; for up to 10 PC. 20 licenses is around $100 dollars (Non-Subscription Based). I just wanted to thank the developers of this software, they are very fair in their dealings and with all these remote desktop companies going subscription based, this is a breath of fresh air. I only which I knew about this product before I purchase a Teamviewer license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Password Managers</title>
+      <link>http://scottrlarson.com/recommendations/recommendation-password-managers/</link>
+      <pubDate>Thu, 15 Aug 2019 15:17:37 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/recommendation-password-managers/</guid>
+      <description>
+
+&lt;p&gt;Here is my recommendations for &lt;a href=&#34;http://scottrlarson.com/terms/term-password-manager&#34;&gt;Password Managers&lt;/a&gt;. I look for solutions that are &lt;a href=&#34;http://scottrlarson.com/terms/term-cross-platform&#34;&gt;cross-platform&lt;/a&gt;, reliable, and since many of them store your private information on a &lt;a href=&#34;http://scottrlarson.com/terms/term-cloud-service&#34;&gt;cloud service&lt;/a&gt;, the provider needs to have good security practices. Also, the password manager should not have too many features that complicate the use and performance of the solution. The solution should also have the ability to sync your passwords in an &lt;a href=&#34;http://scottrlarson.com/terms/term-encryption&#34;&gt;encrypted&lt;/a&gt; form to a 3rd party cloud service, instead of including its own cloud solution. This is so you can access and sync your passwords across multiple devices, and not have all of your eggs in one basket. Similar to investing, this practice spreads your risk across multiple solutions, minimizing the impact on your life if the provider ever happens to change their policies, or suffer outages. The draw back is that is a bit more complicated to setup since you have to link your password manager to your cloud service. I have also found that all-in-one products tend to be very loose when it comes to privacy. In my experience, combining the software into a service, sold by the same company is to prevent the user from controlling their own information. Many times, you will see indemnifying language in relationship to your data in their privacy statement.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-enpass.png&#34; alt=&#34;Enpass Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-enpass-https-www-enpass-io&#34;&gt;&lt;a href=&#34;https://www.enpass.io/&#34; target=&#34;_blank&#34;&gt;1. Enpass&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Supported Platforms:&lt;/strong&gt; PC, Mac, iOS, Android&lt;br /&gt;
+&lt;strong&gt;Cloud Support:&lt;/strong&gt; Dropbox Integration&lt;br /&gt;
+&lt;strong&gt;Ease of Use:&lt;/strong&gt; Intermediate&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-awallet.png&#34; alt=&#34;Awallet Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-awallet-http-www-awallet-org&#34;&gt;2. &lt;a href=&#34;http://www.awallet.org/&#34; target=&#34;_blank&#34;&gt;Awallet&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Supported Platforms:&lt;/strong&gt; iOS, Android&lt;br /&gt;
+&lt;strong&gt;Cloud Support:&lt;/strong&gt; Dropbox Integration&lt;br /&gt;
+&lt;strong&gt;Ease of Use:&lt;/strong&gt; Intermediate&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/recommendations/cs-recommendation-keepass.png&#34; alt=&#34;Keepass Logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;3-keepass-https-keepass-info&#34;&gt;3. &lt;a href=&#34;https://keepass.info/&#34; target=&#34;_blank&#34;&gt;Keepass&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Supported Platforms:&lt;/strong&gt; PC&lt;br /&gt;
+&lt;strong&gt;3rd Party Platform Support:&lt;/strong&gt; MacOS, iOS, Android&lt;br /&gt;
+&lt;strong&gt;Sync Support:&lt;/strong&gt; Remote Folder (Manual)
+&lt;strong&gt;Ease of Use:&lt;/strong&gt; Hard&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ergonomical: Keyboards &amp; Mice</title>
+      <link>http://scottrlarson.com/recommendations/ergonomics/keyboard-mice/</link>
+      <pubDate>Tue, 19 Jun 2018 16:54:37 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/ergonomics/keyboard-mice/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kinesis-ergo.com/&#34; target=&#34;_blank&#34;&gt;https://www.kinesis-ergo.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web of Trust</title>
+      <link>http://scottrlarson.com/recommendations/security/recommendation-wot/</link>
+      <pubDate>Wed, 04 Apr 2018 21:51:31 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/security/recommendation-wot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.mywot.com&#34; target=&#34;_blank&#34;&gt;Web of Trust&lt;/a&gt; is a unique community-based safe surfing tool that uses an intuitive traffic-light rating system to help Web users stay safe as they search, surf and shop online. The WOT add-on tells you which sites you can trust when using Google, Yahoo!, Bing, Wikipedia and other popular sites. Web site ratings are powered by a global community of millions of trustworthy users who have rated millions of websites based on their experiences. The free add-on works with Firefox, Google Chrome and Internet Explorer and is a free download.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp?hl=en&#34; target=&#34;_blank&#34;&gt;Chrome Extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/wot-safe-browsing-tool/&#34; target=&#34;_blank&#34;&gt;Firefox Add-on&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NoScript Web Browser Plugin</title>
+      <link>http://scottrlarson.com/recommendations/security/recommendation-noscript/</link>
+      <pubDate>Wed, 04 Apr 2018 21:23:05 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/recommendations/security/recommendation-noscript/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://noscript.net/&#34; target=&#34;_blank&#34;&gt;NoScript&lt;/a&gt; provides essential protection for Firefox, and other Mozilla-based browsers. Most web browsers, by default, do not give you the option to customize what kind of web site content you want to be viewed in your browser. This causes major problems because sites often use 3rd party code to insert multimedia content and ads. Many of these 3rd parties can be compromised resulting in your computer becoming a victim of a security attack.&lt;/p&gt;
+
+&lt;p&gt;This free, open source add-on allows &lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JavaScript&#34; rel=&#34;nofollow external&#34;&gt;JavaScript&lt;/a&gt;, &lt;a href=&#34;http://en.wikipedia.org/wiki/Java&#34; rel=&#34;nofollow external&#34;&gt;Java&lt;/a&gt; and &lt;a href=&#34;http://en.wikipedia.org/wiki/Adobe_Flash&#34; rel=&#34;nofollow external&#34;&gt;Flash&lt;/a&gt; and other &lt;a href=&#34;http://hackademix.net/2009/02/07/browser-plugins-add-ons-and-security-advisers/&#34;&gt;plugins&lt;/a&gt;&lt;/strong&gt; to be executed only by &lt;strong&gt;trusted web sites of your choice&lt;/strong&gt; (e.g. your online bank), and provides &lt;strong&gt;the most powerful
+&lt;a href=&#34;http://noscript.net/features#xss&#34;&gt;Anti-XSS protection&lt;/a&gt;&lt;/strong&gt; available in a browser. NoScript&amp;rsquo;s unique &lt;strong&gt;whitelist based pre-emptive script blocking&lt;/strong&gt; approach prevents exploitation of &lt;strong&gt;security vulnerabilities&lt;/strong&gt; (known and &lt;strong&gt;even not known yet&lt;/strong&gt;!) with no loss of functionality&amp;hellip; You can enable JavaScript, Java and plugin execution for sites you trust with a simple left-click on the &lt;a href=&#34;http://noscript.net/features&#34;&gt;&lt;strong&gt;NoScript status bar icon&lt;/strong&gt;&lt;/a&gt; (look at the picture), or using the contextual menu, for easier operation in popup status bar-less windows.&lt;/p&gt;
+
+&lt;p&gt;Check out this &lt;a href=&#34;https://www.ghacks.net/2018/08/13/noscript-guide-for-firefox-57/&#34; target=&#34;_blank&#34;&gt;guide&lt;/a&gt; on how to use Noscript from ghacks.net. Also if you need a visual walk though, check out this &lt;a href=&#34;https://www.youtube.com/watch?v=UhJTwCFFzrE&#34;&gt;video tutorial&lt;/a&gt; on how to use this plug-in.&lt;/p&gt;
+
+&lt;p&gt;As Noscript blocks all script related content on a web site, the site you visit may not fuction in the way you are used to until you learn how to use Noscript. Its well worth your time to understand a little bit about blocking 3rd party content on a web site you visit because you want to be in control of what content is displayed on your computer, instead of an arbitrary company being in control of your browsing experience. Many well established sites like &amp;ldquo;CNN&amp;rdquo; and even online shopping sites do not have your best interest at heart when it comes to the security of your device.&lt;/p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/noscript/&#34; target=&#34;_blank&#34;&gt;NoScript Firefox Plugin&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Update: 2019/12/30: A developer recently released a Noscript &lt;a href=&#34;https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm?hl=en&#34; target=&#34;_blank&#34;&gt;extension&lt;/a&gt; for Chrome.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

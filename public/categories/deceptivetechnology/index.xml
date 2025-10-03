@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DeceptiveTechnology on Scott Larson</title>
+    <link>http://scottrlarson.com/categories/deceptivetechnology/</link>
+    <description>Recent content in DeceptiveTechnology on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Sun, 24 Aug 2025 12:37:05 -0700</lastBuildDate>
+    <atom:link href="/categories/deceptivetechnology/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Looking back at my transition from Windows to Linux in an anti-customer age</title>
+      <link>http://scottrlarson.com/publications/publication-looking-back-windows-to-linux/</link>
+      <pubDate>Sun, 24 Aug 2025 12:37:05 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-looking-back-windows-to-linux/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I am a computer professional that helps the public with technology. I have been troubleshooting computer problems for over 25 years. To find out more about me, visit my &lt;a href=&#34;https://scottRlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In August of 2023, I &lt;a href=&#34;http://scottrlarson.com/publications/publication-transition-windows-to-linux/&#34; target=&#34;_blank&#34;&gt;wrote&lt;/a&gt; about my switch to Linux as a Windows-centric professional. I&amp;rsquo;ve dabbled in Linux as a daily driver in the past, but it has always ended in some form of defeat. Eventually returning to my abuser, Windows. It was a hard road leaving it behind, but determination can work wonders when flying the freedom skies. Starting with the release of Windows 11, Microsoft&amp;rsquo;s shady tactics increased to the point where it&amp;rsquo;s no longer a viable option for an operating system, unless you don&amp;rsquo;t mind that your desktop is used as an advertising platform, or being forced to allow Copilot, Recall and OneDrive abuse the relationship to your data. Much of the commercial software industry invested into proprietary applications have descended into chaos in the last five years. Recently an intense feeding frenzy for control over the user experience rose to an all time high. Subscriptions replacing purchases of software products is the biggest example of this.&lt;/p&gt;
+
+&lt;p&gt;In my previous article I was worried that I might give up, and switch back. Did I make it this time? Yes! Yes, I did. It&amp;rsquo;s been two years now. I finally weaned myself off of Big Daddy.  I do everything in Linux now. Obviously, there are still some pain points that I have a hard time with, but isn&amp;rsquo;t that true with any operating system?&lt;/p&gt;
+
+&lt;p&gt;As a survivor of that dependency, I sometimes feel that I am making the problem worse by installing and supporting Windows 11 for my customers. A new violation of trust is always just around the corner, even though I work very hard to remove or circumvent these hostile features.  OneDrive even silently reinstalled itself and moved one customer&amp;rsquo;s data to the cloud, all without consent. One day their data was on the local drive and the next it became online-only files that had to be downloaded from Microsoft&amp;rsquo;s servers. I see an avalanche of justifications from people still stuck on Windows. &amp;ldquo;It&amp;rsquo;s just a bug&amp;rdquo;, &amp;ldquo;These things will get ironed out in time&amp;rdquo; But the truth is that the freedom to choose is slowly being eroded. When we live in a consumer society where anti-trust seems to mean nothing, what does one do?  &lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.stopkillinggames.com/&#34; target=&#34;_blank&#34;&gt;StopKillingGames&lt;/a&gt; movement is of a similar line. Someone decided enough is enough and went toe to toe with what I consider corporate culture run amok in the AAA game industry. And then we have our friends in Europe that passed the Digital Markets Act, challenging Apple&amp;rsquo;s stranglehold on the App Store. I think Europe is positioning itself as the last bastion of hope for customer rights worldwide. With digital commerce, when rights are upheld in one country, other countries can receive the downstream effects. We are also starting to see &lt;a href=&#34;https://pirg.org/campaigns/right-to-repair/&#34; target=&#34;_blank&#34;&gt;RightToRepair&lt;/a&gt; challenges with &lt;a href=&#34;https://www.youtube.com/watch?v=8EWAIlX5d1Y&#34; target=&#34;_blank&#34;&gt;3rd party equipment providers that attempt to prevent 1st party servicing using IP arguments&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So what have I learned through all this? I&amp;rsquo;ve learned that making myself free requires effort. The technical challenges of Linux are a bit steeper, but not impossible. Ownership and control over products I purchased are more important than I realized. When I lose control over something I purchased, it disrupts my freedom, and this disruption affects the relationship with myself and the world. It happens slowly. First, I brush off violations to my freedom as an annoyance that needs to be routed around. Then, when more violations occur, I start to get angry that I have to waste more of my time fixing something that I didn&amp;rsquo;t break.&lt;/p&gt;
+
+&lt;p&gt;I realized that this anger is directed at myself. It&amp;rsquo;s actually a form of resentment towards myself for sacrificing something important for a minor inconvenience that’s designed to become a major roadblock by each iteration.&lt;/p&gt;
+
+&lt;p&gt;And this is the major sticking point. I cannot ignore that slow boil any longer. It&amp;rsquo;s time to see these dark patterns for what they are: a slow movement towards a feudal system where I will own nothing and be happy.&lt;/p&gt;
+
+&lt;p&gt;This problem is not just happening with software ownership; it&amp;rsquo;s happening everywhere.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll leave you with this quote from the character Nemik in the Star Wars TV series &amp;ldquo;Andor&amp;rdquo;: &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Remember this, Freedom is a pure idea. It occurs spontaneously and without instruction. Random acts of insurrection are occurring constantly throughout the galaxy. There are whole armies, battalions that have no idea that they’ve already enlisted in the cause.&lt;/p&gt;
+
+&lt;p&gt;Remember that the frontier of the Rebellion is everywhere. And even the smallest act of insurrection pushes our lines forward.&lt;/p&gt;
+
+&lt;p&gt;And remember this: the Imperial need for control is so desperate because it is so unnatural. Tyranny requires constant effort. It breaks, it leaks. Authority is brittle. Oppression is the mask of fear.&lt;/p&gt;
+
+&lt;p&gt;Remember that. And know this, the day will come when all these skirmishes and battles, these moments of defiance will have flooded the banks of the Empires’s authority and then there will be one too many. One single thing will break the siege.&lt;/p&gt;
+
+&lt;p&gt;Remember this: Try.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Linux is a real alternative to Windows now and it&amp;rsquo;s about time as more and more companies move to anti-competitive practices, harming public trust and individual choice. In the long run, the products we use should be in our control and not the other way around.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in switching from Windows contact me to go over your needs. I specialize in all kinds of computer setups.&lt;/p&gt;
+
+&lt;p&gt;Alternativey, &lt;a href=&#34;https://www.fightforthefuture.org/&#34; target=&#34;_blank&#34;&gt;do what you can to make it harder for shady companies like Microsoft to dominate markets&lt;/a&gt; and support the &lt;a href=&#34;https://www.endcreativemonopolies.com/&#34; target=&#34;_blank&#34;&gt;end of creative monopolies&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Are PC Hardware Companies Slowly Driving Technology into Restricted Closed Ecosystems?</title>
+      <link>http://scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/</link>
+      <pubDate>Sat, 28 Dec 2024 21:14:04 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/</guid>
+      <description>
+
+&lt;p&gt;I am a Computer Hardware professional. I started working with computer technology in the early eighties. I have seen the evolution of technology starting with closed platforms like the game console era and then the move toward open platforms like the &lt;a href=&#34;https://www.scottrlarson.com/memorials/memorial-my-home-computer-reflections-part-1/&#34; target=&#34;_blank&#34;&gt;Home Computer Golden Age&lt;/a&gt;. In the last 5 or 10 years, I have witnessed technology changes that are slowly moving away from open hardware designs towards hardware that is locked down and can&amp;rsquo;t be modified by the user.  For more articles on this subject, see my  &lt;a href=&#34;https://www.scottrlarson.com/categories/deceptivetechnology/&#34; target=&#34;_blank&#34;&gt;DeceptiveTechnology&lt;/a&gt; section.&lt;/p&gt;
+
+&lt;h2 id=&#34;is-dell-limiting-access-to-drivers-and-designing-bios-to-minimize-os-changes&#34;&gt;Is Dell limiting access to drivers and designing BIOS to minimize OS changes?&lt;/h2&gt;
+
+&lt;p&gt;In the last few years, I have noticed a trend where Dell does not provide RST storage drivers for NVME SSDs (the software that allows a user to cleanly install an operating system from media) on Laptops and Desktops. Normally, you can just go into the BIOS, switch from NVME Raid to ACHI, and be done with it—or can you?&lt;/p&gt;
+
+&lt;p&gt;I recently purchased a Dell Inspiron 16 Plus 7640 Laptop with a BIOS that does not have an option to change to an AHCI storage configuration. Without the RST storage driver not being made available on Dell&amp;rsquo;s website, and no ability to switch to ACHI, you cannot reinstall Windows in a clean state from a installation disk because the install requires that the RST driver be manually loaded befoe it can see the storage device.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell-inspiron-16-plus-bios-storage-configuration-missing-ahci-mode.jpeg&#34; alt=&#34;Dell Inspiron 16plus bios storage configuration missing AHCI mode&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Normally, you would see this screen that allows you to switch storage modes
+&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell-inspiron-3030-bios-storage-configuration.jpeg&#34; alt=&#34;Dell Inspiron 3030 bios storage configuration AHCI mode&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I tried the key combinations to enable advanced BIOS configuration that worked on previous models, but no dice. Is it a coincidence that Dell has not been releasing the RST storage drivers for most of these models in the last couple of years, and is now deciding that the BIOS storage configuration should not be changable?&lt;/p&gt;
+
+&lt;p&gt;If you check Dell&amp;rsquo;s website for drivers, you probably will not see RST drivers for many models listed. I checked the driver listing for my model and so far I don&amp;rsquo;t see it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell.com-support-storage-driver-listings-lack-RST.resized.jpeg&#34; alt=&#34;Dell.com Support Storage Driver Listings Lack RST&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a different model with no RST listing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/publications/oem-rst-driver-debacle-or-intentional/dell.com-support-storage-driver-listings-lack-RST-different-model.jpeg&#34; alt=&#34;Dell.com Support Storage Driver Listings Lack RST Differnt Model&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can try to find drivers online, based on the hardware id&amp;rsquo;s, especially from Intel&amp;rsquo;s website, but they don&amp;rsquo;t always work for your particular model. I even tried to extract the drivers from the OS but I wasn&amp;rsquo;t able to find a .inf configuration profile to make it work.&lt;/p&gt;
+
+&lt;p&gt;These changes effectively prevents a user from cleanly reinstalling the operating system from media. The only option, that I can see, is to install from the service partition on the device, or from Dell&amp;rsquo;s BIOS re-installation technology, which contains bloatware, targeted advertising, and data collection.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m open to being wrong, please let me know if I am missing something.&lt;/p&gt;
+
+&lt;p&gt;Short of evidence to the contrary. I believe this is one small part of a bigger and long-term planned effort within the PC hardware and software industries to control the user experience for consumer hardware. Apple is also moving in this direction with the MacOS by limiting non-approved software from being installed. Yes, you can work around it, but it&amp;rsquo;s getting harder and harder to do so with every iteration of the Operating System.&lt;/p&gt;
+
+&lt;p&gt;We are slowly being boiled to the point of no return. We need some kind of consortium for users to represent our interests otherwise in 10 or 20 years we will have very limited choice when it comes to computer technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Anti-Customer Changes to Desktop &amp; Laptop Technology</title>
+      <link>http://scottrlarson.com/updates/update-deceptive-design-recent-computers-laptops/</link>
+      <pubDate>Wed, 16 Aug 2023 11:23:07 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-deceptive-design-recent-computers-laptops/</guid>
+      <description>
+
+&lt;div class=&#34;breakoutBox1&#34;&gt;I repair computers and provide solutions to everyday computer challenges for home users and very small businesses. To find out more about me, visit my &lt;a href=&#34;https://scottrlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/div&gt;
+
+&lt;p&gt;Very recently, OEM (Original Equipment Manufacturers of consumer desktops and laptops, like Dell, HP, and Sony, etc.) have been introducing new features into the Basic Input/Output System (the system that controls all the hardware in a computer).&lt;/p&gt;
+
+&lt;p&gt;These features are put in under the guise of protecting the consumer, but in practice, they are unnecessary and over-complicating the setup and experience, reducing ownership power and ownership privacy. As a technology service provider, these changes are making it harder to provide services to you.&lt;/p&gt;
+
+&lt;p&gt;I have decided that it&amp;rsquo;s no longer a good business decision to have to conform to the limitations these changes place on my services.&lt;/p&gt;
+
+&lt;p&gt;Because of the evolution of the internet, the computer industry has been going through a lot of changes in the last couple of years. Some of these changes are good for society, and some are not. For now, manufacturers, who design and sell off-the-shelf consumer computer parts, parts that go into making a computer, are not affected by the anti-customer changes OEM providers are currently making to consumer-grade computers. But there is mounting pressure to design hardware around a closed security model where the market-dominating companies can dictate how hardware is developed.&lt;/p&gt;
+
+&lt;p&gt;Original Equipment Manufacturers (OEMs) are not required to follow certain standards like the rest of the computer industry that sells computer parts. They can, and do, make for-profit changes to the equipment they design, negatively impacting the sale and use of computing products. These kinds of changes, that are made to hardware and preloaded software, such as the Windows operating system, run counter to open design/development standards. These OEMs make these changes in an attempt to monopolize a market or gather data from their customers without informed consent. To read more about this topic, see my articles on &amp;ldquo;&lt;a href=&#34;https://www.scottrlarson.com/categories/deceptivetechnology/&#34;&gt;&amp;ldquo;DeceptiveTechnology&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you plan on upgrading to, or purchasing a new desktop computer, I recommend and will build a custom-made computer that meets your specific needs, instead of recommending a pre-built OEM Computer that you purchase from a computer store. For laptops, I recommend a &lt;a href=&#34;https://frame.work/&#34; target=&#34;_blank&#34;&gt;Framework&lt;/a&gt; Laptop. Framework builds laptops around sustainability. Their design choices reflect open standards. As the current throw-away computer industry continues to make these cost-saving but anti-customer changes, Computers and Laptops, built around open standards, levels the playing field for everyone, but they also have different price points (Usually a few hundred dollars more) and slightly longer ordering and shipment windows.&lt;/p&gt;
+
+&lt;p&gt;I strongly believe that moving away from supporting these big players will improve customer choice and, in the long run, create a healthy marketplace that isn&amp;rsquo;t dominated by companies that abuse their &lt;a href=&#34;https://www.endcreativemonopolies.com/&#34; target=&#34;_blank&#34;&gt;monopolistic&lt;/a&gt; position. If you are a distributor of desktops and laptops, consider adopting changes that support the &lt;a href=&#34;https://repair.org&#34; target=&#34;_blank&#34;&gt;right to repair&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This will affect some of my services to you. I can still handle most repair issues with OEM computers, but I will no longer be performing hardware upgrades to any OEM Models.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When purchasing one of my custom computers or recommended laptops, depending on your needs, plan on spending $1000 or more.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I apologize if this inconveniences you in any way.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features-or-actions-that-are-encumbering-the-setup-and-experience-of-consumer-grade-computers-and-laptops&#34;&gt;Features, or actions, that are encumbering the setup and experience of consumer-grade computers and laptops&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;(Please note that these features can be helpful for business environments, but they are not necessary and are a cause for concern in consumer environments)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Secure Boot Certification Authorities (A setting used to prevent operating system alternatives from being installed)&lt;/li&gt;
+&lt;li&gt;Preventing or creating friction in disabling Secure Boot&lt;/li&gt;
+&lt;li&gt;Enabling/Disabling USB ports&lt;/li&gt;
+&lt;li&gt;Preventing or creating friction in the detection of aftermarket parts&lt;/li&gt;
+&lt;li&gt;Any physical system design characteristic that prevents, or creates friction in repairing, replacing, or upgrading components (using glue to mount components, hiding mounting screws, or making casing more difficult to disassemble).&lt;/li&gt;
+&lt;li&gt;Using market dominance to pressure repair shops or third-party component manufacturers to abide by anti-competitive practices by making it more difficult to find and obtain parts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;list-of-corporations-that-are-involved-in-harmful-actions-against-the-computer-industry&#34;&gt;List of corporations that are involved in harmful actions against the computer industry:&lt;/h2&gt;
+
+&lt;h3 id=&#34;microsoft&#34;&gt;Microsoft&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs the Windows operating system to obfuscate customer choice when choosing to install 3rd party applications&lt;/li&gt;
+&lt;li&gt;Integrates services and applications into the operating system, obfuscating customer choice of 3rd party applications&lt;/li&gt;
+&lt;li&gt;Collects data about customers&amp;rsquo; habits without consent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;apple&#34;&gt;Apple&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs hardware around closed standards, obfuscating, or making 3rd party repair of hardware more difficult&lt;/li&gt;
+&lt;li&gt;Attempts to regulate access to parts obfuscating, or making 3rd party repair of hardware more difficult&lt;/li&gt;
+&lt;li&gt;Attempts to lock Apple software developers into platform ecosystems that only benefit Apple&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;dell-hp-sony-toshiba&#34;&gt;Dell, HP, Sony &amp;amp; Toshiba&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs desktop and laptop hardware around closed design principles, obfuscating, or making 3rd party repair of hardware more difficult&lt;/li&gt;
+&lt;li&gt;Tricking consumers into service contracts when purchasing computers from the Dell store online&lt;/li&gt;
+&lt;li&gt;Pre-loads adware products that are a threat to the secure and reliable functioning of the computer or laptop&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;hp-printers&#34;&gt;HP Printers&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designs printer hardware and software around closed design principles, obfuscating, or making it difficult to obtain 3rd party manufacturing of ink&lt;/li&gt;
+&lt;li&gt;Tricking consumers into installing adware when installing software/driver packages that are required for the correct functioning of their printers&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My transition from Windows to Linux in an anti-customer age</title>
+      <link>http://scottrlarson.com/publications/publication-transition-windows-to-linux/</link>
+      <pubDate>Sun, 26 Dec 2021 11:09:55 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-transition-windows-to-linux/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;I am a computer professional that helps the public with technology. I have been troubleshooting computer problems for over 25 years. To find out more about me, visit my &lt;a href=&#34;https://scottRlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Here I am, back in Windows. I&amp;rsquo;m realizing that my journey to a Freedom-Of-Choice Desktop environment is riddled with traps from my past. My familiarity with the apps and processes of Windows haunts my every move. It&amp;rsquo;s challenging  to find replacements and workarounds for what I used to be able to do&amp;hellip; But then my determination kicked in. If I really think about it, would it be such a loss to switch to a Linux alternative? I rebooted back into Linux and got to work. Any hope for a Windows-centric  guy to transcend his limitations and biases? Only time will tell&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;windows-11-has-reached-the-height-of-anti-customer-practices&#34;&gt;Windows 11 has reached the height of anti-customer practices.&lt;/h2&gt;
+
+&lt;p&gt;In 2015 when Windows 10 rebooted my machine to automatically install an update, closing down an unsaved document I was in the middle of working on, I vowed to stop using it. What the hell was Microsoft thinking? What happened to customer choice? I wasn&amp;rsquo;t completely ready to switch away from Windows at that point, but the idea of forcing updates in that manner seemed inherently wrong. It wasn&amp;rsquo;t until recently, with the release of Windows 11 that I decided I needed to do something.&lt;/p&gt;
+
+&lt;p&gt;I had been in the process already from switching away from Adobe Acrobat for my form generation tools, I provide computer services to the public using PDF forms to handle data collection. I did some major research on Linux alternatives for Acrobat. Realizing the options were next to zero due to the proprietary nature of XFA technology, I decided to find another approach. My contact resource management (CRM) solution, which I used to track jobs was ten years out of date, and at the time, I considered switching to another open-source alternative. But I would have to manage and maintain a server. As a one-man show, I realized I didn&amp;rsquo;t have the time for that. So I decided to pay the $65 a month and to switch over to ZohoCRM. It&amp;rsquo;s not an open-source solution, but I vetted the company and the service over the years and so far I have found them customer-friendly, and service orientated from a security and reliability perspective.&lt;/p&gt;
+
+&lt;p&gt;Please note that if you are, or plan on being a customer of mine, I will always support Windows as long as it survives. I am concerned about the Windows 11 online login requirement. I feel that this switch is really about data gathering on Microsoft&amp;rsquo;s part. Many corporations like Apple, Dell, HP and others are making unethical decisions in the pursuit of profit. As more and more consolidation happens in the market of software and hardware technology, attempts are made to lock customers into platform-specific eco-systems by creating a perception of reduced choice, delivering ad-based content without consent while making it difficult to opt-out, and circumventing 3rd party applications that attempt to route around these issues. And yes ethics is important for any business, if you are one of those people that think that ethics and business don&amp;rsquo;t go together, good luck with that.&lt;/p&gt;
+
+&lt;p&gt;When I heard about &lt;a href=&#34;https://www.theverge.com/2021/12/2/22813733/microsoft-windows-edge-download-chrome-prompts&#34; target=&#34;_blank&#34;&gt;Microsoft’s new Windows prompts attempting to stop people from downloading Chrome&lt;/a&gt; and &lt;a href=&#34;https://borncity.com/win/2021/11/12/windows-11-microsoft-erzwingt-edge-browser-in-protokollen/&#34; target=&#34;_blank&#34;&gt;the changes they make to future builds of the OS to prevent browser choice workarounds&lt;/a&gt; I realized I had enough. If this is the direction Windows is heading, I will have no part in it. I have an obligation to myself to support freedom of choice, which Is why I wrote an &lt;a href=&#34;https://www.scottrlarson.com/publications/publication-future-of-repairability/&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; outlining the future of open hardware and highlighting organizations that support the &lt;a href=&#34;https://www.repair.org/stand-up&#34; target=&#34;_blank&#34;&gt;right to repair&lt;/a&gt; movement.&lt;/p&gt;
+
+&lt;p&gt;In the years past, making a permanent switch to the Linux desktop environment always ended in defeat, eventually requiring a switch back to windows. Recently I saw the Linus Tech Tips video &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=_Ua-d9OeUOg&#34; target=&#34;_blank&#34;&gt;Install Linux instead of Windows 11&lt;/a&gt;&amp;rdquo; , hosted by one of Linus tech guys &amp;ldquo;Anthony&amp;rdquo; (Great host btw), and I saw how far Gaming on Linux has come with SteamPlay (Thank you Valve) and decided it was time to try the &lt;a href=&#34;https://pop.system76.com/&#34; target=&#34;_blank&#34;&gt;PopOS&lt;/a&gt; Linux distribution.&lt;/p&gt;
+
+&lt;p&gt;Along with the improvements to Gaming, I found that navigating the PopOS was a breath of fresh air. The pre-loaded App Launcher is exactly what I needed. I needed more fine-grained tiling of windows so I went with a few customizations like &amp;ldquo;gTile&amp;rdquo; a plug-in for Gnome that gives you more fine control over window placement.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-s-improved-and-what-can-use-work&#34;&gt;What&amp;rsquo;s improved, and what can use work&lt;/h2&gt;
+
+&lt;p&gt;The Linux Operating System has come a long way over 10 years and I appreciate that it&amp;rsquo;s becoming more of an alternative to Windows. But it still has issues, and not the fault of the operating system specifically but probably more about the support it has from the hardware and software developers.&lt;/p&gt;
+
+&lt;p&gt;For instance, the biggest problem for me was printing to my Epson Work Force Multi-Function device. CUPS or the Epson Linux drivers are problematic. Certain settings like duplex printing failed to work. I couldn&amp;rsquo;t for the life of me get the option for duplex printing to stick by default for my print jobs, and even manually selecting the option from within whatever program I was printing from didn&amp;rsquo;t always yield accurate results. I did some research online and some instructions involved editing script files, but come on man, I don&amp;rsquo;t want to be editing scripts just to print a page on both sides of the paper.&lt;/p&gt;
+
+&lt;p&gt;I did encounter issues around which versions of software I should have installed, at least with Wine. Especially when trying to get some of my preferred Windows applications working. Sometimes everything just works having the right PPA&amp;rsquo;s configured and in other cases, I&amp;rsquo;m not so sure. The package management system in Linux seems to be evolving, which is a good thing, but it can cause headaches to know which version of a piece of software you need and how to install it.&lt;/p&gt;
+
+&lt;p&gt;On the other end, the installer for PopOS makes installing basic apps very simple. I even tested a situation where I had a Zoom call and did not have Zoom installed yet and I was up in running within minutes.&lt;/p&gt;
+
+&lt;p&gt;Gaming seems pretty flawless with SteamPlay so far. But don&amp;rsquo;t fall into the trap of thinking you can install games on your mounted-in-linux windows partition as I did, what was I thinking!?!&lt;/p&gt;
+
+&lt;p&gt;If you are a power user like me, Linux is getting closer to a real alternative to Windows and it&amp;rsquo;s about time as more and more companies move to anti-competitive practices, harming public trust and individual choice. In the long run, the products we use should be in our control and not the other way around. &lt;a href=&#34;https://www.fightforthefuture.org/&#34; target=&#34;_blank&#34;&gt;Do what you can to make it harder for shady companies like Microsoft to dominate markets&lt;/a&gt; and support the &lt;a href=&#34;https://www.endcreativemonopolies.com/&#34; target=&#34;_blank&#34;&gt;end of creative monopolies&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Will one repairable laptop change the world?</title>
+      <link>http://scottrlarson.com/publications/publication-future-of-repairability/</link>
+      <pubDate>Sun, 26 Dec 2021 11:09:55 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/publications/publication-future-of-repairability/</guid>
+      <description>
+
+&lt;p&gt;In the last couple of years, laptop technology has been advancing in a direction of portability. Reducing the weight and size of technology enriches how we live. We now have mobile devices that are ultra-portable, and with these advancements it makes it possible to connect with friends and family, or create works of art, anywhere in the world.&lt;/p&gt;
+
+&lt;p&gt;What hasn&amp;rsquo;t advanced along with the portability of technology is the ecological impact we are having on the environment under this current paradigm.&lt;/p&gt;
+
+&lt;p&gt;The fault lies somewhere in the middle. The symbiosis between our need for new technology (to improve our lives) and the systems that make and sell this technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://scottrlarson.com/img/publications/future-repairability/waste.jpg&#34; alt=&#34;E-Waste&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the pursuit of innovation, we are creating a vast waste footprint. Recycling devices only produce about &lt;a href=&#34;https://circleit.us/blogs/news/the-e-waste-crisis&#34; target=&#34;_blank&#34;&gt;20% of usable materials&lt;/a&gt; that can be put back into use for other products. This means that 80% has to be used in ways other than recycling. I think we all know where the rest goes, in the landfill. That means our planet. It&amp;rsquo;s a major problem and solving it is going to require the smartest people on the planet.
+&lt;img src=&#34;https://scottrlarson.com/img/publications/future-repairability/repair-difficulty.jpg&#34; alt=&#34;Repair Difficulty&#34; /&gt;
+Right now, most laptop and tablet manufacturers are not doing all they can to make these devices easier to repair and last. It&amp;rsquo;s not entirely their fault. For the most part, they are responding to forces that are driven by the needs of the market. Although manufacturers have a part to play in creating better options for recycling and re-use, it&amp;rsquo;s up to us to decide how this is going to play out by our purchasing and discarding decisions.&lt;/p&gt;
+
+&lt;p&gt;Recently, many of the laptops I get in for repairs have been difficult to upgrade and service. The reason for this, at least from the reports from manufacturers, is that to make technology smaller, sacrifices need to be made in the device&amp;rsquo;s &lt;strong&gt;repairability&lt;/strong&gt;. From my technology research and recommendation experience, I have found that design decisions boils down to cost savings, increasing profits.  In some cases, it&amp;rsquo;s cheaper for the manufacturer to design hardware that integrates many of its components, I.E does not have external &lt;strong&gt;components&lt;/strong&gt; that can be changed out. Additionally, from a support perspective it&amp;rsquo;s more cost effective to limit repair resources for the life of the product. Device&amp;rsquo;s also gain performance and reliability benefits (during the life of the product) if components are integrated, rather than being upgradable.  But if one component fails on an integrated platform, the whole device needs to be replaced. This puts a larger cost burden on the customer, which manufacturers knowingly make a profit from. Compared to designing technology that can be upgraded and reused, its my understanding that this approach also creates more waste over time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.scottrlarson.com/img/publications/future-repairability/repairability.jpg&#34; alt=&#34;Framework&#39;s Repair it yourself option&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year, the company &lt;a href=&#34;https://frame.work/&#34; target=&#34;_blank&#34;&gt;Framework&lt;/a&gt; designed a laptop that is easy to repair and upgrade. The potential of this laptop to change our understanding of upgrading, repairability and portability should not be underestimated. Its design brings me back to the days during the beginning of the home computer revolution, where expanding the functionality of the device was the center piece of every product, not a forethought, like many devices are today. Framework is the first company, that I know of, that could be in a position to change the upgrade and discard landscape. The fact that this particular laptop even exists cuts through the lies and puts to shame Apple&amp;rsquo;s &lt;a href=&#34;https://www.macrumors.com/2019/04/30/apple-right-to-repair-consumer-harm/&#34; target=&#34;_blank&#34;&gt;argument&lt;/a&gt; that from a security and reliability perspective, it&amp;rsquo;s not a good idea to make devices more repairable.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://scottrlarson.com/img/publications/future-repairability/modularability.jpg&#34; alt=&#34;Modularability&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If the Framework laptop is anything at all, it&amp;rsquo;s hard proof that you can build a thin and light laptop without sacrificing repairability and upgradability. This one idea could be the spark that changes this industry for good. In a world of devices that have horribly unfriendly designs, we sorely need this kind of innovation. I&amp;rsquo;m glad Framework took the risk, at the very least causing a shift in perspective. There is a hurricane of attention right now on the &lt;a href=&#34;https://www.repair.org/stand-up&#34; target=&#34;_blank&#34;&gt;Right to Repair&lt;/a&gt; movement, and Framework is right in the center of it.&lt;/p&gt;
+
+&lt;p&gt;If the Framework Laptop catches on, it&amp;rsquo;s one possibility that might be worth investing in. You can &lt;a href=&#34;https://frame.work/#laptop-configuration&#34; target=&#34;_blank&#34;&gt;purchase an assembled&lt;/a&gt; unit or an &lt;a href=&#34;https://frame.work/products/laptop-diy-edition/configuration/edit&#34; target=&#34;_blank&#34;&gt;assemble-it yourself&lt;/a&gt; option from Framework now. Starting at $1000, the cost of a Framework Laptop is about $200-$300 more than a comparable model that is currently on the market. None of Framework&amp;rsquo;s competition have anything close to the expandability and repairability of Framework&amp;rsquo;s offering. I see the increase in cost as an early adoption investment for any person who wants to support sustainability.&lt;/p&gt;
+
+&lt;h2 id=&#34;other-recycling-and-reuse-options&#34;&gt;Other Recycling and Reuse Options&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.globalstewards.org/donate-computers.htm&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Donate to charity&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;:&lt;/strong&gt; If you think your old PC is no longer usable and just taking up space, donate it to a charitable organization. There are quite a few non-profit organizations that use old computers for administrative or instructional purposes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www2.calrecycle.ca.gov/WhereToRecycle/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Recycle&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;:&lt;/strong&gt; If your computer is too old to be of use to someone or is damaged beyond repair, don’t throw it away—recycle it. Some computer manufacturers offer nationwide programs to help the environment by recycling used computers. Check with the waste and recycling service in your city to find out if there are any special instructions to follow regarding the disposal of old computer equipment.&lt;/p&gt;
+
+&lt;p&gt;No matter what you do with an obsolete computer, make sure you have your &lt;a href=&#34;https://scottrlarson.com/services/data/erasing&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;data securely erased&lt;/strong&gt;&lt;/a&gt; before it leaves your control.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-your-guide&#34;&gt;About your guide&lt;/h2&gt;
+
+&lt;p&gt;I have been working with and writing about technology for over 20 years. I offer &lt;a href=&#34;https://www.scottrlarson.com/&#34; target=&#34;_blank&#34;&gt;computer services&lt;/a&gt; to the people of Santa Rosa and the surrounding areas. I also provide &lt;a href=&#34;https://www.scottrlarson.com/services/computer/assistance/online/&#34; target=&#34;_blank&#34;&gt;remote solutions&lt;/a&gt; to anyone over the internet. To find out more about me, and my services, visit my &lt;a href=&#34;https://www.scottrlarson.com/&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;. To request a consultation, &lt;a href=&#34;https://www.scottrlarson.com/#contact&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

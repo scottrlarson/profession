@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saving on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/saving/</link>
+    <description>Recent content in Saving on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Tue, 20 Dec 2022 08:38:47 -0800</lastBuildDate>
+    <atom:link href="/tags/saving/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Avoiding pitfalls of data loss</title>
+      <link>http://scottrlarson.com/updates/update-avoiding-data-loss/</link>
+      <pubDate>Tue, 20 Dec 2022 08:38:47 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-avoiding-data-loss/</guid>
+      <description>
+
+&lt;div class=&#34;alert-container&#34;&gt;
+  &lt;p&gt;These are my beliefs based on my experiences. I cannot take into account every situation that might cause data loss. Do your own research if you have any doubts about storage capabilities. By reading this information, you agree that if you experience a loss based on actions you took based on my understanding of hardware and or software, you and you alone are responsible.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I run into situations that fall outside of my efforts to help protect custom data. These tips might help you avoid loss by understanding how the computer saves your infomration and what happens when data is stored for longe periods of time.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;h2 id=&#34;backups&#34;&gt;Backups&lt;/h2&gt;
+
+&lt;p&gt;Please be aware that backups only work when files are in a saved state, meaning that if you are working on a document and you forget to save it, your changes will &lt;strong&gt;NOT&lt;/strong&gt; be backed up. Here are tips that can help you avoid losing your work. Anything can happen when you are working with files: The power might go out, you might accidentally wipe the contents of your work with a keystroke you were not aware of, or you might using the undo/redo feature that might bring you to a point where you cannot recover previous work.&lt;/p&gt;
+
+&lt;p&gt;If you are working with data in any application:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Save often, at least hourly, but sometimes you might need to save every 5 or 10 minutes depending on how important it is not to re-work previously created content.&lt;/li&gt;
+&lt;li&gt;Save As, with a different file name each time you save. I often combine number one with this habit. I&amp;rsquo;ll save every 10 minutes, then when I reached a significant point in my progress, I&amp;rsquo;ll select the &amp;ldquo;Save As&amp;rdquo; option and specify a new file name. This way, the old file will be saved under the old name, and my new file will have the old changes plus anything new that I add to it.&lt;/li&gt;
+&lt;li&gt;Know where your fields are saved. In fact, get into the habit of loading your documents from explorer/finder. Relying on the quick access locations in an application to open your most recently used documents is great, until you forget the name of the file or the shortcut disappears due to some unexpected glitch.&lt;/li&gt;
+&lt;li&gt;After you are done working on document for the day, or for good, make a copy of that file in another location. Use your computers file explorer/finder to perform copy operations.&lt;/li&gt;
+&lt;li&gt;If you are working on a big project, break your work content into separate files to reduce the changes of the entire document becoming lost. You can always combine these files later.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;I am a computer professional that helps the public with technology. I have been troubleshooting computer problems for over 25 years. To find out more about me, visit my &lt;a href=&#34;https://scottRlarson.com&#34; target=&#34;_blank&#34;&gt;home page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;archiving-data&#34;&gt;Archiving Data&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s a common belief that data lives forever. That is usually not the case. Data is dependent on the hardware that is used to store information.&lt;/p&gt;
+
+&lt;p&gt;As computer technology advances, new ways to store information becomes more compact and useful.&lt;/p&gt;
+
+&lt;p&gt;Back in the eighties, we stored data on Cassette Tapes and Floppy Disks. Then we transitioned to Hard Disk Drives. Then Optical Disks (CD Media). Recently, we transitioned to Solid State Media, which is a sort of long-term memory solution on a chip. Hard Disk Drives are still used today for long-term backups and archives.&lt;/p&gt;
+
+&lt;h2 id=&#34;storage-media-archival-characteristics&#34;&gt;Storage Media Archival Characteristics&lt;/h2&gt;
+
+&lt;p&gt;Computer storage media manufacturers will usually print the estimated life expectancy of the product you are purchasing on their website in the form of a white paper, or in the details of the specifications. Remember, most of these numbers are rough estimates. Other factors may cause these estimates to decrease or increase.  Electronics are susceptible to damage and/or decreased life expediencies depending on the kind of use the device gets, or wear that might happen due to the conditions the device operates in.  Operating/Non-Operating temperatures also have a big impact. If the ambient temperature is too cold, or in most cases too hot, above 80 degrees, the life expectancy can drop significantly.&lt;/p&gt;
+
+&lt;h3 id=&#34;hard-disk-technology&#34;&gt;Hard Disk Technology&lt;/h3&gt;
+
+&lt;p&gt;Currently the gold standard for long-term archival data storage.
+HDD technology stores information on a circular platter similar to a record. Magnetics are used to read and write information. Once the electric current is removed, the data storage is permanent until the media itself physically decays. It&amp;rsquo;s been my experience that, drives stored in a 60-70 degree temperature environment can last around 20–30 years, but the life expectancy can increase or decrease depending on the use, and design characteristics of the device. It&amp;rsquo;s good to power on drives periodically if stored for long periods of time (5-7 years) so that the bearings that allow the platters to spin, don&amp;rsquo;t lock up. Furthermore, it&amp;rsquo;s also a good idea to refresh the data on the drive every 7–10 years to prevent magnetic field deterioration. Refreshing data usually consists of copying the data to a new drive.&lt;/p&gt;
+
+&lt;h2 id=&#34;optical-discs-cd-dvd&#34;&gt;Optical Discs (CD/DVD)&lt;/h2&gt;
+
+&lt;p&gt;CD and DVD writable media has a life of 10–20 years if stored in a safe location under the above temperature specifications.&lt;/p&gt;
+
+&lt;h2 id=&#34;solid-state-technology&#34;&gt;Solid State Technology&lt;/h2&gt;
+
+&lt;p&gt;SSD and flash media (flash drives) fall under this category. Memory cells of Solid State devices degrade over time if there isn&amp;rsquo;t electrical current applied on a regular basis, in my experience at least once or twice a year, if not sooner.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;All computer storage media degrades over time. Before making a purchase, keep in mind what you plan on using the storage for:
+1.  If your computer comes with a Solid State Drive, plan ahead. Replace the device or storage before the expiration date to prevent data loss. Make frequent backups to storage media that has a longer life expectancy.
+2. Check and refresh your media every so often. Most media (except optical disks) require some form of exercise to maintain the life of the device if you want to use it for storage purposes.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about Storage or Backup, &lt;a href=&#34;https://scottrlarson.com/#contact&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

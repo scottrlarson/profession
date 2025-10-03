@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/performance/</link>
+    <description>Recent content in Performance on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Sat, 11 Dec 2021 10:15:43 -0800</lastBuildDate>
+    <atom:link href="/tags/performance/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>System Configuration Setup &amp; Upgrades</title>
+      <link>http://scottrlarson.com/services/computer/repair/system-configuration-upgrade/</link>
+      <pubDate>Sat, 11 Dec 2021 10:15:43 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/services/computer/repair/system-configuration-upgrade/</guid>
+      <description>&lt;p&gt;New desktops and laptops often are delivered with out-of-date windows components and hardware specific drivers and firmware. By upgrading and updating these components, something that is not easily done by just letting the Windows Update Service do all the heavy lifting, downtime and frustration is minimized working with a computer system that is not fully ready for operation out of the box. Also new devices are shipped with all of the Windows features enabled and in many cases, can get in the way of a smooth functioning system. Many of these features are often not used by the owner and just take up space on your disk and cause performance bottlenecks. I work on the desktop environment by removing unwanted software, I.E Manufacturer loaded software that deliver adverts designed to compel you purchase 3rd party products, and reconfigure Windows to operate with a minimal set of features that can be enabled at a later date, on a as-needed basis.&lt;/p&gt;
+
+&lt;p&gt;If your device is running slow, or you are having reoccurring problems with device stability, have it checked out. I use the latest tools and technology to get your device&amp;rsquo;s performance up to a standard you can live with. I will check startup programs, services, drivers, the amount of free memory, provide resource tuning, and check your storage configuration for performance and stability gains. This can be a much more affordable solution  than purchasing a new computer, depending on its end-of-life date. I will also recommend hardware upgrades that are needed to keep your computer performing in top shape.&lt;/p&gt;
+
+&lt;div class=&#34;quote-panel-container&#34;&gt;
+	&lt;div class=&#34;quote-panel-label&#34;&gt;
+  	&lt;p&gt;Request Quote&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;div class=&#34;quote-panel-item&#34;&gt;
+  	&lt;div class=&#34;quote-panel-button&#34;&gt;
+  		&lt;a href=&#34;http://scottrlarson.com/services/computer/assistance/phone&#34;&gt;Call&lt;/a&gt;
+  	&lt;/div&gt;
+  	&lt;div class=&#34;quote-panel-button&#34;&gt;
+  		&lt;a href=&#34;http://scottrlarson.com/services/computer/assistance/quote&#34;&gt;On-line&lt;/a&gt;
+  	&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Windows 10 Creators Update (1709) Performance Issues Alert</title>
+      <link>http://scottrlarson.com/updates/update-windows-10-update-poor-performance/</link>
+      <pubDate>Tue, 26 Dec 2017 12:26:27 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-windows-10-update-poor-performance/</guid>
+      <description>
+
+&lt;p&gt;Customers should watch out for a recent update to Windows 10 called &amp;ldquo;Creators Update (1709)&amp;rdquo;. The update is very big, it&amp;rsquo;s almost like installing a new version of windows. You might experience a performance hit to you device&amp;rsquo;s ability to perform while this update is downloading or installing. When the update installs it may ask to reboot your computer. There are reports of machines rebooting themselves depending on your device&amp;rsquo;s update settings. It could spend an hour or more updating you machine. During this time you will be unable to use your device. Walk away and let it finish the update. Don&amp;rsquo;t get impatient and restart you computer or it will just happen again at a less inconvenient time.&lt;/p&gt;
+
+&lt;h2 id=&#34;limited-choices-in-delaying-windows-10-updates&#34;&gt;Limited Choices in Delaying Windows 10 Updates&lt;/h2&gt;
+
+&lt;p&gt;Due to how Windows 10 automates the update process and that there are no real options to cancel an update that requires a restart of your device. Nor is there an option to schedule updates for a more opportune time. This means that updates that don&amp;rsquo;t require a restart will run in the background without your knowledge and if your system slows to a crawl you wont really know what&amp;rsquo;s causing it. But for future purposes, you can schedule updates that require a restart to run during a time when you are not using your device. This means that even though a download or install of an update might slow down your device, at least you wont be locked out of your device if Windows 10 restarts to update your device at an inopportune time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Take Notice&lt;/strong&gt;
+You will probably need to leave your device running at all times for this to work. Otherwise Windows 10 will try to update the following day. If your device is off during these times it attempts to update Windows 10 will constantly nag you to update. Since your device is off during the times it wants to update the nagging may evolve into a endless cycle causing interruptions in your work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt;
+Scheduling update restarts will enable the device to wake from sleep, install updates and restart. Please be aware that if you expect your device not to wake from sleep automatically you probably do not want to use this option. I don&amp;rsquo;t think the Windows update service cares whether your device is plugged in or not. If your device is in sleep mode, unplugged and it has a batter if an when Windows 10 automatically wakes your device it may fail or delay to update if your device runs out of battery power before the amount of time it needs to install the update.&lt;/p&gt;
+
+&lt;h2 id=&#34;scheduling-update-restarts&#34;&gt;Scheduling Update Restarts&lt;/h2&gt;
+
+&lt;p&gt;Click on the Start menu, open the Settings app, and select Update &amp;amp; security &amp;gt; Windows Update. As you can see on the screen above there&amp;rsquo;s already an option to select a restart time to finish installing an update.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/updates/error-win10-update/img_2160.png&#34; alt=&#34;Settings: Update &amp;amp;amp; Security Screenshot&#34; /&gt;
+&lt;img src=&#34;http://scottrlarson.com/img/updates/error-win10-update/img_2159.png&#34; alt=&#34;Settings: Update &amp;amp;amp; Security Screenshot: Windows Update Screenshot &#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Short of disabling the update service entirely (not very good for security) it is recommended that you run this update and let the process finish with out interruption as soon as you can.&lt;/p&gt;
+
+&lt;p&gt;If you have a problems with the update process or you would like assistance with limiting the consequences to Windows 10 automatic update process &lt;a href=&#34;https://scottrlarson.wordpress.com/contact/&#34; target=&#34;_blank&#34;&gt;contact&lt;/a&gt; me for a quote.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

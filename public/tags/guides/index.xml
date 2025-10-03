@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/guides/</link>
+    <description>Recent content in Guides on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 30 Mar 2020 09:03:09 -0700</lastBuildDate>
+    <atom:link href="/tags/guides/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Laptop Buyers Guide</title>
+      <link>http://scottrlarson.com/links/guides/link-laptop-buyers-guide/</link>
+      <pubDate>Mon, 30 Mar 2020 09:03:09 -0700</pubDate>
+      
+      <guid>http://scottrlarson.com/links/guides/link-laptop-buyers-guide/</guid>
+      <description>&lt;p&gt;This is a really great resource for finding a laptop that meets your specifications. The site reviews laptops and then it has a search tool that allows you to filter laptops based on the recommendation points of each laptop.
+&lt;a href=&#34;https://www.notebookcheck.net/Laptop-Buying-Guide-Tool.13212.0.html&#34; target=&#34;_blank&#34;&gt;https://www.notebookcheck.net/Laptop-Buying-Guide-Tool.13212.0.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

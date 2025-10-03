@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cross-platform on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/cross-platform/</link>
+    <description>Recent content in Cross-platform on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Sun, 26 Nov 2017 12:11:00 -0800</lastBuildDate>
+    <atom:link href="/tags/cross-platform/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why I replaced Notezilla with Taskpaper</title>
+      <link>http://scottrlarson.com/updates/update-notezilla-taskpaper/</link>
+      <pubDate>Sun, 26 Nov 2017 12:11:00 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-notezilla-taskpaper/</guid>
+      <description>&lt;p&gt;Notezilla although versatile has a few issues:
+&lt;ol&gt;
+    &lt;li&gt;The app depends on proprietary methods to store notes.&lt;/li&gt;
+    &lt;li&gt;The syncing feature doesn&amp;rsquo;t work very well.&lt;/li&gt;
+&lt;/ol&gt;
+Taskpaper allows:
+&lt;ul&gt;
+    &lt;li&gt;It uses a flat file structure&lt;/li&gt;
+    &lt;li&gt;In has built in features that allow you to set tasks based on tags.&lt;/li&gt;
+    &lt;li&gt;You can use Dropbox to handle the task files.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

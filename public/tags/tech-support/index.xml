@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Support on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/tech-support/</link>
+    <description>Recent content in Tech Support on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Mon, 11 Feb 2019 05:30:31 -0800</lastBuildDate>
+    <atom:link href="/tags/tech-support/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ebook Publishing Process</title>
+      <link>http://scottrlarson.com/updates/update-process-publishing/</link>
+      <pubDate>Mon, 11 Feb 2019 05:30:31 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-process-publishing/</guid>
+      <description>
+
+&lt;p&gt;I am a author, publisher, and ebook conversion specialist. I got my start developing websites about 5 years after the internet was in fruition. During the beginning of 2019, my first book &amp;ldquo;&lt;a href=&#34;http://www.scottrlarson.com/publications/publication-most-improved/&#34; target=&#34;_blank&#34;&gt;Most Improved&lt;/a&gt;&amp;rdquo; was authored, and published in digital form. I then converted the digital format to a print version so my audience can experience both formats. I can do the same for you.&lt;/p&gt;
+
+&lt;p&gt;If you are looking to convert your manuscript to a ebook, or you are just thinking about finding another way to format your documents so you can easily get them to you customers in a way they can read them, on any device, with out a major hassle, then this document is for you.&lt;/p&gt;
+
+&lt;h2 id=&#34;creating-a-ebook-from-scratch&#34;&gt;Creating a Ebook from scratch&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;You can use a tool designed for digital publishing to create your documents you plan on publishing, instead of using a tool like Microsoft Word that is really designed for fixed print documents. One such tool is &lt;a href=&#34;texts.io&#34; target=&#34;_blank&#34;&gt;texts.io&lt;/a&gt;. It works like Microsoft Word, but it formats everything in a proper digital context so that you can export your work right to EPUB (the predominate ebook format). All book distribution platforms like Amazon, and Kobo take EPUB as a primary source document. If you plan on publishing though one of these distribution platforms, EPUB is the primary way you make your book available. Once you have your book in EPUB format, you can then make your work available with any method you would like: Amazon KDP, by email, or download available from website.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Since digital book publishing has became available online, the recommended way of publishing your book in both digital, and print versions is to first author your book with a tool that creates a digital format. If you decide that you want a print version, along with a digital version, you will need to use a conversion tool like &lt;a href=&#34;https://calibre-ebook.com/&#34; target=&#34;_blank&#34;&gt;Calibre&lt;/a&gt; to convert your ebook file into a PDF. You will need to recreate the Table of Contents manually to match the book pages for the fixed dimensions you decide to publish your book in. This tool has a learning curve, and may require hours of your time to master it.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;converting-a-microsoft-word-document-to-a-ebook-yourself&#34;&gt;Converting a Microsoft Word Document to a Ebook yourself&lt;/h2&gt;
+
+&lt;p&gt;The size and length of the document will determine the method of conversion.
+If the content is one file with a few pages that does not have much formatting, I.E (Quotes, Footnotes, and to many different size headings) Then saving the word document as a standalone html file, and using a &lt;a href=&#34;https://www.nchsoftware.com/documentconvert/index.html&#34; target=&#34;_blank&#34;&gt;simple conversion tool&lt;/a&gt; might work for you.&lt;/p&gt;
+
+&lt;h2 id=&#34;hiring-a-print-book-conversion-specialist&#34;&gt;Hiring a Print Book Conversion Specialist&lt;/h2&gt;
+
+&lt;p&gt;Converting, a longer document is a slightly longer &lt;a href=&#34;http://www.scottrlarson.com/projects/ebooks/world-sakharov/&#34; target=&#34;_blank&#34;&gt;conversion process&lt;/a&gt; and usually requires a &lt;a href=&#34;http://www.scottrlarson.com/services/content/publishing/ebook/&#34; target=&#34;_blank&#34;&gt;html, or ebook conversion specialist&lt;/a&gt;.  There is usually a need to reformat the document from a print-only, to a responsive digital format, I.E (Creating a table of contents that works with dynamic nature of screen size changes of different mobile devices, Stripping out unnecessary print-only related data, reformatting quotes, footnotes, images and other content to display correctly in a ebook format, depending on the display size of the device it&amp;rsquo;s being read on.)&lt;/p&gt;
+
+&lt;h2 id=&#34;pricing&#34;&gt;Pricing&lt;/h2&gt;
+
+&lt;p&gt;Payment plans are available (3 payments: Before the work starts, during the conversion process and upon the final conversion.)&lt;/p&gt;
+
+&lt;h3 id=&#34;conversion-per-page&#34;&gt;Conversion (Per Page)&lt;/h3&gt;
+
+&lt;p&gt;$1.00 - Basic conversation formatting (replicating styles from a print-only version).&lt;br /&gt;
+$5.00 - Converting a fix image to a responsive one, or converting complicated fixed chapter formatting into responsive styles.&lt;/p&gt;
+
+&lt;h3 id=&#34;custom-styling-per-book&#34;&gt;Custom Styling (Per Book)&lt;/h3&gt;
+
+&lt;p&gt;$120.00 - If you want your book contents to have a custom style for the text and images beyond what you already have in your print version.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-scott-author-s-his-own-material&#34;&gt;How Scott Author&amp;rsquo;s his own material&lt;/h2&gt;
+
+&lt;p&gt;I author my work on my Apple iPad, as it is easy for me to work in any environment. I use the mobile app: &lt;a href=&#34;https://omz-software.com/editorial/&#34; target=&#34;_blank&#34;&gt;Editorial&lt;/a&gt; for authoring, its a complicated tool built for developers, but it has a great ability to customize features right within the app. If you are just starting with out with &lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; files to &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34; target=&#34;_blank&#34;&gt;HTML&lt;/a&gt;, and want an app that is cross platform (Words on a PC or Mac, along with your mobile devices) have a look at: &lt;a href=&#34;https://typora.io/&#34; target=&#34;_blank&#34;&gt;Typora&lt;/a&gt;, or  &lt;a href=&#34;https://ia.net/writer&#34; target=&#34;_blank&#34;&gt;iA Writer&lt;/a&gt;. When the authoring stage is complete, and I am ready to publish, I copy my project over to a PC, and use the application &lt;a href=&#34;https://www.sigil-ebook.com/&#34; target=&#34;_blank&#34;&gt;Sigil&lt;/a&gt; &amp;ldquo;The Epub Editor&amp;rdquo;. I covert all of my Markdown files manually using &lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34;&gt;Pandoc&lt;/a&gt;. Then I import these HTML files into Sigil and customize the HTML files into a ebook. I do things the hard way because I like learning, and I have greater control over the formatting process, this is not for everyone.&lt;/p&gt;
+
+&lt;p&gt;If you are looking to convert your book, or author a new one in a ebook format &lt;a href=&#34;http://scottrlarson.com/contact&#34;&gt;contact&lt;/a&gt; me. I offer a free 1 hour consultation to talk with you about your project. If you decide that you would like a quote on your project I charge $60.00. Ebook files are the easiest way to get content to your audience in the fastest way possible, with minimal hassle. You customers will be much happier with your content when they know it be available when and where they need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smooth Video Playback</title>
+      <link>http://scottrlarson.com/updates/update-smooth-video-playback/</link>
+      <pubDate>Mon, 21 Jan 2019 11:24:31 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-smooth-video-playback/</guid>
+      <description>&lt;p&gt;Playing video online or off smoothly has some minimum hardware requirements if you want to avoid hassles:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Processor: 2.4 Ghz Dual Core Processor.&lt;/li&gt;
+&lt;li&gt;Graphics Card: 256 MB VRAM, 600Mhz Core Clock&lt;/li&gt;
+&lt;li&gt;RAM: 4 GB&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you do not know what specifications your device has, there are a few ways to check, on a PC the easiest way is to open a Run Dialog Box. Hold the Windows key down and press &amp;lsquo;R&amp;rsquo;. A prompt should come up. Type &amp;lsquo;msinfo32&amp;rsquo;. Look for the hardware system requirements above. If your specs are below the above, then you will not be able to play videos smoothly. Please note that &amp;ldquo;single core&amp;rdquo; processors are below the minimum specifications need to play video regardless of the speed. &amp;ldquo;dual core&amp;rdquo;, &amp;ldquo;quad core&amp;rdquo;, and above clock speeds may be below the minimum because the processors &amp;ldquo;in-total&amp;rdquo; averages above 2.4.
+&lt;a href=&#34;#contact&#34;&gt;Contact me&lt;/a&gt; to help you find a device replacement. I can offer recommendations based on your needs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

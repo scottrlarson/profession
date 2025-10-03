@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Letter on Scott Larson</title>
+    <link>http://scottrlarson.com/categories/letter/</link>
+    <description>Recent content in Letter on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Sat, 04 Nov 2017 20:14:02 -0800</lastBuildDate>
+    <atom:link href="/categories/letter/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why its smart not to solicit your customers for mobile app reviews</title>
+      <link>http://scottrlarson.com/updates/update-mobile-app-review-solicitations/</link>
+      <pubDate>Sat, 04 Nov 2017 20:14:02 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-mobile-app-review-solicitations/</guid>
+      <description>&lt;p&gt;When I update apps on my mobile devices I am seeing a really terrible trend, developers taking up space in their update notes begging people to review their app. I need to set the record straight before this gets out of control.&lt;/p&gt;
+
+&lt;p&gt;If your app is worth giving a review, I will go out of my way to do that. But when you nag me for a review in the app itself (or anywhere else) I get this sense of being compelled, by force, through in-app nagging notifications, to leave a review. If innovation exists in your app, I will go out of my way to post a review, and I suspect many others will do the same. In my view,  if you, as a developer, use notifications to nag users, this creates really low quality and frustrated reviews.  Develop apps and features that makes you say, &amp;ldquo;You know what? This app/update is awesome, it deserves a review&amp;rdquo;. Customers of your app will feel the same way and go out of their way to leave a review without you having to say anything.&lt;/p&gt;
+
+&lt;p&gt;The problem with asking customers to leave a review is:
+&lt;ol&gt;
+    &lt;li&gt;It&amp;rsquo;s annoying, its like begging a customer for business. The request is out of place. Its like a stalker that keeps asking you to take them back. Stop it, just stop.&lt;/li&gt;
+    &lt;li&gt;Asking for a review unconsciously has an effect that assumes your app doesn&amp;rsquo;t deserve it. Otherwise you wouldn&amp;rsquo;t be asking. If your app was innovative, it would just be assumed that your app is worthy of a automatic review.&lt;/li&gt;
+    &lt;li&gt;There has to be a really good reason to want to review your app. If that reason doesn&amp;rsquo;t exist, you create a schism between you and your customer base. The customer that does leave a review will expect something in return since your app clearly doesn&amp;rsquo;t deserve it, after all, you are begging someone to leave a review.&lt;/li&gt;
+&lt;ul&gt;&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;I am very selective on which apps I post reviews of. I look out for the following things:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Does the app attempt to use non-proprietary formats so my data isn&amp;rsquo;t locked behind some obscure development decision?&lt;/li&gt;
+    &lt;li&gt;Does it have support for encryption if applicable?&lt;/li&gt;
+    &lt;li&gt;Does the developer refrain from using an intrusive subscription model?&lt;/li&gt;
+    &lt;li&gt;Does the developer respond to suggestions and support request in a reasonable amount of time?&lt;/li&gt;
+    &lt;li&gt;Does the developer innovate where possible?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;&lt;/ol&gt;
+If you are not doing anything in the above bullet points, i&amp;rsquo;m sorry but your app does not deserve a review. I can only remember one app that I went out of my way to give a review for: &lt;a href=&#34;http://omz-software.com/editorial/&#34;&gt;Editorial&lt;/a&gt;. You know why? Because the app is so innovative that for me to not give a review would make me feel bad. The app does so much to improve my life that I absolutely feel compelled to say something about it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

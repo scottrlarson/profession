@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>More-infos on Scott Larson</title>
+    <link>http://scottrlarson.com/more-info/</link>
+    <description>Recent content in More-infos on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Thu, 04 Mar 2021 08:44:59 -0800</lastBuildDate>
+    <atom:link href="/more-info/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Remote Backup System Management Service Details</title>
+      <link>http://scottrlarson.com/more-info/services/remote-system-management-backup/</link>
+      <pubDate>Thu, 04 Mar 2021 08:44:59 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/more-info/services/remote-system-management-backup/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Remote Backup Management&lt;/strong&gt; is a service I provide to you  that &lt;strong&gt;decreases risk of data loss&lt;/strong&gt;. I provide this service under a &lt;strong&gt;recurring fee&lt;/strong&gt; specified in the &lt;a href=&#34;http://scottrlarson.com/system-management&#34;&gt;System Management Package&lt;/a&gt;. Depending on the package you purchased. This service fee includes subscription licensing fees for software I install on your device to protect your device from disasters, from security threats, and my time to maintain this service on a recurring basis. The fee includes:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Disaster Recovery Software&lt;/strong&gt; that protects your system, application and personal data by copying this data to a image file on an external storage device. This software creates backups of your data on a recurring basis with a daily, weekly, and monthly backup schedule. Backups are retained for a specific period of time (How long backups are kept before being overwritten) The backup retention interval is determined by me after I perform a assessment of your device, unless you specify a need otherwise, and the size of the external storage device.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;Cloud Backup Service&lt;/strong&gt; (Unless you specify you do not want cloud backup when the package is purchased) that maintains a copy of your personal data in the cloud in the event of a theft, or loss.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My service fees&lt;/strong&gt; to maintain the package.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;disaster-recovery-backup-software&#34;&gt;Disaster Recovery Backup Software&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.macrium.com/&#34; target=&#34;_blank&#34;&gt;Macrium Reflect&lt;/a&gt;&lt;/strong&gt; can be configured to create a &lt;strong&gt;backup image file&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:backup-image&#34;&gt;&lt;a href=&#34;#fn:backup-image&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; of any storage drive, but its usually used to create a backup image of the desktop&amp;rsquo;s or laptop&amp;rsquo;s primary internal system drive. This backup image is created and stored on a secondary &lt;strong&gt;external storage device&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:external-storage-device&#34;&gt;&lt;a href=&#34;#fn:external-storage-device&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. Once configured, the software automatically backs up data in a &lt;strong&gt;retentive manner&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:retention&#34;&gt;&lt;a href=&#34;#fn:retention&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;cloud-backup-software&#34;&gt;Cloud Backup Software&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Depending on the cloud service that is selected for your specific need, cloud backups are encrypted on the cloud storage location. Please note that Cloud backups only backups data contained in your user folder: Desktop, Documents, Pictures, Music, Videos. If you need data backup that exists outside of these folders, let me know.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;alert-container&#34;&gt;
+  &lt;p&gt;Never assume any service (Even mine) knows what you want backed up. Talk to me if you have a special concern and as an additional service, I can provide an audit of your software to determine if special arrangements need to be made to backup data from unknown or obscure software.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-heading&#34;&gt;
+      &lt;h2 class=&#34;panel-title&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-case-study&#34;&gt;Case Study&lt;/a&gt;
+      &lt;/h2&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-case-study&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;One of my customers was surprised that the service Carbonite was not backing up a special accounting program data. Due to the way in which the application accessed the proprietary data, the application prevented Carbonite from accessing and backing it up. The customer had to rebuild that particular data set from scratch.
+I can, by request, audit your current backup strategy, find the most important data that needs to be secured and offer solutions that minimize backup failure risk with legacy or special applications.&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel-group&#34; id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-heading&#34;&gt;
+      &lt;h2 class=&#34;panel-title&#34;&gt;
+        &lt;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapse-hardware-costs&#34;&gt;Additional Hardware Costs&lt;/a&gt;
+      &lt;/h2&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;collapse-hardware-costs&#34; class=&#34;panel-collapse collapse&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;&lt;p&gt;&lt;div class=&#34;alert-container&#34;&gt;
+  &lt;p&gt;If you have a current backup solution this service would be a replacement.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Depending on your needs, you might need:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A reliable &lt;strong&gt;USB storage device&lt;/strong&gt;: Lacie Rugged Portable HDD 2TB (If required)$150.00 &lt;strong&gt;Per System&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;or -&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A &lt;strong&gt;NAS(Network Attached Storage)&lt;/strong&gt; for multiple computers &lt;strong&gt;$700.00&lt;/strong&gt; (Provides local in-home/office network backup&amp;rsquo;s of all your systems, or network access to your files) *A NAS installation usually requires a network site survey service (&lt;strong&gt;$400.00&lt;/strong&gt;) to audit your current networking hardware to confirm that your it&amp;rsquo;s meets the specified requirements for a NAS.*&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;terms&#34;&gt;Terms&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:backup-image&#34;&gt;&lt;strong&gt;Backup Image File&lt;/strong&gt;: A file container that the backup software uses to store your data securely and safely.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:backup-image&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:external-storage-device&#34;&gt;&lt;strong&gt;External Storage Device&lt;/strong&gt;: A peripheral that is attached to your device to provide you with extra storage.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:external-storage-device&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:retention&#34;&gt;&lt;strong&gt;Backup Retention Policy&lt;/strong&gt;: Disaster recovery backup software has the ability to creates sets and subsets of different types of backups, I.E. separate file containers that has full, differential, and incremental backups. This backup scheme to preserve the integrity of your data over time using differnt types of backup strategies.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:retention&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customization on Scott Larson</title>
+    <link>http://scottrlarson.com/tags/customization/</link>
+    <description>Recent content in Customization on Scott Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Scott Larson</copyright>
+    <lastBuildDate>Wed, 12 Feb 2020 08:37:16 -0800</lastBuildDate>
+    <atom:link href="/tags/customization/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scooters&#39; Preferred Windows Tweaks</title>
+      <link>http://scottrlarson.com/updates/update-scooters-windows-tweaks/</link>
+      <pubDate>Wed, 12 Feb 2020 08:37:16 -0800</pubDate>
+      
+      <guid>http://scottrlarson.com/updates/update-scooters-windows-tweaks/</guid>
+      <description>
+
+&lt;div class=&#34;alert-container&#34;&gt;
+  These are tweaks that I make to my Windows configuration that improves my productivity.  Performing these kinds of changes to Windows requires a careful understanding of programming, the Windows registry, and how to protect Windows from damage by making and restoring backups. Don&#39;t perform any of these tweaks unless you know what your doing. I am not liable, nor responsible for any action you take on behalf of this information.
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;file-explorer-tweaks&#34;&gt;File Explorer Tweaks&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://scottrlarson.com/img/updates/scooters-windows-tweaks/Tweaks-Scooters-File-Explorer.png&#34; alt=&#34;Scooter&#39;s File Explorer Tweaks Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;1-disable-remove-quick-access&#34;&gt;1. Disable &amp;amp; Remove Quick Access&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.techinline.com/2018/11/30/how-to-disable-quick-access-in-windows-10-file-explorer/&#34; target=&#34;_blank&#34;&gt;How to Disable Quick Access in Windows 10 File Explorer&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Open File Explorer and go to View tab &amp;gt; Options &amp;gt; Change folder and search options.&lt;/li&gt;
+&lt;li&gt;Choose This PC from the top drop-down menu.&lt;/li&gt;
+&lt;li&gt;Uncheck both boxes under the Privacy section.&lt;/li&gt;
+&lt;li&gt;Press Clear to clear all of your Quick Access history. (optional)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://community.spiceworks.com/how_to/166304-removing-quick-access-from-windows-10-file-explorer&#34; target=&#34;_blank&#34;&gt;How to: Removing Quick Access from Windows 10 File Explorer&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Add DWORD HubMode 1&lt;/p&gt;
+
+&lt;p&gt;The .reg files below will modify the DWORD value in the registry key below.&lt;/p&gt;
+
+&lt;h3 id=&#34;reorder-libraries-folder-above-this-pc&#34;&gt;Reorder &amp;ldquo;Libraries&amp;rdquo; folder above &amp;ldquo;This PC&amp;rdquo;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.tenforums.com/tutorials/72210-move-libraries-above-pc-navigation-pane-windows-10-a.html&#34; target=&#34;_blank&#34;&gt;https://www.tenforums.com/tutorials/72210-move-libraries-above-pc-navigation-pane-windows-10-a.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;HKEY_CLASSES_ROOT\CLSID\{031E4825-7B94-4dc3-B131-E946B44C8DD5}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Add DWORD SortOrderIndex&lt;/p&gt;
+
+&lt;p&gt;Use one of the below numbers to complete the DWORD Entry:&lt;/p&gt;
+
+&lt;p&gt;54 (hex) = Below This PC&lt;br /&gt;
+42 (hex) = Above This PC&lt;/p&gt;
+
+&lt;h3 id=&#34;remove-onedrive&#34;&gt;Remove OneDrive&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;HKEY_CLASSES_ROOTCLSID{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Add DWORD System.IsPinnedToNameSpaceTree 1&lt;/p&gt;
+
+&lt;h3 id=&#34;remove-dlna-media-servers&#34;&gt;Remove DLNA Media Servers&lt;/h3&gt;
+
+&lt;p&gt;Remove HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\DelegateFolders{289AF617-1CC3-42A6-926C-E6A863F0E3BA}&lt;/p&gt;
+
+&lt;p&gt;Remove HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\DelegateFolders{289AF617-1CC3-42A6-926C-E6A863F0E3BA}&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

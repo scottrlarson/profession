@@ -1,5 +1,5 @@
 +++
-title = "Updates"
+title = "Quick Updates"
 date = 2018-02-22T18:16:33-08:00
 draft = false
 

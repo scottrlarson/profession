@@ -18,7 +18,7 @@ Recently, the Secure Resilient Future Foundation released a [newsletter](https:/
 
 With the release of Windows 11, the threat to data privacy is the worst it's ever been. In my recent article, "[Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)", I wrote about my switch to Linux and how it saved me from having to sacrifice my freedom in the name of convenience.
 
-Whether you're a business or a home user, I'm here to tell you that in many cases, Linux is a real alternative to Windows. So instead of pushing the goal post back from the brink of an Orwellian nightmare. I'm suggesting all of us consider Linux now.
+Whether you're a business or a home user, I'm here to tell you that in many cases, Linux is a real alternative to Windows. So instead of pushing the goal post back from the brink of an Orwellian nightmare. I'm suggesting all of us consider switching Linux now.
 
 Microsoft's design of Windows 11 is a concern because:
 

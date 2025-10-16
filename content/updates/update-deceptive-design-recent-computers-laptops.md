@@ -59,6 +59,7 @@ I apologize if this inconveniences you in any way.
 - Designs the Windows operating system to obfuscate customer choice when choosing to install 3rd party applications
 - Integrates services and applications into the operating system, obfuscating customer choice of 3rd party applications
 - Collects data about customers' habits without consent.
+- Uses it's monopolistic position in the PC market to push hardware manufactures to adopt changes that lock customers into anti-consumer software products via security hardware like TPM 2.0 which prevents freedom of choice. 
 
 ### Apple
 - Designs hardware around closed standards, obfuscating, or making 3rd party repair of hardware more difficult

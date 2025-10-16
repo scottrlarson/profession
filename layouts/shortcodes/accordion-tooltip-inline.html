@@ -1,0 +1,18 @@
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <div class="panel-heading-tooltip">
+      <span class="panel-title-tooltip">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ .Get "id" }}">{{ .Get "title" }}</a>
+      </span>
+    </div>
+    {{- if .Get "col"}}
+    <div id="collapse-{{ .Get "id" }}" class="panel-collapse collapse {{ .Get "col" }} ">
+      <div class="panel-body"><p>{{ .Inner | markdownify }}</p></div>
+    </div>
+    {{- else}}
+    <div id="collapse-{{ .Get "id" }}" class="panel-collapse collapse">
+      <div class="panel-body"><p>{{ .Inner | markdownify }}</p></div>
+    </div>
+    {{- end -}}
+  </div>
+</div>

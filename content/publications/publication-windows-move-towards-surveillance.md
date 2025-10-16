@@ -33,7 +33,8 @@ Microsoft's design of Windows 11 is a concern because:
 
 Due to these concerns, I will be recommending Linux as a replacement for new computers I build for my customers. You can still request Windows if Linux doesn't work for you.
 
-Linux Distribution Replacements for Windows
+Linux Distribution Replacements for Windows:
+
 1. Zorin OS: A Windows-like Linux experience, requires modern hardware
 2. PopOS: Built for gamers out of the box
 3. Ubuntu: All-around desktop, requires modern hardware

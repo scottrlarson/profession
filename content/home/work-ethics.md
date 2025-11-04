@@ -7,7 +7,7 @@ date = 2018-10-25T16:46:07-07:00
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Your Own Personal Trouble-shooter"
 subtitle = ""
-
+aliases = ["personal-trouble-shooter"]
 # Order that this section will appear in.
 weight = 15
 +++

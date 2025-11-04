@@ -12,7 +12,7 @@ categories = ["DeceptiveTechnology"]
 [header]
 image = ""
 caption = ""
-aliases = ["/updates/update-deciptive-design-recent-computers-laptops"]
+aliases = ["/updates/update-deciptive-design-recent-computers-laptops","oem-anti-customer-changes"]
 +++
 
 {{% breakout %}}

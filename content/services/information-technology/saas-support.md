@@ -7,7 +7,7 @@ summary = "I provide business solutions and support for many SaaS needs. If you 
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = []
-
+summary "I provide business solutions and support for many Software as a Service (SaaS) needs. If you run a business and need deployment help, or advice on solutions, [contact](#contact) me for a free 20 minute evaluation of your needs."
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]

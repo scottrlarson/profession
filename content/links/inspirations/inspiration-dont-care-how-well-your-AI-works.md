@@ -1,5 +1,5 @@
 +++
-title = "I don't care how well your \"AI\" works"
+title = "I don't care how well your AI works"
 date = 2025-11-26T11:27:09-08:00
 draft = false
 

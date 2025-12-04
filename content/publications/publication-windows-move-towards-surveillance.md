@@ -16,9 +16,8 @@ caption = ""
 +++
 Recently, the Secure Resilient Future Foundation released a [newsletter](https://fighttorepair.substack.com/p/the-windows-10-zombie-apocalypse) calling for Microsoft to extend Windows 10 support past the October 14th deadline.
 
-With the release of Windows 11, the threat to data privacy is the worst it's ever been. In my recent article, "[Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)", I wrote about my switch to Linux and how it saved me from having to sacrifice my freedom in the name of convenience.
+With the release of Windows 11, the threat to data privacy is the worst it's ever been. You can read more about my perspective on this in my recent article, "[Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)", I wrote about my switch to Linux and how it saved me from having to sacrifice my freedom in the name of convenience.
 
-Whether you're a business or a home user, I'm here to tell you that in many cases, Linux is a real alternative to Windows. So instead of pushing the goal post back from the brink of an Orwellian nightmare. I'm suggesting all of us consider switching to Linux now.
 
 Microsoft's design of Windows 11 is a concern because:
 
@@ -33,6 +32,13 @@ Microsoft's design of Windows 11 is a concern because:
 7. Microsoft Edge is forced on users as a replacement by obfuscating choice in various ways.   
 
 Due to these concerns, I will be recommending Linux as a replacement for new computers I build for my customers. You can still request Windows if Linux doesn't work for you, but you are entirely responsible for any changes that Microsoft makes that may affect your data after your device leaves my office. Talk to me about 3rd-party backup solutions. You are solely responsible for what happens to your data.
+
+Whether you're a business or a home user, I'm here to tell you that in many cases, Linux is a real alternative to Windows. With so many anti-customer changes to Windows, i'm suggesting that we stop attempting to get Microsoft to roll back the clock on Windows 10, or attempt to make allowances/excuses for Microsoft's bad behavior. As it stands today, the damage is already done, we are on brink of an Orwellian nightmare with software. I'm suggesting that all of us consider making the switch to Open Source software now.
+
+Some points to bear in mind if you have never heard of Linux:
+
+- Check out this [article](https://www.linux.com/what-is-linux/) for an explanation of what Linux is. 
+- Linux is based on Open Source. If you have heard misconceptions about the security of Open Source, This [article](https://opensource.com/business/15/5/why-open-source-means-stronger-security) explains the security differences between open and closed source.
 
 Linux Distribution Replacements for Windows:
 
@@ -54,5 +60,6 @@ Most home users who do email and web can get along fine with Linux. But users wh
 	- Alternative for Outlook: Thunderbird. It does not handle Office 365 services very well; in this case, I suggest migrating your contacts, calendars, and email to an IMAP-hosted mail provider like [Fastmail](https://www.fastmail.com/). If you need help with mail migration, [contact](/#contact) me
 - QuickBooks - Requires an Online Hosted alternative
 - Turbotax - Requires an Online Hosted alternative
+
 
 [^1]: Microsoft uses its monopolistic position in the PC market to push hardware manufacturers to adopt changes that lock customers into anti-consumer software products via security hardware like TPM 2.0, which prevents freedom of choice. [Based on my direct observations](https://www.scottrlarson.com/updates/update-deceptive-design-recent-computers-laptops/), I outline what these changes mean to the future of technology. [Our current administration is not enforcing anti-trust regulations against Microsoft](https://www.reuters.com/technology/microsoft-faces-wide-ranging-us-antitrust-probe-2024-11-27/), it's up to us to find ways to reduce this company's influence over the market. 
